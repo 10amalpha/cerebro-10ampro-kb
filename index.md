@@ -1,0 +1,1067 @@
+# Índice — Cerebro 10ampro
+
+Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · ruta · URL original`.
+Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
+Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
+
+Totales: 152 posts de Substack (44 exclusivos para suscriptores), 258 episodios de YouTube, 1713 posts de X en 11 archivos mensuales.
+
+## Por tema / ticker
+
+### BTC (156)
+- 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
+- 2024-08-22 · E108: ¡Bitcoin, la vacuna contra el corralito! Equipo 10AMPRO · `youtube/2024-08-22-zCmyQyVPdqk.md` · https://www.youtube.com/watch?v=zCmyQyVPdqk
+- 2025-06-05 · E156: El último Bitcoin. Equipo 10AMPRO · `youtube/2025-06-05-7YN24s8Ipg0.md` · https://www.youtube.com/watch?v=7YN24s8Ipg0
+- 2025-03-20 · E145: ¿Antioquia/Colombia podría tener un Fondo Soberano en BITCOIN? Equipo 10AMPRO · `youtube/2025-03-20-rfUhpNAtkqY.md` · https://www.youtube.com/watch?v=rfUhpNAtkqY
+- 2024-11-06 · E121: Why Latam likes BTC?.  With Natalie Brunell (Eng) · `youtube/2024-11-06-JYFWDYCqjjE.md` · https://www.youtube.com/watch?v=JYFWDYCqjjE
+- 2024-05-10 · E93: La ingeniería financiera en BTC de Michael Saylor - Microstrategy · `youtube/2024-05-10-OHlZzH3LREY.md` · https://www.youtube.com/watch?v=OHlZzH3LREY
+- 2026-04-21 · E205: Michael Saylor ¿Se quiebra con STRC? · `youtube/2026-04-21-5_O7F3V1lsk.md` · https://www.youtube.com/watch?v=5_O7F3V1lsk
+- 2025-10-11 · Bitcoin como Motor de Crédito Digital · `substack/2025-10-11-bitcoin-como-motor-de-credito-digital.md` · https://www.10am.pro/p/bitcoin-como-motor-de-credito-digital
+- 2025-02-20 · E140: ¿Me puedo pensionar con Bitcoin?. Equipo 10AMPRO · `youtube/2025-02-20-oVXSPXBZkgw.md` · https://www.youtube.com/watch?v=oVXSPXBZkgw
+- 2025-12-04 · E183: Michael Saylor, BTC y la Burbuja de la Inteligencia Artificial. Análisis Real. Sebastián Toro · `youtube/2025-12-04-BmpA_Tel6-0.md` · https://www.youtube.com/watch?v=BmpA_Tel6-0
+- 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
+- 2022-10-21 · E10: El negocio detrás de Onlyfans. ¿Dónde, cómo y qué tan rentable es minar un bitcoin? ¿Es viable? · `youtube/2022-10-21-dV1EZSv7MG0.md` · https://www.youtube.com/watch?v=dV1EZSv7MG0
+- 2024-09-12 · E111: La billetera de Bitcoin de El Salvador es creada en Colombia. Chivo Wallet. Arley Lozano · `youtube/2024-09-12-ZzcykYaK-Kg.md` · https://www.youtube.com/watch?v=ZzcykYaK-Kg
+- 2024-10-23 · E119: 🇺🇸 Anthony Scaramucci 🤑 55% of my networth is in Crypto · `youtube/2024-10-23-g_LWQWBtAiA.md` · https://www.youtube.com/watch?v=g_LWQWBtAiA
+- 2025-11-13 · E179: ¿Mi negocio es mejor inversión que invertir en Bitcoin?. Equipo 10AMPRO · `youtube/2025-11-13-nl1AGKDaRXM.md` · https://www.youtube.com/watch?v=nl1AGKDaRXM
+- 2025-08-07 · E165: Medellín, capital crypto de Latinoamérica. Cripto Latin Fest · `youtube/2025-08-07-cgdihfnJVbY.md` · https://www.youtube.com/watch?v=cgdihfnJVbY
+- 2025-12-11 · E184: Michael Saylor contra el mundo 🌎. Equipo 10AMPRO · `youtube/2025-12-11-iN2PH8uBPKE.md` · https://www.youtube.com/watch?v=iN2PH8uBPKE
+- 2025-03-13 · E144: Maria Fernanda Cabal. Bitcoin, DOGE y soberanía energética en Colombia. · `youtube/2025-03-13--WWeW_6EiW0.md` · https://www.youtube.com/watch?v=-WWeW_6EiW0
+- 2023-08-24 · Antioquia quiere impulsar a Bitcoin con Mauricio Tobón candidato a la Gobernación · `youtube/2023-08-24-37IYNFAGK_U.md` · https://www.youtube.com/watch?v=37IYNFAGK_U
+- 2025-06-15 · El Problema de Pensar Que Estás Pensando · `substack/2025-06-15-el-problema-de-pensar-que-estas-pensando.md` · https://www.10am.pro/p/el-problema-de-pensar-que-estas-pensando
+- 2024-04-12 · E89: Blockchain crece el doble de rápido que Internet y Bitcoin es la clave. Camilo Botero · `youtube/2024-04-12-fqkU9B5Ie6s.md` · https://www.youtube.com/watch?v=fqkU9B5Ie6s
+- 2025-10-16 · E175: ¿Qué está pasando con Bitcoin y la Inteligencia Artificial? | Equipo 10AMPRO · `youtube/2025-10-16-lmNvX1LDpqo.md` · https://www.youtube.com/watch?v=lmNvX1LDpqo
+- 2022-11-10 · E13: Sam Bankman como perder $15B de USD en 24hrs en la tormenta perfecta, la bancarrota de FTX · `youtube/2022-11-10-koHpl3w864g.md` · https://www.youtube.com/watch?v=koHpl3w864g
+- 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
+- 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
+
+### SOL (159)
+- 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
+- 2024-02-16 · E81: Hackathon Solana Colombia. Episodio Medellín. Alex Ramírez. · `youtube/2024-02-16-5Hbv_Lwn8is.md` · https://www.youtube.com/watch?v=5Hbv_Lwn8is
+- 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
+- 2023-11-03 · E65: ¿Solana será el próximo Google? Su impacto en el mundo financiero. El caso de uso de VISA. · `youtube/2023-11-03-jLYGKMf8ciI.md` · https://www.youtube.com/watch?v=jLYGKMf8ciI
+- 2025-07-20 · Solana: El Destino Inevitable de los $700 Trillones en Mercados de Capital de Internet · `substack/2025-07-20-solana-el-destino-inevitable-de-los.md` · https://www.10am.pro/p/solana-el-destino-inevitable-de-los
+- 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
+- 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
+- 2026-03-12 · E199: Construyendo el Internet del futuro ⚡️ . Double Zero · `youtube/2026-03-12-aVXkfdDOQJw.md` · https://www.youtube.com/watch?v=aVXkfdDOQJw
+- 2023-07-21 · E50: El padrino del conocimiento ALPHA, Joe McCann, fundador de Node.JS y Asymmetric Capital. · `youtube/2023-07-21-SHEyv89MvM4.md` · https://www.youtube.com/watch?v=SHEyv89MvM4
+- 2024-05-16 · E94: Santiago R Santos, uno de los primeros inversionistas en Ethereum. · `youtube/2024-05-16-12vfWFpXItw.md` · https://www.youtube.com/watch?v=12vfWFpXItw
+- 2026-04-27 · De $21M a $3.7B en un Sábado  🔒 · `substack/2026-04-27-cuando-wall-street-duerme.md` · https://www.10am.pro/p/cuando-wall-street-duerme
+- 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
+- 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
+- 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
+- 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
+- 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
+- 2025-05-25 · El divorcio monetario: por qué la nueva guerra es contra los bonos y el refugio es Bitcoin · `substack/2025-05-25-el-divorcio-monetario-por-que-la.md` · https://www.10am.pro/p/el-divorcio-monetario-por-que-la
+- 2025-12-21 · 🔥💃 Firedancer: La Reingeniería que Lleva a Solana al Límite de la Física · `substack/2025-12-21-firedancer-la-reingenieria-que-lleva.md` · https://www.10am.pro/p/firedancer-la-reingenieria-que-lleva
+- 2024-11-14 · E123: I never look at price. Kyle Samani - Multicoin Capital · `youtube/2024-11-14-CQB6erpyd6Y.md` · https://www.youtube.com/watch?v=CQB6erpyd6Y
+- 2023-01-06 · E21: El mundo #crypto se enloquece con #bonk. Jugando y ganando #dinero con #blockchain #solana · `youtube/2023-01-06-e6X31OI7Ihs.md` · https://www.youtube.com/watch?v=e6X31OI7Ihs
+- 2024-07-25 · E104: ¿Qué es un validador en crypto y cómo vivir de ello?. Juan Andrés Calderón · `youtube/2024-07-25-lJHhwA7eKkQ.md` · https://www.youtube.com/watch?v=lJHhwA7eKkQ
+- 2024-08-22 · E108: ¡Bitcoin, la vacuna contra el corralito! Equipo 10AMPRO · `youtube/2024-08-22-zCmyQyVPdqk.md` · https://www.youtube.com/watch?v=zCmyQyVPdqk
+- 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
+- 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
+- 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
+
+### TSLA (127)
+- 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
+- 2025-07-06 · Tesla Será la Compañía mas Valiosa del Mundo · `substack/2025-07-06-tesla-sera-la-compania-mas-valiosa.md` · https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa
+- 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
+- 2024-10-10 · E116: Del colegio hacia Tesla. Martín Peláez. CTO Plenti · `youtube/2024-10-10-oYRaIsFZTMg.md` · https://www.youtube.com/watch?v=oYRaIsFZTMg
+- 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
+- 2022-12-09 · E17: Probamos la actualización de Tesla FSD Beta. Utilizamos y aplicamos la IA de ChatGPT ;D · `youtube/2022-12-09-znZJ_aepTrA.md` · https://www.youtube.com/watch?v=znZJ_aepTrA
+- 2024-09-19 · E113: Los Pros y contras de Elon Musk. Ernesto Montesano · `youtube/2024-09-19-jqT7uUfrOK4.md` · https://www.youtube.com/watch?v=jqT7uUfrOK4
+- 2026-09-23 · Elon Musk vs Tony Stark: Cuando la Realidad Supera la Ciencia Ficción  🔒 · `substack/2026-09-23-elon-musk-vs-tony-stark-cuando-la.md` · https://www.10am.pro/p/elon-musk-vs-tony-stark-cuando-la
+- 2024-10-31 · E120: 🚙 Rivian, el próximo Tesla 🤯. Antonio Linares. · `youtube/2024-10-31-JVQ45TkT0sM.md` · https://www.youtube.com/watch?v=JVQ45TkT0sM
+- 2026-09-02 · GDP 05: SpaceX Encontró un Negocio Más Grande que los Cohetes · `youtube/2026-09-02-m-aChUvY_bI.md` · https://www.youtube.com/watch?v=m-aChUvY_bI
+- 2026-09-02 · GDP 05: SpaceX Encontró un Negocio Más Grande que los Cohetes 📱 · `youtube/2026-09-02-nmHdcD_xXjg.md` · https://www.youtube.com/watch?v=nmHdcD_xXjg
+- 2023-08-18 · E54: Dieta de información de 10AMPRO · `youtube/2023-08-18-zcwm370SI70.md` · https://www.youtube.com/watch?v=zcwm370SI70
+- 2026-08-18 · Tesla: El capex que Wall Street no sabe leer 📱 · `youtube/2026-08-18-LNw2CvQ4Jmk.md` · https://www.youtube.com/watch?v=LNw2CvQ4Jmk
+- 2026-08-18 · Tesla: El capex que Wall Street no sabe leer · `youtube/2026-08-18-hP_b4YLchkU.md` · https://www.youtube.com/watch?v=hP_b4YLchkU
+- 2024-11-28 · E125: La nueva guerra fría. Guillermo Valencia. Macrowise & Scale · `youtube/2024-11-28-EW6XALnksjI.md` · https://www.youtube.com/watch?v=EW6XALnksjI
+- 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
+- 2026-06-04 · E211: ¿Dónde puedo cargar la batería de mi Tesla? · `youtube/2026-06-04-PgZE20FHhdo.md` · https://www.youtube.com/watch?v=PgZE20FHhdo
+- 2026-02-10 · La Inteligencia Artificial Va a Escapar de la Tierra 🔒 · `substack/2026-02-10-la-inteligencia-artificial-va-a-escapar.md` · https://www.10am.pro/p/la-inteligencia-artificial-va-a-escapar
+- 2022-11-04 · E12: Comprar Twitter, la visión de Elon Musk.¿Tony Stark o Lex Luthor?. Drones y sus posibilidades. · `youtube/2022-11-04-v0OmKCs8I8k.md` · https://www.youtube.com/watch?v=v0OmKCs8I8k
+- 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
+- 2026-04-01 · Terafab: El Proyecto Más Ambicioso en la Historia de la Humanidad 🔒 · `substack/2026-04-01-terafab-el-proyecto-mas-ambicioso.md` · https://www.10am.pro/p/terafab-el-proyecto-mas-ambicioso
+- 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
+- 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
+- 2025-11-16 · E180: Solana, Palantir y Tesla. Equipo 10AMPRO · `youtube/2025-11-16-FpcWtNhmDWY.md` · https://www.youtube.com/watch?v=FpcWtNhmDWY
+- 2026-04-17 · Energy Valley: El Hub energético de Latinoamérica. El plan maestro de Medellín. · `youtube/2026-04-17-ZHvIZRE1I38.md` · https://www.youtube.com/watch?v=ZHvIZRE1I38
+
+### HOOD (48)
+- 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
+- 2025-07-13 · El Puente de los $124 Trillones: Cómo Robinhood Se Convierte en Wall Street para Millennials, Gen Z y Gen X  · `substack/2025-07-13-el-puente-de-los-124-trillones-como.md` · https://www.10am.pro/p/el-puente-de-los-124-trillones-como
+- 2026-08-02 · Robinhood: El Puente Ya Tiene 13 Carriles · `substack/2026-08-02-robinhood-el-puente-ya-tiene-13-carriles.md` · https://www.10am.pro/p/robinhood-el-puente-ya-tiene-13-carriles
+- 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
+- 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
+- 2026-02-17 · Robinhood: El Puente Se Construye Más Rápido de lo que Pensé 🔒 · `substack/2026-02-17-robinhood-el-puente-se-construye.md` · https://www.10am.pro/p/robinhood-el-puente-se-construye
+- 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
+- 2026-06-18 · E213: SpaceX. El mayor IPO de la última década y lo que significa para los portafolios de inversión. · `youtube/2026-06-18-Bclu6jOdid4.md` · https://www.youtube.com/watch?v=Bclu6jOdid4
+- 2026-06-17 · Velocidad de Ontología 🔒 · `substack/2026-06-17-el-dia-que-entendi-por-que-compre.md` · https://www.10am.pro/p/el-dia-que-entendi-por-que-compre
+- 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
+- 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
+- 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
+- 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
+- 2022-10-14 · E9: Airbnb en Medellín si es buen retorno? Prestamista en Solana. El caso Gamestop- Netflix · `youtube/2022-10-14-2M4nkM-doXs.md` · https://www.youtube.com/watch?v=2M4nkM-doXs
+- 2025-08-16 · FCF/Share: La Variable Oculta que Anticipa el Despliegue de una S-Curve · `substack/2025-08-16-wall-street-esta-midiendo-la-variable.md` · https://www.10am.pro/p/wall-street-esta-midiendo-la-variable
+- 2026-10-04 · El Día con Más Inteligencia que Ha Vivido Medellín · `substack/2026-10-04-unos-acumulan-activos-otros-acumulan.md` · https://www.10am.pro/p/unos-acumulan-activos-otros-acumulan
+- 2025-04-24 · E150: ¿HIMS el próximo 10X? Antonio Linares · `youtube/2025-04-24-jB-Qew9B9_o.md` · https://www.youtube.com/watch?v=jB-Qew9B9_o
+- 2025-05-22 · E154: ¿Va ganando o perdiendo el portafolio de 10AMPRO en 2025? Descúbrelo en este análisis. · `youtube/2025-05-22-RG83P3KXJ5A.md` · https://www.youtube.com/watch?v=RG83P3KXJ5A
+- 2026-05 · Posts de X @holdmybirra — 2026-05 · `x/2026-05.md` · https://x.com/holdmybirra
+- 2025-05-04 · Señales vs Ruido y La Trilogia que me Mantiene Pobre · `substack/2025-05-04-senales-vs-ruido-y-la-trilogia-que.md` · https://www.10am.pro/p/senales-vs-ruido-y-la-trilogia-que
+- 2026-04-22 · Dale las Claves del Broker a Tu Esposa 🔒 · `substack/2026-04-22-dale-las-claves-del-broker-a-tu-esposa.md` · https://www.10am.pro/p/dale-las-claves-del-broker-a-tu-esposa
+- 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
+- 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
+- 2025-12-25 · E186: 171 % de retorno en el 2025: ¿cómo lo hicimos?. Equipo 10AMPRO · `youtube/2025-12-25-A88-_-LAlh8.md` · https://www.youtube.com/watch?v=A88-_-LAlh8
+- 2026-09-24 · El Día D - La Previa 📱 · `youtube/2026-09-24-ZQNgnwr8FD4.md` · https://www.youtube.com/watch?v=ZQNgnwr8FD4
+
+### PLTR (107)
+- 2025-08-20 · Palantir: la Compañía mas Importante de Occidente · `substack/2025-08-20-palantir-la-compania-mas-importante.md` · https://www.10am.pro/p/palantir-la-compania-mas-importante
+- 2026-03-09 ·  Lo Que Emil Michael Reveló Sobre Palantir, Maduro y el Pentágono 🔒 · `substack/2026-03-09-palantir-vs-todos.md` · https://www.10am.pro/p/palantir-vs-todos
+- 2026-06-17 · Velocidad de Ontología 🔒 · `substack/2026-06-17-el-dia-que-entendi-por-que-compre.md` · https://www.10am.pro/p/el-dia-que-entendi-por-que-compre
+- 2026-08-06 · Palantir Q2 2026: El Día que Wall Street Entendió la Ontología 🔒 · `substack/2026-08-06-palantir-q2-2026-el-dia-que-wall.md` · https://www.10am.pro/p/palantir-q2-2026-el-dia-que-wall
+- 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
+- 2026-08-12 · GDP 02: Palantir, el día que Wall Street entendió la Ontología. · `youtube/2026-08-12-vEf7HshhBb0.md` · https://www.youtube.com/watch?v=vEf7HshhBb0
+- 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
+- 2026-06-18 · E213: SpaceX. El mayor IPO de la última década y lo que significa para los portafolios de inversión. · `youtube/2026-06-18-Bclu6jOdid4.md` · https://www.youtube.com/watch?v=Bclu6jOdid4
+- 2026-05-14 · E208: Esto es más grande que Palantir a USD 7. Antonio Linares · `youtube/2026-05-14-6j1_HGpUX2s.md` · https://www.youtube.com/watch?v=6j1_HGpUX2s
+- 2026-07-02 · E215: Biología es el nuevo código. Antonio Linares · `youtube/2026-07-02-Sda5CFB56vI.md` · https://www.youtube.com/watch?v=Sda5CFB56vI
+- 2025-04-24 · E150: ¿HIMS el próximo 10X? Antonio Linares · `youtube/2025-04-24-jB-Qew9B9_o.md` · https://www.youtube.com/watch?v=jB-Qew9B9_o
+- 2026-09-24 · El Día D - La Previa 📱 · `youtube/2026-09-24-ZQNgnwr8FD4.md` · https://www.youtube.com/watch?v=ZQNgnwr8FD4
+- 2026-09-27 · HIMS No Es Telemedicina 🔒 · `substack/2026-09-27-hims-no-es-telemedicina.md` · https://www.10am.pro/p/hims-no-es-telemedicina
+- 2025-02-27 · E141: AMD y el negocio de las inferencias. Antonio Linares. · `youtube/2025-02-27-ecIqTOs5sIQ.md` · https://www.youtube.com/watch?v=ecIqTOs5sIQ
+- 2026-09-24 · El Día D - La Previa · `youtube/2026-09-24-i4ST73gS5yA.md` · https://www.youtube.com/watch?v=i4ST73gS5yA
+- 2023-03-17 · E31: Los secretos de un buen análisis de inversión. No te pierdas la entrevista con Antonio Linares. · `youtube/2023-03-17-g1J0I_-qSW8.md` · https://www.youtube.com/watch?v=g1J0I_-qSW8
+- 2024-12-12 · E127: ¿Se cumplieron las predicciones financieras en 10AMPRO?. Equipo 10AMPRO · `youtube/2024-12-12--nbXdwXnGnA.md` · https://www.youtube.com/watch?v=-nbXdwXnGnA
+- 2026-10-04 · El Día con Más Inteligencia que Ha Vivido Medellín · `substack/2026-10-04-unos-acumulan-activos-otros-acumulan.md` · https://www.10am.pro/p/unos-acumulan-activos-otros-acumulan
+- 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
+- 2026-01-29 · E191: Las 5 señales del cambio de era. Hernán, Darío,  Andrés Felipe, Guillermo,  Nicolás & el gordo · `youtube/2026-01-29-PdTGv5Z71SE.md` · https://www.youtube.com/watch?v=PdTGv5Z71SE
+- 2026-07-16 · E217: ¿Qué es fricción? - Notarías, Cámaras de Comercio, Cajas de Compensación. · `youtube/2026-07-16-MEmOtJ1RoFE.md` · https://www.youtube.com/watch?v=MEmOtJ1RoFE
+- 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
+- 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
+- 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
+- 2026-05 · Posts de X @holdmybirra — 2026-05 · `x/2026-05.md` · https://x.com/holdmybirra
+
+### HIMS (32)
+- 2026-05-06 · La Cárcel de los Péptidos  🔒 · `substack/2026-05-06-el-negocio-mas-grande-del-que-nadie.md` · https://www.10am.pro/p/el-negocio-mas-grande-del-que-nadie
+- 2026-09-27 · HIMS No Es Telemedicina 🔒 · `substack/2026-09-27-hims-no-es-telemedicina.md` · https://www.10am.pro/p/hims-no-es-telemedicina
+- 2025-04-24 · E150: ¿HIMS el próximo 10X? Antonio Linares · `youtube/2025-04-24-jB-Qew9B9_o.md` · https://www.youtube.com/watch?v=jB-Qew9B9_o
+- 2026-08-17 · HIMS, Q2 2026: Longevity as a Service 🔒 · `substack/2026-08-17-hims-q2-2026-longevity-as-a-service.md` · https://www.10am.pro/p/hims-q2-2026-longevity-as-a-service
+- 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
+- 2026-10-12 · La Regla del 5% · `substack/2026-10-12-nunca-vendo-la-mas-grande.md` · https://www.10am.pro/p/nunca-vendo-la-mas-grande
+- 2026-07-02 · E215: Biología es el nuevo código. Antonio Linares · `youtube/2026-07-02-Sda5CFB56vI.md` · https://www.youtube.com/watch?v=Sda5CFB56vI
+- 2026-10-11 · ¿El Próximo 100x? 🔒 · `substack/2026-10-11-el-proximo-100x.md` · https://www.10am.pro/p/el-proximo-100x
+- 2026-06-17 · Velocidad de Ontología 🔒 · `substack/2026-06-17-el-dia-que-entendi-por-que-compre.md` · https://www.10am.pro/p/el-dia-que-entendi-por-que-compre
+- 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
+- 2026-05-14 · E208: Esto es más grande que Palantir a USD 7. Antonio Linares · `youtube/2026-05-14-6j1_HGpUX2s.md` · https://www.youtube.com/watch?v=6j1_HGpUX2s
+- 2026-05-13 · La Cadena 🔒 · `substack/2026-05-13-la-cadena.md` · https://www.10am.pro/p/la-cadena
+- 2026-06-18 · E213: SpaceX. El mayor IPO de la última década y lo que significa para los portafolios de inversión. · `youtube/2026-06-18-Bclu6jOdid4.md` · https://www.youtube.com/watch?v=Bclu6jOdid4
+- 2026-09-24 · El Día D - La Previa · `youtube/2026-09-24-i4ST73gS5yA.md` · https://www.youtube.com/watch?v=i4ST73gS5yA
+- 2025-06-29 · La Dimensión Geopolítica de la Política Monetaria: El Juego Silencioso de Powell · `substack/2025-06-29-la-dimension-geopolitica-de-la-politica.md` · https://www.10am.pro/p/la-dimension-geopolitica-de-la-politica
+- 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
+- 2026-09-24 · El Día D - La Previa 📱 · `youtube/2026-09-24-ZQNgnwr8FD4.md` · https://www.youtube.com/watch?v=ZQNgnwr8FD4
+- 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
+- 2025-05-22 · E154: ¿Va ganando o perdiendo el portafolio de 10AMPRO en 2025? Descúbrelo en este análisis. · `youtube/2025-05-22-RG83P3KXJ5A.md` · https://www.youtube.com/watch?v=RG83P3KXJ5A
+- 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
+- 2026-07-01 · Biology is Code 🔒 · `substack/2026-07-01-biology-is-code.md` · https://www.10am.pro/p/biology-is-code
+- 2026-10-04 · El Día con Más Inteligencia que Ha Vivido Medellín · `substack/2026-10-04-unos-acumulan-activos-otros-acumulan.md` · https://www.10am.pro/p/unos-acumulan-activos-otros-acumulan
+- 2025-10-16 · E175: ¿Qué está pasando con Bitcoin y la Inteligencia Artificial? | Equipo 10AMPRO · `youtube/2025-10-16-lmNvX1LDpqo.md` · https://www.youtube.com/watch?v=lmNvX1LDpqo
+- 2026-02-12 · E194: Un meteorito  ☄️ llamado Inteligencia Artificial 🤖. · `youtube/2026-02-12-ticA_GG3M4w.md` · https://www.youtube.com/watch?v=ticA_GG3M4w
+- 2026-05 · Posts de X @holdmybirra — 2026-05 · `x/2026-05.md` · https://x.com/holdmybirra
+
+### ETH (25)
+- 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
+- 2024-11-14 · E123: I never look at price. Kyle Samani - Multicoin Capital · `youtube/2024-11-14-CQB6erpyd6Y.md` · https://www.youtube.com/watch?v=CQB6erpyd6Y
+- 2023-07-21 · E50: El padrino del conocimiento ALPHA, Joe McCann, fundador de Node.JS y Asymmetric Capital. · `youtube/2023-07-21-SHEyv89MvM4.md` · https://www.youtube.com/watch?v=SHEyv89MvM4
+- 2026-04-30 · E206: ETH está sobrevalorada. Santiago Santos · `youtube/2026-04-30-cCNGqlJkjAs.md` · https://www.youtube.com/watch?v=cCNGqlJkjAs
+- 2024-05-16 · E94: Santiago R Santos, uno de los primeros inversionistas en Ethereum. · `youtube/2024-05-16-12vfWFpXItw.md` · https://www.youtube.com/watch?v=12vfWFpXItw
+- 2024-07-25 · E104: ¿Qué es un validador en crypto y cómo vivir de ello?. Juan Andrés Calderón · `youtube/2024-07-25-lJHhwA7eKkQ.md` · https://www.youtube.com/watch?v=lJHhwA7eKkQ
+- 2025-07-20 · Solana: El Destino Inevitable de los $700 Trillones en Mercados de Capital de Internet · `substack/2025-07-20-solana-el-destino-inevitable-de-los.md` · https://www.10am.pro/p/solana-el-destino-inevitable-de-los
+- 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
+- 2024-10-23 · E119: 🇺🇸 Anthony Scaramucci 🤑 55% of my networth is in Crypto · `youtube/2024-10-23-g_LWQWBtAiA.md` · https://www.youtube.com/watch?v=g_LWQWBtAiA
+- 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
+- 2023-02-03 · E25: Amazon y su entrada a la web3. Nacen los primeros NFTS en Bitcoin. ¿ZK RollUps y ZK Proofs? · `youtube/2023-02-03-OLTMA-hOql8.md` · https://www.youtube.com/watch?v=OLTMA-hOql8
+- 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
+- 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
+- 2023-11-03 · E65: ¿Solana será el próximo Google? Su impacto en el mundo financiero. El caso de uso de VISA. · `youtube/2023-11-03-jLYGKMf8ciI.md` · https://www.youtube.com/watch?v=jLYGKMf8ciI
+- 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
+- 2026-04-27 · De $21M a $3.7B en un Sábado  🔒 · `substack/2026-04-27-cuando-wall-street-duerme.md` · https://www.10am.pro/p/cuando-wall-street-duerme
+- 2022-09-17 · E5: The Merge en Ethereum, Battle for Nippon el casino en web3, la historia de Sam Bankmann y FTX. · `youtube/2022-09-17-i3IA4LFSgn0.md` · https://www.youtube.com/watch?v=i3IA4LFSgn0
+- 2025-05-25 · El divorcio monetario: por qué la nueva guerra es contra los bonos y el refugio es Bitcoin · `substack/2025-05-25-el-divorcio-monetario-por-que-la.md` · https://www.10am.pro/p/el-divorcio-monetario-por-que-la
+- 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
+- 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
+- 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
+- 2022-12-16 · E18: Novedades AI. ¿Cuál es el verdadero Morgan Freeman? OTTER, mi propia asistente AI. ¿Qué es MEV? · `youtube/2022-12-16-fAXriA9gQHo.md` · https://www.youtube.com/watch?v=fAXriA9gQHo
+- 2023-02-10 · E26: El CEO de BINANCE Latam nos cuenta cómo y por qué son el Exchange mas grande del mundo. · `youtube/2023-02-10-ionnuu54kDw.md` · https://www.youtube.com/watch?v=ionnuu54kDw
+- 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
+- 2026-05 · Posts de X @holdmybirra — 2026-05 · `x/2026-05.md` · https://x.com/holdmybirra
+
+### XRP (3)
+- 2025-06-15 · El Problema de Pensar Que Estás Pensando · `substack/2025-06-15-el-problema-de-pensar-que-estas-pensando.md` · https://www.10am.pro/p/el-problema-de-pensar-que-estas-pensando
+- 2024-08-15 · E107: ¿Lunes negro? El Carry Trade del Yen 🇯🇵. Equipo 10AMPRO · `youtube/2024-08-15-enmay3VnPKI.md` · https://www.youtube.com/watch?v=enmay3VnPKI
+- 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
+
+### JUP (6)
+- 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
+- 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
+- 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
+- 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
+- 2026-01-15 · Pronóstico 2026: El Año Donde Todo Será Vertical · `substack/2026-01-15-pronostico-2026-el-ano-donde-todo.md` · https://www.10am.pro/p/pronostico-2026-el-ano-donde-todo
+- 2026-05 · Posts de X @holdmybirra — 2026-05 · `x/2026-05.md` · https://x.com/holdmybirra
+
+### JTO (10)
+- 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
+- 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
+- 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
+- 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
+- 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
+- 2023-12-22 · E73:  Error no es fracaso. Equipo  10AMPRO. · `youtube/2023-12-22-eYZg98A2DH4.md` · https://www.youtube.com/watch?v=eYZg98A2DH4
+- 2026-09-03 · Sigo Bullish en $SOL y $JTO, nos vemos en El Dia D - Joe McCann. #223 · `youtube/2026-09-03-qoReYHBo3zo.md` · https://www.youtube.com/watch?v=qoReYHBo3zo
+- 2025-05-11 · ¿Somos Anti-Buffett en 10ampro? y un montón de ER · `substack/2025-05-11-somos-anti-buffet-en-10ampro-y-un.md` · https://www.10am.pro/p/somos-anti-buffet-en-10ampro-y-un
+- 2025-06-15 · El Problema de Pensar Que Estás Pensando · `substack/2025-06-15-el-problema-de-pensar-que-estas-pensando.md` · https://www.10am.pro/p/el-problema-de-pensar-que-estas-pensando
+- 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
+
+### NOS (7)
+- 2024-12-12 · E127: ¿Se cumplieron las predicciones financieras en 10AMPRO?. Equipo 10AMPRO · `youtube/2024-12-12--nbXdwXnGnA.md` · https://www.youtube.com/watch?v=-nbXdwXnGnA
+- 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
+- 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
+- 2024-11-21 · E124: Aplicando Inteligencia Artificial en 10AMPRO. Con Felipe Aguirre. · `youtube/2024-11-21-DwwDKZPPt9I.md` · https://www.youtube.com/watch?v=DwwDKZPPt9I
+- 2024-02-02 · E79: La minería de oro 3.0. Conectando la minería tradicional con blockchain. José Santiago Gómez. · `youtube/2024-02-02-O1W8NhtOaoQ.md` · https://www.youtube.com/watch?v=O1W8NhtOaoQ
+- 2024-07-25 · E104: ¿Qué es un validador en crypto y cómo vivir de ello?. Juan Andrés Calderón · `youtube/2024-07-25-lJHhwA7eKkQ.md` · https://www.youtube.com/watch?v=lJHhwA7eKkQ
+- 2026-03 · Posts de X @holdmybirra — 2026-03 · `x/2026-03.md` · https://x.com/holdmybirra
+
+### STKE (4)
+- 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
+- 2026-01-15 · Pronóstico 2026: El Año Donde Todo Será Vertical · `substack/2026-01-15-pronostico-2026-el-ano-donde-todo.md` · https://www.10am.pro/p/pronostico-2026-el-ano-donde-todo
+- 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra
+- 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
+
+### NVDA (27)
+- 2025-11-06 · E178: La era de la abundancia. Gerardo Delgado / Nvidia · `youtube/2025-11-06-QgWVt-cLwHs.md` · https://www.youtube.com/watch?v=QgWVt-cLwHs
+- 2023-04-21 · E37: Nvidia, la compañía detrás de la inteligencia artificial de ChatGPT y los  efectos de Marvel. · `youtube/2023-04-21-017G3m4LECc.md` · https://www.youtube.com/watch?v=017G3m4LECc
+- 2026-08-06 · Palantir Q2 2026: El Día que Wall Street Entendió la Ontología 🔒 · `substack/2026-08-06-palantir-q2-2026-el-dia-que-wall.md` · https://www.10am.pro/p/palantir-q2-2026-el-dia-que-wall
+- 2024-05-03 · E92: ¿La IA será un nuevo Dios?. Gerardo Delgado. Nvidia · `youtube/2024-05-03-62xBbvvxMf4.md` · https://www.youtube.com/watch?v=62xBbvvxMf4
+- 2025-11-01 · AI + Biología = Quantum-Si · `substack/2025-11-01-quantum-si-cuando-la-biologia-se.md` · https://www.10am.pro/p/quantum-si-cuando-la-biologia-se
+- 2025-02-27 · E141: AMD y el negocio de las inferencias. Antonio Linares. · `youtube/2025-02-27-ecIqTOs5sIQ.md` · https://www.youtube.com/watch?v=ecIqTOs5sIQ
+- 2026-05-13 · La Cadena 🔒 · `substack/2026-05-13-la-cadena.md` · https://www.10am.pro/p/la-cadena
+- 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
+- 2025-08-20 · Palantir: la Compañía mas Importante de Occidente · `substack/2025-08-20-palantir-la-compania-mas-importante.md` · https://www.10am.pro/p/palantir-la-compania-mas-importante
+- 2025-11-23 · Por Qué la Revolución de AI No Es la Burbuja de las "Punto Com"  · `substack/2025-11-23-por-que-la-revolucion-de-ai-no-es.md` · https://www.10am.pro/p/por-que-la-revolucion-de-ai-no-es
+- 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
+- 2025-06-01 · 1 TERAWATT: LA CARRERA ENERGÉTICA DE EE.UU. · `substack/2025-06-01-1-terawatt-la-carrera-energetica.md` · https://www.10am.pro/p/1-terawatt-la-carrera-energetica
+- 2024-11-28 · E125: La nueva guerra fría. Guillermo Valencia. Macrowise & Scale · `youtube/2024-11-28-EW6XALnksjI.md` · https://www.youtube.com/watch?v=EW6XALnksjI
+- 2026-02-05 · E192: Duolingo no es una app: es la IA que está redefiniendo cómo aprendemos. Antonio Linares · `youtube/2026-02-05-7dMgmo76Dqw.md` · https://www.youtube.com/watch?v=7dMgmo76Dqw
+- 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
+- 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
+- 2025-08-31 · Colossus: la guerra de la IA se gana con logística · `substack/2025-08-31-colossus-la-guerra-de-la-ia-se-gana.md` · https://www.10am.pro/p/colossus-la-guerra-de-la-ia-se-gana
+- 2025-09-21 · AI mas Grande que La Revolución Industrial · `substack/2025-09-21-lo-que-se-viene-en-ai-es-mas-grande.md` · https://www.10am.pro/p/lo-que-se-viene-en-ai-es-mas-grande
+- 2026-04-01 · Terafab: El Proyecto Más Ambicioso en la Historia de la Humanidad 🔒 · `substack/2026-04-01-terafab-el-proyecto-mas-ambicioso.md` · https://www.10am.pro/p/terafab-el-proyecto-mas-ambicioso
+- 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
+- 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
+- 2026-03-05 · E198: 2028 🤯  el año que todos quedaremos sin trabajo · `youtube/2026-03-05-5QWEatCbScI.md` · https://www.youtube.com/watch?v=5QWEatCbScI
+- 2026-08-13 · E220: Solo invertimos donde exista impacto económico. VeroNorte · `youtube/2026-08-13-51LweNLGXh4.md` · https://www.youtube.com/watch?v=51LweNLGXh4
+- 2026-09-16 · GDP 07: Dario Amodei  -  La Gestapo disfrazada de nerd · `youtube/2026-09-16-DxYtlO9VI1o.md` · https://www.youtube.com/watch?v=DxYtlO9VI1o
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
+
+### SpaceX (57)
+- 2025-11-08 · SpaceX: La Compañía más Importante de la Tierra · `substack/2025-11-08-spacex-el-elevador-que-redefine-el.md` · https://www.10am.pro/p/spacex-el-elevador-que-redefine-el
+- 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
+- 2026-05-14 · El Golfo de Urabá: ¿el próximo puerto espacial de SpaceX? · `substack/2026-05-14-el-golfo-de-uraba-el-proximo-puerto.md` · https://www.10am.pro/p/el-golfo-de-uraba-el-proximo-puerto
+- 2026-04-07 · Los Negocios del Espacio 🔒 · `substack/2026-04-07-los-negocios-del-espacio.md` · https://www.10am.pro/p/los-negocios-del-espacio
+- 2026-02-10 · La Inteligencia Artificial Va a Escapar de la Tierra 🔒 · `substack/2026-02-10-la-inteligencia-artificial-va-a-escapar.md` · https://www.10am.pro/p/la-inteligencia-artificial-va-a-escapar
+- 2026-09-02 · GDP 05: SpaceX Encontró un Negocio Más Grande que los Cohetes · `youtube/2026-09-02-m-aChUvY_bI.md` · https://www.youtube.com/watch?v=m-aChUvY_bI
+- 2026-09-02 · GDP 05: SpaceX Encontró un Negocio Más Grande que los Cohetes 📱 · `youtube/2026-09-02-nmHdcD_xXjg.md` · https://www.youtube.com/watch?v=nmHdcD_xXjg
+- 2026-06-18 · E213: SpaceX. El mayor IPO de la última década y lo que significa para los portafolios de inversión. · `youtube/2026-06-18-Bclu6jOdid4.md` · https://www.youtube.com/watch?v=Bclu6jOdid4
+- 2025-01-16 · E132: Es más barato lanzar cohetes 🚀 desde Antioquia-Colombia 🇨🇴  , que desde Texas. Diego Jiménez · `youtube/2025-01-16-sjKZP7K1DEs.md` · https://www.youtube.com/watch?v=sjKZP7K1DEs
+- 2026-05-23 · E210: ¿Qué es pensar en grande? Un puerto espacial en el Golfo de Urabá. Gobernador de Antioquía. · `youtube/2026-05-23-4Q_0z20L0Gw.md` · https://www.youtube.com/watch?v=4Q_0z20L0Gw
+- 2026-09-23 · Elon Musk vs Tony Stark: Cuando la Realidad Supera la Ciencia Ficción  🔒 · `substack/2026-09-23-elon-musk-vs-tony-stark-cuando-la.md` · https://www.10am.pro/p/elon-musk-vs-tony-stark-cuando-la
+- 2026-04-01 · Terafab: El Proyecto Más Ambicioso en la Historia de la Humanidad 🔒 · `substack/2026-04-01-terafab-el-proyecto-mas-ambicioso.md` · https://www.10am.pro/p/terafab-el-proyecto-mas-ambicioso
+- 2026-08-18 · Tesla: El capex que Wall Street no sabe leer · `youtube/2026-08-18-hP_b4YLchkU.md` · https://www.youtube.com/watch?v=hP_b4YLchkU
+- 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
+- 2026-08-18 · Tesla: El capex que Wall Street no sabe leer 📱 · `youtube/2026-08-18-LNw2CvQ4Jmk.md` · https://www.youtube.com/watch?v=LNw2CvQ4Jmk
+- 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
+- 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
+- 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
+- 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
+- 2023-11-24 · E69: Medellín 10X. Cómo multiplicar por 10 el PIB de la ciudad de Medellín - Colombia 🇨🇴 en 5 años. · `youtube/2023-11-24-53WSW_h3eew.md` · https://www.youtube.com/watch?v=53WSW_h3eew
+- 2026-06-12 · ⚡ Episodio Especial 03: Colombia 🇨🇴 Elijamos el camino de la abundancia. José Manuel Restrepo. · `youtube/2026-06-12-xT_zbjfV5vc.md` · https://www.youtube.com/watch?v=xT_zbjfV5vc
+- 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
+- 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
+- 2024-09-19 · E113: Los Pros y contras de Elon Musk. Ernesto Montesano · `youtube/2024-09-19-jqT7uUfrOK4.md` · https://www.youtube.com/watch?v=jqT7uUfrOK4
+- 2026-05 · Posts de X @holdmybirra — 2026-05 · `x/2026-05.md` · https://x.com/holdmybirra
+
+### DLMM (5)
+- 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
+- 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
+- 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
+- 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
+- 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
+
+### macro (185)
+- 2025-09-28 · El Arquitecto Silencioso del Dólar · `substack/2025-09-28-el-arquitecto-silencioso-del-dolar.md` · https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar
+- 2025-12-27 · El Hombre que Está Reprogramando la Economía de Estados Unidos · `substack/2025-12-27-el-hombre-que-esta-reprogramando.md` · https://www.10am.pro/p/el-hombre-que-esta-reprogramando
+- 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
+- 2025-04-17 · E149: Una mirada macro del mundo. Guillermo Valencia · `youtube/2025-04-17-m4N7_3nDCcQ.md` · https://www.youtube.com/watch?v=m4N7_3nDCcQ
+- 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
+- 2025-06-01 · 1 TERAWATT: LA CARRERA ENERGÉTICA DE EE.UU. · `substack/2025-06-01-1-terawatt-la-carrera-energetica.md` · https://www.10am.pro/p/1-terawatt-la-carrera-energetica
+- 2026-08-23 · Cuando el Perro Grande Bosteza · `substack/2026-08-23-hormuz-no-era-iran.md` · https://www.10am.pro/p/hormuz-no-era-iran
+- 2025-11-13 · E179: ¿Mi negocio es mejor inversión que invertir en Bitcoin?. Equipo 10AMPRO · `youtube/2025-11-13-nl1AGKDaRXM.md` · https://www.youtube.com/watch?v=nl1AGKDaRXM
+- 2025-12-25 · E186: 171 % de retorno en el 2025: ¿cómo lo hicimos?. Equipo 10AMPRO · `youtube/2025-12-25-A88-_-LAlh8.md` · https://www.youtube.com/watch?v=A88-_-LAlh8
+- 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
+- 2025-10-25 · The Everything Code  · `substack/2025-10-25-the-everything-code.md` · https://www.10am.pro/p/the-everything-code
+- 2026-09-24 · Dolarización en Colombia: Por qué dolarizar Colombia cambiaría tu dinero para siempre. E226 · `youtube/2026-09-24-fquqxFmQlwQ.md` · https://www.youtube.com/watch?v=fquqxFmQlwQ
+- 2026-09-03 · Sigo Bullish en $SOL y $JTO, nos vemos en El Dia D - Joe McCann. #223 · `youtube/2026-09-03-qoReYHBo3zo.md` · https://www.youtube.com/watch?v=qoReYHBo3zo
+- 2024-11-06 · E121: Why Latam likes BTC?.  With Natalie Brunell (Eng) · `youtube/2024-11-06-JYFWDYCqjjE.md` · https://www.youtube.com/watch?v=JYFWDYCqjjE
+- 2024-11-28 · E125: La nueva guerra fría. Guillermo Valencia. Macrowise & Scale · `youtube/2024-11-28-EW6XALnksjI.md` · https://www.youtube.com/watch?v=EW6XALnksjI
+- 2026-01-08 · E188: El mundo avanza, Colombia retrocede. · `youtube/2026-01-08-Rz8-vE1wUsE.md` · https://www.youtube.com/watch?v=Rz8-vE1wUsE
+- 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
+- 2026-01-29 · E191: Las 5 señales del cambio de era. Hernán, Darío,  Andrés Felipe, Guillermo,  Nicolás & el gordo · `youtube/2026-01-29-PdTGv5Z71SE.md` · https://www.youtube.com/watch?v=PdTGv5Z71SE
+- 2025-12-13 · Recalibrando el Algoritmo del 10x · `substack/2025-12-13-recalibrando-el-algoritmo-del-10x.md` · https://www.10am.pro/p/recalibrando-el-algoritmo-del-10x
+- 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. 📱 · `youtube/2026-10-09-oZEJJOvUKBs.md` · https://www.youtube.com/watch?v=oZEJJOvUKBs
+- 2023-09-29 · E60: Estructurar un portafolio de inversión en inmuebles en EEUU y desde cualquier parte del mundo. · `youtube/2023-09-29-u2axXYHz-Gs.md` · https://www.youtube.com/watch?v=u2axXYHz-Gs
+- 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. · `youtube/2026-10-09-Zc12h2zZM4Y.md` · https://www.youtube.com/watch?v=Zc12h2zZM4Y
+- 2026-04-21 · E205: Michael Saylor ¿Se quiebra con STRC? · `youtube/2026-04-21-5_O7F3V1lsk.md` · https://www.youtube.com/watch?v=5_O7F3V1lsk
+- 2025-10-11 · Bitcoin como Motor de Crédito Digital · `substack/2025-10-11-bitcoin-como-motor-de-credito-digital.md` · https://www.10am.pro/p/bitcoin-como-motor-de-credito-digital
+- 2026-03-15 · El Modelo de Negocio del Caos: 500 Años de Historia en Una Milla Cuadrada 🔒 · `substack/2026-03-15-the-end-game-quien-se-beneficia-del.md` · https://www.10am.pro/p/the-end-game-quien-se-beneficia-del
+
+### Bessent (19)
+- 2025-09-28 · El Arquitecto Silencioso del Dólar · `substack/2025-09-28-el-arquitecto-silencioso-del-dolar.md` · https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar
+- 2025-12-27 · El Hombre que Está Reprogramando la Economía de Estados Unidos · `substack/2025-12-27-el-hombre-que-esta-reprogramando.md` · https://www.10am.pro/p/el-hombre-que-esta-reprogramando
+- 2025-06-01 · 1 TERAWATT: LA CARRERA ENERGÉTICA DE EE.UU. · `substack/2025-06-01-1-terawatt-la-carrera-energetica.md` · https://www.10am.pro/p/1-terawatt-la-carrera-energetica
+- 2026-08-23 · Cuando el Perro Grande Bosteza · `substack/2026-08-23-hormuz-no-era-iran.md` · https://www.10am.pro/p/hormuz-no-era-iran
+- 2026-03-15 · El Modelo de Negocio del Caos: 500 Años de Historia en Una Milla Cuadrada 🔒 · `substack/2026-03-15-the-end-game-quien-se-beneficia-del.md` · https://www.10am.pro/p/the-end-game-quien-se-beneficia-del
+- 2026-01-25 · 🔨 The Hammer: Howard Lutnick y la Reconfiguración del Comercio Global · `substack/2026-01-25-the-hammer-howard-lutnick-y-la-reconfiguracion.md` · https://www.10am.pro/p/the-hammer-howard-lutnick-y-la-reconfiguracion
+- 2026-09-18 · Los Midterms Pura Geopolitica  · `substack/2026-09-18-los-midterms-pura-geopolitica.md` · https://www.10am.pro/p/los-midterms-pura-geopolitica
+- 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
+- 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
+- 2025-04-21 · El Pulso entre EE. UU. y China y su Impacto en los Mercados · `substack/2025-04-21-el-pulso-entre-ee-uu-y-china-y-su.md` · https://www.10am.pro/p/el-pulso-entre-ee-uu-y-china-y-su
+- 2026-09-03 · Sigo Bullish en $SOL y $JTO, nos vemos en El Dia D - Joe McCann. #223 · `youtube/2026-09-03-qoReYHBo3zo.md` · https://www.youtube.com/watch?v=qoReYHBo3zo
+- 2025-12-13 · Recalibrando el Algoritmo del 10x · `substack/2025-12-13-recalibrando-el-algoritmo-del-10x.md` · https://www.10am.pro/p/recalibrando-el-algoritmo-del-10x
+- 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
+- 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
+- 2026-10-10 · Moscú Vende Diésel, Londres Vende Caos 🔒 · `substack/2026-10-10-moscu-vende-diesel-londres-vende.md` · https://www.10am.pro/p/moscu-vende-diesel-londres-vende
+- 2026-08-26 · GDP 04: Bessent activa el Bullrun 📱 · `youtube/2026-08-26-l5-4WH2tkCs.md` · https://www.youtube.com/watch?v=l5-4WH2tkCs
+- 2026-08-26 · GDP 04: Bessent activa el Bullrun · `youtube/2026-08-26-yy3eEXTUy50.md` · https://www.youtube.com/watch?v=yy3eEXTUy50
+- 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra
+
+### geopolitica (169)
+- 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
+- 2026-03-19 · E200: Irán 🇮🇷 , petróleo🛢️, dólar 💵 y drones. Hernán, Darío, Guillermo, Andrés Felipe y El Gordo. · `youtube/2026-03-19-QbS-TGwMuw0.md` · https://www.youtube.com/watch?v=QbS-TGwMuw0
+- 2026-04-16 · E204: 🇮🇷 Irán, Donald Trump y El Estrecho de Ormuz. · `youtube/2026-04-16-HhBfwrQyvwA.md` · https://www.youtube.com/watch?v=HhBfwrQyvwA
+- 2025-04-23 · Menos titulares, mejor dieta de información, modelos mentales y sicologia para invertir · `youtube/2025-04-23-yHzAjWFZMYs.md` · https://www.youtube.com/watch?v=yHzAjWFZMYs
+- 2025-06-26 · E159: Guerra Israel-Irán. Petróleo cae, bolsas suben y Bitcoin +10 % 📊 | Con Daniel Lacalle · `youtube/2025-06-26-e43qfojhUSY.md` · https://www.youtube.com/watch?v=e43qfojhUSY
+- 2025-04-17 · E149: Una mirada macro del mundo. Guillermo Valencia · `youtube/2025-04-17-m4N7_3nDCcQ.md` · https://www.youtube.com/watch?v=m4N7_3nDCcQ
+- 2026-03-15 · El Modelo de Negocio del Caos: 500 Años de Historia en Una Milla Cuadrada 🔒 · `substack/2026-03-15-the-end-game-quien-se-beneficia-del.md` · https://www.10am.pro/p/the-end-game-quien-se-beneficia-del
+- 2025-01-30 · E136: Las predicciones de 10AMPRO para el 2025. Equipo 10AMPRO · `youtube/2025-01-30-4RfzDtrKKnI.md` · https://www.youtube.com/watch?v=4RfzDtrKKnI
+- 2026-01-29 · E191: Las 5 señales del cambio de era. Hernán, Darío,  Andrés Felipe, Guillermo,  Nicolás & el gordo · `youtube/2026-01-29-PdTGv5Z71SE.md` · https://www.youtube.com/watch?v=PdTGv5Z71SE
+- 2025-05-22 · E154: ¿Va ganando o perdiendo el portafolio de 10AMPRO en 2025? Descúbrelo en este análisis. · `youtube/2025-05-22-RG83P3KXJ5A.md` · https://www.youtube.com/watch?v=RG83P3KXJ5A
+- 2026-01-12 · E189: La oportunidad Colombia con Venezuela. Alejandro Salazar, Juan Carlos Pinzón. · `youtube/2026-01-12--DR93nEMG0A.md` · https://www.youtube.com/watch?v=-DR93nEMG0A
+- 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. · `youtube/2026-10-09-Zc12h2zZM4Y.md` · https://www.youtube.com/watch?v=Zc12h2zZM4Y
+- 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. 📱 · `youtube/2026-10-09-oZEJJOvUKBs.md` · https://www.youtube.com/watch?v=oZEJJOvUKBs
+- 2026-10-10 · Moscú Vende Diésel, Londres Vende Caos 🔒 · `substack/2026-10-10-moscu-vende-diesel-londres-vende.md` · https://www.10am.pro/p/moscu-vende-diesel-londres-vende
+- 2024-11-28 · E125: La nueva guerra fría. Guillermo Valencia. Macrowise & Scale · `youtube/2024-11-28-EW6XALnksjI.md` · https://www.youtube.com/watch?v=EW6XALnksjI
+- 2025-04-28 · Fed en Retraso, Solana en Crecimiento y China no sabe que hacer con Trump · `substack/2025-04-28-fed-en-retraso-solana-en-crecimiento.md` · https://www.10am.pro/p/fed-en-retraso-solana-en-crecimiento
+- 2026-01-25 · 🔨 The Hammer: Howard Lutnick y la Reconfiguración del Comercio Global · `substack/2026-01-25-the-hammer-howard-lutnick-y-la-reconfiguracion.md` · https://www.10am.pro/p/the-hammer-howard-lutnick-y-la-reconfiguracion
+- 2026-09-09 · GDP 06: El Modelo de Negocio del Caos: 500 Años de Historia en Una Milla Cuadrada 📱 · `youtube/2026-09-09-cieuSkvqRsQ.md` · https://www.youtube.com/watch?v=cieuSkvqRsQ
+- 2026-09-09 · GPD 06: El Modelo de Negocio del Caos: 500 Años de Historia en Una Milla Cuadrada · `youtube/2026-09-09-vYHOS8IYdw4.md` · https://www.youtube.com/watch?v=vYHOS8IYdw4
+- 2025-04-21 · El Pulso entre EE. UU. y China y su Impacto en los Mercados · `substack/2025-04-21-el-pulso-entre-ee-uu-y-china-y-su.md` · https://www.10am.pro/p/el-pulso-entre-ee-uu-y-china-y-su
+- 2025-04-16 · Tarifas, Tensiones y Tesoros: La Estrategia de EE.UU. y las Oportunidades de Inversión · `substack/2025-04-16-tarifas-tensiones-y-tesoros-la-estrategia.md` · https://www.10am.pro/p/tarifas-tensiones-y-tesoros-la-estrategia
+- 2024-09-19 · E113: Los Pros y contras de Elon Musk. Ernesto Montesano · `youtube/2024-09-19-jqT7uUfrOK4.md` · https://www.youtube.com/watch?v=jqT7uUfrOK4
+- 2026-09-18 · Los Midterms Pura Geopolitica  · `substack/2026-09-18-los-midterms-pura-geopolitica.md` · https://www.10am.pro/p/los-midterms-pura-geopolitica
+- 2026-03 · Posts de X @holdmybirra — 2026-03 · `x/2026-03.md` · https://x.com/holdmybirra
+- 2024-10-23 · E119: 🇺🇸 Anthony Scaramucci 🤑 55% of my networth is in Crypto · `youtube/2024-10-23-g_LWQWBtAiA.md` · https://www.youtube.com/watch?v=g_LWQWBtAiA
+
+### stablecoins (39)
+- 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
+- 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
+- 2024-01-12 · E76: Pagando en USDC con tarjetas de crédito virtuales. Equipo ZEBEC. · `youtube/2024-01-12-OMIimYPSdts.md` · https://www.youtube.com/watch?v=OMIimYPSdts
+- 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
+- 2026-01-25 · 🔨 The Hammer: Howard Lutnick y la Reconfiguración del Comercio Global · `substack/2026-01-25-the-hammer-howard-lutnick-y-la-reconfiguracion.md` · https://www.10am.pro/p/the-hammer-howard-lutnick-y-la-reconfiguracion
+- 2024-10-10 · E116: Del colegio hacia Tesla. Martín Peláez. CTO Plenti · `youtube/2024-10-10-oYRaIsFZTMg.md` · https://www.youtube.com/watch?v=oYRaIsFZTMg
+- 2025-05-04 · Señales vs Ruido y La Trilogia que me Mantiene Pobre · `substack/2025-05-04-senales-vs-ruido-y-la-trilogia-que.md` · https://www.10am.pro/p/senales-vs-ruido-y-la-trilogia-que
+- 2025-09-28 · El Arquitecto Silencioso del Dólar · `substack/2025-09-28-el-arquitecto-silencioso-del-dolar.md` · https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar
+- 2025-06-15 · El Problema de Pensar Que Estás Pensando · `substack/2025-06-15-el-problema-de-pensar-que-estas-pensando.md` · https://www.10am.pro/p/el-problema-de-pensar-que-estas-pensando
+- 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
+- 2026-04-30 · E206: ETH está sobrevalorada. Santiago Santos · `youtube/2026-04-30-cCNGqlJkjAs.md` · https://www.youtube.com/watch?v=cCNGqlJkjAs
+- 2024-10-15 · E117: Web 3 Mobile Phone only USD$99. Jambo Technology (Eng) · `youtube/2024-10-15-jzCszPj74jY.md` · https://www.youtube.com/watch?v=jzCszPj74jY
+- 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
+- 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
+- 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
+- 2024-06-13 · E98: ¿Cómo pensamos en inversiones en 10AMPRO? Mariana Botero · `youtube/2024-06-13-_emkuBiHlPk.md` · https://www.youtube.com/watch?v=_emkuBiHlPk
+- 2024-07-04 · E101: ¿Qué es Wenia?. La apuesta de Bancolombia en el mundo Crypto. Pablo Arboleda · `youtube/2024-07-04-5n6aNZKkbuU.md` · https://www.youtube.com/watch?v=5n6aNZKkbuU
+- 2025-04-03 · E147: Como traer mas usuarios al mundo cripto  Santiago R Santos. · `youtube/2025-04-03-nISXebAfY2U.md` · https://www.youtube.com/watch?v=nISXebAfY2U
+- 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
+- 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
+- 2025-04-21 · El Pulso entre EE. UU. y China y su Impacto en los Mercados · `substack/2025-04-21-el-pulso-entre-ee-uu-y-china-y-su.md` · https://www.10am.pro/p/el-pulso-entre-ee-uu-y-china-y-su
+- 2026-06-09 · El Primer Cliente Que No Respira (2nda parte) 🔒 · `substack/2026-06-09-el-primer-cliente-que-no-respira.md` · https://www.10am.pro/p/el-primer-cliente-que-no-respira
+- 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
+- 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
+- 2025-08-07 · E165: Medellín, capital crypto de Latinoamérica. Cripto Latin Fest · `youtube/2025-08-07-cgdihfnJVbY.md` · https://www.youtube.com/watch?v=cgdihfnJVbY
+
+### tokenizacion (26)
+- 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
+- 2025-09-04 · E169: Quien sepa gobernar tokens y electrones, gobernará el futuro. Gabriel Merlo 🇪🇸 · `youtube/2025-09-04-JdZCcg7QtLA.md` · https://www.youtube.com/watch?v=JdZCcg7QtLA
+- 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
+- 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
+- 2024-02-02 · E79: La minería de oro 3.0. Conectando la minería tradicional con blockchain. José Santiago Gómez. · `youtube/2024-02-02-O1W8NhtOaoQ.md` · https://www.youtube.com/watch?v=O1W8NhtOaoQ
+- 2024-02-23 · E82: Fa$il Actualizado. Resolviendo los problemas de vivienda en Latinoamérica. · `youtube/2024-02-23-RdcYgVbdnZo.md` · https://www.youtube.com/watch?v=RdcYgVbdnZo
+- 2023-06-09 · E44: Aplicando un experimento en AMM. El Tamaño del negocio de Messi. Tokenización en Real Estate. · `youtube/2023-06-09-mrl94HYW2ew.md` · https://www.youtube.com/watch?v=mrl94HYW2ew
+- 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
+- 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
+- 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
+- 2025-05-25 · El divorcio monetario: por qué la nueva guerra es contra los bonos y el refugio es Bitcoin · `substack/2025-05-25-el-divorcio-monetario-por-que-la.md` · https://www.10am.pro/p/el-divorcio-monetario-por-que-la
+- 2025-12-25 · E186: 171 % de retorno en el 2025: ¿cómo lo hicimos?. Equipo 10AMPRO · `youtube/2025-12-25-A88-_-LAlh8.md` · https://www.youtube.com/watch?v=A88-_-LAlh8
+- 2025-10-25 · The Everything Code  · `substack/2025-10-25-the-everything-code.md` · https://www.10am.pro/p/the-everything-code
+- 2025-12-21 · 🔥💃 Firedancer: La Reingeniería que Lleva a Solana al Límite de la Física · `substack/2025-12-21-firedancer-la-reingenieria-que-lleva.md` · https://www.10am.pro/p/firedancer-la-reingenieria-que-lleva
+- 2026-02-17 · Robinhood: El Puente Se Construye Más Rápido de lo que Pensé 🔒 · `substack/2026-02-17-robinhood-el-puente-se-construye.md` · https://www.10am.pro/p/robinhood-el-puente-se-construye
+- 2024-11-21 · E124: Aplicando Inteligencia Artificial en 10AMPRO. Con Felipe Aguirre. · `youtube/2024-11-21-DwwDKZPPt9I.md` · https://www.youtube.com/watch?v=DwwDKZPPt9I
+- 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
+- 2025-07-20 · Solana: El Destino Inevitable de los $700 Trillones en Mercados de Capital de Internet · `substack/2025-07-20-solana-el-destino-inevitable-de-los.md` · https://www.10am.pro/p/solana-el-destino-inevitable-de-los
+- 2025-12-06 · 3 Veces 10x: El Método Harada Aplicado para llegar a $US100 Millones · `substack/2025-12-06-3-veces-10x-el-metodo-harada-aplicado.md` · https://www.10am.pro/p/3-veces-10x-el-metodo-harada-aplicado
+- 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
+- 2023-02-18 · E27: Real estate. El gigantesco negocio inmobiliario en Estados Unidos · `youtube/2023-02-18-2X1lMXIsa0o.md` · https://www.youtube.com/watch?v=2X1lMXIsa0o
+- 2024-07-04 · E101: ¿Qué es Wenia?. La apuesta de Bancolombia en el mundo Crypto. Pablo Arboleda · `youtube/2024-07-04-5n6aNZKkbuU.md` · https://www.youtube.com/watch?v=5n6aNZKkbuU
+- 2025-01-02 · E130: Global66 logró lo que gobiernos y bancos no pudieron; unificar financieramente a Latam. · `youtube/2025-01-02-Dx8EICNFqy4.md` · https://www.youtube.com/watch?v=Dx8EICNFqy4
+- 2025-12-04 · E183: Michael Saylor, BTC y la Burbuja de la Inteligencia Artificial. Análisis Real. Sebastián Toro · `youtube/2025-12-04-BmpA_Tel6-0.md` · https://www.youtube.com/watch?v=BmpA_Tel6-0
+- 2026-07 · Posts de X @holdmybirra — 2026-07 · `x/2026-07.md` · https://x.com/holdmybirra
+
+### IA (178)
+- 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
+- 2026-07-29 · La élite de la inteligencia artificial: cinco trayectorias que están reescribiendo el siglo XXI 🔒 · `substack/2026-07-29-la-elite-de-la-inteligencia-artificial.md` · https://www.10am.pro/p/la-elite-de-la-inteligencia-artificial
+- 2024-05-03 · E92: ¿La IA será un nuevo Dios?. Gerardo Delgado. Nvidia · `youtube/2024-05-03-62xBbvvxMf4.md` · https://www.youtube.com/watch?v=62xBbvvxMf4
+- 2026-09-13 · Diez Mil Agentes Resuelven un Problema de 200 Años 🔒 · `substack/2026-09-13-la-humanidad-perdio-el-monopolio.md` · https://www.10am.pro/p/la-humanidad-perdio-el-monopolio
+- 2025-01-23 · E134: La era del Solopreneur. ¿Cómo cambiar una nómina de 5 personas en agentes de AI? Dario Palacio · `youtube/2025-01-23-3rzUODpb6Oo.md` · https://www.youtube.com/watch?v=3rzUODpb6Oo
+- 2024-11-21 · E124: Aplicando Inteligencia Artificial en 10AMPRO. Con Felipe Aguirre. · `youtube/2024-11-21-DwwDKZPPt9I.md` · https://www.youtube.com/watch?v=DwwDKZPPt9I
+- 2026-06-09 · El Primer Cliente Que No Respira (2nda parte) 🔒 · `substack/2026-06-09-el-primer-cliente-que-no-respira.md` · https://www.10am.pro/p/el-primer-cliente-que-no-respira
+- 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
+- 2024-07-11 · E102: Entre Matrix y Nostradamus. Camilo Botero · `youtube/2024-07-11-quDaRVKfNSo.md` · https://www.youtube.com/watch?v=quDaRVKfNSo
+- 2026-02-24 · Estamos Usando Solo el 5% de Claude Code 🔒 · `substack/2026-02-24-estamos-usando-solo-el-5-de-claude.md` · https://www.10am.pro/p/estamos-usando-solo-el-5-de-claude
+- 2026-03-05 · E198: 2028 🤯  el año que todos quedaremos sin trabajo · `youtube/2026-03-05-5QWEatCbScI.md` · https://www.youtube.com/watch?v=5QWEatCbScI
+- 2024-05-22 · 10AM Pro Live Stream  en EAFIT & NODO · `youtube/2024-05-22-acsHNNn51zc.md` · https://www.youtube.com/watch?v=acsHNNn51zc
+- 2026-02-06 · E193:  Mercados en Ebullición + IA Autónoma: OpenClaw🦞  toma el control (vs Claude y Gemini) · `youtube/2026-02-06-pNrD2sFMYXU.md` · https://www.youtube.com/watch?v=pNrD2sFMYXU
+- 2026-02-12 · E194: Un meteorito  ☄️ llamado Inteligencia Artificial 🤖. · `youtube/2026-02-12-ticA_GG3M4w.md` · https://www.youtube.com/watch?v=ticA_GG3M4w
+- 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
+- 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
+- 2025-11-06 · E178: La era de la abundancia. Gerardo Delgado / Nvidia · `youtube/2025-11-06-QgWVt-cLwHs.md` · https://www.youtube.com/watch?v=QgWVt-cLwHs
+- 2026-09-23 · Elon Musk vs Tony Stark: Cuando la Realidad Supera la Ciencia Ficción  🔒 · `substack/2026-09-23-elon-musk-vs-tony-stark-cuando-la.md` · https://www.10am.pro/p/elon-musk-vs-tony-stark-cuando-la
+- 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
+- 2022-12-16 · E18: Novedades AI. ¿Cuál es el verdadero Morgan Freeman? OTTER, mi propia asistente AI. ¿Qué es MEV? · `youtube/2022-12-16-fAXriA9gQHo.md` · https://www.youtube.com/watch?v=fAXriA9gQHo
+- 2025-12-04 · E183: Michael Saylor, BTC y la Burbuja de la Inteligencia Artificial. Análisis Real. Sebastián Toro · `youtube/2025-12-04-BmpA_Tel6-0.md` · https://www.youtube.com/watch?v=BmpA_Tel6-0
+- 2023-04-14 · E36: Aumenta tu productividad con ChatGPT 🤖 : Ejemplos prácticos de uso en la vida real 💪 · `youtube/2023-04-14-THrWSI4Lq2U.md` · https://www.youtube.com/watch?v=THrWSI4Lq2U
+- 2025-02-06 · E137: Modelos mentales. Equipo 10AMPRO · `youtube/2025-02-06-U-Tk9XzfWrQ.md` · https://www.youtube.com/watch?v=U-Tk9XzfWrQ
+- 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
+- 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
+
+### longevidad (52)
+- 2026-05-06 · La Cárcel de los Péptidos  🔒 · `substack/2026-05-06-el-negocio-mas-grande-del-que-nadie.md` · https://www.10am.pro/p/el-negocio-mas-grande-del-que-nadie
+- 2026-07-02 · E215: Biología es el nuevo código. Antonio Linares · `youtube/2026-07-02-Sda5CFB56vI.md` · https://www.youtube.com/watch?v=Sda5CFB56vI
+- 2026-05-14 · E208: Esto es más grande que Palantir a USD 7. Antonio Linares · `youtube/2026-05-14-6j1_HGpUX2s.md` · https://www.youtube.com/watch?v=6j1_HGpUX2s
+- 2025-04-24 · E150: ¿HIMS el próximo 10X? Antonio Linares · `youtube/2025-04-24-jB-Qew9B9_o.md` · https://www.youtube.com/watch?v=jB-Qew9B9_o
+- 2026-05-13 · La Cadena 🔒 · `substack/2026-05-13-la-cadena.md` · https://www.10am.pro/p/la-cadena
+- 2026-09-24 · El Día D - La Previa 📱 · `youtube/2026-09-24-ZQNgnwr8FD4.md` · https://www.youtube.com/watch?v=ZQNgnwr8FD4
+- 2026-09-24 · El Día D - La Previa · `youtube/2026-09-24-i4ST73gS5yA.md` · https://www.youtube.com/watch?v=i4ST73gS5yA
+- 2026-07-01 · Biology is Code 🔒 · `substack/2026-07-01-biology-is-code.md` · https://www.10am.pro/p/biology-is-code
+- 2026-10-11 · ¿El Próximo 100x? 🔒 · `substack/2026-10-11-el-proximo-100x.md` · https://www.10am.pro/p/el-proximo-100x
+- 2025-05-08 · E152: ¿Se puede hackear el cuerpo humano? Biohacking explicado por Camilo Ospina · `youtube/2025-05-08-k62kyfR8D8o.md` · https://www.youtube.com/watch?v=k62kyfR8D8o
+- 2026-03-05 · E198: 2028 🤯  el año que todos quedaremos sin trabajo · `youtube/2026-03-05-5QWEatCbScI.md` · https://www.youtube.com/watch?v=5QWEatCbScI
+- 2026-06-18 · E213: SpaceX. El mayor IPO de la última década y lo que significa para los portafolios de inversión. · `youtube/2026-06-18-Bclu6jOdid4.md` · https://www.youtube.com/watch?v=Bclu6jOdid4
+- 2026-08-17 · HIMS, Q2 2026: Longevity as a Service 🔒 · `substack/2026-08-17-hims-q2-2026-longevity-as-a-service.md` · https://www.10am.pro/p/hims-q2-2026-longevity-as-a-service
+- 2026-08-20 · E221: Sin ontología médica no llegarás a los 100 años. · `youtube/2026-08-20-QqYWsOm3zd4.md` · https://www.youtube.com/watch?v=QqYWsOm3zd4
+- 2025-11-01 · AI + Biología = Quantum-Si · `substack/2025-11-01-quantum-si-cuando-la-biologia-se.md` · https://www.10am.pro/p/quantum-si-cuando-la-biologia-se
+- 2024-12-19 · E128: ¿Cómo vivir 100 años?. Andrés Palacio. · `youtube/2024-12-19-VU8otWdoAqI.md` · https://www.youtube.com/watch?v=VU8otWdoAqI
+- 2026-05-27 · Munger Nunca Pisó un Gimnasio 🔒 · `substack/2026-05-27-el-algoritmo-de-la-longevidad-es.md` · https://www.10am.pro/p/el-algoritmo-de-la-longevidad-es
+- 2024-05-03 · E92: ¿La IA será un nuevo Dios?. Gerardo Delgado. Nvidia · `youtube/2024-05-03-62xBbvvxMf4.md` · https://www.youtube.com/watch?v=62xBbvvxMf4
+- 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
+- 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. · `youtube/2026-10-09-Zc12h2zZM4Y.md` · https://www.youtube.com/watch?v=Zc12h2zZM4Y
+- 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. 📱 · `youtube/2026-10-09-oZEJJOvUKBs.md` · https://www.youtube.com/watch?v=oZEJJOvUKBs
+- 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
+- 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
+- 2026-09-27 · HIMS No Es Telemedicina 🔒 · `substack/2026-09-27-hims-no-es-telemedicina.md` · https://www.10am.pro/p/hims-no-es-telemedicina
+- 2026-10-04 · El Día con Más Inteligencia que Ha Vivido Medellín · `substack/2026-10-04-unos-acumulan-activos-otros-acumulan.md` · https://www.10am.pro/p/unos-acumulan-activos-otros-acumulan
+
+### colombia (257)
+- 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU
+- 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
+- 2025-08-28 · E168: La urgencia de la Colombia ganadora. Sebastián Salazar. Estrategia Emergente · `youtube/2025-08-28-FykuBZB69KU.md` · https://www.youtube.com/watch?v=FykuBZB69KU
+- 2026-01-12 · E189: La oportunidad Colombia con Venezuela. Alejandro Salazar, Juan Carlos Pinzón. · `youtube/2026-01-12--DR93nEMG0A.md` · https://www.youtube.com/watch?v=-DR93nEMG0A
+- 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
+- 2023-11-24 · E69: Medellín 10X. Cómo multiplicar por 10 el PIB de la ciudad de Medellín - Colombia 🇨🇴 en 5 años. · `youtube/2023-11-24-53WSW_h3eew.md` · https://www.youtube.com/watch?v=53WSW_h3eew
+- 2026-04-09 · E203: Experiencia VS Intuición · `youtube/2026-04-09-Lrrwxijp9oY.md` · https://www.youtube.com/watch?v=Lrrwxijp9oY
+- 2023-07-07 · E48: El próximo México del mundo debería ser Colombia. Alejandro Salazar · `youtube/2023-07-07-sfubzaa5cBM.md` · https://www.youtube.com/watch?v=sfubzaa5cBM
+- 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
+- 2026-08-15 · Inteligencia colectiva con Colombia · `youtube/2026-08-15-k7hgZ_hY4IY.md` · https://www.youtube.com/watch?v=k7hgZ_hY4IY
+- 2025-05-01 · E151: ¡He hecho 20 veces más por la igualdad que cualquier político de izquierda!. Enrique Peñalosa · `youtube/2025-05-01-dB5jNR8By4E.md` · https://www.youtube.com/watch?v=dB5jNR8By4E
+- 2026-06-25 · E214: EPM. Empresas Políticas de Medellín. · `youtube/2026-06-25-6a19WXpUedM.md` · https://www.youtube.com/watch?v=6a19WXpUedM
+- 2023-12-08 · E71: ¿Jaque al metro de Medellín?. Ramiro Valencia · `youtube/2023-12-08-MbxpIEolyvo.md` · https://www.youtube.com/watch?v=MbxpIEolyvo
+- 2024-01-19 · E77: "A Medellín se la robaron, pero la vamos a recuperar". Sebastian López. Concejal de Medellín. · `youtube/2024-01-19-f2llI_SjCHE.md` · https://www.youtube.com/watch?v=f2llI_SjCHE
+- 2023-11-10 · E67: Medellín, epicentro mundial de AirBnB · `youtube/2023-11-10-qcarRIrQd70.md` · https://www.youtube.com/watch?v=qcarRIrQd70
+- 2023-07-28 · E51: La Medellín que nos soñamos. Lucas Gómez Cuartas · `youtube/2023-07-28-ZndwNhc68gY.md` · https://www.youtube.com/watch?v=ZndwNhc68gY
+- 2025-09-18 · E171: 216 entidades que sobran en Colombia: la propuesta de Daniel Raisbeck contra la corrupción. · `youtube/2025-09-18-J7dS5RTHCy4.md` · https://www.youtube.com/watch?v=J7dS5RTHCy4
+- 2023-12-01 · E70: La Bolsa de Valores de Colombia es apenas el 25% de un MemeCoin. · `youtube/2023-12-01-L2jSZP_uVuI.md` · https://www.youtube.com/watch?v=L2jSZP_uVuI
+- 2026-04-02 · E202: La importancia de tener un segundo pasaporte. · `youtube/2026-04-02-INPeQX7Ex9Q.md` · https://www.youtube.com/watch?v=INPeQX7Ex9Q
+- 2024-12-05 · E126: Santiago Botero se lanza a la presidencia de 🇨🇴 con ideas  de Milei, Bukele y Trump · `youtube/2024-12-05-RjozFTf6Sqk.md` · https://www.youtube.com/watch?v=RjozFTf6Sqk
+- 2023-04-07 · E34: Preocupados por Medellín en 10ampro · `youtube/2023-04-07-0X7H6fX4bWc.md` · https://www.youtube.com/watch?v=0X7H6fX4bWc
+- 2025-08-07 · E165: Medellín, capital crypto de Latinoamérica. Cripto Latin Fest · `youtube/2025-08-07-cgdihfnJVbY.md` · https://www.youtube.com/watch?v=cgdihfnJVbY
+- 2023-09-15 · E58: Cara a cara con Pablo Escobar y el enredo de HidroItuango. Ramiro Valencia · `youtube/2023-09-15-dNuTQDTk5kI.md` · https://www.youtube.com/watch?v=dNuTQDTk5kI
+- 2026-07-09 · E216: Open Finance. La importancia de Colombia FIntech. Gabriel Santos. · `youtube/2026-07-09-6eVtzS0f88k.md` · https://www.youtube.com/watch?v=6eVtzS0f88k
+- 2023-03-31 · E33: De $100M a $150,000M en real estate usando tiktok con Lucas Gómez Cuartas · `youtube/2023-03-31-cSRjWJudzZE.md` · https://www.youtube.com/watch?v=cSRjWJudzZE
+
+### hurdle_rate (5)
+- 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
+- 2026-09-24 · El Día D - La Previa 📱 · `youtube/2026-09-24-ZQNgnwr8FD4.md` · https://www.youtube.com/watch?v=ZQNgnwr8FD4
+- 2026-09-24 · El Día D - La Previa · `youtube/2026-09-24-i4ST73gS5yA.md` · https://www.youtube.com/watch?v=i4ST73gS5yA
+- 2025-11-13 · E179: ¿Mi negocio es mejor inversión que invertir en Bitcoin?. Equipo 10AMPRO · `youtube/2025-11-13-nl1AGKDaRXM.md` · https://www.youtube.com/watch?v=nl1AGKDaRXM
+- 2026-10-12 · La Regla del 5% · `substack/2026-10-12-nunca-vendo-la-mas-grande.md` · https://www.10am.pro/p/nunca-vendo-la-mas-grande
+
+### tesis_10x (67)
+- 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
+- 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
+- 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
+- 2025-03-27 · E146: La psicología del inversor. Camilo Botero · `youtube/2025-03-27-LRCB75R5mrs.md` · https://www.youtube.com/watch?v=LRCB75R5mrs
+- 2025-12-06 · 3 Veces 10x: El Método Harada Aplicado para llegar a $US100 Millones · `substack/2025-12-06-3-veces-10x-el-metodo-harada-aplicado.md` · https://www.10am.pro/p/3-veces-10x-el-metodo-harada-aplicado
+- 2026-10-12 · La Regla del 5% · `substack/2026-10-12-nunca-vendo-la-mas-grande.md` · https://www.10am.pro/p/nunca-vendo-la-mas-grande
+- 2025-01-30 · E136: Las predicciones de 10AMPRO para el 2025. Equipo 10AMPRO · `youtube/2025-01-30-4RfzDtrKKnI.md` · https://www.youtube.com/watch?v=4RfzDtrKKnI
+- 2024-10-31 · E120: 🚙 Rivian, el próximo Tesla 🤯. Antonio Linares. · `youtube/2024-10-31-JVQ45TkT0sM.md` · https://www.youtube.com/watch?v=JVQ45TkT0sM
+- 2025-10-02 · E173: En el mundo de la energía, todo gira en torno al cobre. Nicolás Peláez. · `youtube/2025-10-02-snuwsCnIE1o.md` · https://www.youtube.com/watch?v=snuwsCnIE1o
+- 2026-08-02 · Robinhood: El Puente Ya Tiene 13 Carriles · `substack/2026-08-02-robinhood-el-puente-ya-tiene-13-carriles.md` · https://www.10am.pro/p/robinhood-el-puente-ya-tiene-13-carriles
+- 2024-08-01 · E105: ¿Cómo pensar en 1000x? Javier Villamizar, Softbank. · `youtube/2024-08-01-VN1OIzdttrM.md` · https://www.youtube.com/watch?v=VN1OIzdttrM
+- 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
+- 2025-04-12 · ¿Y si el riesgo real fuera no arriesgar? · `substack/2025-04-12-y-si-el-riesgo-real-fuera-no-arriesgar.md` · https://www.10am.pro/p/y-si-el-riesgo-real-fuera-no-arriesgar
+- 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
+- 2024-12-12 · E127: ¿Se cumplieron las predicciones financieras en 10AMPRO?. Equipo 10AMPRO · `youtube/2024-12-12--nbXdwXnGnA.md` · https://www.youtube.com/watch?v=-nbXdwXnGnA
+- 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU
+- 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
+- 2025-05-18 · Trump 2.0: la quimioterapia del sistema financiero global · `substack/2025-05-18-trump-20-la-quimioterapia-del-sistema.md` · https://www.10am.pro/p/trump-20-la-quimioterapia-del-sistema
+- 2026-03-24 · La Droga Más Peligrosa Es un Salario Cómodo 🔒 · `substack/2026-03-24-la-droga-mas-peligrosa-es-un-salario.md` · https://www.10am.pro/p/la-droga-mas-peligrosa-es-un-salario
+- 2026-04-27 · De $21M a $3.7B en un Sábado  🔒 · `substack/2026-04-27-cuando-wall-street-duerme.md` · https://www.10am.pro/p/cuando-wall-street-duerme
+- 2023-11-24 · E69: Medellín 10X. Cómo multiplicar por 10 el PIB de la ciudad de Medellín - Colombia 🇨🇴 en 5 años. · `youtube/2023-11-24-53WSW_h3eew.md` · https://www.youtube.com/watch?v=53WSW_h3eew
+- 2026-01-12 · E189: La oportunidad Colombia con Venezuela. Alejandro Salazar, Juan Carlos Pinzón. · `youtube/2026-01-12--DR93nEMG0A.md` · https://www.youtube.com/watch?v=-DR93nEMG0A
+- 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
+- 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
+- 2025-07-06 · Tesla Será la Compañía mas Valiosa del Mundo · `substack/2025-07-06-tesla-sera-la-compania-mas-valiosa.md` · https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa
+
+### portafolio (87)
+- 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
+- 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
+- 2025-01-30 · E136: Las predicciones de 10AMPRO para el 2025. Equipo 10AMPRO · `youtube/2025-01-30-4RfzDtrKKnI.md` · https://www.youtube.com/watch?v=4RfzDtrKKnI
+- 2025-05-22 · E154: ¿Va ganando o perdiendo el portafolio de 10AMPRO en 2025? Descúbrelo en este análisis. · `youtube/2025-05-22-RG83P3KXJ5A.md` · https://www.youtube.com/watch?v=RG83P3KXJ5A
+- 2025-12-25 · E186: 171 % de retorno en el 2025: ¿cómo lo hicimos?. Equipo 10AMPRO · `youtube/2025-12-25-A88-_-LAlh8.md` · https://www.youtube.com/watch?v=A88-_-LAlh8
+- 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
+- 2024-12-12 · E127: ¿Se cumplieron las predicciones financieras en 10AMPRO?. Equipo 10AMPRO · `youtube/2024-12-12--nbXdwXnGnA.md` · https://www.youtube.com/watch?v=-nbXdwXnGnA
+- 2025-05-15 · E153: Desmembrando y entendiendo la industria de Venture Capital. Equipo Veronorte · `youtube/2025-05-15-SckLdB_VCwo.md` · https://www.youtube.com/watch?v=SckLdB_VCwo
+- 2026-10-12 · La Regla del 5% · `substack/2026-10-12-nunca-vendo-la-mas-grande.md` · https://www.10am.pro/p/nunca-vendo-la-mas-grande
+- 2023-12-15 · E72: Así se hace el verdadero Silicon Valley. De ropa interior femenina a robots. Esteban Urrea · `youtube/2023-12-15--9MlwpzhsLc.md` · https://www.youtube.com/watch?v=-9MlwpzhsLc
+- 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
+- 2025-02-06 · E137: Modelos mentales. Equipo 10AMPRO · `youtube/2025-02-06-U-Tk9XzfWrQ.md` · https://www.youtube.com/watch?v=U-Tk9XzfWrQ
+- 2025-11-13 · E179: ¿Mi negocio es mejor inversión que invertir en Bitcoin?. Equipo 10AMPRO · `youtube/2025-11-13-nl1AGKDaRXM.md` · https://www.youtube.com/watch?v=nl1AGKDaRXM
+- 2025-12-04 · E183: Michael Saylor, BTC y la Burbuja de la Inteligencia Artificial. Análisis Real. Sebastián Toro · `youtube/2025-12-04-BmpA_Tel6-0.md` · https://www.youtube.com/watch?v=BmpA_Tel6-0
+- 2026-08-06 · ALPHA 01: El portafolio de inversión de Hernán Jaramillo. · `youtube/2026-08-06-s2JUr6VMnHo.md` · https://www.youtube.com/watch?v=s2JUr6VMnHo
+- 2025-02-13 · E138: ¿Cómo activar D.O.G.E en Colombia?. Mauricio Cardenas · `youtube/2025-02-13-A0mh0i4RauM.md` · https://www.youtube.com/watch?v=A0mh0i4RauM
+- 2026-06-18 · E213: SpaceX. El mayor IPO de la última década y lo que significa para los portafolios de inversión. · `youtube/2026-06-18-Bclu6jOdid4.md` · https://www.youtube.com/watch?v=Bclu6jOdid4
+- 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
+- 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
+- 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
+- 2026-08-13 · E220: Solo invertimos donde exista impacto económico. VeroNorte · `youtube/2026-08-13-51LweNLGXh4.md` · https://www.youtube.com/watch?v=51LweNLGXh4
+- 2026-09-24 · El Día D - La Previa 📱 · `youtube/2026-09-24-ZQNgnwr8FD4.md` · https://www.youtube.com/watch?v=ZQNgnwr8FD4
+- 2026-09-24 · El Día D - La Previa · `youtube/2026-09-24-i4ST73gS5yA.md` · https://www.youtube.com/watch?v=i4ST73gS5yA
+- 2025-12-13 · Recalibrando el Algoritmo del 10x · `substack/2025-12-13-recalibrando-el-algoritmo-del-10x.md` · https://www.10am.pro/p/recalibrando-el-algoritmo-del-10x
+- 2026-09-13 · Diez Mil Agentes Resuelven un Problema de 200 Años 🔒 · `substack/2026-09-13-la-humanidad-perdio-el-monopolio.md` · https://www.10am.pro/p/la-humanidad-perdio-el-monopolio
+
+### memecoins (11)
+- 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
+- 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
+- 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
+- 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
+- 2024-11-14 · E123: I never look at price. Kyle Samani - Multicoin Capital · `youtube/2024-11-14-CQB6erpyd6Y.md` · https://www.youtube.com/watch?v=CQB6erpyd6Y
+- 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
+- 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
+- 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
+- 2023-01-06 · E21: El mundo #crypto se enloquece con #bonk. Jugando y ganando #dinero con #blockchain #solana · `youtube/2023-01-06-e6X31OI7Ihs.md` · https://www.youtube.com/watch?v=e6X31OI7Ihs
+- 2023-12-01 · E70: La Bolsa de Valores de Colombia es apenas el 25% de un MemeCoin. · `youtube/2023-12-01-L2jSZP_uVuI.md` · https://www.youtube.com/watch?v=L2jSZP_uVuI
+- 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
+
+### energia (183)
+- 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
+- 2025-06-19 · E158: Los países ricos ya eligieron: ⚛️ Energía Nuclear . Lisandro Pérez 🇦🇷 · `youtube/2025-06-19-wXSM3Qb3eC4.md` · https://www.youtube.com/watch?v=wXSM3Qb3eC4
+- 2025-07-10 · E161: ⚠️ Crisis energética. Colombia al borde de un gran apagón 🚨| Natalia Gutiérrez, ACOLGEN · `youtube/2025-07-10-Rs0PsVFgP14.md` · https://www.youtube.com/watch?v=Rs0PsVFgP14
+- 2026-04-17 · Energy Valley: El Hub energético de Latinoamérica. El plan maestro de Medellín. · `youtube/2026-04-17-ZHvIZRE1I38.md` · https://www.youtube.com/watch?v=ZHvIZRE1I38
+- 2026-08-13 · E220: Solo invertimos donde exista impacto económico. VeroNorte · `youtube/2026-08-13-51LweNLGXh4.md` · https://www.youtube.com/watch?v=51LweNLGXh4
+- 2025-01-30 · E136: Las predicciones de 10AMPRO para el 2025. Equipo 10AMPRO · `youtube/2025-01-30-4RfzDtrKKnI.md` · https://www.youtube.com/watch?v=4RfzDtrKKnI
+- 2026-03-26 · E201: Medellín tiene que convertirse en el Energy Valley. Ricardo Sierra · `youtube/2026-03-26-w-JmwyOLuU8.md` · https://www.youtube.com/watch?v=w-JmwyOLuU8
+- 2026-06-04 · E211: ¿Dónde puedo cargar la batería de mi Tesla? · `youtube/2026-06-04-PgZE20FHhdo.md` · https://www.youtube.com/watch?v=PgZE20FHhdo
+- 2024-11-28 · E125: La nueva guerra fría. Guillermo Valencia. Macrowise & Scale · `youtube/2024-11-28-EW6XALnksjI.md` · https://www.youtube.com/watch?v=EW6XALnksjI
+- 2022-10-21 · E10: El negocio detrás de Onlyfans. ¿Dónde, cómo y qué tan rentable es minar un bitcoin? ¿Es viable? · `youtube/2022-10-21-dV1EZSv7MG0.md` · https://www.youtube.com/watch?v=dV1EZSv7MG0
+- 2026-01-12 · E189: La oportunidad Colombia con Venezuela. Alejandro Salazar, Juan Carlos Pinzón. · `youtube/2026-01-12--DR93nEMG0A.md` · https://www.youtube.com/watch?v=-DR93nEMG0A
+- 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
+- 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
+- 2025-01-16 · E132: Es más barato lanzar cohetes 🚀 desde Antioquia-Colombia 🇨🇴  , que desde Texas. Diego Jiménez · `youtube/2025-01-16-sjKZP7K1DEs.md` · https://www.youtube.com/watch?v=sjKZP7K1DEs
+- 2026-03-19 · E200: Irán 🇮🇷 , petróleo🛢️, dólar 💵 y drones. Hernán, Darío, Guillermo, Andrés Felipe y El Gordo. · `youtube/2026-03-19-QbS-TGwMuw0.md` · https://www.youtube.com/watch?v=QbS-TGwMuw0
+- 2026-06-25 · E214: EPM. Empresas Políticas de Medellín. · `youtube/2026-06-25-6a19WXpUedM.md` · https://www.youtube.com/watch?v=6a19WXpUedM
+- 2026-04-16 · E204: 🇮🇷 Irán, Donald Trump y El Estrecho de Ormuz. · `youtube/2026-04-16-HhBfwrQyvwA.md` · https://www.youtube.com/watch?v=HhBfwrQyvwA
+- 2026-02-28 · E197: El voto más caro: Un Estado grande que no entiende el impacto de IA y energía · `youtube/2026-02-28-YAzGwBJ9nns.md` · https://www.youtube.com/watch?v=YAzGwBJ9nns
+- 2024-04-12 · E89: Blockchain crece el doble de rápido que Internet y Bitcoin es la clave. Camilo Botero · `youtube/2024-04-12-fqkU9B5Ie6s.md` · https://www.youtube.com/watch?v=fqkU9B5Ie6s
+- 2026-08-15 · Inteligencia colectiva con Colombia · `youtube/2026-08-15-k7hgZ_hY4IY.md` · https://www.youtube.com/watch?v=k7hgZ_hY4IY
+- 2026-09-17 · Crisis energética en Colombia. El gas que necesitamos. Alberto Consuegra. E225 · `youtube/2026-09-17-SfYAGq1QPrA.md` · https://www.youtube.com/watch?v=SfYAGq1QPrA
+- 2026-10-10 · Moscú Vende Diésel, Londres Vende Caos 🔒 · `substack/2026-10-10-moscu-vende-diesel-londres-vende.md` · https://www.10am.pro/p/moscu-vende-diesel-londres-vende
+- 2025-10-02 · E173: En el mundo de la energía, todo gira en torno al cobre. Nicolás Peláez. · `youtube/2025-10-02-snuwsCnIE1o.md` · https://www.youtube.com/watch?v=snuwsCnIE1o
+- 2025-09-11 · E170: Recuperar la Seguridad en Colombia, Juan Carlos Pinzón. · `youtube/2025-09-11-pIFL87LviIs.md` · https://www.youtube.com/watch?v=pIFL87LviIs
+- 2023-08-24 · Antioquia quiere impulsar a Bitcoin con Mauricio Tobón candidato a la Gobernación · `youtube/2023-08-24-37IYNFAGK_U.md` · https://www.youtube.com/watch?v=37IYNFAGK_U
+
+### emprendimiento (130)
+- 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
+- 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
+- 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
+- 2023-12-15 · E72: Así se hace el verdadero Silicon Valley. De ropa interior femenina a robots. Esteban Urrea · `youtube/2023-12-15--9MlwpzhsLc.md` · https://www.youtube.com/watch?v=-9MlwpzhsLc
+- 2024-10-03 · E115: El enroque entre los hermanos Bilbao. Daniel Bilbao. CEO Truora. · `youtube/2024-10-03-DFvTZhs37LI.md` · https://www.youtube.com/watch?v=DFvTZhs37LI
+- 2026-04-09 · E203: Experiencia VS Intuición · `youtube/2026-04-09-Lrrwxijp9oY.md` · https://www.youtube.com/watch?v=Lrrwxijp9oY
+- 2024-04-19 · E90: La enfermedad del emprendedor: La mente. Andrés Bilbao · `youtube/2024-04-19-0xNpgqntDMk.md` · https://www.youtube.com/watch?v=0xNpgqntDMk
+- 2024-03-22 · E86: Motobombas igual Silicon Valley · `youtube/2024-03-22-8N_hbD83GM8.md` · https://www.youtube.com/watch?v=8N_hbD83GM8
+- 2023-05-12 · E40: Banco líder de Colombia invierte en HomeCapital. Los nuevos emprendedores, con Alejandro Franco · `youtube/2023-05-12-vWspqxoVOFs.md` · https://www.youtube.com/watch?v=vWspqxoVOFs
+- 2024-03-15 · E85: Creando un fondo de inversión en Estados Unidos. Zenda Capital. Esteban Reyes · `youtube/2024-03-15-CtVGDRnPzU0.md` · https://www.youtube.com/watch?v=CtVGDRnPzU0
+- 2023-07-14 · E49: Hernán Kazah. De fundador de Mercado Libre a crear el fondo de inversión mas grande de Latam. · `youtube/2023-07-14-1xKVc5ZSncQ.md` · https://www.youtube.com/watch?v=1xKVc5ZSncQ
+- 2024-08-01 · E105: ¿Cómo pensar en 1000x? Javier Villamizar, Softbank. · `youtube/2024-08-01-VN1OIzdttrM.md` · https://www.youtube.com/watch?v=VN1OIzdttrM
+- 2025-05-29 · E155: De mecánico de aviones a vender su empresa a MasterCard 🛫💰 | La historia de Edrizo de la Cruz · `youtube/2025-05-29-3qhuAm8ITNc.md` · https://www.youtube.com/watch?v=3qhuAm8ITNc
+- 2023-05-26 · E42: Antioquia, tierra de empresarios. Recorriendo la historia de Medellín y sus empresas. · `youtube/2023-05-26-Q2A4keEA8iE.md` · https://www.youtube.com/watch?v=Q2A4keEA8iE
+- 2025-11-20 · E181: ¿Transformas o te transforman? El nuevo reto de Wilder Zapata. · `youtube/2025-11-20-mIa8NiQT9lY.md` · https://www.youtube.com/watch?v=mIa8NiQT9lY
+- 2024-12-05 · E126: Santiago Botero se lanza a la presidencia de 🇨🇴 con ideas  de Milei, Bukele y Trump · `youtube/2024-12-05-RjozFTf6Sqk.md` · https://www.youtube.com/watch?v=RjozFTf6Sqk
+- 2025-01-02 · E130: Global66 logró lo que gobiernos y bancos no pudieron; unificar financieramente a Latam. · `youtube/2025-01-02-Dx8EICNFqy4.md` · https://www.youtube.com/watch?v=Dx8EICNFqy4
+- 2026-03-24 · La Droga Más Peligrosa Es un Salario Cómodo 🔒 · `substack/2026-03-24-la-droga-mas-peligrosa-es-un-salario.md` · https://www.10am.pro/p/la-droga-mas-peligrosa-es-un-salario
+- 2025-01-23 · E134: La era del Solopreneur. ¿Cómo cambiar una nómina de 5 personas en agentes de AI? Dario Palacio · `youtube/2025-01-23-3rzUODpb6Oo.md` · https://www.youtube.com/watch?v=3rzUODpb6Oo
+- 2025-02-13 · E138: ¿Cómo activar D.O.G.E en Colombia?. Mauricio Cardenas · `youtube/2025-02-13-A0mh0i4RauM.md` · https://www.youtube.com/watch?v=A0mh0i4RauM
+- 2025-11-16 · E180: Solana, Palantir y Tesla. Equipo 10AMPRO · `youtube/2025-11-16-FpcWtNhmDWY.md` · https://www.youtube.com/watch?v=FpcWtNhmDWY
+- 2026-04-15 · No Es Lloradera. Es Física · `substack/2026-04-15-no-es-lloradera-es-opcionalidad.md` · https://www.10am.pro/p/no-es-lloradera-es-opcionalidad
+- 2024-10-10 · E116: Del colegio hacia Tesla. Martín Peláez. CTO Plenti · `youtube/2024-10-10-oYRaIsFZTMg.md` · https://www.youtube.com/watch?v=oYRaIsFZTMg
+- 2025-01-09 · E131: Rigo 🚴 de campeón a empresario. Rigoberto Urán. · `youtube/2025-01-09-e2W3VLvf2YU.md` · https://www.youtube.com/watch?v=e2W3VLvf2YU
+- 2023-07-21 · E50: El padrino del conocimiento ALPHA, Joe McCann, fundador de Node.JS y Asymmetric Capital. · `youtube/2023-07-21-SHEyv89MvM4.md` · https://www.youtube.com/watch?v=SHEyv89MvM4
+
+## Substack (todos)
+
+- 2026-10-14 · ¡El DIA D EN VIVO! - 14 de Octubre de 2026 · `substack/2026-10-14-el-dia-d-en-vivo-14-de-octubre-de.md` · https://www.10am.pro/p/el-dia-d-en-vivo-14-de-octubre-de
+- 2026-10-12 · La Regla del 5% · `substack/2026-10-12-nunca-vendo-la-mas-grande.md` · https://www.10am.pro/p/nunca-vendo-la-mas-grande · temas: HIMS, tesis_10x, PLTR, portafolio, hurdle_rate, HOOD
+- 2026-10-11 · ¿El Próximo 100x? 🔒 · `substack/2026-10-11-el-proximo-100x.md` · https://www.10am.pro/p/el-proximo-100x · temas: longevidad, HIMS, IA, PLTR, portafolio, TSLA
+- 2026-10-10 · El Estado colombiano es un animal insaciable. Daniel Briceño. E229 🔒 · `substack/2026-10-10-el-estado-colombiano-es-un-animal.md` · https://www.10am.pro/p/el-estado-colombiano-es-un-animal
+- 2026-10-10 · Moscú Vende Diésel, Londres Vende Caos 🔒 · `substack/2026-10-10-moscu-vende-diesel-londres-vende.md` · https://www.10am.pro/p/moscu-vende-diesel-londres-vende · temas: geopolitica, energia, macro, IA, PLTR, Bessent
+- 2026-10-04 · El Día con Más Inteligencia que Ha Vivido Medellín · `substack/2026-10-04-unos-acumulan-activos-otros-acumulan.md` · https://www.10am.pro/p/unos-acumulan-activos-otros-acumulan · temas: PLTR, IA, geopolitica, colombia, SOL, energia
+- 2026-10-03 · El verdadero enemigo de Colombia no es la desigualdad. Es la pobreza. E228 · `substack/2026-10-03-el-verdadero-enemigo-de-colombia.md` · https://www.10am.pro/p/el-verdadero-enemigo-de-colombia
+- 2026-09-27 · HIMS No Es Telemedicina 🔒 · `substack/2026-09-27-hims-no-es-telemedicina.md` · https://www.10am.pro/p/hims-no-es-telemedicina · temas: HIMS, PLTR, longevidad, IA, HOOD
+- 2026-09-26 · ¿Por qué el Estado te cobra por vivir en tu propia casa? E227 · `substack/2026-09-26-por-que-el-estado-te-cobra-por-vivir.md` · https://www.10am.pro/p/por-que-el-estado-te-cobra-por-vivir
+- 2026-09-23 · Elon Musk vs Tony Stark: Cuando la Realidad Supera la Ciencia Ficción  🔒 · `substack/2026-09-23-elon-musk-vs-tony-stark-cuando-la.md` · https://www.10am.pro/p/elon-musk-vs-tony-stark-cuando-la · temas: TSLA, IA, SpaceX, energia, colombia, portafolio
+- 2026-09-20 · Dolarización en Colombia: Por qué dolarizar Colombia cambiaría tu dinero para siempre. E226 · `substack/2026-09-20-dolarizacion-en-colombia-por-que.md` · https://www.10am.pro/p/dolarizacion-en-colombia-por-que · temas: colombia
+- 2026-09-18 · Los Midterms Pura Geopolitica  · `substack/2026-09-18-los-midterms-pura-geopolitica.md` · https://www.10am.pro/p/los-midterms-pura-geopolitica · temas: geopolitica, macro, energia, Bessent, IA, portafolio
+- 2026-09-13 · Diez Mil Agentes Resuelven un Problema de 200 Años 🔒 · `substack/2026-09-13-la-humanidad-perdio-el-monopolio.md` · https://www.10am.pro/p/la-humanidad-perdio-el-monopolio · temas: IA, portafolio, energia, SpaceX, longevidad
+- 2026-09-12 · Crisis energética en Colombia. El gas que necesitamos. Alberto Consuegra. E225 · `substack/2026-09-12-crisis-energetica-en-colombia-el.md` · https://www.10am.pro/p/crisis-energetica-en-colombia-el
+- 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo · temas: HOOD, tokenizacion, SOL, HIMS, memecoins, stablecoins
+- 2026-09-05 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `substack/2026-09-05-sol-gana-el-corto-hood-gana-en-la.md` · https://www.10am.pro/p/sol-gana-el-corto-hood-gana-en-la
+- 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves · temas: HOOD, SOL, tokenizacion, memecoins, ETH, SpaceX
+- 2026-09-01 · GDP 05: En Vivo! SpaceX Encontró un Negocio Más Grande que los Cohetes · `substack/2026-09-01-gdp-05-en-vivo-spacex-encontro-un.md` · https://www.10am.pro/p/gdp-05-en-vivo-spacex-encontro-un
+- 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada · temas: tesis_10x, PLTR, TSLA, macro, SOL, SpaceX
+- 2026-08-29 · Sigo Bullish en $SOL y $JTO, nos vemos en El Dia D - Joe Mccann. #223 · `substack/2026-08-29-sigo-bullish-en-sol-y-jto-nos-vemos.md` · https://www.10am.pro/p/sigo-bullish-en-sol-y-jto-nos-vemos
+- 2026-08-25 · GDP 04: Bessent activa el Bullrun · `substack/2026-08-25-gdp-04-bessent-activa-el-bullrun.md` · https://www.10am.pro/p/gdp-04-bessent-activa-el-bullrun
+- 2026-08-23 · Cuando el Perro Grande Bosteza · `substack/2026-08-23-hormuz-no-era-iran.md` · https://www.10am.pro/p/hormuz-no-era-iran · temas: macro, Bessent, geopolitica, BTC, portafolio, energia
+- 2026-08-22 · E222: Youtube Shorts es más grande que Instagram 🤯. Eloisa Wolf. · `substack/2026-08-22-e222-youtube-shorts-es-mas-grande.md` · https://www.10am.pro/p/e222-youtube-shorts-es-mas-grande
+- 2026-08-17 · GDP 03: Tesla: El capex que Wall Street no sabe leer 📱 · `substack/2026-08-17-gdp-03-tesla-el-capex-que-wall-street.md` · https://www.10am.pro/p/gdp-03-tesla-el-capex-que-wall-street
+- 2026-08-17 · HIMS, Q2 2026: Longevity as a Service 🔒 · `substack/2026-08-17-hims-q2-2026-longevity-as-a-service.md` · https://www.10am.pro/p/hims-q2-2026-longevity-as-a-service · temas: HIMS, longevidad, PLTR, IA
+- 2026-08-15 · E221: Sin ontología médica no llegarás a los 100 años. · `substack/2026-08-15-e221-sin-ontologia-medica-no-llegaras.md` · https://www.10am.pro/p/e221-sin-ontologia-medica-no-llegaras
+- 2026-08-12 · GDP 02: Palantir, el día que Wall Street entendió la Ontología. · `substack/2026-08-12-gdp-02-palantir-el-dia-que-wall-street.md` · https://www.10am.pro/p/gdp-02-palantir-el-dia-que-wall-street · temas: PLTR
+- 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece · temas: SpaceX, TSLA, IA, NVDA
+- 2026-08-07 · E220: Solo invertimos donde exista impacto económico · `substack/2026-08-07-e220-solo-invertimos-donde-exista.md` · https://www.10am.pro/p/e220-solo-invertimos-donde-exista
+- 2026-08-06 · Palantir Q2 2026: El Día que Wall Street Entendió la Ontología 🔒 · `substack/2026-08-06-palantir-q2-2026-el-dia-que-wall.md` · https://www.10am.pro/p/palantir-q2-2026-el-dia-que-wall · temas: PLTR, NVDA, macro, IA, portafolio
+- 2026-08-05 · GDP 01: Robin Hood / El puente de 13 carriles. · `substack/2026-08-05-gdp-01-robin-hood-el-puente-de-13.md` · https://www.10am.pro/p/gdp-01-robin-hood-el-puente-de-13
+- 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no · temas: TSLA, NVDA, SpaceX, energia, PLTR, IA
+- 2026-08-02 · Robinhood: El Puente Ya Tiene 13 Carriles · `substack/2026-08-02-robinhood-el-puente-ya-tiene-13-carriles.md` · https://www.10am.pro/p/robinhood-el-puente-ya-tiene-13-carriles · temas: HOOD, IA, PLTR, tesis_10x, portafolio, geopolitica
+- 2026-07-29 · La élite de la inteligencia artificial: cinco trayectorias que están reescribiendo el siglo XXI 🔒 · `substack/2026-07-29-la-elite-de-la-inteligencia-artificial.md` · https://www.10am.pro/p/la-elite-de-la-inteligencia-artificial · temas: IA, tesis_10x, longevidad
+- 2026-07-24 · E219: El mundo logístico en Colombia · `substack/2026-07-24-e219-el-mundo-logistico-en-colombia.md` · https://www.10am.pro/p/e219-el-mundo-logistico-en-colombia
+- 2026-07-22 · Lo único que necesitamos es que el Estado colombiano quite el pie del freno. El sector privado como motor de abundancia: lo que Colombia puede hacer sin esperar al Estado 🔒 · `substack/2026-07-22-lo-unico-que-necesitamos-es-que-el.md` · https://www.10am.pro/p/lo-unico-que-necesitamos-es-que-el · temas: colombia, energia, emprendimiento, macro
+- 2026-07-17 · E217: ¿Qué es fricción? - Notarías, Cámaras de Comercio, Cajas de Compensación. · `substack/2026-07-17-e217-que-es-friccion-notarias-camaras.md` · https://www.10am.pro/p/e217-que-es-friccion-notarias-camaras
+- 2026-07-17 · E218: Los autogoles de los empresarios en la batalla cultural · `substack/2026-07-17-e218-los-autogoles-de-los-empresarios.md` · https://www.10am.pro/p/e218-los-autogoles-de-los-empresarios
+- 2026-07-15 · El Hombre que Convirtió Tierra en Acero 🔒 · `substack/2026-07-15-el-hombre-que-convirtio-tierra-en.md` · https://www.10am.pro/p/el-hombre-que-convirtio-tierra-en · temas: longevidad, energia
+- 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `substack/2026-07-13-episodio-especial-04-evento-en-vivo.md` · https://www.10am.pro/p/episodio-especial-04-evento-en-vivo
+- 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado · temas: SOL, tokenizacion, PLTR, JTO, macro, JUP
+- 2026-07-04 · E216: Open Finance. La importancia de Colombia Fintech. Gabriel Santos. · `substack/2026-07-04-e216-open-finance-la-importancia.md` · https://www.10am.pro/p/e216-open-finance-la-importancia
+- 2026-07-01 · Biology is Code 🔒 · `substack/2026-07-01-biology-is-code.md` · https://www.10am.pro/p/biology-is-code · temas: longevidad, PLTR, HIMS, tesis_10x
+- 2026-06-26 · E215: Biología es el nuevo código  · `substack/2026-06-26-e215-biologia-es-el-nuevo-codigo.md` · https://www.10am.pro/p/e215-biologia-es-el-nuevo-codigo
+- 2026-06-25 · Alpha 70: Mauricio Uribe — La necesidad de eliminar fricción. Abrir una empresa en EEUU vs Colombia.  🔒 · `substack/2026-06-25-alpha-70-mauricio-uribe-la-necesidad.md` · https://www.10am.pro/p/alpha-70-mauricio-uribe-la-necesidad
+- 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x · temas: tesis_10x, PLTR, TSLA, macro, BTC, HIMS
+- 2026-06-19 · E214: EPM. Empresas Políticas de Medellín · `substack/2026-06-19-e214-epm-empresas-politicas-de-medellin.md` · https://www.10am.pro/p/e214-epm-empresas-politicas-de-medellin · temas: colombia
+- 2026-06-17 · Velocidad de Ontología 🔒 · `substack/2026-06-17-el-dia-que-entendi-por-que-compre.md` · https://www.10am.pro/p/el-dia-que-entendi-por-que-compre · temas: PLTR, HOOD, HIMS, colombia, longevidad
+- 2026-06-14 · E213: SpaceX 🚀. El mayor IPO de la última década y lo que significa para los portafolios de inversión. · `substack/2026-06-14-e213-spacex-el-mayor-ipo-de-la-ultima.md` · https://www.10am.pro/p/e213-spacex-el-mayor-ipo-de-la-ultima
+- 2026-06-12 · ⚡ Episodio Especial: Colombia 🇨🇴 Elijamos el camino de la abundancia. José Manuel Restrepo. · `substack/2026-06-12-episodio-especial-03-colombia-elijamos.md` · https://www.10am.pro/p/episodio-especial-03-colombia-elijamos
+- 2026-06-09 · El Primer Cliente Que No Respira (2nda parte) 🔒 · `substack/2026-06-09-el-primer-cliente-que-no-respira.md` · https://www.10am.pro/p/el-primer-cliente-que-no-respira · temas: IA, SOL, TSLA, colombia, stablecoins
+- 2026-06-05 · E212: Zonas Francas, motor de abundancia económica en Colombia. Martin Ibarra Pardo. · `substack/2026-06-05-e212-zonas-francas-motor-de-abundancia.md` · https://www.10am.pro/p/e212-zonas-francas-motor-de-abundancia
+- 2026-06-03 · Hardcore Principles · `substack/2026-06-03-hardcore-principles.md` · https://www.10am.pro/p/hardcore-principles · temas: portafolio, TSLA, SpaceX
+- 2026-06-01 · Alpha 69: El CEO de Wenia — La App con Mejor UI/UX que Usan los Miembros de 10am.pro para Comprar Cripto 🔒 · `substack/2026-06-01-alpha-69-el-ceo-de-wenia-la-app-con.md` · https://www.10am.pro/p/alpha-69-el-ceo-de-wenia-la-app-con
+- 2026-05-29 · E211: ¿Dónde puedo cargar la batería de mi Tesla? · `substack/2026-05-29-e211-donde-puedo-cargar-la-bateria.md` · https://www.10am.pro/p/e211-donde-puedo-cargar-la-bateria
+- 2026-05-27 · Munger Nunca Pisó un Gimnasio 🔒 · `substack/2026-05-27-el-algoritmo-de-la-longevidad-es.md` · https://www.10am.pro/p/el-algoritmo-de-la-longevidad-es · temas: longevidad, IA, tesis_10x, portafolio
+- 2026-05-21 · E210: ¿Qué es pensar en grande? Un puerto espacial en el Golfo de Urabá. Gobernador de Antioquía. · `substack/2026-05-21-e210-que-es-pensar-en-grande-un-puerto.md` · https://www.10am.pro/p/e210-que-es-pensar-en-grande-un-puerto
+- 2026-05-18 · Alpha 68: Péptidos: la nueva frontera entre longevidad, humo y medicina personalizada 🔒 · `substack/2026-05-18-alpha-68-peptidos-la-nueva-frontera.md` · https://www.10am.pro/p/alpha-68-peptidos-la-nueva-frontera · temas: longevidad
+- 2026-05-16 · E209: ¿Qué están construyendo los ALPHAS en Inteligencia Artificial? · `substack/2026-05-16-e209-que-estan-construyendo-los-alphas.md` · https://www.10am.pro/p/e209-que-estan-construyendo-los-alphas
+- 2026-05-14 · El Golfo de Urabá: ¿el próximo puerto espacial de SpaceX? · `substack/2026-05-14-el-golfo-de-uraba-el-proximo-puerto.md` · https://www.10am.pro/p/el-golfo-de-uraba-el-proximo-puerto · temas: SpaceX, colombia, geopolitica, IA
+- 2026-05-13 · La Cadena 🔒 · `substack/2026-05-13-la-cadena.md` · https://www.10am.pro/p/la-cadena · temas: longevidad, IA, HIMS, NVDA, portafolio, SOL
+- 2026-05-08 · E208: Un negocio más grande que la IA 🧬. Antonio Linares. · `substack/2026-05-08-e208-un-negocio-mas-grande-que-la.md` · https://www.10am.pro/p/e208-un-negocio-mas-grande-que-la
+- 2026-05-06 · Alpha67: Las palabras son armas — cómo se gana (y se pierde) la batalla cultural en este caso las elecciones en Colombia · `substack/2026-05-06-alpha67-las-palabras-son-armas-como.md` · https://www.10am.pro/p/alpha67-las-palabras-son-armas-como
+- 2026-05-06 · La Cárcel de los Péptidos  🔒 · `substack/2026-05-06-el-negocio-mas-grande-del-que-nadie.md` · https://www.10am.pro/p/el-negocio-mas-grande-del-que-nadie · temas: longevidad, HIMS, IA, geopolitica, PLTR
+- 2026-05-01 · E207: Comprando 📈 acciones de todo el mundo 🌍 desde Colombia 🇨🇴. Trii · `substack/2026-05-01-e207-comprando-acciones-de-todo-el.md` · https://www.10am.pro/p/e207-comprando-acciones-de-todo-el
+- 2026-04-28 · Alpha66: El CTO de Plenti — Cómo Funciona por Dentro la App que Usas para Dolarizarte 🔒 · `substack/2026-04-28-alpha66-el-cto-de-plenti-como-funciona.md` · https://www.10am.pro/p/alpha66-el-cto-de-plenti-como-funciona
+- 2026-04-27 · De $21M a $3.7B en un Sábado  🔒 · `substack/2026-04-27-cuando-wall-street-duerme.md` · https://www.10am.pro/p/cuando-wall-street-duerme · temas: SOL, tesis_10x, ETH, geopolitica, BTC, energia
+- 2026-04-26 · E206: ETH está sobrevalorada · `substack/2026-04-26-e206-eth-esta-sobrevalorada.md` · https://www.10am.pro/p/e206-eth-esta-sobrevalorada
+- 2026-04-23 · CodeRed01: Vercel fue hackeado  🔒 · `substack/2026-04-23-codered01-vercel-fue-hackeado.md` · https://www.10am.pro/p/codered01-vercel-fue-hackeado
+- 2026-04-22 · Dale las Claves del Broker a Tu Esposa 🔒 · `substack/2026-04-22-dale-las-claves-del-broker-a-tu-esposa.md` · https://www.10am.pro/p/dale-las-claves-del-broker-a-tu-esposa · temas: PLTR, HOOD, BTC, TSLA, portafolio, tesis_10x
+- 2026-04-21 · Alpha65: Qué estamos comprando y la estrategia DCA con el Arca de Macrowise 🔒 · `substack/2026-04-21-alpha-65-en-vivo-que-estamos-comprando.md` · https://www.10am.pro/p/alpha-65-en-vivo-que-estamos-comprando
+- 2026-04-18 · E205: Michael Saylor ¿Se quiebra con STRC? · `substack/2026-04-18-e205-michael-saylor-se-quiebra-con.md` · https://www.10am.pro/p/e205-michael-saylor-se-quiebra-con
+- 2026-04-15 · No Es Lloradera. Es Física · `substack/2026-04-15-no-es-lloradera-es-opcionalidad.md` · https://www.10am.pro/p/no-es-lloradera-es-opcionalidad · temas: colombia, emprendimiento, energia, IA
+- 2026-04-14 · ALPHA64: Google sacó un paper sobre Quantum Computing — qué tengo que hacer con mi BTC 🔒 · `substack/2026-04-14-alpha64-google-saco-un-paper-sobre.md` · https://www.10am.pro/p/alpha64-google-saco-un-paper-sobre
+- 2026-04-11 · E204: Estados Unidos en busca del Imperio Energético · `substack/2026-04-11-e204-estados-unidos-en-busca-del.md` · https://www.10am.pro/p/e204-estados-unidos-en-busca-del
+- 2026-04-09 · ALPHA63: Cómo Arias Usa AI Sin Saber Programar 🔒 · `substack/2026-04-09-alpha63-como-arias-usa-ai-sin-saber.md` · https://www.10am.pro/p/alpha63-como-arias-usa-ai-sin-saber
+- 2026-04-07 · Los Negocios del Espacio 🔒 · `substack/2026-04-07-los-negocios-del-espacio.md` · https://www.10am.pro/p/los-negocios-del-espacio · temas: SpaceX, TSLA, IA, geopolitica, PLTR
+- 2026-04-05 · E203: Experiencia VS Intuición · `substack/2026-04-05-e203-experiencia-vs-intuicion.md` · https://www.10am.pro/p/e203-experiencia-vs-intuicion
+- 2026-04-01 · Terafab: El Proyecto Más Ambicioso en la Historia de la Humanidad 🔒 · `substack/2026-04-01-terafab-el-proyecto-mas-ambicioso.md` · https://www.10am.pro/p/terafab-el-proyecto-mas-ambicioso · temas: SpaceX, TSLA, geopolitica, energia, IA, NVDA
+- 2026-03-26 · E202: La importancia de tener un segundo pasaporte. Hernán, Darío, Juan Esteban Sanín y el Gordo. · `substack/2026-03-26-e202-la-importancia-de-tener-un-segundo.md` · https://www.10am.pro/p/e202-la-importancia-de-tener-un-segundo
+- 2026-03-24 · La Droga Más Peligrosa Es un Salario Cómodo 🔒 · `substack/2026-03-24-la-droga-mas-peligrosa-es-un-salario.md` · https://www.10am.pro/p/la-droga-mas-peligrosa-es-un-salario · temas: emprendimiento, tesis_10x, IA
+- 2026-03-21 · E201: Medellín tiene que convertirse en el Energy Valley. Hernán, Darío, Guillermo, Ricardo, Carolina y el Gordo. · `substack/2026-03-21-e201-medellin-tiene-que-convertirse.md` · https://www.10am.pro/p/e201-medellin-tiene-que-convertirse
+- 2026-03-15 · E200: Irán 🇮🇷 , petróleo🛢️, dólar 💵 y drones. Hernán, Darío, Guillermo, Andrés Felipe y El Gordo. · `substack/2026-03-15-e200-iran-petroleo-dolar-y-drones.md` · https://www.10am.pro/p/e200-iran-petroleo-dolar-y-drones
+- 2026-03-15 · El Modelo de Negocio del Caos: 500 Años de Historia en Una Milla Cuadrada 🔒 · `substack/2026-03-15-the-end-game-quien-se-beneficia-del.md` · https://www.10am.pro/p/the-end-game-quien-se-beneficia-del · temas: geopolitica, macro, energia, Bessent, PLTR
+- 2026-03-09 ·  Lo Que Emil Michael Reveló Sobre Palantir, Maduro y el Pentágono 🔒 · `substack/2026-03-09-palantir-vs-todos.md` · https://www.10am.pro/p/palantir-vs-todos · temas: PLTR, IA, geopolitica, portafolio, energia
+- 2026-03-07 · E199: Construyendo el Internet del futuro ⚡️ . Double Zero · `substack/2026-03-07-e199-construyendo-el-internet-del.md` · https://www.10am.pro/p/e199-construyendo-el-internet-del
+- 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio · temas: IA, SOL, stablecoins, ETH, JTO, JUP
+- 2026-03-02 · E198: 2028 🤯 el año que todos quedaremos sin trabajo · `substack/2026-03-02-e198-2028-el-ano-que-todos-quedaremos.md` · https://www.10am.pro/p/e198-2028-el-ano-que-todos-quedaremos
+- 2026-02-28 · E197: El voto más caro: Un Estado grande que no entiende el impacto de IA y energía · `substack/2026-02-28-e197-el-voto-mas-caro-un-estado-grande.md` · https://www.10am.pro/p/e197-el-voto-mas-caro-un-estado-grande
+- 2026-02-24 · Estamos Usando Solo el 5% de Claude Code 🔒 · `substack/2026-02-24-estamos-usando-solo-el-5-de-claude.md` · https://www.10am.pro/p/estamos-usando-solo-el-5-de-claude · temas: IA
+- 2026-02-21 · E196: Colombia 🇨🇴 vs Argentina 🇦🇷. Modelo económico y batalla cultural. Hernán, Darío, El Gordo, Andrés Arias y Nicolás Fernández · `substack/2026-02-21-e196-colombia-vs-argentina-modelo.md` · https://www.10am.pro/p/e196-colombia-vs-argentina-modelo
+- 2026-02-17 · Robinhood: El Puente Se Construye Más Rápido de lo que Pensé 🔒 · `substack/2026-02-17-robinhood-el-puente-se-construye.md` · https://www.10am.pro/p/robinhood-el-puente-se-construye · temas: HOOD, tokenizacion, stablecoins
+- 2026-02-15 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `substack/2026-02-15-e195-stke-cto-why-validators-are.md` · https://www.10am.pro/p/e195-stke-cto-why-validators-are
+- 2026-02-12 · E194: Un meteorito llamado Inteligencia Artificial · `substack/2026-02-12-e194-un-meteorito-llamado-inteligencia.md` · https://www.10am.pro/p/e194-un-meteorito-llamado-inteligencia
+- 2026-02-10 · La Inteligencia Artificial Va a Escapar de la Tierra 🔒 · `substack/2026-02-10-la-inteligencia-artificial-va-a-escapar.md` · https://www.10am.pro/p/la-inteligencia-artificial-va-a-escapar · temas: SpaceX, TSLA, IA, energia, SOL
+- 2026-02-06 · E193: Mercados en Ebullición + IA Autónoma: OpenClaw🦞 toma el control (vs Claude y Gemini) · `substack/2026-02-06-e193-mercados-en-ebullicion-ia-autonoma.md` · https://www.10am.pro/p/e193-mercados-en-ebullicion-ia-autonoma
+- 2026-02-01 · E192: Duolingo no es una app: es la IA que está redefiniendo cómo aprendemos. · `substack/2026-02-01-e192-duolingo-no-es-una-app-es-la.md` · https://www.10am.pro/p/e192-duolingo-no-es-una-app-es-la
+- 2026-01-31 · Buena Vista Social Club, AI y Mis Amigos de Mas de 50 🔒 · `substack/2026-01-31-buena-vista-social-club-ai-y-mis.md` · https://www.10am.pro/p/buena-vista-social-club-ai-y-mis · temas: energia
+- 2026-01-26 · Los Dashboards de 10am · `substack/2026-01-26-los-dashboards-de-10am.md` · https://www.10am.pro/p/los-dashboards-de-10am · temas: BTC, macro, PLTR
+- 2026-01-25 · 🔨 The Hammer: Howard Lutnick y la Reconfiguración del Comercio Global · `substack/2026-01-25-the-hammer-howard-lutnick-y-la-reconfiguracion.md` · https://www.10am.pro/p/the-hammer-howard-lutnick-y-la-reconfiguracion · temas: geopolitica, stablecoins, macro, Bessent, energia
+- 2026-01-23 · E191: Las 5 señales del cambio de era. · `substack/2026-01-23-e191-las-5-senales-del-cambio-de.md` · https://www.10am.pro/p/e191-las-5-senales-del-cambio-de
+- 2026-01-17 · E190: Forecast 2026.  · `substack/2026-01-17-e190-forecast-2026.md` · https://www.10am.pro/p/e190-forecast-2026
+- 2026-01-15 · Pronóstico 2026: El Año Donde Todo Será Vertical · `substack/2026-01-15-pronostico-2026-el-ano-donde-todo.md` · https://www.10am.pro/p/pronostico-2026-el-ano-donde-todo · temas: macro, energia, SOL, TSLA, IA, BTC
+- 2026-01-13 · E189: La oportunidad única que tiene Colombia con Venezuela. Alejandro Salazar & Juan Carlos Pinzón.  · `substack/2026-01-13-e189-la-oportunidad-unica-que-tiene.md` · https://www.10am.pro/p/e189-la-oportunidad-unica-que-tiene
+- 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy · temas: SOL, STKE, macro, memecoins, BTC, JTO
+- 2026-01-03 · E188: El mundo avanza. Colombia retrocede. Equipo 10AMPRO · `substack/2026-01-03-e188-el-mundo-avanza-colombia-retrocede.md` · https://www.10am.pro/p/e188-el-mundo-avanza-colombia-retrocede
+- 2026-01-02 · Recalibrando la Dieta de Información · `substack/2026-01-02-recalibrando-la-dieta-de-informacion.md` · https://www.10am.pro/p/recalibrando-la-dieta-de-informacion · temas: macro, TSLA, IA, portafolio
+- 2025-12-27 · E187: La Universidad paró… y creé una empresa de US$5M. Juniper Drinks · `substack/2025-12-27-e187-la-universidad-paro-y-cree-una.md` · https://www.10am.pro/p/e187-la-universidad-paro-y-cree-una
+- 2025-12-27 · El Hombre que Está Reprogramando la Economía de Estados Unidos · `substack/2025-12-27-el-hombre-que-esta-reprogramando.md` · https://www.10am.pro/p/el-hombre-que-esta-reprogramando · temas: macro, Bessent, geopolitica, tesis_10x
+- 2025-12-21 · E186: 171 % de retorno en el 2025: ¿Cómo lo hicimos? 🔒 · `substack/2025-12-21-e186-171-de-retorno-en-2025-como.md` · https://www.10am.pro/p/e186-171-de-retorno-en-2025-como
+- 2025-12-21 · 🔥💃 Firedancer: La Reingeniería que Lleva a Solana al Límite de la Física · `substack/2025-12-21-firedancer-la-reingenieria-que-lleva.md` · https://www.10am.pro/p/firedancer-la-reingenieria-que-lleva · temas: SOL, tokenizacion
+- 2025-12-13 · Recalibrando el Algoritmo del 10x · `substack/2025-12-13-recalibrando-el-algoritmo-del-10x.md` · https://www.10am.pro/p/recalibrando-el-algoritmo-del-10x · temas: macro, portafolio, PLTR, tesis_10x, Bessent, energia
+- 2025-12-06 · 3 Veces 10x: El Método Harada Aplicado para llegar a $US100 Millones · `substack/2025-12-06-3-veces-10x-el-metodo-harada-aplicado.md` · https://www.10am.pro/p/3-veces-10x-el-metodo-harada-aplicado · temas: tesis_10x, TSLA, SOL, PLTR, macro, BTC
+- 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test · temas: SOL, JTO, JUP, DLMM, tokenizacion, memecoins
+- 2025-11-23 · Por Qué la Revolución de AI No Es la Burbuja de las "Punto Com"  · `substack/2025-11-23-por-que-la-revolucion-de-ai-no-es.md` · https://www.10am.pro/p/por-que-la-revolucion-de-ai-no-es · temas: NVDA, macro, emprendimiento
+- 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al · temas: colombia, tokenizacion, energia, longevidad, SpaceX, geopolitica
+- 2025-11-08 · SpaceX: La Compañía más Importante de la Tierra · `substack/2025-11-08-spacex-el-elevador-que-redefine-el.md` · https://www.10am.pro/p/spacex-el-elevador-que-redefine-el · temas: SpaceX, geopolitica, energia, TSLA
+- 2025-11-01 · AI + Biología = Quantum-Si · `substack/2025-11-01-quantum-si-cuando-la-biologia-se.md` · https://www.10am.pro/p/quantum-si-cuando-la-biologia-se · temas: longevidad, NVDA, energia, IA
+- 2025-10-25 · The Everything Code  · `substack/2025-10-25-the-everything-code.md` · https://www.10am.pro/p/the-everything-code · temas: macro, BTC, tokenizacion, SOL, tesis_10x
+- 2025-10-21 · El Manual del 10x: cómo Pensar, Ahorrar y Decidir en la Era del Exceso”  · `substack/2025-10-21-el-manual-del-10x-como-pensar-ahorrar.md` · https://www.10am.pro/p/el-manual-del-10x-como-pensar-ahorrar · temas: tesis_10x
+- 2025-10-19 · Tu Relevancia Económica Expira Exponencialmente · `substack/2025-10-19-el-gdp-esta-muerto-en-la-era-de-artificial.md` · https://www.10am.pro/p/el-gdp-esta-muerto-en-la-era-de-artificial · temas: IA
+- 2025-10-11 · Bitcoin como Motor de Crédito Digital · `substack/2025-10-11-bitcoin-como-motor-de-credito-digital.md` · https://www.10am.pro/p/bitcoin-como-motor-de-credito-digital · temas: BTC, macro
+- 2025-10-05 · Los Modelos Mentales de 10am · `substack/2025-10-05-de-datos-a-decisiones-la-arquitectura.md` · https://www.10am.pro/p/de-datos-a-decisiones-la-arquitectura · temas: TSLA
+- 2025-09-28 · El Arquitecto Silencioso del Dólar · `substack/2025-09-28-el-arquitecto-silencioso-del-dolar.md` · https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar · temas: macro, Bessent, geopolitica, stablecoins
+- 2025-09-21 · AI mas Grande que La Revolución Industrial · `substack/2025-09-21-lo-que-se-viene-en-ai-es-mas-grande.md` · https://www.10am.pro/p/lo-que-se-viene-en-ai-es-mas-grande · temas: IA, TSLA, PLTR, energia, NVDA
+- 2025-09-14 · Tu Portafolio Vale lo que Vale tu Dieta de Información · `substack/2025-09-14-la-dieta-de-informacion-el-verdadero.md` · https://www.10am.pro/p/la-dieta-de-informacion-el-verdadero
+- 2025-09-07 · El Final Boss: The City of London y la Batalla por la Soberanía Económica · `substack/2025-09-07-el-final-boss-the-city-of-london.md` · https://www.10am.pro/p/el-final-boss-the-city-of-london · temas: geopolitica, macro
+- 2025-08-31 · Colossus: la guerra de la IA se gana con logística · `substack/2025-08-31-colossus-la-guerra-de-la-ia-se-gana.md` · https://www.10am.pro/p/colossus-la-guerra-de-la-ia-se-gana · temas: energia, IA, colombia, TSLA, NVDA
+- 2025-08-25 · High Time Preference: La Matemática de la Paciencia · `substack/2025-08-25-high-time-preference-la-matematica.md` · https://www.10am.pro/p/high-time-preference-la-matematica · temas: BTC, PLTR, HOOD, macro, tesis_10x
+- 2025-08-20 · Palantir: la Compañía mas Importante de Occidente · `substack/2025-08-20-palantir-la-compania-mas-importante.md` · https://www.10am.pro/p/palantir-la-compania-mas-importante · temas: PLTR, IA, NVDA, emprendimiento
+- 2025-08-16 · FCF/Share: La Variable Oculta que Anticipa el Despliegue de una S-Curve · `substack/2025-08-16-wall-street-esta-midiendo-la-variable.md` · https://www.10am.pro/p/wall-street-esta-midiendo-la-variable · temas: SOL, TSLA, geopolitica, PLTR, HOOD, macro
+- 2025-08-09 · Commodity o Arma: La Batalla de $10B por los 17 Elementos Sin los Cuales No Existe el Siglo XXI" · `substack/2025-08-09-commodity-o-arma-la-batalla-de-10b.md` · https://www.10am.pro/p/commodity-o-arma-la-batalla-de-10b · temas: geopolitica, energia
+- 2025-08-02 · First Principles Thinking: El Manual de Supervivencia Intelectual del Siglo XXI · `substack/2025-08-02-first-principles-thinking-el-manual.md` · https://www.10am.pro/p/first-principles-thinking-el-manual · temas: colombia, SOL, macro, energia, TSLA, PLTR
+- 2025-07-26 · Cómo funciona un Network State (y por qué deberías prestar atención ya)” · `substack/2025-07-26-como-funciona-un-network-state-y.md` · https://www.10am.pro/p/como-funciona-un-network-state-y · temas: SOL, colombia, tesis_10x, BTC, stablecoins, emprendimiento
+- 2025-07-20 · Solana: El Destino Inevitable de los $700 Trillones en Mercados de Capital de Internet · `substack/2025-07-20-solana-el-destino-inevitable-de-los.md` · https://www.10am.pro/p/solana-el-destino-inevitable-de-los · temas: SOL, ETH, macro, tesis_10x, BTC, tokenizacion
+- 2025-07-13 · El Puente de los $124 Trillones: Cómo Robinhood Se Convierte en Wall Street para Millennials, Gen Z y Gen X  · `substack/2025-07-13-el-puente-de-los-124-trillones-como.md` · https://www.10am.pro/p/el-puente-de-los-124-trillones-como · temas: HOOD, macro
+- 2025-07-06 · Tesla Será la Compañía mas Valiosa del Mundo · `substack/2025-07-06-tesla-sera-la-compania-mas-valiosa.md` · https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa · temas: TSLA, energia, tesis_10x
+- 2025-06-29 · La Dimensión Geopolítica de la Política Monetaria: El Juego Silencioso de Powell · `substack/2025-06-29-la-dimension-geopolitica-de-la-politica.md` · https://www.10am.pro/p/la-dimension-geopolitica-de-la-politica · temas: macro, geopolitica, TSLA, energia, HIMS, colombia
+- 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo · temas: BTC, macro, stablecoins, JTO, energia, SOL
+- 2025-06-15 · El Problema de Pensar Que Estás Pensando · `substack/2025-06-15-el-problema-de-pensar-que-estas-pensando.md` · https://www.10am.pro/p/el-problema-de-pensar-que-estas-pensando · temas: BTC, XRP, macro, geopolitica, stablecoins, SOL
+- 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs · temas: SOL, BTC, macro, tokenizacion, HIMS, DLMM
+- 2025-06-01 · 1 TERAWATT: LA CARRERA ENERGÉTICA DE EE.UU. · `substack/2025-06-01-1-terawatt-la-carrera-energetica.md` · https://www.10am.pro/p/1-terawatt-la-carrera-energetica · temas: macro, geopolitica, Bessent, BTC, energia, IA
+- 2025-05-25 · El divorcio monetario: por qué la nueva guerra es contra los bonos y el refugio es Bitcoin · `substack/2025-05-25-el-divorcio-monetario-por-que-la.md` · https://www.10am.pro/p/el-divorcio-monetario-por-que-la · temas: SOL, BTC, macro, geopolitica, tokenizacion, energia
+- 2025-05-18 · Trump 2.0: la quimioterapia del sistema financiero global · `substack/2025-05-18-trump-20-la-quimioterapia-del-sistema.md` · https://www.10am.pro/p/trump-20-la-quimioterapia-del-sistema · temas: geopolitica, TSLA, macro, energia, BTC, IA
+- 2025-05-11 · ¿Somos Anti-Buffett en 10ampro? y un montón de ER · `substack/2025-05-11-somos-anti-buffet-en-10ampro-y-un.md` · https://www.10am.pro/p/somos-anti-buffet-en-10ampro-y-un · temas: macro, SOL, BTC, PLTR, energia, geopolitica
+- 2025-05-04 · Señales vs Ruido y La Trilogia que me Mantiene Pobre · `substack/2025-05-04-senales-vs-ruido-y-la-trilogia-que.md` · https://www.10am.pro/p/senales-vs-ruido-y-la-trilogia-que · temas: macro, SOL, geopolitica, stablecoins, BTC, HOOD
+- 2025-04-28 · Fed en Retraso, Solana en Crecimiento y China no sabe que hacer con Trump · `substack/2025-04-28-fed-en-retraso-solana-en-crecimiento.md` · https://www.10am.pro/p/fed-en-retraso-solana-en-crecimiento · temas: geopolitica, macro, BTC, TSLA, SOL, energia
+- 2025-04-21 · El Pulso entre EE. UU. y China y su Impacto en los Mercados · `substack/2025-04-21-el-pulso-entre-ee-uu-y-china-y-su.md` · https://www.10am.pro/p/el-pulso-entre-ee-uu-y-china-y-su · temas: geopolitica, BTC, SOL, macro, Bessent, energia
+- 2025-04-16 · Tarifas, Tensiones y Tesoros: La Estrategia de EE.UU. y las Oportunidades de Inversión · `substack/2025-04-16-tarifas-tensiones-y-tesoros-la-estrategia.md` · https://www.10am.pro/p/tarifas-tensiones-y-tesoros-la-estrategia · temas: geopolitica, macro, PLTR, SOL, energia, TSLA
+- 2025-04-12 · ¿Y si el riesgo real fuera no arriesgar? · `substack/2025-04-12-y-si-el-riesgo-real-fuera-no-arriesgar.md` · https://www.10am.pro/p/y-si-el-riesgo-real-fuera-no-arriesgar · temas: PLTR, tesis_10x, BTC
+- 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro · temas: macro, BTC, tesis_10x, SOL, hurdle_rate, JTO
+- 2025-04-04 · El DNA de 10ampro · `substack/2025-04-04-el-dna-de-10ampro.md` · https://www.10am.pro/p/el-dna-de-10ampro · temas: tesis_10x
+
+## YouTube (todos)
+
+- 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. · `youtube/2026-10-09-Zc12h2zZM4Y.md` · https://www.youtube.com/watch?v=Zc12h2zZM4Y · temas: geopolitica, macro, energia, colombia, IA, longevidad
+- 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. 📱 · `youtube/2026-10-09-oZEJJOvUKBs.md` · https://www.youtube.com/watch?v=oZEJJOvUKBs · temas: geopolitica, macro, energia, colombia, IA, longevidad
+- 2026-10-08 · El verdadero enemigo de Colombia no es la desigualdad. Es la pobreza. E228 · `youtube/2026-10-08-Ro5586T_rVg.md` · https://www.youtube.com/watch?v=Ro5586T_rVg · temas: colombia, emprendimiento, macro
+- 2026-10-02 · ¿Hacía dónde va Medellín? 📱 · `youtube/2026-10-02-WDP5fOwdPMo.md` · https://www.youtube.com/watch?v=WDP5fOwdPMo · temas: colombia, macro, geopolitica, emprendimiento, IA, energia
+- 2026-10-02 · ¿Hacía dónde va Medellín? · `youtube/2026-10-02-Zyha0P14oWg.md` · https://www.youtube.com/watch?v=Zyha0P14oWg · temas: colombia, macro, geopolitica, emprendimiento, IA, energia
+- 2026-10-01 · ¿El impuesto predial es una estafa al ciudadano en Colombia? E227 · `youtube/2026-10-01-2dwPU_Y-ar4.md` · https://www.youtube.com/watch?v=2dwPU_Y-ar4 · temas: colombia, geopolitica, macro
+- 2026-09-24 · El Día D - La Previa 📱 · `youtube/2026-09-24-ZQNgnwr8FD4.md` · https://www.youtube.com/watch?v=ZQNgnwr8FD4 · temas: colombia, longevidad, PLTR, macro, energia, geopolitica
+- 2026-09-24 · Dolarización en Colombia: Por qué dolarizar Colombia cambiaría tu dinero para siempre. E226 · `youtube/2026-09-24-fquqxFmQlwQ.md` · https://www.youtube.com/watch?v=fquqxFmQlwQ · temas: colombia, macro, energia, BTC, geopolitica
+- 2026-09-24 · El Día D - La Previa · `youtube/2026-09-24-i4ST73gS5yA.md` · https://www.youtube.com/watch?v=i4ST73gS5yA · temas: colombia, longevidad, PLTR, macro, energia, geopolitica
+- 2026-09-17 · Crisis energética en Colombia. El gas que necesitamos. Alberto Consuegra. E225 · `youtube/2026-09-17-SfYAGq1QPrA.md` · https://www.youtube.com/watch?v=SfYAGq1QPrA · temas: energia, colombia, geopolitica
+- 2026-09-16 · GDP 07: Dario Amodei  -  La Gestapo disfrazada de nerd · `youtube/2026-09-16-DxYtlO9VI1o.md` · https://www.youtube.com/watch?v=DxYtlO9VI1o · temas: energia, geopolitica, IA, PLTR, colombia, TSLA
+- 2026-09-16 · GDP 07: Dario Amodei  -  La Gestapo disfrazada de nerd 📱 · `youtube/2026-09-16-vaEFVF79x_k.md` · https://www.youtube.com/watch?v=vaEFVF79x_k · temas: energia, geopolitica, IA, PLTR, colombia, TSLA
+- 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY · temas: HOOD, SOL, ETH, IA, colombia, geopolitica
+- 2026-09-09 · GDP 06: El Modelo de Negocio del Caos: 500 Años de Historia en Una Milla Cuadrada 📱 · `youtube/2026-09-09-cieuSkvqRsQ.md` · https://www.youtube.com/watch?v=cieuSkvqRsQ · temas: geopolitica, energia, BTC
+- 2026-09-09 · GPD 06: El Modelo de Negocio del Caos: 500 Años de Historia en Una Milla Cuadrada · `youtube/2026-09-09-vYHOS8IYdw4.md` · https://www.youtube.com/watch?v=vYHOS8IYdw4 · temas: geopolitica, energia, BTC, IA
+- 2026-09-03 · Sigo Bullish en $SOL y $JTO, nos vemos en El Dia D - Joe McCann. #223 · `youtube/2026-09-03-qoReYHBo3zo.md` · https://www.youtube.com/watch?v=qoReYHBo3zo · temas: macro, SOL, colombia, BTC, PLTR, IA
+- 2026-09-02 · GDP 05: SpaceX Encontró un Negocio Más Grande que los Cohetes · `youtube/2026-09-02-m-aChUvY_bI.md` · https://www.youtube.com/watch?v=m-aChUvY_bI · temas: TSLA, SpaceX, energia, IA, geopolitica, longevidad
+- 2026-09-02 · GDP 05: SpaceX Encontró un Negocio Más Grande que los Cohetes 📱 · `youtube/2026-09-02-nmHdcD_xXjg.md` · https://www.youtube.com/watch?v=nmHdcD_xXjg · temas: SpaceX, TSLA, energia, IA, geopolitica, longevidad
+- 2026-08-27 · Youtube Shorts es más grande que Instagram 🤯. Eloisa Wolf. #E222 · `youtube/2026-08-27-ESLNTmQBw5o.md` · https://www.youtube.com/watch?v=ESLNTmQBw5o · temas: colombia, IA
+- 2026-08-26 · GDP 04: Bessent activa el Bullrun 📱 · `youtube/2026-08-26-l5-4WH2tkCs.md` · https://www.youtube.com/watch?v=l5-4WH2tkCs · temas: macro, geopolitica, SOL, IA, energia, colombia
+- 2026-08-26 · GDP 04: Bessent activa el Bullrun · `youtube/2026-08-26-yy3eEXTUy50.md` · https://www.youtube.com/watch?v=yy3eEXTUy50 · temas: macro, geopolitica, SOL, IA, energia, colombia
+- 2026-08-20 · E221: Sin ontología médica no llegarás a los 100 años. · `youtube/2026-08-20-QqYWsOm3zd4.md` · https://www.youtube.com/watch?v=QqYWsOm3zd4 · temas: longevidad, PLTR
+- 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0 · temas: emprendimiento, colombia, energia, IA, geopolitica, SOL
+- 2026-08-18 · Tesla: El capex que Wall Street no sabe leer 📱 · `youtube/2026-08-18-LNw2CvQ4Jmk.md` · https://www.youtube.com/watch?v=LNw2CvQ4Jmk · temas: TSLA, SpaceX, energia, colombia
+- 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s · temas: colombia, emprendimiento, energia, IA, BTC, portafolio
+- 2026-08-18 · Tesla: El capex que Wall Street no sabe leer · `youtube/2026-08-18-hP_b4YLchkU.md` · https://www.youtube.com/watch?v=hP_b4YLchkU · temas: TSLA, SpaceX, energia, colombia
+- 2026-08-15 · Inteligencia colectiva con Colombia · `youtube/2026-08-15-k7hgZ_hY4IY.md` · https://www.youtube.com/watch?v=k7hgZ_hY4IY · temas: colombia, energia, macro, SOL
+- 2026-08-13 · E220: Solo invertimos donde exista impacto económico. VeroNorte · `youtube/2026-08-13-51LweNLGXh4.md` · https://www.youtube.com/watch?v=51LweNLGXh4 · temas: energia, IA, SOL, colombia, TSLA, portafolio
+- 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg · temas: colombia, emprendimiento, energia, PLTR, geopolitica, IA
+- 2026-08-12 · GDP 02: Palantir, el día que Wall Street entendió la Ontología. · `youtube/2026-08-12-vEf7HshhBb0.md` · https://www.youtube.com/watch?v=vEf7HshhBb0 · temas: PLTR, IA, SOL, TSLA, BTC, tesis_10x
+- 2026-08-07 · ALPHA 08: Opciones a largo plazo, estrategia con alto riesgo que toma Hernán · `youtube/2026-08-07-QHofmuA669U.md` · https://www.youtube.com/watch?v=QHofmuA669U · temas: PLTR, macro
+- 2026-08-06 · ALPHA 01: El portafolio de inversión de Hernán Jaramillo. · `youtube/2026-08-06-s2JUr6VMnHo.md` · https://www.youtube.com/watch?v=s2JUr6VMnHo · temas: SOL, TSLA, geopolitica, portafolio, BTC, colombia
+- 2026-08-05 · GDP 01: Robin Hood / El puente de 13 carriles. · `youtube/2026-08-05-WwIWLiP6-s8.md` · https://www.youtube.com/watch?v=WwIWLiP6-s8 · temas: HOOD
+- 2026-07-30 · E219: El mundo logístico en Colombia. · `youtube/2026-07-30-MiuHBgR6Z7k.md` · https://www.youtube.com/watch?v=MiuHBgR6Z7k · temas: colombia, IA, energia
+- 2026-07-23 · E218: Los autogoles de los empresarios en la batalla cultural · `youtube/2026-07-23-vEfsSXTkYb0.md` · https://www.youtube.com/watch?v=vEfsSXTkYb0 · temas: colombia, macro, energia
+- 2026-07-16 · E217: ¿Qué es fricción? - Notarías, Cámaras de Comercio, Cajas de Compensación. · `youtube/2026-07-16-MEmOtJ1RoFE.md` · https://www.youtube.com/watch?v=MEmOtJ1RoFE · temas: colombia, PLTR, BTC, SpaceX, tesis_10x, emprendimiento
+- 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0 · temas: colombia, IA, emprendimiento, BTC, macro, geopolitica
+- 2026-07-09 · E216: Open Finance. La importancia de Colombia FIntech. Gabriel Santos. · `youtube/2026-07-09-6eVtzS0f88k.md` · https://www.youtube.com/watch?v=6eVtzS0f88k · temas: colombia, macro, IA, emprendimiento, energia
+- 2026-07-02 · E215: Biología es el nuevo código. Antonio Linares · `youtube/2026-07-02-Sda5CFB56vI.md` · https://www.youtube.com/watch?v=Sda5CFB56vI · temas: longevidad, PLTR, HIMS, colombia, tesis_10x
+- 2026-06-25 · E214: EPM. Empresas Políticas de Medellín. · `youtube/2026-06-25-6a19WXpUedM.md` · https://www.youtube.com/watch?v=6a19WXpUedM · temas: colombia, energia, TSLA, macro, IA
+- 2026-06-18 · E213: SpaceX. El mayor IPO de la última década y lo que significa para los portafolios de inversión. · `youtube/2026-06-18-Bclu6jOdid4.md` · https://www.youtube.com/watch?v=Bclu6jOdid4 · temas: PLTR, SpaceX, BTC, TSLA, longevidad, HOOD
+- 2026-06-12 · ⚡ Episodio Especial 03: Colombia 🇨🇴 Elijamos el camino de la abundancia. José Manuel Restrepo. · `youtube/2026-06-12-xT_zbjfV5vc.md` · https://www.youtube.com/watch?v=xT_zbjfV5vc · temas: colombia, energia, PLTR, SpaceX, IA, macro
+- 2026-06-11 · E212: Zonas Francas, motor de abundancia económica en Colombia. Martin Ibarra Pardo. · `youtube/2026-06-11-v3rORkclIzc.md` · https://www.youtube.com/watch?v=v3rORkclIzc · temas: colombia, energia, geopolitica, SOL
+- 2026-06-09 · ⚡ Episodio Especial 02: Los impuestos generan esclavitud con Juan Mario Giraldo (Barriga de Sapo). · `youtube/2026-06-09-z-MEP-VB6gE.md` · https://www.youtube.com/watch?v=z-MEP-VB6gE · temas: colombia, SOL, BTC, energia, macro
+- 2026-06-04 · E211: ¿Dónde puedo cargar la batería de mi Tesla? · `youtube/2026-06-04-PgZE20FHhdo.md` · https://www.youtube.com/watch?v=PgZE20FHhdo · temas: energia, colombia, TSLA, geopolitica, macro, SOL
+- 2026-05-23 · E210: ¿Qué es pensar en grande? Un puerto espacial en el Golfo de Urabá. Gobernador de Antioquía. · `youtube/2026-05-23-4Q_0z20L0Gw.md` · https://www.youtube.com/watch?v=4Q_0z20L0Gw · temas: colombia, SpaceX, energia, macro, geopolitica, TSLA
+- 2026-05-21 · E209: El Demo Day de los ALPHAS de 10AMPRO. · `youtube/2026-05-21--n2uM-HtTLA.md` · https://www.youtube.com/watch?v=-n2uM-HtTLA · temas: colombia, IA, TSLA, emprendimiento, SOL, longevidad
+- 2026-05-14 · E208: Esto es más grande que Palantir a USD 7. Antonio Linares · `youtube/2026-05-14-6j1_HGpUX2s.md` · https://www.youtube.com/watch?v=6j1_HGpUX2s · temas: longevidad, PLTR, HIMS, colombia, energia, SOL
+- 2026-05-07 · E207: Comprando 📈 acciones de todo el mundo 🌍 desde Colombia 🇨🇴. Trii · `youtube/2026-05-07-AkITmXO8VjY.md` · https://www.youtube.com/watch?v=AkITmXO8VjY · temas: colombia, emprendimiento, PLTR, TSLA, macro, HOOD
+- 2026-04-30 · E206: ETH está sobrevalorada. Santiago Santos · `youtube/2026-04-30-cCNGqlJkjAs.md` · https://www.youtube.com/watch?v=cCNGqlJkjAs · temas: BTC, ETH, SOL, colombia, emprendimiento, energia
+- 2026-04-25 · ⚡ Episodio Especial 01: Realpolitik con data - Basenji · `youtube/2026-04-25-MgVyiylxrvQ.md` · https://www.youtube.com/watch?v=MgVyiylxrvQ · temas: colombia, BTC, geopolitica
+- 2026-04-21 · E205: Michael Saylor ¿Se quiebra con STRC? · `youtube/2026-04-21-5_O7F3V1lsk.md` · https://www.youtube.com/watch?v=5_O7F3V1lsk · temas: BTC, macro, colombia, IA
+- 2026-04-17 · Energy Valley: El Hub energético de Latinoamérica. El plan maestro de Medellín. · `youtube/2026-04-17-ZHvIZRE1I38.md` · https://www.youtube.com/watch?v=ZHvIZRE1I38 · temas: energia, colombia, TSLA, IA, emprendimiento, geopolitica
+- 2026-04-16 · E204: 🇮🇷 Irán, Donald Trump y El Estrecho de Ormuz. · `youtube/2026-04-16-HhBfwrQyvwA.md` · https://www.youtube.com/watch?v=HhBfwrQyvwA · temas: geopolitica, energia, macro, colombia, BTC, PLTR
+- 2026-04-09 · E203: Experiencia VS Intuición · `youtube/2026-04-09-Lrrwxijp9oY.md` · https://www.youtube.com/watch?v=Lrrwxijp9oY · temas: colombia, emprendimiento, BTC, macro, energia, portafolio
+- 2026-04-02 · E202: La importancia de tener un segundo pasaporte. · `youtube/2026-04-02-INPeQX7Ex9Q.md` · https://www.youtube.com/watch?v=INPeQX7Ex9Q · temas: colombia, BTC, macro, emprendimiento
+- 2026-03-26 · E201: Medellín tiene que convertirse en el Energy Valley. Ricardo Sierra · `youtube/2026-03-26-w-JmwyOLuU8.md` · https://www.youtube.com/watch?v=w-JmwyOLuU8 · temas: energia, colombia, SOL, TSLA, macro, portafolio
+- 2026-03-19 · E200: Irán 🇮🇷 , petróleo🛢️, dólar 💵 y drones. Hernán, Darío, Guillermo, Andrés Felipe y El Gordo. · `youtube/2026-03-19-QbS-TGwMuw0.md` · https://www.youtube.com/watch?v=QbS-TGwMuw0 · temas: geopolitica, energia, colombia, BTC, SOL, PLTR
+- 2026-03-12 · E199: Construyendo el Internet del futuro ⚡️ . Double Zero · `youtube/2026-03-12-aVXkfdDOQJw.md` · https://www.youtube.com/watch?v=aVXkfdDOQJw · temas: SOL, colombia, BTC, emprendimiento, energia
+- 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU · temas: colombia, macro, IA, tesis_10x, BTC
+- 2026-03-05 · E198: 2028 🤯  el año que todos quedaremos sin trabajo · `youtube/2026-03-05-5QWEatCbScI.md` · https://www.youtube.com/watch?v=5QWEatCbScI · temas: IA, longevidad, SOL, energia, colombia, macro
+- 2026-02-28 · E197: El voto más caro: Un Estado grande que no entiende el impacto de IA y energía · `youtube/2026-02-28-YAzGwBJ9nns.md` · https://www.youtube.com/watch?v=YAzGwBJ9nns · temas: colombia, energia, IA, emprendimiento, TSLA, PLTR
+- 2026-02-26 · E196: Colombia 🇨🇴 vs Argentina 🇦🇷. Modelo económico y batalla cultural. Hernán, Darío y El Gordo. · `youtube/2026-02-26-leDK2mccGWM.md` · https://www.youtube.com/watch?v=leDK2mccGWM · temas: colombia, energia, IA, SOL, macro, BTC
+- 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA · temas: SOL, ETH, BTC, geopolitica, colombia, macro
+- 2026-02-12 · E194: Un meteorito  ☄️ llamado Inteligencia Artificial 🤖. · `youtube/2026-02-12-ticA_GG3M4w.md` · https://www.youtube.com/watch?v=ticA_GG3M4w · temas: IA, BTC, macro, geopolitica, colombia, TSLA
+- 2026-02-06 · E193:  Mercados en Ebullición + IA Autónoma: OpenClaw🦞  toma el control (vs Claude y Gemini) · `youtube/2026-02-06-pNrD2sFMYXU.md` · https://www.youtube.com/watch?v=pNrD2sFMYXU · temas: IA, macro, BTC, SOL, geopolitica, PLTR
+- 2026-02-05 · E192: Duolingo no es una app: es la IA que está redefiniendo cómo aprendemos. Antonio Linares · `youtube/2026-02-05-7dMgmo76Dqw.md` · https://www.youtube.com/watch?v=7dMgmo76Dqw · temas: PLTR, IA, energia, NVDA
+- 2026-02-04 · ¿Qué es 10AMPRO ALPHA? · `youtube/2026-02-04-ycj-afvwUE0.md` · https://www.youtube.com/watch?v=ycj-afvwUE0
+- 2026-01-29 · E191: Las 5 señales del cambio de era. Hernán, Darío,  Andrés Felipe, Guillermo,  Nicolás & el gordo · `youtube/2026-01-29-PdTGv5Z71SE.md` · https://www.youtube.com/watch?v=PdTGv5Z71SE · temas: geopolitica, macro, colombia, PLTR, energia, BTC
+- 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk · temas: TSLA, portafolio, BTC, macro, SOL, geopolitica
+- 2026-01-12 · E189: La oportunidad Colombia con Venezuela. Alejandro Salazar, Juan Carlos Pinzón. · `youtube/2026-01-12--DR93nEMG0A.md` · https://www.youtube.com/watch?v=-DR93nEMG0A · temas: colombia, energia, geopolitica, tesis_10x, IA, macro
+- 2026-01-08 · E188: El mundo avanza, Colombia retrocede. · `youtube/2026-01-08-Rz8-vE1wUsE.md` · https://www.youtube.com/watch?v=Rz8-vE1wUsE · temas: colombia, macro, IA, BTC, energia, TSLA
+- 2026-01-01 · E187: La Universidad paró… y creé una empresa de US$5 millones de dólares . Juniper Drinks · `youtube/2026-01-01-wi6FCdGULHg.md` · https://www.youtube.com/watch?v=wi6FCdGULHg · temas: colombia, emprendimiento
+- 2025-12-25 · E186: 171 % de retorno en el 2025: ¿cómo lo hicimos?. Equipo 10AMPRO · `youtube/2025-12-25-A88-_-LAlh8.md` · https://www.youtube.com/watch?v=A88-_-LAlh8 · temas: macro, SOL, portafolio, BTC, TSLA, geopolitica
+- 2025-12-18 · E185: Los colombianos no somos productivos. Esteban Piedrahita. · `youtube/2025-12-18-uvWR8CKeMXc.md` · https://www.youtube.com/watch?v=uvWR8CKeMXc · temas: colombia, energia, emprendimiento, macro, geopolitica, portafolio
+- 2025-12-11 · E184: Michael Saylor contra el mundo 🌎. Equipo 10AMPRO · `youtube/2025-12-11-iN2PH8uBPKE.md` · https://www.youtube.com/watch?v=iN2PH8uBPKE · temas: BTC, energia, SOL, colombia, geopolitica, macro
+- 2025-12-04 · E183: Michael Saylor, BTC y la Burbuja de la Inteligencia Artificial. Análisis Real. Sebastián Toro · `youtube/2025-12-04-BmpA_Tel6-0.md` · https://www.youtube.com/watch?v=BmpA_Tel6-0 · temas: BTC, colombia, macro, IA, geopolitica, energia
+- 2025-11-27 · E182: Todos los caminos conducen a Roma. Equipo 10AMPRO · `youtube/2025-11-27-gt2ax10tJM8.md` · https://www.youtube.com/watch?v=gt2ax10tJM8 · temas: macro, colombia
+- 2025-11-20 · E181: ¿Transformas o te transforman? El nuevo reto de Wilder Zapata. · `youtube/2025-11-20-mIa8NiQT9lY.md` · https://www.youtube.com/watch?v=mIa8NiQT9lY · temas: colombia, emprendimiento, geopolitica, macro
+- 2025-11-16 · E180: Solana, Palantir y Tesla. Equipo 10AMPRO · `youtube/2025-11-16-FpcWtNhmDWY.md` · https://www.youtube.com/watch?v=FpcWtNhmDWY · temas: BTC, colombia, emprendimiento, SOL, TSLA, PLTR
+- 2025-11-13 · E179: ¿Mi negocio es mejor inversión que invertir en Bitcoin?. Equipo 10AMPRO · `youtube/2025-11-13-nl1AGKDaRXM.md` · https://www.youtube.com/watch?v=nl1AGKDaRXM · temas: BTC, macro, colombia, portafolio, IA, energia
+- 2025-11-06 · E178: La era de la abundancia. Gerardo Delgado / Nvidia · `youtube/2025-11-06-QgWVt-cLwHs.md` · https://www.youtube.com/watch?v=QgWVt-cLwHs · temas: IA, geopolitica, NVDA, energia, TSLA, SpaceX
+- 2025-10-30 · E177: Abelardo De La Espriella 🐅. Reducción del Estado y seguridad. Equipo 10AMPRO · `youtube/2025-10-30-y7fzSK5M5g0.md` · https://www.youtube.com/watch?v=y7fzSK5M5g0 · temas: colombia, energia, IA, geopolitica, macro
+- 2025-10-23 · E176: Los efectos nefastos del plebiscito. Daniel Raisbeck · `youtube/2025-10-23-Sln75_EtOLg.md` · https://www.youtube.com/watch?v=Sln75_EtOLg · temas: colombia, geopolitica
+- 2025-10-16 · E175: ¿Qué está pasando con Bitcoin y la Inteligencia Artificial? | Equipo 10AMPRO · `youtube/2025-10-16-lmNvX1LDpqo.md` · https://www.youtube.com/watch?v=lmNvX1LDpqo · temas: BTC, IA, SOL, colombia, TSLA, macro
+- 2025-10-09 · E174: La pensión actual es una pirámide. Jerome Sanabria. · `youtube/2025-10-09-03g_5qv7c78.md` · https://www.youtube.com/watch?v=03g_5qv7c78 · temas: colombia, BTC
+- 2025-10-02 · E173: En el mundo de la energía, todo gira en torno al cobre. Nicolás Peláez. · `youtube/2025-10-02-snuwsCnIE1o.md` · https://www.youtube.com/watch?v=snuwsCnIE1o · temas: colombia, energia, geopolitica, tesis_10x, BTC, TSLA
+- 2025-09-18 · E171: 216 entidades que sobran en Colombia: la propuesta de Daniel Raisbeck contra la corrupción. · `youtube/2025-09-18-J7dS5RTHCy4.md` · https://www.youtube.com/watch?v=J7dS5RTHCy4 · temas: colombia, macro, geopolitica, energia, emprendimiento
+- 2025-09-11 · E170: Recuperar la Seguridad en Colombia, Juan Carlos Pinzón. · `youtube/2025-09-11-pIFL87LviIs.md` · https://www.youtube.com/watch?v=pIFL87LviIs · temas: colombia, energia, PLTR, IA, macro, emprendimiento
+- 2025-09-04 · E169: Quien sepa gobernar tokens y electrones, gobernará el futuro. Gabriel Merlo 🇪🇸 · `youtube/2025-09-04-JdZCcg7QtLA.md` · https://www.youtube.com/watch?v=JdZCcg7QtLA · temas: tokenizacion, IA, energia
+- 2025-08-28 · E168: La urgencia de la Colombia ganadora. Sebastián Salazar. Estrategia Emergente · `youtube/2025-08-28-FykuBZB69KU.md` · https://www.youtube.com/watch?v=FykuBZB69KU · temas: colombia, geopolitica, energia, emprendimiento, IA
+- 2025-08-14 · E166: A los zurdos no se les puede dar un milímetro. Javier Milei, Equipo 10AMPRO. · `youtube/2025-08-14-lddgiExx6gM.md` · https://www.youtube.com/watch?v=lddgiExx6gM · temas: colombia, macro, geopolitica, tesis_10x
+- 2025-08-07 · E165: Medellín, capital crypto de Latinoamérica. Cripto Latin Fest · `youtube/2025-08-07-cgdihfnJVbY.md` · https://www.youtube.com/watch?v=cgdihfnJVbY · temas: colombia, BTC, geopolitica, emprendimiento, stablecoins, macro
+- 2025-07-31 · E164: El nuevo oro líquido de Medellín. El boom 💥 cervecero 🍺 · `youtube/2025-07-31-0iH5vh1ohEU.md` · https://www.youtube.com/watch?v=0iH5vh1ohEU · temas: colombia
+- 2025-07-24 · E163: El paradigma del inversor. Equipo 10AMPRO · `youtube/2025-07-24-B7Kc3SQecUQ.md` · https://www.youtube.com/watch?v=B7Kc3SQecUQ · temas: BTC, colombia, macro, portafolio, TSLA, PLTR
+- 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8 · temas: energia, colombia, IA, geopolitica, BTC, TSLA
+- 2025-07-10 · E161: ⚠️ Crisis energética. Colombia al borde de un gran apagón 🚨| Natalia Gutiérrez, ACOLGEN · `youtube/2025-07-10-Rs0PsVFgP14.md` · https://www.youtube.com/watch?v=Rs0PsVFgP14 · temas: energia, colombia, IA, geopolitica, BTC
+- 2025-07-03 · E160: El Estado voraz: más impuestos, más trabas, menos libertad 🚨. Nicolás Fernández · `youtube/2025-07-03-Fidwb3CXFps.md` · https://www.youtube.com/watch?v=Fidwb3CXFps · temas: colombia, BTC, IA, energia
+- 2025-06-26 · E159: Guerra Israel-Irán. Petróleo cae, bolsas suben y Bitcoin +10 % 📊 | Con Daniel Lacalle · `youtube/2025-06-26-e43qfojhUSY.md` · https://www.youtube.com/watch?v=e43qfojhUSY · temas: geopolitica, macro, energia, colombia, TSLA
+- 2025-06-19 · E158: Los países ricos ya eligieron: ⚛️ Energía Nuclear . Lisandro Pérez 🇦🇷 · `youtube/2025-06-19-wXSM3Qb3eC4.md` · https://www.youtube.com/watch?v=wXSM3Qb3eC4 · temas: energia, geopolitica, colombia, SOL, IA
+- 2025-06-12 · E157: La absurda reforma laboral. Equipo 10AMPRO · `youtube/2025-06-12-RdxBQtt9D6Q.md` · https://www.youtube.com/watch?v=RdxBQtt9D6Q · temas: colombia, BTC, energia, macro, IA, emprendimiento
+- 2025-06-05 · E156: El último Bitcoin. Equipo 10AMPRO · `youtube/2025-06-05-7YN24s8Ipg0.md` · https://www.youtube.com/watch?v=7YN24s8Ipg0 · temas: BTC, energia, macro, SOL, colombia, geopolitica
+- 2025-05-29 · E155: De mecánico de aviones a vender su empresa a MasterCard 🛫💰 | La historia de Edrizo de la Cruz · `youtube/2025-05-29-3qhuAm8ITNc.md` · https://www.youtube.com/watch?v=3qhuAm8ITNc · temas: emprendimiento, colombia
+- 2025-05-22 · E154: ¿Va ganando o perdiendo el portafolio de 10AMPRO en 2025? Descúbrelo en este análisis. · `youtube/2025-05-22-RG83P3KXJ5A.md` · https://www.youtube.com/watch?v=RG83P3KXJ5A · temas: geopolitica, BTC, portafolio, SOL, TSLA, HOOD
+- 2025-05-15 · E153: Desmembrando y entendiendo la industria de Venture Capital. Equipo Veronorte · `youtube/2025-05-15-SckLdB_VCwo.md` · https://www.youtube.com/watch?v=SckLdB_VCwo · temas: emprendimiento, colombia, portafolio, IA, geopolitica, longevidad
+- 2025-05-08 · E152: ¿Se puede hackear el cuerpo humano? Biohacking explicado por Camilo Ospina · `youtube/2025-05-08-k62kyfR8D8o.md` · https://www.youtube.com/watch?v=k62kyfR8D8o · temas: colombia, longevidad, energia, geopolitica, emprendimiento
+- 2025-05-01 · E151: ¡He hecho 20 veces más por la igualdad que cualquier político de izquierda!. Enrique Peñalosa · `youtube/2025-05-01-dB5jNR8By4E.md` · https://www.youtube.com/watch?v=dB5jNR8By4E · temas: colombia, energia, geopolitica, IA
+- 2025-04-24 · E150: ¿HIMS el próximo 10X? Antonio Linares · `youtube/2025-04-24-jB-Qew9B9_o.md` · https://www.youtube.com/watch?v=jB-Qew9B9_o · temas: HIMS, longevidad, PLTR, HOOD, tesis_10x
+- 2025-04-23 · Menos titulares, mejor dieta de información, modelos mentales y sicologia para invertir · `youtube/2025-04-23-yHzAjWFZMYs.md` · https://www.youtube.com/watch?v=yHzAjWFZMYs · temas: geopolitica, BTC, macro, IA, colombia, PLTR
+- 2025-04-17 · E149: Una mirada macro del mundo. Guillermo Valencia · `youtube/2025-04-17-m4N7_3nDCcQ.md` · https://www.youtube.com/watch?v=m4N7_3nDCcQ · temas: geopolitica, macro, energia, BTC, TSLA, PLTR
+- 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss · temas: BTC, SOL, energia, macro, stablecoins, colombia
+- 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ · temas: geopolitica, macro, BTC, colombia, energia, IA
+- 2025-04-03 · E147: Como traer mas usuarios al mundo cripto  Santiago R Santos. · `youtube/2025-04-03-nISXebAfY2U.md` · https://www.youtube.com/watch?v=nISXebAfY2U · temas: BTC, colombia, SOL, IA, macro, stablecoins
+- 2025-03-27 · E146: La psicología del inversor. Camilo Botero · `youtube/2025-03-27-LRCB75R5mrs.md` · https://www.youtube.com/watch?v=LRCB75R5mrs · temas: tesis_10x, TSLA, PLTR, energia
+- 2025-03-20 · E145: ¿Antioquia/Colombia podría tener un Fondo Soberano en BITCOIN? Equipo 10AMPRO · `youtube/2025-03-20-rfUhpNAtkqY.md` · https://www.youtube.com/watch?v=rfUhpNAtkqY · temas: BTC, colombia, energia, SOL, geopolitica, macro
+- 2025-03-13 · E144: Maria Fernanda Cabal. Bitcoin, DOGE y soberanía energética en Colombia. · `youtube/2025-03-13--WWeW_6EiW0.md` · https://www.youtube.com/watch?v=-WWeW_6EiW0 · temas: BTC, colombia, IA, energia, macro, geopolitica
+- 2025-03-06 · E143: Publicistas crean Mil Demonios, la próxima marca de licores que superará el billón de dólares. · `youtube/2025-03-06-0EfSQfb3UoI.md` · https://www.youtube.com/watch?v=0EfSQfb3UoI · temas: colombia, emprendimiento, geopolitica
+- 2025-03-04 · E142: La maravillosa oportunidad de construir "Eurovelos" en Colombia. Equipo 10AMPRO · `youtube/2025-03-04-A7MHvdsifOs.md` · https://www.youtube.com/watch?v=A7MHvdsifOs · temas: colombia
+- 2025-02-27 · E141: AMD y el negocio de las inferencias. Antonio Linares. · `youtube/2025-02-27-ecIqTOs5sIQ.md` · https://www.youtube.com/watch?v=ecIqTOs5sIQ · temas: PLTR, IA, TSLA, NVDA, longevidad, energia
+- 2025-02-20 · E140: ¿Me puedo pensionar con Bitcoin?. Equipo 10AMPRO · `youtube/2025-02-20-oVXSPXBZkgw.md` · https://www.youtube.com/watch?v=oVXSPXBZkgw · temas: BTC, macro, colombia, SOL, portafolio, IA
+- 2025-02-17 · E139: El negocio 🏘️  del Real Estate.   🇪🇸 Madrid  vs 🇺🇸 Miami · `youtube/2025-02-17-lw5Hr1YFUjA.md` · https://www.youtube.com/watch?v=lw5Hr1YFUjA · temas: colombia, macro
+- 2025-02-13 · E138: ¿Cómo activar D.O.G.E en Colombia?. Mauricio Cardenas · `youtube/2025-02-13-A0mh0i4RauM.md` · https://www.youtube.com/watch?v=A0mh0i4RauM · temas: colombia, emprendimiento, BTC, geopolitica, SOL, portafolio
+- 2025-02-06 · E137: Modelos mentales. Equipo 10AMPRO · `youtube/2025-02-06-U-Tk9XzfWrQ.md` · https://www.youtube.com/watch?v=U-Tk9XzfWrQ · temas: IA, energia, portafolio, BTC, macro, emprendimiento
+- 2025-01-30 · E136: Las predicciones de 10AMPRO para el 2025. Equipo 10AMPRO · `youtube/2025-01-30-4RfzDtrKKnI.md` · https://www.youtube.com/watch?v=4RfzDtrKKnI · temas: energia, geopolitica, portafolio, BTC, macro, TSLA
+- 2025-01-23 · E134: La era del Solopreneur. ¿Cómo cambiar una nómina de 5 personas en agentes de AI? Dario Palacio · `youtube/2025-01-23-3rzUODpb6Oo.md` · https://www.youtube.com/watch?v=3rzUODpb6Oo · temas: IA, emprendimiento, colombia, macro
+- 2025-01-16 · E132: Es más barato lanzar cohetes 🚀 desde Antioquia-Colombia 🇨🇴  , que desde Texas. Diego Jiménez · `youtube/2025-01-16-sjKZP7K1DEs.md` · https://www.youtube.com/watch?v=sjKZP7K1DEs · temas: energia, SpaceX, colombia, geopolitica, SOL, IA
+- 2025-01-09 · E131: Rigo 🚴 de campeón a empresario. Rigoberto Urán. · `youtube/2025-01-09-e2W3VLvf2YU.md` · https://www.youtube.com/watch?v=e2W3VLvf2YU · temas: colombia, emprendimiento, energia
+- 2025-01-02 · E130: Global66 logró lo que gobiernos y bancos no pudieron; unificar financieramente a Latam. · `youtube/2025-01-02-Dx8EICNFqy4.md` · https://www.youtube.com/watch?v=Dx8EICNFqy4 · temas: colombia, emprendimiento, SOL, BTC, tokenizacion
+- 2024-12-26 · E129: Víctima o superviviente. Andrés Felipe Arias · `youtube/2024-12-26-fiVokvOV2Xw.md` · https://www.youtube.com/watch?v=fiVokvOV2Xw · temas: colombia
+- 2024-12-19 · E128: ¿Cómo vivir 100 años?. Andrés Palacio. · `youtube/2024-12-19-VU8otWdoAqI.md` · https://www.youtube.com/watch?v=VU8otWdoAqI · temas: colombia, longevidad, IA
+- 2024-12-12 · E127: ¿Se cumplieron las predicciones financieras en 10AMPRO?. Equipo 10AMPRO · `youtube/2024-12-12--nbXdwXnGnA.md` · https://www.youtube.com/watch?v=-nbXdwXnGnA · temas: SOL, PLTR, portafolio, BTC, NOS, tesis_10x
+- 2024-12-05 · E126: Santiago Botero se lanza a la presidencia de 🇨🇴 con ideas  de Milei, Bukele y Trump · `youtube/2024-12-05-RjozFTf6Sqk.md` · https://www.youtube.com/watch?v=RjozFTf6Sqk · temas: colombia, emprendimiento, geopolitica, macro, energia, TSLA
+- 2024-11-28 · E125: La nueva guerra fría. Guillermo Valencia. Macrowise & Scale · `youtube/2024-11-28-EW6XALnksjI.md` · https://www.youtube.com/watch?v=EW6XALnksjI · temas: energia, geopolitica, macro, colombia, TSLA, BTC
+- 2024-11-21 · E124: Aplicando Inteligencia Artificial en 10AMPRO. Con Felipe Aguirre. · `youtube/2024-11-21-DwwDKZPPt9I.md` · https://www.youtube.com/watch?v=DwwDKZPPt9I · temas: IA, emprendimiento, colombia, energia, NOS, tokenizacion
+- 2024-11-14 · E123: I never look at price. Kyle Samani - Multicoin Capital · `youtube/2024-11-14-CQB6erpyd6Y.md` · https://www.youtube.com/watch?v=CQB6erpyd6Y · temas: SOL, ETH, BTC, colombia, memecoins, macro
+- 2024-11-07 · E122: ¡Viva la Libertad Carajo!.  Andrés Felipe Arias  & Juan Mario Giraldo (Barriga de Sapo). · `youtube/2024-11-07-6cB78mjvrNg.md` · https://www.youtube.com/watch?v=6cB78mjvrNg · temas: colombia, geopolitica, BTC, macro, energia
+- 2024-11-06 · E121: Why Latam likes BTC?.  With Natalie Brunell (Eng) · `youtube/2024-11-06-JYFWDYCqjjE.md` · https://www.youtube.com/watch?v=JYFWDYCqjjE · temas: BTC, macro, colombia, emprendimiento
+- 2024-10-31 · E120: 🚙 Rivian, el próximo Tesla 🤯. Antonio Linares. · `youtube/2024-10-31-JVQ45TkT0sM.md` · https://www.youtube.com/watch?v=JVQ45TkT0sM · temas: TSLA, PLTR, tesis_10x, macro, colombia, emprendimiento
+- 2024-10-23 · E119: 🇺🇸 Anthony Scaramucci 🤑 55% of my networth is in Crypto · `youtube/2024-10-23-g_LWQWBtAiA.md` · https://www.youtube.com/watch?v=g_LWQWBtAiA · temas: BTC, geopolitica, ETH, colombia, SOL, macro
+- 2024-10-17 · E118: Los hermanos Mazo, Los educadores más importantes de Andalucía, España 🇪🇸 · `youtube/2024-10-17-HKu5t19jIcI.md` · https://www.youtube.com/watch?v=HKu5t19jIcI · temas: colombia, IA, emprendimiento, portafolio
+- 2024-10-15 · E117: Web 3 Mobile Phone only USD$99. Jambo Technology (Eng) · `youtube/2024-10-15-jzCszPj74jY.md` · https://www.youtube.com/watch?v=jzCszPj74jY · temas: colombia, stablecoins, geopolitica
+- 2024-10-10 · E116: Del colegio hacia Tesla. Martín Peláez. CTO Plenti · `youtube/2024-10-10-oYRaIsFZTMg.md` · https://www.youtube.com/watch?v=oYRaIsFZTMg · temas: TSLA, colombia, stablecoins, emprendimiento, SOL, SpaceX
+- 2024-10-03 · E115: El enroque entre los hermanos Bilbao. Daniel Bilbao. CEO Truora. · `youtube/2024-10-03-DFvTZhs37LI.md` · https://www.youtube.com/watch?v=DFvTZhs37LI · temas: emprendimiento, colombia, energia
+- 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI · temas: portafolio, macro, colombia, TSLA, PLTR, geopolitica
+- 2024-09-19 · E113: Los Pros y contras de Elon Musk. Ernesto Montesano · `youtube/2024-09-19-jqT7uUfrOK4.md` · https://www.youtube.com/watch?v=jqT7uUfrOK4 · temas: colombia, TSLA, geopolitica, IA, emprendimiento, SpaceX
+- 2024-09-12 · E111: La billetera de Bitcoin de El Salvador es creada en Colombia. Chivo Wallet. Arley Lozano · `youtube/2024-09-12-ZzcykYaK-Kg.md` · https://www.youtube.com/watch?v=ZzcykYaK-Kg · temas: BTC, colombia, energia, SOL, IA, emprendimiento
+- 2024-09-05 · E110: El origen de los superpoderes de Wilder Zapata. Los padres de Wilder. · `youtube/2024-09-05-LZ6kynZdVPw.md` · https://www.youtube.com/watch?v=LZ6kynZdVPw · temas: colombia, macro, emprendimiento
+- 2024-08-29 · E109: El Estado se tiene que reducir en mínimo un 50%. José Manuel Restrepo. Ex-Ministro de Hacienda · `youtube/2024-08-29-pY0kchwy6DA.md` · https://www.youtube.com/watch?v=pY0kchwy6DA · temas: colombia, macro, energia, geopolitica, emprendimiento, BTC
+- 2024-08-22 · E108: ¡Bitcoin, la vacuna contra el corralito! Equipo 10AMPRO · `youtube/2024-08-22-zCmyQyVPdqk.md` · https://www.youtube.com/watch?v=zCmyQyVPdqk · temas: BTC, SOL, macro, colombia, IA, energia
+- 2024-08-15 · E107: ¿Lunes negro? El Carry Trade del Yen 🇯🇵. Equipo 10AMPRO · `youtube/2024-08-15-enmay3VnPKI.md` · https://www.youtube.com/watch?v=enmay3VnPKI · temas: SOL, macro, geopolitica, BTC, TSLA, XRP
+- 2024-08-08 · E106: El mundo del vino🍷. Nestor González · `youtube/2024-08-08-BuQXZPTmKVQ.md` · https://www.youtube.com/watch?v=BuQXZPTmKVQ · temas: colombia, SOL, geopolitica
+- 2024-08-01 · E105: ¿Cómo pensar en 1000x? Javier Villamizar, Softbank. · `youtube/2024-08-01-VN1OIzdttrM.md` · https://www.youtube.com/watch?v=VN1OIzdttrM · temas: emprendimiento, colombia, IA, tesis_10x, energia
+- 2024-07-25 · E104: ¿Qué es un validador en crypto y cómo vivir de ello?. Juan Andrés Calderón · `youtube/2024-07-25-lJHhwA7eKkQ.md` · https://www.youtube.com/watch?v=lJHhwA7eKkQ · temas: BTC, SOL, colombia, ETH, emprendimiento, NOS
+- 2024-07-18 · E103: El primer pirata informático. Iñigo Koch. · `youtube/2024-07-18-HcxEd1k7qiI.md` · https://www.youtube.com/watch?v=HcxEd1k7qiI · temas: colombia, IA, SOL, BTC, emprendimiento
+- 2024-07-11 · E102: Entre Matrix y Nostradamus. Camilo Botero · `youtube/2024-07-11-quDaRVKfNSo.md` · https://www.youtube.com/watch?v=quDaRVKfNSo · temas: IA, energia, TSLA, SOL, macro
+- 2024-07-04 · E101: ¿Qué es Wenia?. La apuesta de Bancolombia en el mundo Crypto. Pablo Arboleda · `youtube/2024-07-04-5n6aNZKkbuU.md` · https://www.youtube.com/watch?v=5n6aNZKkbuU · temas: colombia, BTC, SOL, geopolitica, stablecoins, TSLA
+- 2024-06-20 · E99: ¿Para dónde va el dólar? Andrés Felipe Arias · `youtube/2024-06-20-9Xy3xPoapyw.md` · https://www.youtube.com/watch?v=9Xy3xPoapyw · temas: colombia, macro, BTC, geopolitica, emprendimiento
+- 2024-06-13 · E98: ¿Cómo pensamos en inversiones en 10AMPRO? Mariana Botero · `youtube/2024-06-13-_emkuBiHlPk.md` · https://www.youtube.com/watch?v=_emkuBiHlPk · temas: BTC, SOL, macro, IA, PLTR, stablecoins
+- 2024-06-07 · E97: Realpolitik. Segunda parte. Juan Mario Giraldo/Barriga de Sapo 🐸 · `youtube/2024-06-07-R-gMdNNeAiM.md` · https://www.youtube.com/watch?v=R-gMdNNeAiM · temas: colombia, macro
+- 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto · temas: TSLA, energia, IA, colombia, NVDA, geopolitica
+- 2024-05-24 · E95: Moverse en auto eléctrico es un 75% mas barato. Camilo Agudelo, Muverang · `youtube/2024-05-24-40FbyLwyIS0.md` · https://www.youtube.com/watch?v=40FbyLwyIS0 · temas: colombia, emprendimiento, geopolitica, TSLA, macro, energia
+- 2024-05-22 · 10AM Pro Live Stream  en EAFIT & NODO · `youtube/2024-05-22-acsHNNn51zc.md` · https://www.youtube.com/watch?v=acsHNNn51zc · temas: IA, emprendimiento, colombia
+- 2024-05-16 · E94: Santiago R Santos, uno de los primeros inversionistas en Ethereum. · `youtube/2024-05-16-12vfWFpXItw.md` · https://www.youtube.com/watch?v=12vfWFpXItw · temas: SOL, BTC, ETH, colombia, emprendimiento, macro
+- 2024-05-10 · E93: La ingeniería financiera en BTC de Michael Saylor - Microstrategy · `youtube/2024-05-10-OHlZzH3LREY.md` · https://www.youtube.com/watch?v=OHlZzH3LREY · temas: BTC, colombia, macro, HOOD, geopolitica, TSLA
+- 2024-05-03 · E92: ¿La IA será un nuevo Dios?. Gerardo Delgado. Nvidia · `youtube/2024-05-03-62xBbvvxMf4.md` · https://www.youtube.com/watch?v=62xBbvvxMf4 · temas: IA, NVDA, longevidad, colombia, geopolitica, BTC
+- 2024-04-26 · E91: En las entrañas de las empresas de Silicon Valley como Uber y GitHub. Juan Pemberthy · `youtube/2024-04-26-HLU4Fvn1Cx8.md` · https://www.youtube.com/watch?v=HLU4Fvn1Cx8 · temas: colombia, BTC, emprendimiento, geopolitica, SOL
+- 2024-04-19 · E90: La enfermedad del emprendedor: La mente. Andrés Bilbao · `youtube/2024-04-19-0xNpgqntDMk.md` · https://www.youtube.com/watch?v=0xNpgqntDMk · temas: emprendimiento, colombia, macro, energia, SOL, TSLA
+- 2024-04-12 · E89: Blockchain crece el doble de rápido que Internet y Bitcoin es la clave. Camilo Botero · `youtube/2024-04-12-fqkU9B5Ie6s.md` · https://www.youtube.com/watch?v=fqkU9B5Ie6s · temas: BTC, energia, IA, colombia, macro, emprendimiento
+- 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ · temas: DLMM, SOL, stablecoins, JUP, BTC, ETH
+- 2024-03-29 · E87: Gane.com, la empresa que ofrecerá Internet gratis en toda Latinoamérica. Enrique Baiz · `youtube/2024-03-29-Q76iWYoakds.md` · https://www.youtube.com/watch?v=Q76iWYoakds · temas: colombia, SOL, emprendimiento, energia, IA
+- 2024-03-22 · E86: Motobombas igual Silicon Valley · `youtube/2024-03-22-8N_hbD83GM8.md` · https://www.youtube.com/watch?v=8N_hbD83GM8 · temas: emprendimiento, colombia, SOL, geopolitica, SpaceX
+- 2024-03-15 · E85: Creando un fondo de inversión en Estados Unidos. Zenda Capital. Esteban Reyes · `youtube/2024-03-15-CtVGDRnPzU0.md` · https://www.youtube.com/watch?v=CtVGDRnPzU0 · temas: emprendimiento, colombia, macro, BTC, portafolio, IA
+- 2024-03-08 · E84: Matemática aplicada. Un sistema solo se mueve a la velocidad del mas lento. El origen de IA · `youtube/2024-03-08-s-CStxGJ2Ag.md` · https://www.youtube.com/watch?v=s-CStxGJ2Ag · temas: IA, colombia, SOL, PLTR, portafolio
+- 2024-03-01 · E83: Disrupción del Banco de La República. La velocidad de las transacciones. Ana María Prieto · `youtube/2024-03-01-o-gyoGMOpVo.md` · https://www.youtube.com/watch?v=o-gyoGMOpVo · temas: colombia, emprendimiento, SOL
+- 2024-02-23 · E82: Fa$il Actualizado. Resolviendo los problemas de vivienda en Latinoamérica. · `youtube/2024-02-23-RdcYgVbdnZo.md` · https://www.youtube.com/watch?v=RdcYgVbdnZo · temas: colombia, macro, emprendimiento, tokenizacion, SOL, BTC
+- 2024-02-16 · E81: Hackathon Solana Colombia. Episodio Medellín. Alex Ramírez. · `youtube/2024-02-16-5Hbv_Lwn8is.md` · https://www.youtube.com/watch?v=5Hbv_Lwn8is · temas: SOL, colombia, emprendimiento, BTC
+- 2024-02-09 · E80: Estuve 84 días cruzando el Atlántico a remo 🚣. Nicolás Carvajal 🤯 · `youtube/2024-02-09-AI_-6E9BAS4.md` · https://www.youtube.com/watch?v=AI_-6E9BAS4 · temas: colombia, emprendimiento, macro, geopolitica
+- 2024-02-02 · E79: La minería de oro 3.0. Conectando la minería tradicional con blockchain. José Santiago Gómez. · `youtube/2024-02-02-O1W8NhtOaoQ.md` · https://www.youtube.com/watch?v=O1W8NhtOaoQ · temas: colombia, energia, tokenizacion, SOL, BTC, geopolitica
+- 2024-01-26 · E78: Las oportunidades del negocio del arte en Colombia y Latinoamérica. Galería Duque Arango · `youtube/2024-01-26-f9BN5vp2aRU.md` · https://www.youtube.com/watch?v=f9BN5vp2aRU · temas: colombia, IA
+- 2024-01-19 · E77: "A Medellín se la robaron, pero la vamos a recuperar". Sebastian López. Concejal de Medellín. · `youtube/2024-01-19-f2llI_SjCHE.md` · https://www.youtube.com/watch?v=f2llI_SjCHE · temas: colombia, SOL
+- 2024-01-12 · E76: Pagando en USDC con tarjetas de crédito virtuales. Equipo ZEBEC. · `youtube/2024-01-12-OMIimYPSdts.md` · https://www.youtube.com/watch?v=OMIimYPSdts · temas: stablecoins, SOL, colombia, emprendimiento
+- 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM · temas: SOL, TSLA, BTC, IA, portafolio, PLTR
+- 2023-12-29 · E74: El verdadero marketing inteligente. Santiago Ospina. · `youtube/2023-12-29-atDuzHfAghg.md` · https://www.youtube.com/watch?v=atDuzHfAghg · temas: colombia, IA, emprendimiento, macro, SOL
+- 2023-12-22 · E73:  Error no es fracaso. Equipo  10AMPRO. · `youtube/2023-12-22-eYZg98A2DH4.md` · https://www.youtube.com/watch?v=eYZg98A2DH4 · temas: colombia, SOL, emprendimiento, JTO, energia, BTC
+- 2023-12-15 · E72: Así se hace el verdadero Silicon Valley. De ropa interior femenina a robots. Esteban Urrea · `youtube/2023-12-15--9MlwpzhsLc.md` · https://www.youtube.com/watch?v=-9MlwpzhsLc · temas: emprendimiento, colombia, portafolio, IA, geopolitica
+- 2023-12-08 · E71: ¿Jaque al metro de Medellín?. Ramiro Valencia · `youtube/2023-12-08-MbxpIEolyvo.md` · https://www.youtube.com/watch?v=MbxpIEolyvo · temas: colombia, energia, SOL, SpaceX, IA, emprendimiento
+- 2023-12-01 · E70: La Bolsa de Valores de Colombia es apenas el 25% de un MemeCoin. · `youtube/2023-12-01-L2jSZP_uVuI.md` · https://www.youtube.com/watch?v=L2jSZP_uVuI · temas: colombia, macro, emprendimiento, portafolio, BTC, HOOD
+- 2023-11-24 · E69: Medellín 10X. Cómo multiplicar por 10 el PIB de la ciudad de Medellín - Colombia 🇨🇴 en 5 años. · `youtube/2023-11-24-53WSW_h3eew.md` · https://www.youtube.com/watch?v=53WSW_h3eew · temas: colombia, emprendimiento, SOL, SpaceX, tesis_10x, BTC
+- 2023-11-17 · E68: Instagram MasterClass con Catalina Aristizábal. 1.6 millones de seguidores. · `youtube/2023-11-17-ug1CtWVkrQY.md` · https://www.youtube.com/watch?v=ug1CtWVkrQY · temas: colombia, SOL, emprendimiento
+- 2023-11-10 · E67: Medellín, epicentro mundial de AirBnB · `youtube/2023-11-10-qcarRIrQd70.md` · https://www.youtube.com/watch?v=qcarRIrQd70 · temas: colombia, emprendimiento, macro, SOL, SpaceX, portafolio
+- 2023-11-06 · E66: Hernán Jaramillo. 3 Startups. De Medellín a San Francisco y USD$100M levantados en capital · `youtube/2023-11-06-aVUZA-Q1MYs.md` · https://www.youtube.com/watch?v=aVUZA-Q1MYs · temas: colombia, emprendimiento, PLTR, portafolio, SOL, TSLA
+- 2023-11-03 · E65: ¿Solana será el próximo Google? Su impacto en el mundo financiero. El caso de uso de VISA. · `youtube/2023-11-03-jLYGKMf8ciI.md` · https://www.youtube.com/watch?v=jLYGKMf8ciI · temas: SOL, BTC, colombia, ETH, energia, TSLA
+- 2023-10-27 · E64: De vender paletas en un carrito a vender su empresa en $US100 millones. Santiago Botero · `youtube/2023-10-27-oYLcI_ZeFvQ.md` · https://www.youtube.com/watch?v=oYLcI_ZeFvQ · temas: colombia, emprendimiento, BTC, IA, macro
+- 2023-10-20 · E63: El verdadero mundo y negocio detrás de Onlyfans.  Indiana Montezuma · `youtube/2023-10-20-hTgx349hXKE.md` · https://www.youtube.com/watch?v=hTgx349hXKE · temas: colombia, energia, emprendimiento
+- 2023-10-13 · E62: Ingeniero Aeroespacial crea fábrica de software en Barranquilla. Jonathan Tarud - Koombea · `youtube/2023-10-13-53JICRHZcsQ.md` · https://www.youtube.com/watch?v=53JICRHZcsQ · temas: colombia, emprendimiento, SOL, IA
+- 2023-10-06 · E61: La jugada de Quintero. Noche con Las FARC. Amistad del maestro Botero. Ramiro Valencia. Parte 2 · `youtube/2023-10-06-LPBiNSU3i5o.md` · https://www.youtube.com/watch?v=LPBiNSU3i5o · temas: colombia, energia
+- 2023-09-29 · E60: Estructurar un portafolio de inversión en inmuebles en EEUU y desde cualquier parte del mundo. · `youtube/2023-09-29-u2axXYHz-Gs.md` · https://www.youtube.com/watch?v=u2axXYHz-Gs · temas: macro, colombia
+- 2023-09-26 · Crea tu propia tienda en Amazon y genera ingresos mensuales pasivamente. Alex Pro · `youtube/2023-09-26-WMvvmvWYQL8.md` · https://www.youtube.com/watch?v=WMvvmvWYQL8 · temas: colombia, geopolitica, IA
+- 2023-09-22 · E59: Del barrio Aranjuez en Medellín 🇨🇴  a WallStreet en NewYork 🇺🇸. ActionBlack por Wilder Zapata · `youtube/2023-09-22-YF8YzaYunGs.md` · https://www.youtube.com/watch?v=YF8YzaYunGs · temas: colombia, emprendimiento, macro, geopolitica
+- 2023-09-15 · E58: Cara a cara con Pablo Escobar y el enredo de HidroItuango. Ramiro Valencia · `youtube/2023-09-15-dNuTQDTk5kI.md` · https://www.youtube.com/watch?v=dNuTQDTk5kI · temas: colombia, energia
+- 2023-09-08 · E57: Antioquia, plataforma para lanzamientos con Cristian Halaby candidato gobernación · `youtube/2023-09-08-NzAmrqF91xo.md` · https://www.youtube.com/watch?v=NzAmrqF91xo · temas: colombia, TSLA, emprendimiento, BTC
+- 2023-09-01 · E56: La estrategia que nos vende el socialismo. Juan Mario Giraldo "Barriga de Sapo 🐸" · `youtube/2023-09-01-qWEOlItqYCY.md` · https://www.youtube.com/watch?v=qWEOlItqYCY · temas: colombia, macro
+- 2023-08-25 · E55: Nómada Digital. Vivir y trabajar en cualquier lugar del mundo 🌎 · `youtube/2023-08-25-0rSt5YNJ328.md` · https://www.youtube.com/watch?v=0rSt5YNJ328 · temas: colombia, portafolio, geopolitica, IA
+- 2023-08-24 · Antioquia quiere impulsar a Bitcoin con Mauricio Tobón candidato a la Gobernación · `youtube/2023-08-24-37IYNFAGK_U.md` · https://www.youtube.com/watch?v=37IYNFAGK_U · temas: BTC, energia, colombia
+- 2023-08-18 · E54: Dieta de información de 10AMPRO · `youtube/2023-08-18-zcwm370SI70.md` · https://www.youtube.com/watch?v=zcwm370SI70 · temas: TSLA, macro, geopolitica, colombia, IA, BTC
+- 2023-08-11 · E53: Antioquia Federal. La propuesta para convertir a Colombia en estados federados · `youtube/2023-08-11-Y3ig4rFyczw.md` · https://www.youtube.com/watch?v=Y3ig4rFyczw · temas: colombia, energia, TSLA, BTC, SpaceX, emprendimiento
+- 2023-08-04 · E52: Tener sociedad en EEUU 🇺🇸  vs Tener sociedad en Colombia 🇨🇴 · `youtube/2023-08-04-I-Lfn9MkOjI.md` · https://www.youtube.com/watch?v=I-Lfn9MkOjI · temas: colombia, emprendimiento, IA
+- 2023-07-28 · E51: La Medellín que nos soñamos. Lucas Gómez Cuartas · `youtube/2023-07-28-ZndwNhc68gY.md` · https://www.youtube.com/watch?v=ZndwNhc68gY · temas: colombia, macro
+- 2023-07-21 · E50: El padrino del conocimiento ALPHA, Joe McCann, fundador de Node.JS y Asymmetric Capital. · `youtube/2023-07-21-SHEyv89MvM4.md` · https://www.youtube.com/watch?v=SHEyv89MvM4 · temas: SOL, ETH, colombia, emprendimiento, BTC, macro
+- 2023-07-14 · E49: Hernán Kazah. De fundador de Mercado Libre a crear el fondo de inversión mas grande de Latam. · `youtube/2023-07-14-1xKVc5ZSncQ.md` · https://www.youtube.com/watch?v=1xKVc5ZSncQ · temas: emprendimiento, colombia, IA, macro, geopolitica
+- 2023-07-07 · E48: El próximo México del mundo debería ser Colombia. Alejandro Salazar · `youtube/2023-07-07-sfubzaa5cBM.md` · https://www.youtube.com/watch?v=sfubzaa5cBM · temas: colombia, geopolitica, energia
+- 2023-06-30 · E47: ¿Por qué Spotify puede ser el próximo Google de audio? Antonio Linares. · `youtube/2023-06-30-hz3PAl5ww8I.md` · https://www.youtube.com/watch?v=hz3PAl5ww8I · temas: TSLA, energia, PLTR
+- 2023-06-23 · E46 (Versión traducida por IA): El mundo de los hongos y sus múltiples aplicaciones. · `youtube/2023-06-23-3sEnbLpID38.md` · https://www.youtube.com/watch?v=3sEnbLpID38 · temas: colombia, energia, SOL, IA, longevidad
+- 2023-06-16 · E45: 🇧🇷 Brasil, el gigante de los negocios en Latinoamérica.  Invitado, Pedro Faria, VC de Brasil · `youtube/2023-06-16-JWgIL5Cl47o.md` · https://www.youtube.com/watch?v=JWgIL5Cl47o · temas: colombia, emprendimiento, IA, energia
+- 2023-06-09 · E44: Aplicando un experimento en AMM. El Tamaño del negocio de Messi. Tokenización en Real Estate. · `youtube/2023-06-09-mrl94HYW2ew.md` · https://www.youtube.com/watch?v=mrl94HYW2ew · temas: colombia, tokenizacion, SOL, portafolio, emprendimiento
+- 2023-06-02 · E43: Vendiendo 1.5 millones de dólares en mascarillas por Amazon. · `youtube/2023-06-02-8l1A3YN3jrs.md` · https://www.youtube.com/watch?v=8l1A3YN3jrs · temas: colombia, geopolitica
+- 2023-05-26 · E42: Antioquia, tierra de empresarios. Recorriendo la historia de Medellín y sus empresas. · `youtube/2023-05-26-Q2A4keEA8iE.md` · https://www.youtube.com/watch?v=Q2A4keEA8iE · temas: colombia, emprendimiento, energia
+- 2023-05-19 · E41: Con Insider y WhatsApp podrás dominar 🤯 la comunicación y el comercio de tu negocio. · `youtube/2023-05-19-4JYWJdFgeFs.md` · https://www.youtube.com/watch?v=4JYWJdFgeFs · temas: colombia, emprendimiento, PLTR, IA
+- 2023-05-12 · E40: Banco líder de Colombia invierte en HomeCapital. Los nuevos emprendedores, con Alejandro Franco · `youtube/2023-05-12-vWspqxoVOFs.md` · https://www.youtube.com/watch?v=vWspqxoVOFs · temas: colombia, emprendimiento, geopolitica, macro
+- 2023-05-05 · E39: KometSales. El negocio digital que mueve USD 2.3B en transacciones en la industrias de flores 🌹 · `youtube/2023-05-05-fyHXYOfNl1s.md` · https://www.youtube.com/watch?v=fyHXYOfNl1s · temas: colombia, emprendimiento, macro
+- 2023-04-28 · E38: Vender en Amazon por FBA. Utilizando Jungle Scout, influencers y contenido. · `youtube/2023-04-28-wd5b7mBF_1o.md` · https://www.youtube.com/watch?v=wd5b7mBF_1o · temas: colombia, geopolitica, emprendimiento
+- 2023-04-21 · E37: Nvidia, la compañía detrás de la inteligencia artificial de ChatGPT y los  efectos de Marvel. · `youtube/2023-04-21-017G3m4LECc.md` · https://www.youtube.com/watch?v=017G3m4LECc · temas: NVDA, IA
+- 2023-04-14 · E36: Aumenta tu productividad con ChatGPT 🤖 : Ejemplos prácticos de uso en la vida real 💪 · `youtube/2023-04-14-THrWSI4Lq2U.md` · https://www.youtube.com/watch?v=THrWSI4Lq2U · temas: IA, geopolitica, colombia
+- 2023-04-11 · E35: Ingenieros de tejidos para alimentar a las personas con carne cultivada "Goodmeat" · `youtube/2023-04-11-xHEfVBSm7Gc.md` · https://www.youtube.com/watch?v=xHEfVBSm7Gc
+- 2023-04-07 · E34: Preocupados por Medellín en 10ampro · `youtube/2023-04-07-0X7H6fX4bWc.md` · https://www.youtube.com/watch?v=0X7H6fX4bWc · temas: colombia, emprendimiento, IA
+- 2023-03-31 · E33: De $100M a $150,000M en real estate usando tiktok con Lucas Gómez Cuartas · `youtube/2023-03-31-cSRjWJudzZE.md` · https://www.youtube.com/watch?v=cSRjWJudzZE · temas: colombia, macro, emprendimiento
+- 2023-03-24 · E32: FA$IL,  democratizando el acceso a las inversiones inmobiliarias a través de  blockchain · `youtube/2023-03-24-WzVkel578EQ.md` · https://www.youtube.com/watch?v=WzVkel578EQ · temas: colombia, emprendimiento, macro
+- 2023-03-17 · E31: Los secretos de un buen análisis de inversión. No te pierdas la entrevista con Antonio Linares. · `youtube/2023-03-17-g1J0I_-qSW8.md` · https://www.youtube.com/watch?v=g1J0I_-qSW8 · temas: PLTR, IA, portafolio, TSLA, energia
+- 2023-03-10 · E30: Trading con NFT´S  en Solana. Analizando la economía en EEUU y el mundo. · `youtube/2023-03-10-q5L0VLYSfyY.md` · https://www.youtube.com/watch?v=q5L0VLYSfyY · temas: macro, BTC, SOL, PLTR, colombia
+- 2023-03-03 · E29: Aplicando los datos con IA. Human Living Data, el Palantir made in Colombia · `youtube/2023-03-03-4YvqqqWE1Fs.md` · https://www.youtube.com/watch?v=4YvqqqWE1Fs · temas: colombia, PLTR, IA, TSLA, emprendimiento
+- 2023-02-24 · E28: Levmaps, gana dinero paseando a tu perro 🐶 🐕 🦴 · `youtube/2023-02-24-kQeibQ_bjJU.md` · https://www.youtube.com/watch?v=kQeibQ_bjJU · temas: SOL, emprendimiento
+- 2023-02-18 · E27: Real estate. El gigantesco negocio inmobiliario en Estados Unidos · `youtube/2023-02-18-2X1lMXIsa0o.md` · https://www.youtube.com/watch?v=2X1lMXIsa0o · temas: colombia, macro, tokenizacion
+- 2023-02-10 · E26: El CEO de BINANCE Latam nos cuenta cómo y por qué son el Exchange mas grande del mundo. · `youtube/2023-02-10-ionnuu54kDw.md` · https://www.youtube.com/watch?v=ionnuu54kDw · temas: colombia, BTC, geopolitica, SOL, ETH, macro
+- 2023-02-03 · E25: Amazon y su entrada a la web3. Nacen los primeros NFTS en Bitcoin. ¿ZK RollUps y ZK Proofs? · `youtube/2023-02-03-OLTMA-hOql8.md` · https://www.youtube.com/watch?v=OLTMA-hOql8 · temas: BTC, SOL, colombia, ETH, TSLA
+- 2023-01-27 · E24: ¿El AI reemplazará a los humanos?. Tesla y sus datos financieros. ¿Qué es Buy Call  Sell Call? · `youtube/2023-01-27-ONwZHpkM1Ag.md` · https://www.youtube.com/watch?v=ONwZHpkM1Ag · temas: TSLA, BTC, SOL, energia, colombia
+- 2023-01-20 · E23: Mr Beast, el dios de Youtube. · `youtube/2023-01-20-O5bWd7pcf9M.md` · https://www.youtube.com/watch?v=O5bWd7pcf9M · temas: SOL, colombia
+- 2023-01-13 · E22: ¿Cómo ganamos dinero prestando para NFT's?. Waalaxy, un robot para ventas en Linkedin . · `youtube/2023-01-13-gt16q8-4h6Q.md` · https://www.youtube.com/watch?v=gt16q8-4h6Q · temas: macro, SOL
+- 2023-01-06 · E21: El mundo #crypto se enloquece con #bonk. Jugando y ganando #dinero con #blockchain #solana · `youtube/2023-01-06-e6X31OI7Ihs.md` · https://www.youtube.com/watch?v=e6X31OI7Ihs · temas: SOL, BTC, memecoins
+- 2022-12-30 · E20: ¿Qué es SolCrash y cómo ganar Solanas jugando? La importancia y futuro de Twitter. Crypto 2023. · `youtube/2022-12-30-xYBOBbvLaWA.md` · https://www.youtube.com/watch?v=xYBOBbvLaWA · temas: BTC, SOL, macro
+- 2022-12-23 · E19: ¿Qué es MoneyLion?. Análisis profundo a una de las fintech con mayor potencial en EEUU. · `youtube/2022-12-23-xB0n1haC5YE.md` · https://www.youtube.com/watch?v=xB0n1haC5YE · temas: energia, portafolio, macro, TSLA
+- 2022-12-16 · E18: Novedades AI. ¿Cuál es el verdadero Morgan Freeman? OTTER, mi propia asistente AI. ¿Qué es MEV? · `youtube/2022-12-16-fAXriA9gQHo.md` · https://www.youtube.com/watch?v=fAXriA9gQHo · temas: IA, SOL, colombia, TSLA, macro, geopolitica
+- 2022-12-09 · E17: Probamos la actualización de Tesla FSD Beta. Utilizamos y aplicamos la IA de ChatGPT ;D · `youtube/2022-12-09-znZJ_aepTrA.md` · https://www.youtube.com/watch?v=znZJ_aepTrA · temas: TSLA, IA, colombia, geopolitica, energia
+- 2022-12-02 · E16: Gran pelea Twitter vs Apple. ¿Dónde comprar o vender NFTS? MagicEden. Genopets evolucionan. · `youtube/2022-12-02-NuttzJIzikw.md` · https://www.youtube.com/watch?v=NuttzJIzikw · temas: TSLA, SOL, geopolitica, energia
+- 2022-11-25 · E15: Billeteras frías vs calientes. Mattel y FIFA le apuestan a NFT´S. La batalla de los microchips. · `youtube/2022-11-25-giGJkPAZuKY.md` · https://www.youtube.com/watch?v=giGJkPAZuKY · temas: geopolitica, SOL, BTC, IA, TSLA
+- 2022-11-18 · E14: Tecnología en  mundial de fútbol. Análisis, semana después de la crypto crisis creada por FTX . · `youtube/2022-11-18-AQv-y-HlzBE.md` · https://www.youtube.com/watch?v=AQv-y-HlzBE · temas: colombia, SOL, BTC
+- 2022-11-10 · E13: Sam Bankman como perder $15B de USD en 24hrs en la tormenta perfecta, la bancarrota de FTX · `youtube/2022-11-10-koHpl3w864g.md` · https://www.youtube.com/watch?v=koHpl3w864g · temas: BTC, SOL, HOOD
+- 2022-11-04 · E12: Comprar Twitter, la visión de Elon Musk.¿Tony Stark o Lex Luthor?. Drones y sus posibilidades. · `youtube/2022-11-04-v0OmKCs8I8k.md` · https://www.youtube.com/watch?v=v0OmKCs8I8k · temas: TSLA, colombia, IA
+- 2022-10-28 · E11: Meta pierde 100 billones. ¿Cómo funciona Discord? Foodtech: alimento con banco de células · `youtube/2022-10-28-2-hr1BghYlU.md` · https://www.youtube.com/watch?v=2-hr1BghYlU · temas: colombia, energia, tesis_10x, SOL, TSLA, geopolitica
+- 2022-10-21 · E10: El negocio detrás de Onlyfans. ¿Dónde, cómo y qué tan rentable es minar un bitcoin? ¿Es viable? · `youtube/2022-10-21-dV1EZSv7MG0.md` · https://www.youtube.com/watch?v=dV1EZSv7MG0 · temas: BTC, energia, colombia
+- 2022-10-14 · E9: Airbnb en Medellín si es buen retorno? Prestamista en Solana. El caso Gamestop- Netflix · `youtube/2022-10-14-2M4nkM-doXs.md` · https://www.youtube.com/watch?v=2M4nkM-doXs · temas: colombia, SOL, HOOD, BTC, macro
+- 2022-10-07 · E8: La increíble presentación de Optimus por Elon Musk. Meta y su AI. Helium, tu propia telco. · `youtube/2022-10-07-nuPhkMY9m0A.md` · https://www.youtube.com/watch?v=nuPhkMY9m0A · temas: TSLA, colombia, energia, SOL, IA
+- 2022-09-30 · E7: El algoritmo de TikTok y su magia. ¿Cómo nace Futbolred?.  ¿Qué es Palantir? · `youtube/2022-09-30-UnEOXtGChsc.md` · https://www.youtube.com/watch?v=UnEOXtGChsc · temas: PLTR, colombia, geopolitica
+- 2022-09-23 · E6: Entendiendo la economía de EEUU. ¿Cómo conocimos a David Velez?. Proof of Work Vs Proof of Stake · `youtube/2022-09-23-MsfNcMnPr7Y.md` · https://www.youtube.com/watch?v=MsfNcMnPr7Y · temas: energia, macro, BTC, emprendimiento, SOL, colombia
+- 2022-09-17 · E5: The Merge en Ethereum, Battle for Nippon el casino en web3, la historia de Sam Bankmann y FTX. · `youtube/2022-09-17-i3IA4LFSgn0.md` · https://www.youtube.com/watch?v=i3IA4LFSgn0 · temas: BTC, SOL, ETH, energia, TSLA, HOOD
+- 2022-09-09 · E4: Frustrados con los bancos. Invertir en Uranio y minerales raros . Nuestra experiencia en NFTS. · `youtube/2022-09-09-Pu8LRIwTwCs.md` · https://www.youtube.com/watch?v=Pu8LRIwTwCs · temas: energia, TSLA, geopolitica, macro, IA, colombia
+- 2022-09-02 · E3: IA diseña y crea humanos que no existen. Tipos de Wallets, inversión en MoneyLion y Shadows. · `youtube/2022-09-02-KEVf6kf6sb0.md` · https://www.youtube.com/watch?v=KEVf6kf6sb0 · temas: SOL, colombia, BTC, IA
+- 2022-08-27 · E2: El mercado, más negocios con Stepn, Solana L1, Portals y Veve. La magia del IA en el diseño. · `youtube/2022-08-27-qYCSuaHbz98.md` · https://www.youtube.com/watch?v=qYCSuaHbz98 · temas: SOL, IA, colombia, geopolitica, TSLA, macro
+- 2022-08-21 · E1: Adam Neumann y su nuevo proyecto. Ganar dinero con Stepn, Genopets y Staratlas. Bitcoin, cómo va · `youtube/2022-08-21-_3Nj2Ry1UZU.md` · https://www.youtube.com/watch?v=_3Nj2Ry1UZU · temas: BTC, TSLA, colombia, SOL, energia, emprendimiento
+
+## X (archivos mensuales)
+
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, macro, geopolitica, energia, BTC, PLTR
+- 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
+- 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
+- 2026-07 · Posts de X @holdmybirra — 2026-07 · `x/2026-07.md` · https://x.com/holdmybirra · temas: longevidad, PLTR, SOL, colombia, portafolio, TSLA
+- 2026-06 · Posts de X @holdmybirra — 2026-06 · `x/2026-06.md` · https://x.com/holdmybirra · temas: colombia, PLTR, SOL, IA, energia, BTC
+- 2026-05 · Posts de X @holdmybirra — 2026-05 · `x/2026-05.md` · https://x.com/holdmybirra · temas: colombia, PLTR, energia, HOOD, SOL, geopolitica
+- 2026-04 · Posts de X @holdmybirra — 2026-04 · `x/2026-04.md` · https://x.com/holdmybirra · temas: geopolitica, colombia, PLTR, emprendimiento, BTC, SpaceX
+- 2026-03 · Posts de X @holdmybirra — 2026-03 · `x/2026-03.md` · https://x.com/holdmybirra · temas: geopolitica, PLTR, IA, energia, BTC, TSLA
+- 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra · temas: PLTR, IA, colombia, macro, SOL, TSLA
+- 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra · temas: colombia, TSLA, macro, IA, SOL, geopolitica
+- 2025-12 · Posts de X @holdmybirra — 2025-12 · `x/2025-12.md` · https://x.com/holdmybirra · temas: colombia, SOL, IA, macro, stablecoins, BTC
