@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 153 posts de Substack (44 exclusivos para suscriptores), 258 episodios de YouTube, 1723 posts de X en 11 archivos mensuales.
+Totales: 154 posts de Substack (44 exclusivos para suscriptores), 258 episodios de YouTube, 1727 posts de X en 11 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -252,6 +252,7 @@ Totales: 153 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2025-06-01 · 1 TERAWATT: LA CARRERA ENERGÉTICA DE EE.UU. · `substack/2025-06-01-1-terawatt-la-carrera-energetica.md` · https://www.10am.pro/p/1-terawatt-la-carrera-energetica
 - 2024-11-28 · E125: La nueva guerra fría. Guillermo Valencia. Macrowise & Scale · `youtube/2024-11-28-EW6XALnksjI.md` · https://www.youtube.com/watch?v=EW6XALnksjI
 - 2026-02-05 · E192: Duolingo no es una app: es la IA que está redefiniendo cómo aprendemos. Antonio Linares · `youtube/2026-02-05-7dMgmo76Dqw.md` · https://www.youtube.com/watch?v=7dMgmo76Dqw
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
 - 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
 - 2025-08-31 · Colossus: la guerra de la IA se gana con logística · `substack/2025-08-31-colossus-la-guerra-de-la-ia-se-gana.md` · https://www.10am.pro/p/colossus-la-guerra-de-la-ia-se-gana
@@ -262,7 +263,6 @@ Totales: 153 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2026-03-05 · E198: 2028 🤯  el año que todos quedaremos sin trabajo · `youtube/2026-03-05-5QWEatCbScI.md` · https://www.youtube.com/watch?v=5QWEatCbScI
 - 2026-08-13 · E220: Solo invertimos donde exista impacto económico. VeroNorte · `youtube/2026-08-13-51LweNLGXh4.md` · https://www.youtube.com/watch?v=51LweNLGXh4
 - 2026-09-16 · GDP 07: Dario Amodei  -  La Gestapo disfrazada de nerd · `youtube/2026-09-16-DxYtlO9VI1o.md` · https://www.youtube.com/watch?v=DxYtlO9VI1o
-- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 
 ### SpaceX (57)
 - 2025-11-08 · SpaceX: La Compañía más Importante de la Tierra · `substack/2025-11-08-spacex-el-elevador-que-redefine-el.md` · https://www.10am.pro/p/spacex-el-elevador-que-redefine-el
@@ -533,6 +533,7 @@ Totales: 153 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2024-12-12 · E127: ¿Se cumplieron las predicciones financieras en 10AMPRO?. Equipo 10AMPRO · `youtube/2024-12-12--nbXdwXnGnA.md` · https://www.youtube.com/watch?v=-nbXdwXnGnA
 - 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 - 2025-05-18 · Trump 2.0: la quimioterapia del sistema financiero global · `substack/2025-05-18-trump-20-la-quimioterapia-del-sistema.md` · https://www.10am.pro/p/trump-20-la-quimioterapia-del-sistema
 - 2026-03-24 · La Droga Más Peligrosa Es un Salario Cómodo 🔒 · `substack/2026-03-24-la-droga-mas-peligrosa-es-un-salario.md` · https://www.10am.pro/p/la-droga-mas-peligrosa-es-un-salario
 - 2026-04-27 · De $21M a $3.7B en un Sábado  🔒 · `substack/2026-04-27-cuando-wall-street-duerme.md` · https://www.10am.pro/p/cuando-wall-street-duerme
@@ -540,9 +541,8 @@ Totales: 153 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2026-01-12 · E189: La oportunidad Colombia con Venezuela. Alejandro Salazar, Juan Carlos Pinzón. · `youtube/2026-01-12--DR93nEMG0A.md` · https://www.youtube.com/watch?v=-DR93nEMG0A
 - 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
-- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 
-### portafolio (87)
+### portafolio (88)
 - 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
 - 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
 - 2025-01-30 · E136: Las predicciones de 10AMPRO para el 2025. Equipo 10AMPRO · `youtube/2025-01-30-4RfzDtrKKnI.md` · https://www.youtube.com/watch?v=4RfzDtrKKnI
@@ -638,6 +638,7 @@ Totales: 153 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 
 ## Substack (todos)
 
+- 2026-10-19 · ⚡️ El Día D. Santiago Santos: PIB ONCHAIN. Una pregunta de primeros principios. · `substack/2026-10-19-el-dia-d-santiago-santos-pib-onchain.md` · https://www.10am.pro/p/el-dia-d-santiago-santos-pib-onchain
 - 2026-10-17 · El Día D. Antonio Linares: PLTR, TSLA, HIMS y qué sigue ahora. ¿Cuál es el siguiente 100x? · `substack/2026-10-17-el-dia-d-antonio-linares-pltr-tsla.md` · https://www.10am.pro/p/el-dia-d-antonio-linares-pltr-tsla
 - 2026-10-14 · ¡El DIA D EN VIVO! - 14 de Octubre de 2026 · `substack/2026-10-14-el-dia-d-en-vivo-14-de-octubre-de.md` · https://www.10am.pro/p/el-dia-d-en-vivo-14-de-octubre-de
 - 2026-10-12 · La Regla del 5% · `substack/2026-10-12-nunca-vendo-la-mas-grande.md` · https://www.10am.pro/p/nunca-vendo-la-mas-grande · temas: HIMS, tesis_10x, PLTR, portafolio, hurdle_rate, HOOD
@@ -1055,7 +1056,7 @@ Totales: 153 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 
 ## X (archivos mensuales)
 
-- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, macro, geopolitica, energia, BTC, PLTR
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, macro, geopolitica, energia, PLTR, BTC
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
 - 2026-07 · Posts de X @holdmybirra — 2026-07 · `x/2026-07.md` · https://x.com/holdmybirra · temas: longevidad, PLTR, SOL, colombia, portafolio, TSLA
