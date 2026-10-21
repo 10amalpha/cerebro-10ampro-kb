@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 154 posts de Substack (44 exclusivos para suscriptores), 258 episodios de YouTube, 1727 posts de X en 11 archivos mensuales.
+Totales: 155 posts de Substack (44 exclusivos para suscriptores), 258 episodios de YouTube, 1759 posts de X en 11 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -264,7 +264,7 @@ Totales: 154 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2026-08-13 · E220: Solo invertimos donde exista impacto económico. VeroNorte · `youtube/2026-08-13-51LweNLGXh4.md` · https://www.youtube.com/watch?v=51LweNLGXh4
 - 2026-09-16 · GDP 07: Dario Amodei  -  La Gestapo disfrazada de nerd · `youtube/2026-09-16-DxYtlO9VI1o.md` · https://www.youtube.com/watch?v=DxYtlO9VI1o
 
-### SpaceX (57)
+### SpaceX (58)
 - 2025-11-08 · SpaceX: La Compañía más Importante de la Tierra · `substack/2025-11-08-spacex-el-elevador-que-redefine-el.md` · https://www.10am.pro/p/spacex-el-elevador-que-redefine-el
 - 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
 - 2026-05-14 · El Golfo de Urabá: ¿el próximo puerto espacial de SpaceX? · `substack/2026-05-14-el-golfo-de-uraba-el-proximo-puerto.md` · https://www.10am.pro/p/el-golfo-de-uraba-el-proximo-puerto
@@ -528,12 +528,12 @@ Totales: 154 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2026-08-02 · Robinhood: El Puente Ya Tiene 13 Carriles · `substack/2026-08-02-robinhood-el-puente-ya-tiene-13-carriles.md` · https://www.10am.pro/p/robinhood-el-puente-ya-tiene-13-carriles
 - 2024-08-01 · E105: ¿Cómo pensar en 1000x? Javier Villamizar, Softbank. · `youtube/2024-08-01-VN1OIzdttrM.md` · https://www.youtube.com/watch?v=VN1OIzdttrM
 - 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 - 2025-04-12 · ¿Y si el riesgo real fuera no arriesgar? · `substack/2025-04-12-y-si-el-riesgo-real-fuera-no-arriesgar.md` · https://www.10am.pro/p/y-si-el-riesgo-real-fuera-no-arriesgar
 - 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
 - 2024-12-12 · E127: ¿Se cumplieron las predicciones financieras en 10AMPRO?. Equipo 10AMPRO · `youtube/2024-12-12--nbXdwXnGnA.md` · https://www.youtube.com/watch?v=-nbXdwXnGnA
 - 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
-- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 - 2025-05-18 · Trump 2.0: la quimioterapia del sistema financiero global · `substack/2025-05-18-trump-20-la-quimioterapia-del-sistema.md` · https://www.10am.pro/p/trump-20-la-quimioterapia-del-sistema
 - 2026-03-24 · La Droga Más Peligrosa Es un Salario Cómodo 🔒 · `substack/2026-03-24-la-droga-mas-peligrosa-es-un-salario.md` · https://www.10am.pro/p/la-droga-mas-peligrosa-es-un-salario
 - 2026-04-27 · De $21M a $3.7B en un Sábado  🔒 · `substack/2026-04-27-cuando-wall-street-duerme.md` · https://www.10am.pro/p/cuando-wall-street-duerme
@@ -638,6 +638,7 @@ Totales: 154 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 
 ## Substack (todos)
 
+- 2026-10-20 · ⚡️ El Día D. Guillermo Valencia: Geopolítica y Chips. · `substack/2026-10-20-el-dia-d-guillermo-valencia-geopolitica.md` · https://www.10am.pro/p/el-dia-d-guillermo-valencia-geopolitica
 - 2026-10-19 · ⚡️ El Día D. Santiago Santos: PIB ONCHAIN. Una pregunta de primeros principios. · `substack/2026-10-19-el-dia-d-santiago-santos-pib-onchain.md` · https://www.10am.pro/p/el-dia-d-santiago-santos-pib-onchain
 - 2026-10-17 · El Día D. Antonio Linares: PLTR, TSLA, HIMS y qué sigue ahora. ¿Cuál es el siguiente 100x? · `substack/2026-10-17-el-dia-d-antonio-linares-pltr-tsla.md` · https://www.10am.pro/p/el-dia-d-antonio-linares-pltr-tsla
 - 2026-10-14 · ¡El DIA D EN VIVO! - 14 de Octubre de 2026 · `substack/2026-10-14-el-dia-d-en-vivo-14-de-octubre-de.md` · https://www.10am.pro/p/el-dia-d-en-vivo-14-de-octubre-de
@@ -1056,7 +1057,7 @@ Totales: 154 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 
 ## X (archivos mensuales)
 
-- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, macro, geopolitica, energia, PLTR, BTC
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, geopolitica, energia, macro, BTC, PLTR
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
 - 2026-07 · Posts de X @holdmybirra — 2026-07 · `x/2026-07.md` · https://x.com/holdmybirra · temas: longevidad, PLTR, SOL, colombia, portafolio, TSLA
