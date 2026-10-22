@@ -12,7 +12,7 @@ Se actualiza solo todos los días.
 |---|---|
 | `substack/` | 155 posts de [10am.pro](https://www.10am.pro), texto completo (44 son exclusivos para suscriptores y llevan `paywalled: true`) |
 | `youtube/` | 258 episodios y lives del canal [@10ampro](https://www.youtube.com/@10ampro) con transcripción |
-| `x/` | 1759 posts de [@holdmybirra](https://x.com/holdmybirra), un archivo por mes (desde dic. 2025) |
+| `x/` | 1769 posts de [@holdmybirra](https://x.com/holdmybirra), un archivo por mes (desde dic. 2025) |
 | `index.md` | Índice por tema y ticker (BTC, SOL, TSLA, HOOD, PLTR, HIMS, DLMM, macro…) con rutas y URLs |
 | `topics.json` | Mapa compacto tema/ticker → archivos, para búsqueda rápida |
 
@@ -33,4 +33,4 @@ Para encontrar contenido: busca el tema/ticker en `topics.json` o `index.md` y a
 ## Aviso
 
 Contenido © 10ampro / Hernán Jaramillo. Nada aquí es asesoría financiera.
-Última actualización: 2026-10-21.
+Última actualización: 2026-10-22.
