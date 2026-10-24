@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 155 posts de Substack (44 exclusivos para suscriptores), 258 episodios de YouTube, 1777 posts de X en 11 archivos mensuales.
+Totales: 157 posts de Substack (44 exclusivos para suscriptores), 258 episodios de YouTube, 1782 posts de X en 11 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -62,7 +62,7 @@ Totales: 155 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
 - 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
 
-### TSLA (128)
+### TSLA (129)
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 - 2025-07-06 · Tesla Será la Compañía mas Valiosa del Mundo · `substack/2025-07-06-tesla-sera-la-compania-mas-valiosa.md` · https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa
 - 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
@@ -76,6 +76,7 @@ Totales: 155 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2026-09-02 · GDP 05: SpaceX Encontró un Negocio Más Grande que los Cohetes 📱 · `youtube/2026-09-02-nmHdcD_xXjg.md` · https://www.youtube.com/watch?v=nmHdcD_xXjg
 - 2023-08-18 · E54: Dieta de información de 10AMPRO · `youtube/2023-08-18-zcwm370SI70.md` · https://www.youtube.com/watch?v=zcwm370SI70
 - 2026-08-18 · Tesla: El capex que Wall Street no sabe leer 📱 · `youtube/2026-08-18-LNw2CvQ4Jmk.md` · https://www.youtube.com/watch?v=LNw2CvQ4Jmk
+- 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street
 - 2026-08-18 · Tesla: El capex que Wall Street no sabe leer · `youtube/2026-08-18-hP_b4YLchkU.md` · https://www.youtube.com/watch?v=hP_b4YLchkU
 - 2024-11-28 · E125: La nueva guerra fría. Guillermo Valencia. Macrowise & Scale · `youtube/2024-11-28-EW6XALnksjI.md` · https://www.youtube.com/watch?v=EW6XALnksjI
 - 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
@@ -87,7 +88,6 @@ Totales: 155 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
 - 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
 - 2025-11-16 · E180: Solana, Palantir y Tesla. Equipo 10AMPRO · `youtube/2025-11-16-FpcWtNhmDWY.md` · https://www.youtube.com/watch?v=FpcWtNhmDWY
-- 2026-04-17 · Energy Valley: El Hub energético de Latinoamérica. El plan maestro de Medellín. · `youtube/2026-04-17-ZHvIZRE1I38.md` · https://www.youtube.com/watch?v=ZHvIZRE1I38
 
 ### HOOD (48)
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
@@ -638,6 +638,8 @@ Totales: 155 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 
 ## Substack (todos)
 
+- 2026-10-24 · ⚡️ El Día D. Joe McCann: Solana más IA · `substack/2026-10-24-el-dia-d-joe-mccann-solana-mas-ia.md` · https://www.10am.pro/p/el-dia-d-joe-mccann-solana-mas-ia
+- 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street · temas: TSLA
 - 2026-10-20 · ⚡️ El Día D. Guillermo Valencia: Geopolítica y Chips. · `substack/2026-10-20-el-dia-d-guillermo-valencia-geopolitica.md` · https://www.10am.pro/p/el-dia-d-guillermo-valencia-geopolitica
 - 2026-10-19 · ⚡️ El Día D. Santiago Santos: PIB ONCHAIN. Una pregunta de primeros principios. · `substack/2026-10-19-el-dia-d-santiago-santos-pib-onchain.md` · https://www.10am.pro/p/el-dia-d-santiago-santos-pib-onchain
 - 2026-10-17 · El Día D. Antonio Linares: PLTR, TSLA, HIMS y qué sigue ahora. ¿Cuál es el siguiente 100x? · `substack/2026-10-17-el-dia-d-antonio-linares-pltr-tsla.md` · https://www.10am.pro/p/el-dia-d-antonio-linares-pltr-tsla
