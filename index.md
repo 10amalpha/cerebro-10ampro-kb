@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 157 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1782 posts de X en 11 archivos mensuales.
+Totales: 157 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1786 posts de X en 11 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -370,8 +370,8 @@ Totales: 157 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2025-04-16 · Tarifas, Tensiones y Tesoros: La Estrategia de EE.UU. y las Oportunidades de Inversión · `substack/2025-04-16-tarifas-tensiones-y-tesoros-la-estrategia.md` · https://www.10am.pro/p/tarifas-tensiones-y-tesoros-la-estrategia
 - 2024-09-19 · E113: Los Pros y contras de Elon Musk. Ernesto Montesano · `youtube/2024-09-19-jqT7uUfrOK4.md` · https://www.youtube.com/watch?v=jqT7uUfrOK4
 - 2026-09-18 · Los Midterms Pura Geopolitica  · `substack/2026-09-18-los-midterms-pura-geopolitica.md` · https://www.10am.pro/p/los-midterms-pura-geopolitica
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 - 2026-03 · Posts de X @holdmybirra — 2026-03 · `x/2026-03.md` · https://x.com/holdmybirra
-- 2024-10-23 · E119: 🇺🇸 Anthony Scaramucci 🤑 55% of my networth is in Crypto · `youtube/2024-10-23-g_LWQWBtAiA.md` · https://www.youtube.com/watch?v=g_LWQWBtAiA
 
 ### stablecoins (39)
 - 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
@@ -607,7 +607,7 @@ Totales: 157 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-10-10 · Moscú Vende Diésel, Londres Vende Caos 🔒 · `substack/2026-10-10-moscu-vende-diesel-londres-vende.md` · https://www.10am.pro/p/moscu-vende-diesel-londres-vende
 - 2025-10-02 · E173: En el mundo de la energía, todo gira en torno al cobre. Nicolás Peláez. · `youtube/2025-10-02-snuwsCnIE1o.md` · https://www.youtube.com/watch?v=snuwsCnIE1o
 - 2025-09-11 · E170: Recuperar la Seguridad en Colombia, Juan Carlos Pinzón. · `youtube/2025-09-11-pIFL87LviIs.md` · https://www.youtube.com/watch?v=pIFL87LviIs
-- 2023-08-24 · Antioquia quiere impulsar a Bitcoin con Mauricio Tobón candidato a la Gobernación · `youtube/2023-08-24-37IYNFAGK_U.md` · https://www.youtube.com/watch?v=37IYNFAGK_U
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 
 ### emprendimiento (130)
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
@@ -1059,7 +1059,7 @@ Totales: 157 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 
 ## X (archivos mensuales)
 
-- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, macro, geopolitica, energia, PLTR, BTC
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, geopolitica, energia, macro, PLTR, BTC
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
 - 2026-07 · Posts de X @holdmybirra — 2026-07 · `x/2026-07.md` · https://x.com/holdmybirra · temas: longevidad, PLTR, SOL, colombia, portafolio, TSLA
