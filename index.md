@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 157 posts de Substack (44 exclusivos para suscriptores), 258 episodios de YouTube, 1782 posts de X en 11 archivos mensuales.
+Totales: 157 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1782 posts de X en 11 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -66,6 +66,7 @@ Totales: 157 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 - 2025-07-06 · Tesla Será la Compañía mas Valiosa del Mundo · `substack/2025-07-06-tesla-sera-la-compania-mas-valiosa.md` · https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa
 - 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
+- 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo 🔒 · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street
 - 2024-10-10 · E116: Del colegio hacia Tesla. Martín Peláez. CTO Plenti · `youtube/2024-10-10-oYRaIsFZTMg.md` · https://www.youtube.com/watch?v=oYRaIsFZTMg
 - 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
 - 2022-12-09 · E17: Probamos la actualización de Tesla FSD Beta. Utilizamos y aplicamos la IA de ChatGPT ;D · `youtube/2022-12-09-znZJ_aepTrA.md` · https://www.youtube.com/watch?v=znZJ_aepTrA
@@ -76,7 +77,6 @@ Totales: 157 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2026-09-02 · GDP 05: SpaceX Encontró un Negocio Más Grande que los Cohetes 📱 · `youtube/2026-09-02-nmHdcD_xXjg.md` · https://www.youtube.com/watch?v=nmHdcD_xXjg
 - 2023-08-18 · E54: Dieta de información de 10AMPRO · `youtube/2023-08-18-zcwm370SI70.md` · https://www.youtube.com/watch?v=zcwm370SI70
 - 2026-08-18 · Tesla: El capex que Wall Street no sabe leer 📱 · `youtube/2026-08-18-LNw2CvQ4Jmk.md` · https://www.youtube.com/watch?v=LNw2CvQ4Jmk
-- 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street
 - 2026-08-18 · Tesla: El capex que Wall Street no sabe leer · `youtube/2026-08-18-hP_b4YLchkU.md` · https://www.youtube.com/watch?v=hP_b4YLchkU
 - 2024-11-28 · E125: La nueva guerra fría. Guillermo Valencia. Macrowise & Scale · `youtube/2024-11-28-EW6XALnksjI.md` · https://www.youtube.com/watch?v=EW6XALnksjI
 - 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
@@ -264,7 +264,7 @@ Totales: 157 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2026-08-13 · E220: Solo invertimos donde exista impacto económico. VeroNorte · `youtube/2026-08-13-51LweNLGXh4.md` · https://www.youtube.com/watch?v=51LweNLGXh4
 - 2026-09-16 · GDP 07: Dario Amodei  -  La Gestapo disfrazada de nerd · `youtube/2026-09-16-DxYtlO9VI1o.md` · https://www.youtube.com/watch?v=DxYtlO9VI1o
 
-### SpaceX (58)
+### SpaceX (59)
 - 2025-11-08 · SpaceX: La Compañía más Importante de la Tierra · `substack/2025-11-08-spacex-el-elevador-que-redefine-el.md` · https://www.10am.pro/p/spacex-el-elevador-que-redefine-el
 - 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
 - 2026-05-14 · El Golfo de Urabá: ¿el próximo puerto espacial de SpaceX? · `substack/2026-05-14-el-golfo-de-uraba-el-proximo-puerto.md` · https://www.10am.pro/p/el-golfo-de-uraba-el-proximo-puerto
@@ -283,13 +283,13 @@ Totales: 157 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
 - 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
 - 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
+- 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo 🔒 · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street
 - 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
 - 2023-11-24 · E69: Medellín 10X. Cómo multiplicar por 10 el PIB de la ciudad de Medellín - Colombia 🇨🇴 en 5 años. · `youtube/2023-11-24-53WSW_h3eew.md` · https://www.youtube.com/watch?v=53WSW_h3eew
 - 2026-06-12 · ⚡ Episodio Especial 03: Colombia 🇨🇴 Elijamos el camino de la abundancia. José Manuel Restrepo. · `youtube/2026-06-12-xT_zbjfV5vc.md` · https://www.youtube.com/watch?v=xT_zbjfV5vc
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
 - 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
 - 2024-09-19 · E113: Los Pros y contras de Elon Musk. Ernesto Montesano · `youtube/2024-09-19-jqT7uUfrOK4.md` · https://www.youtube.com/watch?v=jqT7uUfrOK4
-- 2026-05 · Posts de X @holdmybirra — 2026-05 · `x/2026-05.md` · https://x.com/holdmybirra
 
 ### DLMM (5)
 - 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
@@ -515,7 +515,7 @@ Totales: 157 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2025-11-13 · E179: ¿Mi negocio es mejor inversión que invertir en Bitcoin?. Equipo 10AMPRO · `youtube/2025-11-13-nl1AGKDaRXM.md` · https://www.youtube.com/watch?v=nl1AGKDaRXM
 - 2026-10-12 · La Regla del 5% · `substack/2026-10-12-nunca-vendo-la-mas-grande.md` · https://www.10am.pro/p/nunca-vendo-la-mas-grande
 
-### tesis_10x (67)
+### tesis_10x (68)
 - 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
@@ -582,7 +582,7 @@ Totales: 157 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 - 2023-12-01 · E70: La Bolsa de Valores de Colombia es apenas el 25% de un MemeCoin. · `youtube/2023-12-01-L2jSZP_uVuI.md` · https://www.youtube.com/watch?v=L2jSZP_uVuI
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
 
-### energia (183)
+### energia (184)
 - 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
 - 2025-06-19 · E158: Los países ricos ya eligieron: ⚛️ Energía Nuclear . Lisandro Pérez 🇦🇷 · `youtube/2025-06-19-wXSM3Qb3eC4.md` · https://www.youtube.com/watch?v=wXSM3Qb3eC4
 - 2025-07-10 · E161: ⚠️ Crisis energética. Colombia al borde de un gran apagón 🚨| Natalia Gutiérrez, ACOLGEN · `youtube/2025-07-10-Rs0PsVFgP14.md` · https://www.youtube.com/watch?v=Rs0PsVFgP14
@@ -639,7 +639,7 @@ Totales: 157 posts de Substack (44 exclusivos para suscriptores), 258 episodios 
 ## Substack (todos)
 
 - 2026-10-24 · ⚡️ El Día D. Joe McCann: Solana más IA · `substack/2026-10-24-el-dia-d-joe-mccann-solana-mas-ia.md` · https://www.10am.pro/p/el-dia-d-joe-mccann-solana-mas-ia
-- 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street · temas: TSLA
+- 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo 🔒 · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street · temas: TSLA, SpaceX, tesis_10x, energia
 - 2026-10-20 · ⚡️ El Día D. Guillermo Valencia: Geopolítica y Chips. · `substack/2026-10-20-el-dia-d-guillermo-valencia-geopolitica.md` · https://www.10am.pro/p/el-dia-d-guillermo-valencia-geopolitica
 - 2026-10-19 · ⚡️ El Día D. Santiago Santos: PIB ONCHAIN. Una pregunta de primeros principios. · `substack/2026-10-19-el-dia-d-santiago-santos-pib-onchain.md` · https://www.10am.pro/p/el-dia-d-santiago-santos-pib-onchain
 - 2026-10-17 · El Día D. Antonio Linares: PLTR, TSLA, HIMS y qué sigue ahora. ¿Cuál es el siguiente 100x? · `substack/2026-10-17-el-dia-d-antonio-linares-pltr-tsla.md` · https://www.10am.pro/p/el-dia-d-antonio-linares-pltr-tsla
