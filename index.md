@@ -281,9 +281,9 @@ Totales: 157 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
 - 2026-08-18 · Tesla: El capex que Wall Street no sabe leer 📱 · `youtube/2026-08-18-LNw2CvQ4Jmk.md` · https://www.youtube.com/watch?v=LNw2CvQ4Jmk
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
+- 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo 🔒 · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street
 - 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
 - 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
-- 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo 🔒 · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street
 - 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
 - 2023-11-24 · E69: Medellín 10X. Cómo multiplicar por 10 el PIB de la ciudad de Medellín - Colombia 🇨🇴 en 5 años. · `youtube/2023-11-24-53WSW_h3eew.md` · https://www.youtube.com/watch?v=53WSW_h3eew
 - 2026-06-12 · ⚡ Episodio Especial 03: Colombia 🇨🇴 Elijamos el camino de la abundancia. José Manuel Restrepo. · `youtube/2026-06-12-xT_zbjfV5vc.md` · https://www.youtube.com/watch?v=xT_zbjfV5vc
@@ -639,7 +639,7 @@ Totales: 157 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 ## Substack (todos)
 
 - 2026-10-24 · ⚡️ El Día D. Joe McCann: Solana más IA · `substack/2026-10-24-el-dia-d-joe-mccann-solana-mas-ia.md` · https://www.10am.pro/p/el-dia-d-joe-mccann-solana-mas-ia
-- 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo 🔒 · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street · temas: TSLA, SpaceX, tesis_10x, energia
+- 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo 🔒 · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street · temas: TSLA, SpaceX, energia, tesis_10x
 - 2026-10-20 · ⚡️ El Día D. Guillermo Valencia: Geopolítica y Chips. · `substack/2026-10-20-el-dia-d-guillermo-valencia-geopolitica.md` · https://www.10am.pro/p/el-dia-d-guillermo-valencia-geopolitica
 - 2026-10-19 · ⚡️ El Día D. Santiago Santos: PIB ONCHAIN. Una pregunta de primeros principios. · `substack/2026-10-19-el-dia-d-santiago-santos-pib-onchain.md` · https://www.10am.pro/p/el-dia-d-santiago-santos-pib-onchain
 - 2026-10-17 · El Día D. Antonio Linares: PLTR, TSLA, HIMS y qué sigue ahora. ¿Cuál es el siguiente 100x? · `substack/2026-10-17-el-dia-d-antonio-linares-pltr-tsla.md` · https://www.10am.pro/p/el-dia-d-antonio-linares-pltr-tsla
