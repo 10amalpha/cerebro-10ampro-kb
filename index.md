@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 157 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1789 posts de X en 11 archivos mensuales.
+Totales: 158 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1794 posts de X en 11 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -89,7 +89,7 @@ Totales: 157 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
 - 2025-11-16 · E180: Solana, Palantir y Tesla. Equipo 10AMPRO · `youtube/2025-11-16-FpcWtNhmDWY.md` · https://www.youtube.com/watch?v=FpcWtNhmDWY
 
-### HOOD (48)
+### HOOD (49)
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
 - 2025-07-13 · El Puente de los $124 Trillones: Cómo Robinhood Se Convierte en Wall Street para Millennials, Gen Z y Gen X  · `substack/2025-07-13-el-puente-de-los-124-trillones-como.md` · https://www.10am.pro/p/el-puente-de-los-124-trillones-como
 - 2026-08-02 · Robinhood: El Puente Ya Tiene 13 Carriles · `substack/2026-08-02-robinhood-el-puente-ya-tiene-13-carriles.md` · https://www.10am.pro/p/robinhood-el-puente-ya-tiene-13-carriles
@@ -638,6 +638,7 @@ Totales: 157 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 
 ## Substack (todos)
 
+- 2026-10-27 · ⚡️ El Día D. André Joffroy: ¿Dónde cargo mi Tesla?. · `substack/2026-10-27-el-dia-d-andre-joffroy-donde-cargo.md` · https://www.10am.pro/p/el-dia-d-andre-joffroy-donde-cargo
 - 2026-10-24 · ⚡️ El Día D. Joe McCann: Solana más IA · `substack/2026-10-24-el-dia-d-joe-mccann-solana-mas-ia.md` · https://www.10am.pro/p/el-dia-d-joe-mccann-solana-mas-ia
 - 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo 🔒 · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street · temas: TSLA, SpaceX, energia, tesis_10x
 - 2026-10-20 · ⚡️ El Día D. Guillermo Valencia: Geopolítica y Chips. · `substack/2026-10-20-el-dia-d-guillermo-valencia-geopolitica.md` · https://www.10am.pro/p/el-dia-d-guillermo-valencia-geopolitica
@@ -1059,7 +1060,7 @@ Totales: 157 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 
 ## X (archivos mensuales)
 
-- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, geopolitica, energia, macro, PLTR, BTC
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, geopolitica, energia, macro, PLTR, TSLA
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
 - 2026-07 · Posts de X @holdmybirra — 2026-07 · `x/2026-07.md` · https://x.com/holdmybirra · temas: longevidad, PLTR, SOL, colombia, portafolio, TSLA
