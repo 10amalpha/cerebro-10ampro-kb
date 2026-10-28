@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 158 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1794 posts de X en 11 archivos mensuales.
+Totales: 159 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1797 posts de X en 11 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -639,6 +639,7 @@ Totales: 158 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 ## Substack (todos)
 
 - 2026-10-27 · ⚡️ El Día D. André Joffroy: ¿Dónde cargo mi Tesla?. · `substack/2026-10-27-el-dia-d-andre-joffroy-donde-cargo.md` · https://www.10am.pro/p/el-dia-d-andre-joffroy-donde-cargo
+- 2026-10-27 · La era de los ⚡️ Gigavatios: Por qué los megas ya no alcanzan. E230 · `substack/2026-10-27-la-era-de-los-gigavatios-por-que.md` · https://www.10am.pro/p/la-era-de-los-gigavatios-por-que
 - 2026-10-24 · ⚡️ El Día D. Joe McCann: Solana más IA · `substack/2026-10-24-el-dia-d-joe-mccann-solana-mas-ia.md` · https://www.10am.pro/p/el-dia-d-joe-mccann-solana-mas-ia
 - 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo 🔒 · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street · temas: TSLA, SpaceX, energia, tesis_10x
 - 2026-10-20 · ⚡️ El Día D. Guillermo Valencia: Geopolítica y Chips. · `substack/2026-10-20-el-dia-d-guillermo-valencia-geopolitica.md` · https://www.10am.pro/p/el-dia-d-guillermo-valencia-geopolitica
