@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 159 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1797 posts de X en 11 archivos mensuales.
+Totales: 161 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1805 posts de X en 11 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -62,7 +62,7 @@ Totales: 159 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
 - 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
 
-### TSLA (129)
+### TSLA (130)
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 - 2025-07-06 · Tesla Será la Compañía mas Valiosa del Mundo · `substack/2025-07-06-tesla-sera-la-compania-mas-valiosa.md` · https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa
 - 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
@@ -89,13 +89,14 @@ Totales: 159 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
 - 2025-11-16 · E180: Solana, Palantir y Tesla. Equipo 10AMPRO · `youtube/2025-11-16-FpcWtNhmDWY.md` · https://www.youtube.com/watch?v=FpcWtNhmDWY
 
-### HOOD (49)
+### HOOD (50)
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
 - 2025-07-13 · El Puente de los $124 Trillones: Cómo Robinhood Se Convierte en Wall Street para Millennials, Gen Z y Gen X  · `substack/2025-07-13-el-puente-de-los-124-trillones-como.md` · https://www.10am.pro/p/el-puente-de-los-124-trillones-como
 - 2026-08-02 · Robinhood: El Puente Ya Tiene 13 Carriles · `substack/2026-08-02-robinhood-el-puente-ya-tiene-13-carriles.md` · https://www.10am.pro/p/robinhood-el-puente-ya-tiene-13-carriles
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
 - 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
 - 2026-02-17 · Robinhood: El Puente Se Construye Más Rápido de lo que Pensé 🔒 · `substack/2026-02-17-robinhood-el-puente-se-construye.md` · https://www.10am.pro/p/robinhood-el-puente-se-construye
+- 2026-10-29 · Robinhood: ER Q3 2026 · `substack/2026-10-29-robinhood-er-q3-2026.md` · https://www.10am.pro/p/robinhood-er-q3-2026
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
 - 2026-06-18 · E213: SpaceX. El mayor IPO de la última década y lo que significa para los portafolios de inversión. · `youtube/2026-06-18-Bclu6jOdid4.md` · https://www.youtube.com/watch?v=Bclu6jOdid4
 - 2026-06-17 · Velocidad de Ontología 🔒 · `substack/2026-06-17-el-dia-que-entendi-por-que-compre.md` · https://www.10am.pro/p/el-dia-que-entendi-por-que-compre
@@ -109,12 +110,11 @@ Totales: 159 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2025-04-24 · E150: ¿HIMS el próximo 10X? Antonio Linares · `youtube/2025-04-24-jB-Qew9B9_o.md` · https://www.youtube.com/watch?v=jB-Qew9B9_o
 - 2025-05-22 · E154: ¿Va ganando o perdiendo el portafolio de 10AMPRO en 2025? Descúbrelo en este análisis. · `youtube/2025-05-22-RG83P3KXJ5A.md` · https://www.youtube.com/watch?v=RG83P3KXJ5A
 - 2026-05 · Posts de X @holdmybirra — 2026-05 · `x/2026-05.md` · https://x.com/holdmybirra
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 - 2025-05-04 · Señales vs Ruido y La Trilogia que me Mantiene Pobre · `substack/2025-05-04-senales-vs-ruido-y-la-trilogia-que.md` · https://www.10am.pro/p/senales-vs-ruido-y-la-trilogia-que
 - 2026-04-22 · Dale las Claves del Broker a Tu Esposa 🔒 · `substack/2026-04-22-dale-las-claves-del-broker-a-tu-esposa.md` · https://www.10am.pro/p/dale-las-claves-del-broker-a-tu-esposa
 - 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
-- 2025-12-25 · E186: 171 % de retorno en el 2025: ¿cómo lo hicimos?. Equipo 10AMPRO · `youtube/2025-12-25-A88-_-LAlh8.md` · https://www.youtube.com/watch?v=A88-_-LAlh8
-- 2026-09-24 · El Día D - La Previa 📱 · `youtube/2026-09-24-ZQNgnwr8FD4.md` · https://www.youtube.com/watch?v=ZQNgnwr8FD4
 
 ### PLTR (107)
 - 2025-08-20 · Palantir: la Compañía mas Importante de Occidente · `substack/2025-08-20-palantir-la-compania-mas-importante.md` · https://www.10am.pro/p/palantir-la-compania-mas-importante
@@ -140,8 +140,8 @@ Totales: 159 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-07-16 · E217: ¿Qué es fricción? - Notarías, Cámaras de Comercio, Cajas de Compensación. · `youtube/2026-07-16-MEmOtJ1RoFE.md` · https://www.youtube.com/watch?v=MEmOtJ1RoFE
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 - 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
-- 2026-05 · Posts de X @holdmybirra — 2026-05 · `x/2026-05.md` · https://x.com/holdmybirra
 
 ### HIMS (33)
 - 2026-05-06 · La Cárcel de los Péptidos  🔒 · `substack/2026-05-06-el-negocio-mas-grande-del-que-nadie.md` · https://www.10am.pro/p/el-negocio-mas-grande-del-que-nadie
@@ -606,8 +606,8 @@ Totales: 159 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-09-17 · Crisis energética en Colombia. El gas que necesitamos. Alberto Consuegra. E225 · `youtube/2026-09-17-SfYAGq1QPrA.md` · https://www.youtube.com/watch?v=SfYAGq1QPrA
 - 2026-10-10 · Moscú Vende Diésel, Londres Vende Caos 🔒 · `substack/2026-10-10-moscu-vende-diesel-londres-vende.md` · https://www.10am.pro/p/moscu-vende-diesel-londres-vende
 - 2025-10-02 · E173: En el mundo de la energía, todo gira en torno al cobre. Nicolás Peláez. · `youtube/2025-10-02-snuwsCnIE1o.md` · https://www.youtube.com/watch?v=snuwsCnIE1o
-- 2025-09-11 · E170: Recuperar la Seguridad en Colombia, Juan Carlos Pinzón. · `youtube/2025-09-11-pIFL87LviIs.md` · https://www.youtube.com/watch?v=pIFL87LviIs
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
+- 2025-09-11 · E170: Recuperar la Seguridad en Colombia, Juan Carlos Pinzón. · `youtube/2025-09-11-pIFL87LviIs.md` · https://www.youtube.com/watch?v=pIFL87LviIs
 
 ### emprendimiento (130)
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
@@ -638,6 +638,8 @@ Totales: 159 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 
 ## Substack (todos)
 
+- 2026-10-29 · ⚡️ El Día D. Hablemos de péptidos: Medicina 3.0. Dr Andrés Palacio & Dr Camilo Ospina. · `substack/2026-10-29-el-dia-d-hablemos-de-peptidos-medicina.md` · https://www.10am.pro/p/el-dia-d-hablemos-de-peptidos-medicina
+- 2026-10-29 · Robinhood: ER Q3 2026 · `substack/2026-10-29-robinhood-er-q3-2026.md` · https://www.10am.pro/p/robinhood-er-q3-2026 · temas: HOOD, TSLA
 - 2026-10-27 · ⚡️ El Día D. André Joffroy: ¿Dónde cargo mi Tesla?. · `substack/2026-10-27-el-dia-d-andre-joffroy-donde-cargo.md` · https://www.10am.pro/p/el-dia-d-andre-joffroy-donde-cargo
 - 2026-10-27 · La era de los ⚡️ Gigavatios: Por qué los megas ya no alcanzan. E230 · `substack/2026-10-27-la-era-de-los-gigavatios-por-que.md` · https://www.10am.pro/p/la-era-de-los-gigavatios-por-que
 - 2026-10-24 · ⚡️ El Día D. Joe McCann: Solana más IA · `substack/2026-10-24-el-dia-d-joe-mccann-solana-mas-ia.md` · https://www.10am.pro/p/el-dia-d-joe-mccann-solana-mas-ia
@@ -1061,7 +1063,7 @@ Totales: 159 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 
 ## X (archivos mensuales)
 
-- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, geopolitica, energia, macro, PLTR, TSLA
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, PLTR, TSLA
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
 - 2026-07 · Posts de X @holdmybirra — 2026-07 · `x/2026-07.md` · https://x.com/holdmybirra · temas: longevidad, PLTR, SOL, colombia, portafolio, TSLA
