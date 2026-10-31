@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 161 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1809 posts de X en 11 archivos mensuales.
+Totales: 162 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1822 posts de X en 11 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -369,8 +369,8 @@ Totales: 161 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2025-04-21 · El Pulso entre EE. UU. y China y su Impacto en los Mercados · `substack/2025-04-21-el-pulso-entre-ee-uu-y-china-y-su.md` · https://www.10am.pro/p/el-pulso-entre-ee-uu-y-china-y-su
 - 2025-04-16 · Tarifas, Tensiones y Tesoros: La Estrategia de EE.UU. y las Oportunidades de Inversión · `substack/2025-04-16-tarifas-tensiones-y-tesoros-la-estrategia.md` · https://www.10am.pro/p/tarifas-tensiones-y-tesoros-la-estrategia
 - 2024-09-19 · E113: Los Pros y contras de Elon Musk. Ernesto Montesano · `youtube/2024-09-19-jqT7uUfrOK4.md` · https://www.youtube.com/watch?v=jqT7uUfrOK4
-- 2026-09-18 · Los Midterms Pura Geopolitica  · `substack/2026-09-18-los-midterms-pura-geopolitica.md` · https://www.10am.pro/p/los-midterms-pura-geopolitica
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
+- 2026-09-18 · Los Midterms Pura Geopolitica  · `substack/2026-09-18-los-midterms-pura-geopolitica.md` · https://www.10am.pro/p/los-midterms-pura-geopolitica
 - 2026-03 · Posts de X @holdmybirra — 2026-03 · `x/2026-03.md` · https://x.com/holdmybirra
 
 ### stablecoins (39)
@@ -602,11 +602,11 @@ Totales: 161 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-04-16 · E204: 🇮🇷 Irán, Donald Trump y El Estrecho de Ormuz. · `youtube/2026-04-16-HhBfwrQyvwA.md` · https://www.youtube.com/watch?v=HhBfwrQyvwA
 - 2026-02-28 · E197: El voto más caro: Un Estado grande que no entiende el impacto de IA y energía · `youtube/2026-02-28-YAzGwBJ9nns.md` · https://www.youtube.com/watch?v=YAzGwBJ9nns
 - 2024-04-12 · E89: Blockchain crece el doble de rápido que Internet y Bitcoin es la clave. Camilo Botero · `youtube/2024-04-12-fqkU9B5Ie6s.md` · https://www.youtube.com/watch?v=fqkU9B5Ie6s
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 - 2026-08-15 · Inteligencia colectiva con Colombia · `youtube/2026-08-15-k7hgZ_hY4IY.md` · https://www.youtube.com/watch?v=k7hgZ_hY4IY
 - 2026-09-17 · Crisis energética en Colombia. El gas que necesitamos. Alberto Consuegra. E225 · `youtube/2026-09-17-SfYAGq1QPrA.md` · https://www.youtube.com/watch?v=SfYAGq1QPrA
 - 2026-10-10 · Moscú Vende Diésel, Londres Vende Caos 🔒 · `substack/2026-10-10-moscu-vende-diesel-londres-vende.md` · https://www.10am.pro/p/moscu-vende-diesel-londres-vende
 - 2025-10-02 · E173: En el mundo de la energía, todo gira en torno al cobre. Nicolás Peláez. · `youtube/2025-10-02-snuwsCnIE1o.md` · https://www.youtube.com/watch?v=snuwsCnIE1o
-- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 - 2025-09-11 · E170: Recuperar la Seguridad en Colombia, Juan Carlos Pinzón. · `youtube/2025-09-11-pIFL87LviIs.md` · https://www.youtube.com/watch?v=pIFL87LviIs
 
 ### emprendimiento (130)
@@ -638,6 +638,7 @@ Totales: 161 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 
 ## Substack (todos)
 
+- 2026-10-31 · ⚡️ El Día D. Ricardo Sierra: ¿Qué nos falta para ser un verdadero Energy Valley? · `substack/2026-10-31-el-dia-d-ricardo-sierra-que-nos-falta.md` · https://www.10am.pro/p/el-dia-d-ricardo-sierra-que-nos-falta
 - 2026-10-29 · ⚡️ El Día D. Hablemos de péptidos: Medicina 3.0. Dr Andrés Palacio & Dr Camilo Ospina. · `substack/2026-10-29-el-dia-d-hablemos-de-peptidos-medicina.md` · https://www.10am.pro/p/el-dia-d-hablemos-de-peptidos-medicina
 - 2026-10-29 · Robinhood: ER Q3 2026 · `substack/2026-10-29-robinhood-er-q3-2026.md` · https://www.10am.pro/p/robinhood-er-q3-2026 · temas: HOOD, TSLA
 - 2026-10-27 · ⚡️ El Día D. André Joffroy: ¿Dónde cargo mi Tesla?. · `substack/2026-10-27-el-dia-d-andre-joffroy-donde-cargo.md` · https://www.10am.pro/p/el-dia-d-andre-joffroy-donde-cargo
@@ -1063,7 +1064,7 @@ Totales: 161 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 
 ## X (archivos mensuales)
 
-- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, PLTR, TSLA
+- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, IA, PLTR
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
 - 2026-07 · Posts de X @holdmybirra — 2026-07 · `x/2026-07.md` · https://x.com/holdmybirra · temas: longevidad, PLTR, SOL, colombia, portafolio, TSLA
