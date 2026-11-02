@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 163 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1831 posts de X en 12 archivos mensuales.
+Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1837 posts de X en 12 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -116,7 +116,7 @@ Totales: 163 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
 
-### PLTR (107)
+### PLTR (108)
 - 2025-08-20 · Palantir: la Compañía mas Importante de Occidente · `substack/2025-08-20-palantir-la-compania-mas-importante.md` · https://www.10am.pro/p/palantir-la-compania-mas-importante
 - 2026-03-09 ·  Lo Que Emil Michael Reveló Sobre Palantir, Maduro y el Pentágono 🔒 · `substack/2026-03-09-palantir-vs-todos.md` · https://www.10am.pro/p/palantir-vs-todos
 - 2026-06-17 · Velocidad de Ontología 🔒 · `substack/2026-06-17-el-dia-que-entendi-por-que-compre.md` · https://www.10am.pro/p/el-dia-que-entendi-por-que-compre
@@ -582,7 +582,7 @@ Totales: 163 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2023-12-01 · E70: La Bolsa de Valores de Colombia es apenas el 25% de un MemeCoin. · `youtube/2023-12-01-L2jSZP_uVuI.md` · https://www.youtube.com/watch?v=L2jSZP_uVuI
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
 
-### energia (184)
+### energia (185)
 - 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
 - 2025-06-19 · E158: Los países ricos ya eligieron: ⚛️ Energía Nuclear . Lisandro Pérez 🇦🇷 · `youtube/2025-06-19-wXSM3Qb3eC4.md` · https://www.youtube.com/watch?v=wXSM3Qb3eC4
 - 2025-07-10 · E161: ⚠️ Crisis energética. Colombia al borde de un gran apagón 🚨| Natalia Gutiérrez, ACOLGEN · `youtube/2025-07-10-Rs0PsVFgP14.md` · https://www.youtube.com/watch?v=Rs0PsVFgP14
@@ -638,6 +638,7 @@ Totales: 163 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 
 ## Substack (todos)
 
+- 2026-11-02 · ⚡️ El Día D. Nicolás Fernández: La batalla cultural arranca por el lenguaje · `substack/2026-11-02-el-dia-d-nicolas-fernandez-la-batalla.md` · https://www.10am.pro/p/el-dia-d-nicolas-fernandez-la-batalla
 - 2026-11-01 · Nautilus: ER Q3 2026  · `substack/2026-11-01-nautilus-er-q3-2026.md` · https://www.10am.pro/p/nautilus-er-q3-2026 · temas: longevidad, IA, TSLA
 - 2026-10-31 · ⚡️ El Día D. Ricardo Sierra: ¿Qué nos falta para ser un verdadero Energy Valley? · `substack/2026-10-31-el-dia-d-ricardo-sierra-que-nos-falta.md` · https://www.10am.pro/p/el-dia-d-ricardo-sierra-que-nos-falta
 - 2026-10-29 · ⚡️ El Día D. Hablemos de péptidos: Medicina 3.0. Dr Andrés Palacio & Dr Camilo Ospina. · `substack/2026-10-29-el-dia-d-hablemos-de-peptidos-medicina.md` · https://www.10am.pro/p/el-dia-d-hablemos-de-peptidos-medicina
@@ -1065,7 +1066,7 @@ Totales: 163 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 
 ## X (archivos mensuales)
 
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: colombia
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: colombia, PLTR, energia
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, IA, PLTR
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
