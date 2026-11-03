@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1837 posts de X en 12 archivos mensuales.
+Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1852 posts de X en 12 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -62,7 +62,7 @@ Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
 - 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
 
-### TSLA (131)
+### TSLA (132)
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 - 2025-07-06 · Tesla Será la Compañía mas Valiosa del Mundo · `substack/2025-07-06-tesla-sera-la-compania-mas-valiosa.md` · https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa
 - 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
@@ -116,7 +116,7 @@ Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
 
-### PLTR (108)
+### PLTR (109)
 - 2025-08-20 · Palantir: la Compañía mas Importante de Occidente · `substack/2025-08-20-palantir-la-compania-mas-importante.md` · https://www.10am.pro/p/palantir-la-compania-mas-importante
 - 2026-03-09 ·  Lo Que Emil Michael Reveló Sobre Palantir, Maduro y el Pentágono 🔒 · `substack/2026-03-09-palantir-vs-todos.md` · https://www.10am.pro/p/palantir-vs-todos
 - 2026-06-17 · Velocidad de Ontología 🔒 · `substack/2026-06-17-el-dia-que-entendi-por-que-compre.md` · https://www.10am.pro/p/el-dia-que-entendi-por-que-compre
@@ -125,6 +125,8 @@ Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-08-12 · GDP 02: Palantir, el día que Wall Street entendió la Ontología. · `youtube/2026-08-12-vEf7HshhBb0.md` · https://www.youtube.com/watch?v=vEf7HshhBb0
 - 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
 - 2026-06-18 · E213: SpaceX. El mayor IPO de la última década y lo que significa para los portafolios de inversión. · `youtube/2026-06-18-Bclu6jOdid4.md` · https://www.youtube.com/watch?v=Bclu6jOdid4
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
+- 2026-11-03 · Palantir Q3 2026: “Once You Go Palantir, You Don’t Go Back” · `substack/2026-11-03-palantir-q3-2026-once-you-go-palantir.md` · https://www.10am.pro/p/palantir-q3-2026-once-you-go-palantir
 - 2026-05-14 · E208: Esto es más grande que Palantir a USD 7. Antonio Linares · `youtube/2026-05-14-6j1_HGpUX2s.md` · https://www.youtube.com/watch?v=6j1_HGpUX2s
 - 2026-07-02 · E215: Biología es el nuevo código. Antonio Linares · `youtube/2026-07-02-Sda5CFB56vI.md` · https://www.youtube.com/watch?v=Sda5CFB56vI
 - 2025-04-24 · E150: ¿HIMS el próximo 10X? Antonio Linares · `youtube/2025-04-24-jB-Qew9B9_o.md` · https://www.youtube.com/watch?v=jB-Qew9B9_o
@@ -140,8 +142,6 @@ Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-07-16 · E217: ¿Qué es fricción? - Notarías, Cámaras de Comercio, Cajas de Compensación. · `youtube/2026-07-16-MEmOtJ1RoFE.md` · https://www.youtube.com/watch?v=MEmOtJ1RoFE
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
-- 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
-- 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
 
 ### HIMS (33)
 - 2026-05-06 · La Cárcel de los Péptidos  🔒 · `substack/2026-05-06-el-negocio-mas-grande-del-que-nadie.md` · https://www.10am.pro/p/el-negocio-mas-grande-del-que-nadie
@@ -237,7 +237,7 @@ Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra
 - 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
 
-### NVDA (27)
+### NVDA (28)
 - 2025-11-06 · E178: La era de la abundancia. Gerardo Delgado / Nvidia · `youtube/2025-11-06-QgWVt-cLwHs.md` · https://www.youtube.com/watch?v=QgWVt-cLwHs
 - 2023-04-21 · E37: Nvidia, la compañía detrás de la inteligencia artificial de ChatGPT y los  efectos de Marvel. · `youtube/2023-04-21-017G3m4LECc.md` · https://www.youtube.com/watch?v=017G3m4LECc
 - 2026-08-06 · Palantir Q2 2026: El Día que Wall Street Entendió la Ontología 🔒 · `substack/2026-08-06-palantir-q2-2026-el-dia-que-wall.md` · https://www.10am.pro/p/palantir-q2-2026-el-dia-que-wall
@@ -264,7 +264,7 @@ Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-08-13 · E220: Solo invertimos donde exista impacto económico. VeroNorte · `youtube/2026-08-13-51LweNLGXh4.md` · https://www.youtube.com/watch?v=51LweNLGXh4
 - 2026-09-16 · GDP 07: Dario Amodei  -  La Gestapo disfrazada de nerd · `youtube/2026-09-16-DxYtlO9VI1o.md` · https://www.youtube.com/watch?v=DxYtlO9VI1o
 
-### SpaceX (59)
+### SpaceX (60)
 - 2025-11-08 · SpaceX: La Compañía más Importante de la Tierra · `substack/2025-11-08-spacex-el-elevador-que-redefine-el.md` · https://www.10am.pro/p/spacex-el-elevador-que-redefine-el
 - 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
 - 2026-05-14 · El Golfo de Urabá: ¿el próximo puerto espacial de SpaceX? · `substack/2026-05-14-el-golfo-de-uraba-el-proximo-puerto.md` · https://www.10am.pro/p/el-golfo-de-uraba-el-proximo-puerto
@@ -276,6 +276,7 @@ Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2025-01-16 · E132: Es más barato lanzar cohetes 🚀 desde Antioquia-Colombia 🇨🇴  , que desde Texas. Diego Jiménez · `youtube/2025-01-16-sjKZP7K1DEs.md` · https://www.youtube.com/watch?v=sjKZP7K1DEs
 - 2026-05-23 · E210: ¿Qué es pensar en grande? Un puerto espacial en el Golfo de Urabá. Gobernador de Antioquía. · `youtube/2026-05-23-4Q_0z20L0Gw.md` · https://www.youtube.com/watch?v=4Q_0z20L0Gw
 - 2026-09-23 · Elon Musk vs Tony Stark: Cuando la Realidad Supera la Ciencia Ficción  🔒 · `substack/2026-09-23-elon-musk-vs-tony-stark-cuando-la.md` · https://www.10am.pro/p/elon-musk-vs-tony-stark-cuando-la
+- 2026-11-02 · SpaceX Q3 2026: La Matemática que Nadie Está Haciendo · `substack/2026-11-02-spacex-q3-2026-la-matematica-que.md` · https://www.10am.pro/p/spacex-q3-2026-la-matematica-que
 - 2026-04-01 · Terafab: El Proyecto Más Ambicioso en la Historia de la Humanidad 🔒 · `substack/2026-04-01-terafab-el-proyecto-mas-ambicioso.md` · https://www.10am.pro/p/terafab-el-proyecto-mas-ambicioso
 - 2026-08-18 · Tesla: El capex que Wall Street no sabe leer · `youtube/2026-08-18-hP_b4YLchkU.md` · https://www.youtube.com/watch?v=hP_b4YLchkU
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
@@ -289,7 +290,6 @@ Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-06-12 · ⚡ Episodio Especial 03: Colombia 🇨🇴 Elijamos el camino de la abundancia. José Manuel Restrepo. · `youtube/2026-06-12-xT_zbjfV5vc.md` · https://www.youtube.com/watch?v=xT_zbjfV5vc
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
 - 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
-- 2024-09-19 · E113: Los Pros y contras de Elon Musk. Ernesto Montesano · `youtube/2024-09-19-jqT7uUfrOK4.md` · https://www.youtube.com/watch?v=jqT7uUfrOK4
 
 ### DLMM (5)
 - 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
@@ -298,7 +298,7 @@ Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
 
-### macro (185)
+### macro (186)
 - 2025-09-28 · El Arquitecto Silencioso del Dólar · `substack/2025-09-28-el-arquitecto-silencioso-del-dolar.md` · https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar
 - 2025-12-27 · El Hombre que Está Reprogramando la Economía de Estados Unidos · `substack/2025-12-27-el-hombre-que-esta-reprogramando.md` · https://www.10am.pro/p/el-hombre-que-esta-reprogramando
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
@@ -427,7 +427,7 @@ Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2025-12-04 · E183: Michael Saylor, BTC y la Burbuja de la Inteligencia Artificial. Análisis Real. Sebastián Toro · `youtube/2025-12-04-BmpA_Tel6-0.md` · https://www.youtube.com/watch?v=BmpA_Tel6-0
 - 2026-07 · Posts de X @holdmybirra — 2026-07 · `x/2026-07.md` · https://x.com/holdmybirra
 
-### IA (179)
+### IA (182)
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
 - 2026-07-29 · La élite de la inteligencia artificial: cinco trayectorias que están reescribiendo el siglo XXI 🔒 · `substack/2026-07-29-la-elite-de-la-inteligencia-artificial.md` · https://www.10am.pro/p/la-elite-de-la-inteligencia-artificial
 - 2024-05-03 · E92: ¿La IA será un nuevo Dios?. Gerardo Delgado. Nvidia · `youtube/2024-05-03-62xBbvvxMf4.md` · https://www.youtube.com/watch?v=62xBbvvxMf4
@@ -638,7 +638,9 @@ Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 
 ## Substack (todos)
 
+- 2026-11-03 · Palantir Q3 2026: “Once You Go Palantir, You Don’t Go Back” · `substack/2026-11-03-palantir-q3-2026-once-you-go-palantir.md` · https://www.10am.pro/p/palantir-q3-2026-once-you-go-palantir · temas: PLTR, IA
 - 2026-11-02 · ⚡️ El Día D. Nicolás Fernández: La batalla cultural arranca por el lenguaje · `substack/2026-11-02-el-dia-d-nicolas-fernandez-la-batalla.md` · https://www.10am.pro/p/el-dia-d-nicolas-fernandez-la-batalla
+- 2026-11-02 · SpaceX Q3 2026: La Matemática que Nadie Está Haciendo · `substack/2026-11-02-spacex-q3-2026-la-matematica-que.md` · https://www.10am.pro/p/spacex-q3-2026-la-matematica-que · temas: SpaceX, macro, IA
 - 2026-11-01 · Nautilus: ER Q3 2026  · `substack/2026-11-01-nautilus-er-q3-2026.md` · https://www.10am.pro/p/nautilus-er-q3-2026 · temas: longevidad, IA, TSLA
 - 2026-10-31 · ⚡️ El Día D. Ricardo Sierra: ¿Qué nos falta para ser un verdadero Energy Valley? · `substack/2026-10-31-el-dia-d-ricardo-sierra-que-nos-falta.md` · https://www.10am.pro/p/el-dia-d-ricardo-sierra-que-nos-falta
 - 2026-10-29 · ⚡️ El Día D. Hablemos de péptidos: Medicina 3.0. Dr Andrés Palacio & Dr Camilo Ospina. · `substack/2026-10-29-el-dia-d-hablemos-de-peptidos-medicina.md` · https://www.10am.pro/p/el-dia-d-hablemos-de-peptidos-medicina
@@ -1066,7 +1068,7 @@ Totales: 164 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 
 ## X (archivos mensuales)
 
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: colombia, PLTR, energia
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: PLTR, colombia, IA, energia, TSLA, NVDA
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, IA, PLTR
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
