@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios de YouTube, 1852 posts de X en 12 archivos mensuales.
+Totales: 167 posts de Substack (45 exclusivos para suscriptores), 259 episodios de YouTube, 1856 posts de X en 12 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -264,7 +264,7 @@ Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-08-13 · E220: Solo invertimos donde exista impacto económico. VeroNorte · `youtube/2026-08-13-51LweNLGXh4.md` · https://www.youtube.com/watch?v=51LweNLGXh4
 - 2026-09-16 · GDP 07: Dario Amodei  -  La Gestapo disfrazada de nerd · `youtube/2026-09-16-DxYtlO9VI1o.md` · https://www.youtube.com/watch?v=DxYtlO9VI1o
 
-### SpaceX (60)
+### SpaceX (61)
 - 2025-11-08 · SpaceX: La Compañía más Importante de la Tierra · `substack/2025-11-08-spacex-el-elevador-que-redefine-el.md` · https://www.10am.pro/p/spacex-el-elevador-que-redefine-el
 - 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
 - 2026-05-14 · El Golfo de Urabá: ¿el próximo puerto espacial de SpaceX? · `substack/2026-05-14-el-golfo-de-uraba-el-proximo-puerto.md` · https://www.10am.pro/p/el-golfo-de-uraba-el-proximo-puerto
@@ -373,7 +373,7 @@ Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-09-18 · Los Midterms Pura Geopolitica  · `substack/2026-09-18-los-midterms-pura-geopolitica.md` · https://www.10am.pro/p/los-midterms-pura-geopolitica
 - 2026-03 · Posts de X @holdmybirra — 2026-03 · `x/2026-03.md` · https://x.com/holdmybirra
 
-### stablecoins (39)
+### stablecoins (40)
 - 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
 - 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
 - 2024-01-12 · E76: Pagando en USDC con tarjetas de crédito virtuales. Equipo ZEBEC. · `youtube/2024-01-12-OMIimYPSdts.md` · https://www.youtube.com/watch?v=OMIimYPSdts
@@ -385,6 +385,7 @@ Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2025-06-15 · El Problema de Pensar Que Estás Pensando · `substack/2025-06-15-el-problema-de-pensar-que-estas-pensando.md` · https://www.10am.pro/p/el-problema-de-pensar-que-estas-pensando
 - 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
 - 2026-04-30 · E206: ETH está sobrevalorada. Santiago Santos · `youtube/2026-04-30-cCNGqlJkjAs.md` · https://www.youtube.com/watch?v=cCNGqlJkjAs
+- 2026-06-25 · Live: La ilusión de una nueva Colombia. · `youtube/2026-06-25-fZ_wFCK1VC8.md` · https://www.youtube.com/watch?v=fZ_wFCK1VC8
 - 2024-10-15 · E117: Web 3 Mobile Phone only USD$99. Jambo Technology (Eng) · `youtube/2024-10-15-jzCszPj74jY.md` · https://www.youtube.com/watch?v=jzCszPj74jY
 - 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
 - 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
@@ -398,7 +399,6 @@ Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-06-09 · El Primer Cliente Que No Respira (2nda parte) 🔒 · `substack/2026-06-09-el-primer-cliente-que-no-respira.md` · https://www.10am.pro/p/el-primer-cliente-que-no-respira
 - 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
 - 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
-- 2025-08-07 · E165: Medellín, capital crypto de Latinoamérica. Cripto Latin Fest · `youtube/2025-08-07-cgdihfnJVbY.md` · https://www.youtube.com/watch?v=cgdihfnJVbY
 
 ### tokenizacion (26)
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
@@ -481,7 +481,7 @@ Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-09-27 · HIMS No Es Telemedicina 🔒 · `substack/2026-09-27-hims-no-es-telemedicina.md` · https://www.10am.pro/p/hims-no-es-telemedicina
 - 2026-10-04 · El Día con Más Inteligencia que Ha Vivido Medellín · `substack/2026-10-04-unos-acumulan-activos-otros-acumulan.md` · https://www.10am.pro/p/unos-acumulan-activos-otros-acumulan
 
-### colombia (258)
+### colombia (259)
 - 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
 - 2025-08-28 · E168: La urgencia de la Colombia ganadora. Sebastián Salazar. Estrategia Emergente · `youtube/2025-08-28-FykuBZB69KU.md` · https://www.youtube.com/watch?v=FykuBZB69KU
@@ -491,6 +491,7 @@ Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-04-09 · E203: Experiencia VS Intuición · `youtube/2026-04-09-Lrrwxijp9oY.md` · https://www.youtube.com/watch?v=Lrrwxijp9oY
 - 2023-07-07 · E48: El próximo México del mundo debería ser Colombia. Alejandro Salazar · `youtube/2023-07-07-sfubzaa5cBM.md` · https://www.youtube.com/watch?v=sfubzaa5cBM
 - 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
+- 2026-06-25 · Live: La ilusión de una nueva Colombia. · `youtube/2026-06-25-fZ_wFCK1VC8.md` · https://www.youtube.com/watch?v=fZ_wFCK1VC8
 - 2026-08-15 · Inteligencia colectiva con Colombia · `youtube/2026-08-15-k7hgZ_hY4IY.md` · https://www.youtube.com/watch?v=k7hgZ_hY4IY
 - 2025-05-01 · E151: ¡He hecho 20 veces más por la igualdad que cualquier político de izquierda!. Enrique Peñalosa · `youtube/2025-05-01-dB5jNR8By4E.md` · https://www.youtube.com/watch?v=dB5jNR8By4E
 - 2026-06-25 · E214: EPM. Empresas Políticas de Medellín. · `youtube/2026-06-25-6a19WXpUedM.md` · https://www.youtube.com/watch?v=6a19WXpUedM
@@ -506,7 +507,6 @@ Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2025-08-07 · E165: Medellín, capital crypto de Latinoamérica. Cripto Latin Fest · `youtube/2025-08-07-cgdihfnJVbY.md` · https://www.youtube.com/watch?v=cgdihfnJVbY
 - 2023-09-15 · E58: Cara a cara con Pablo Escobar y el enredo de HidroItuango. Ramiro Valencia · `youtube/2023-09-15-dNuTQDTk5kI.md` · https://www.youtube.com/watch?v=dNuTQDTk5kI
 - 2026-07-09 · E216: Open Finance. La importancia de Colombia FIntech. Gabriel Santos. · `youtube/2026-07-09-6eVtzS0f88k.md` · https://www.youtube.com/watch?v=6eVtzS0f88k
-- 2023-03-31 · E33: De $100M a $150,000M en real estate usando tiktok con Lucas Gómez Cuartas · `youtube/2023-03-31-cSRjWJudzZE.md` · https://www.youtube.com/watch?v=cSRjWJudzZE
 
 ### hurdle_rate (5)
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
@@ -515,7 +515,7 @@ Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2025-11-13 · E179: ¿Mi negocio es mejor inversión que invertir en Bitcoin?. Equipo 10AMPRO · `youtube/2025-11-13-nl1AGKDaRXM.md` · https://www.youtube.com/watch?v=nl1AGKDaRXM
 - 2026-10-12 · La Regla del 5% · `substack/2026-10-12-nunca-vendo-la-mas-grande.md` · https://www.10am.pro/p/nunca-vendo-la-mas-grande
 
-### tesis_10x (68)
+### tesis_10x (69)
 - 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
@@ -582,7 +582,7 @@ Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2023-12-01 · E70: La Bolsa de Valores de Colombia es apenas el 25% de un MemeCoin. · `youtube/2023-12-01-L2jSZP_uVuI.md` · https://www.youtube.com/watch?v=L2jSZP_uVuI
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
 
-### energia (185)
+### energia (186)
 - 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
 - 2025-06-19 · E158: Los países ricos ya eligieron: ⚛️ Energía Nuclear . Lisandro Pérez 🇦🇷 · `youtube/2025-06-19-wXSM3Qb3eC4.md` · https://www.youtube.com/watch?v=wXSM3Qb3eC4
 - 2025-07-10 · E161: ⚠️ Crisis energética. Colombia al borde de un gran apagón 🚨| Natalia Gutiérrez, ACOLGEN · `youtube/2025-07-10-Rs0PsVFgP14.md` · https://www.youtube.com/watch?v=Rs0PsVFgP14
@@ -638,6 +638,7 @@ Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 
 ## Substack (todos)
 
+- 2026-11-04 · ⚡️ El Día D. Andrés Felipe Arias: ¿Qué es la Ontología? · `substack/2026-11-04-el-dia-d-andres-felipe-arias-que.md` · https://www.10am.pro/p/el-dia-d-andres-felipe-arias-que
 - 2026-11-03 · Palantir Q3 2026: “Once You Go Palantir, You Don’t Go Back” · `substack/2026-11-03-palantir-q3-2026-once-you-go-palantir.md` · https://www.10am.pro/p/palantir-q3-2026-once-you-go-palantir · temas: PLTR, IA
 - 2026-11-02 · ⚡️ El Día D. Nicolás Fernández: La batalla cultural arranca por el lenguaje · `substack/2026-11-02-el-dia-d-nicolas-fernandez-la-batalla.md` · https://www.10am.pro/p/el-dia-d-nicolas-fernandez-la-batalla
 - 2026-11-02 · SpaceX Q3 2026: La Matemática que Nadie Está Haciendo · `substack/2026-11-02-spacex-q3-2026-la-matematica-que.md` · https://www.10am.pro/p/spacex-q3-2026-la-matematica-que · temas: SpaceX, macro, IA
@@ -847,6 +848,7 @@ Totales: 166 posts de Substack (45 exclusivos para suscriptores), 258 episodios 
 - 2026-07-09 · E216: Open Finance. La importancia de Colombia FIntech. Gabriel Santos. · `youtube/2026-07-09-6eVtzS0f88k.md` · https://www.youtube.com/watch?v=6eVtzS0f88k · temas: colombia, macro, IA, emprendimiento, energia
 - 2026-07-02 · E215: Biología es el nuevo código. Antonio Linares · `youtube/2026-07-02-Sda5CFB56vI.md` · https://www.youtube.com/watch?v=Sda5CFB56vI · temas: longevidad, PLTR, HIMS, colombia, tesis_10x
 - 2026-06-25 · E214: EPM. Empresas Políticas de Medellín. · `youtube/2026-06-25-6a19WXpUedM.md` · https://www.youtube.com/watch?v=6a19WXpUedM · temas: colombia, energia, TSLA, macro, IA
+- 2026-06-25 · Live: La ilusión de una nueva Colombia. · `youtube/2026-06-25-fZ_wFCK1VC8.md` · https://www.youtube.com/watch?v=fZ_wFCK1VC8 · temas: colombia, stablecoins, SpaceX, tesis_10x, energia
 - 2026-06-18 · E213: SpaceX. El mayor IPO de la última década y lo que significa para los portafolios de inversión. · `youtube/2026-06-18-Bclu6jOdid4.md` · https://www.youtube.com/watch?v=Bclu6jOdid4 · temas: PLTR, SpaceX, BTC, TSLA, longevidad, HOOD
 - 2026-06-12 · ⚡ Episodio Especial 03: Colombia 🇨🇴 Elijamos el camino de la abundancia. José Manuel Restrepo. · `youtube/2026-06-12-xT_zbjfV5vc.md` · https://www.youtube.com/watch?v=xT_zbjfV5vc · temas: colombia, energia, PLTR, SpaceX, IA, macro
 - 2026-06-11 · E212: Zonas Francas, motor de abundancia económica en Colombia. Martin Ibarra Pardo. · `youtube/2026-06-11-v3rORkclIzc.md` · https://www.youtube.com/watch?v=v3rORkclIzc · temas: colombia, energia, geopolitica, SOL
