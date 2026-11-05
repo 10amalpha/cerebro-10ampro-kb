@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 167 posts de Substack (45 exclusivos para suscriptores), 259 episodios de YouTube, 1856 posts de X en 12 archivos mensuales.
+Totales: 168 posts de Substack (45 exclusivos para suscriptores), 259 episodios de YouTube, 1872 posts de X en 12 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -346,7 +346,7 @@ Totales: 167 posts de Substack (45 exclusivos para suscriptores), 259 episodios 
 - 2026-08-26 · GDP 04: Bessent activa el Bullrun · `youtube/2026-08-26-yy3eEXTUy50.md` · https://www.youtube.com/watch?v=yy3eEXTUy50
 - 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra
 
-### geopolitica (169)
+### geopolitica (170)
 - 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
 - 2026-03-19 · E200: Irán 🇮🇷 , petróleo🛢️, dólar 💵 y drones. Hernán, Darío, Guillermo, Andrés Felipe y El Gordo. · `youtube/2026-03-19-QbS-TGwMuw0.md` · https://www.youtube.com/watch?v=QbS-TGwMuw0
 - 2026-04-16 · E204: 🇮🇷 Irán, Donald Trump y El Estrecho de Ormuz. · `youtube/2026-04-16-HhBfwrQyvwA.md` · https://www.youtube.com/watch?v=HhBfwrQyvwA
@@ -639,6 +639,7 @@ Totales: 167 posts de Substack (45 exclusivos para suscriptores), 259 episodios 
 ## Substack (todos)
 
 - 2026-11-04 · ⚡️ El Día D. Andrés Felipe Arias: ¿Qué es la Ontología? · `substack/2026-11-04-el-dia-d-andres-felipe-arias-que.md` · https://www.10am.pro/p/el-dia-d-andres-felipe-arias-que
+- 2026-11-04 · La urgencia de pensar en macroproyectos para Antioquia. Alejandro Arbeláez. E231 · `substack/2026-11-04-la-urgencia-de-pensar-en-macroproyectos.md` · https://www.10am.pro/p/la-urgencia-de-pensar-en-macroproyectos
 - 2026-11-03 · Palantir Q3 2026: “Once You Go Palantir, You Don’t Go Back” · `substack/2026-11-03-palantir-q3-2026-once-you-go-palantir.md` · https://www.10am.pro/p/palantir-q3-2026-once-you-go-palantir · temas: PLTR, IA
 - 2026-11-02 · ⚡️ El Día D. Nicolás Fernández: La batalla cultural arranca por el lenguaje · `substack/2026-11-02-el-dia-d-nicolas-fernandez-la-batalla.md` · https://www.10am.pro/p/el-dia-d-nicolas-fernandez-la-batalla
 - 2026-11-02 · SpaceX Q3 2026: La Matemática que Nadie Está Haciendo · `substack/2026-11-02-spacex-q3-2026-la-matematica-que.md` · https://www.10am.pro/p/spacex-q3-2026-la-matematica-que · temas: SpaceX, macro, IA
@@ -1070,7 +1071,7 @@ Totales: 167 posts de Substack (45 exclusivos para suscriptores), 259 episodios 
 
 ## X (archivos mensuales)
 
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: PLTR, colombia, IA, energia, TSLA, NVDA
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: PLTR, colombia, geopolitica, energia, IA, TSLA
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, IA, PLTR
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
