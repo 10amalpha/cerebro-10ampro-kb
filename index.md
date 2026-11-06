@@ -4,11 +4,11 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 168 posts de Substack (45 exclusivos para suscriptores), 259 episodios de YouTube, 1872 posts de X en 12 archivos mensuales.
+Totales: 169 posts de Substack (45 exclusivos para suscriptores), 260 episodios de YouTube, 1885 posts de X en 12 archivos mensuales.
 
 ## Por tema / ticker
 
-### BTC (156)
+### BTC (157)
 - 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
 - 2024-08-22 · E108: ¡Bitcoin, la vacuna contra el corralito! Equipo 10AMPRO · `youtube/2024-08-22-zCmyQyVPdqk.md` · https://www.youtube.com/watch?v=zCmyQyVPdqk
 - 2025-06-05 · E156: El último Bitcoin. Equipo 10AMPRO · `youtube/2025-06-05-7YN24s8Ipg0.md` · https://www.youtube.com/watch?v=7YN24s8Ipg0
@@ -143,7 +143,7 @@ Totales: 168 posts de Substack (45 exclusivos para suscriptores), 259 episodios 
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
 
-### HIMS (33)
+### HIMS (34)
 - 2026-05-06 · La Cárcel de los Péptidos  🔒 · `substack/2026-05-06-el-negocio-mas-grande-del-que-nadie.md` · https://www.10am.pro/p/el-negocio-mas-grande-del-que-nadie
 - 2026-09-27 · HIMS No Es Telemedicina 🔒 · `substack/2026-09-27-hims-no-es-telemedicina.md` · https://www.10am.pro/p/hims-no-es-telemedicina
 - 2025-04-24 · E150: ¿HIMS el próximo 10X? Antonio Linares · `youtube/2025-04-24-jB-Qew9B9_o.md` · https://www.youtube.com/watch?v=jB-Qew9B9_o
@@ -298,7 +298,7 @@ Totales: 168 posts de Substack (45 exclusivos para suscriptores), 259 episodios 
 - 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
 
-### macro (186)
+### macro (187)
 - 2025-09-28 · El Arquitecto Silencioso del Dólar · `substack/2025-09-28-el-arquitecto-silencioso-del-dolar.md` · https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar
 - 2025-12-27 · El Hombre que Está Reprogramando la Economía de Estados Unidos · `substack/2025-12-27-el-hombre-que-esta-reprogramando.md` · https://www.10am.pro/p/el-hombre-que-esta-reprogramando
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
@@ -454,7 +454,7 @@ Totales: 168 posts de Substack (45 exclusivos para suscriptores), 259 episodios 
 - 2025-02-06 · E137: Modelos mentales. Equipo 10AMPRO · `youtube/2025-02-06-U-Tk9XzfWrQ.md` · https://www.youtube.com/watch?v=U-Tk9XzfWrQ
 - 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
 
-### longevidad (53)
+### longevidad (54)
 - 2026-05-06 · La Cárcel de los Péptidos  🔒 · `substack/2026-05-06-el-negocio-mas-grande-del-que-nadie.md` · https://www.10am.pro/p/el-negocio-mas-grande-del-que-nadie
 - 2026-07-02 · E215: Biología es el nuevo código. Antonio Linares · `youtube/2026-07-02-Sda5CFB56vI.md` · https://www.youtube.com/watch?v=Sda5CFB56vI
 - 2026-05-14 · E208: Esto es más grande que Palantir a USD 7. Antonio Linares · `youtube/2026-05-14-6j1_HGpUX2s.md` · https://www.youtube.com/watch?v=6j1_HGpUX2s
@@ -481,7 +481,7 @@ Totales: 168 posts de Substack (45 exclusivos para suscriptores), 259 episodios 
 - 2026-09-27 · HIMS No Es Telemedicina 🔒 · `substack/2026-09-27-hims-no-es-telemedicina.md` · https://www.10am.pro/p/hims-no-es-telemedicina
 - 2026-10-04 · El Día con Más Inteligencia que Ha Vivido Medellín · `substack/2026-10-04-unos-acumulan-activos-otros-acumulan.md` · https://www.10am.pro/p/unos-acumulan-activos-otros-acumulan
 
-### colombia (259)
+### colombia (260)
 - 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
 - 2025-08-28 · E168: La urgencia de la Colombia ganadora. Sebastián Salazar. Estrategia Emergente · `youtube/2025-08-28-FykuBZB69KU.md` · https://www.youtube.com/watch?v=FykuBZB69KU
@@ -515,7 +515,7 @@ Totales: 168 posts de Substack (45 exclusivos para suscriptores), 259 episodios 
 - 2025-11-13 · E179: ¿Mi negocio es mejor inversión que invertir en Bitcoin?. Equipo 10AMPRO · `youtube/2025-11-13-nl1AGKDaRXM.md` · https://www.youtube.com/watch?v=nl1AGKDaRXM
 - 2026-10-12 · La Regla del 5% · `substack/2026-10-12-nunca-vendo-la-mas-grande.md` · https://www.10am.pro/p/nunca-vendo-la-mas-grande
 
-### tesis_10x (69)
+### tesis_10x (70)
 - 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
@@ -638,6 +638,7 @@ Totales: 168 posts de Substack (45 exclusivos para suscriptores), 259 episodios 
 
 ## Substack (todos)
 
+- 2026-11-06 · ⚡️ El Día D. Todos los invitados: ¿En qué estamos invirtiendo? · `substack/2026-11-06-el-dia-d-todos-los-invitados-en-que.md` · https://www.10am.pro/p/el-dia-d-todos-los-invitados-en-que
 - 2026-11-04 · ⚡️ El Día D. Andrés Felipe Arias: ¿Qué es la Ontología? · `substack/2026-11-04-el-dia-d-andres-felipe-arias-que.md` · https://www.10am.pro/p/el-dia-d-andres-felipe-arias-que
 - 2026-11-04 · La urgencia de pensar en macroproyectos para Antioquia. Alejandro Arbeláez. E231 · `substack/2026-11-04-la-urgencia-de-pensar-en-macroproyectos.md` · https://www.10am.pro/p/la-urgencia-de-pensar-en-macroproyectos
 - 2026-11-03 · Palantir Q3 2026: “Once You Go Palantir, You Don’t Go Back” · `substack/2026-11-03-palantir-q3-2026-once-you-go-palantir.md` · https://www.10am.pro/p/palantir-q3-2026-once-you-go-palantir · temas: PLTR, IA
@@ -901,6 +902,7 @@ Totales: 168 posts de Substack (45 exclusivos para suscriptores), 259 episodios 
 - 2025-09-11 · E170: Recuperar la Seguridad en Colombia, Juan Carlos Pinzón. · `youtube/2025-09-11-pIFL87LviIs.md` · https://www.youtube.com/watch?v=pIFL87LviIs · temas: colombia, energia, PLTR, IA, macro, emprendimiento
 - 2025-09-04 · E169: Quien sepa gobernar tokens y electrones, gobernará el futuro. Gabriel Merlo 🇪🇸 · `youtube/2025-09-04-JdZCcg7QtLA.md` · https://www.youtube.com/watch?v=JdZCcg7QtLA · temas: tokenizacion, IA, energia
 - 2025-08-28 · E168: La urgencia de la Colombia ganadora. Sebastián Salazar. Estrategia Emergente · `youtube/2025-08-28-FykuBZB69KU.md` · https://www.youtube.com/watch?v=FykuBZB69KU · temas: colombia, geopolitica, energia, emprendimiento, IA
+- 2025-08-21 · E167: Stem cells in Medellin. John Tarantino · `youtube/2025-08-21-fV1ckqEg-RY.md` · https://www.youtube.com/watch?v=fV1ckqEg-RY · temas: colombia, longevidad
 - 2025-08-14 · E166: A los zurdos no se les puede dar un milímetro. Javier Milei, Equipo 10AMPRO. · `youtube/2025-08-14-lddgiExx6gM.md` · https://www.youtube.com/watch?v=lddgiExx6gM · temas: colombia, macro, geopolitica, tesis_10x
 - 2025-08-07 · E165: Medellín, capital crypto de Latinoamérica. Cripto Latin Fest · `youtube/2025-08-07-cgdihfnJVbY.md` · https://www.youtube.com/watch?v=cgdihfnJVbY · temas: colombia, BTC, geopolitica, emprendimiento, stablecoins, macro
 - 2025-07-31 · E164: El nuevo oro líquido de Medellín. El boom 💥 cervecero 🍺 · `youtube/2025-07-31-0iH5vh1ohEU.md` · https://www.youtube.com/watch?v=0iH5vh1ohEU · temas: colombia
@@ -1071,7 +1073,7 @@ Totales: 168 posts de Substack (45 exclusivos para suscriptores), 259 episodios 
 
 ## X (archivos mensuales)
 
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: PLTR, colombia, geopolitica, energia, IA, TSLA
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: PLTR, colombia, IA, geopolitica, energia, TSLA
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, IA, PLTR
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
