@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 169 posts de Substack (45 exclusivos para suscriptores), 260 episodios de YouTube, 1890 posts de X en 12 archivos mensuales.
+Totales: 169 posts de Substack (45 exclusivos para suscriptores), 261 episodios de YouTube, 1891 posts de X en 12 archivos mensuales.
 
 ## Por tema / ticker
 
@@ -35,7 +35,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 260 episodios 
 - 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
 - 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
 
-### SOL (160)
+### SOL (161)
 - 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
 - 2024-02-16 · E81: Hackathon Solana Colombia. Episodio Medellín. Alex Ramírez. · `youtube/2024-02-16-5Hbv_Lwn8is.md` · https://www.youtube.com/watch?v=5Hbv_Lwn8is
 - 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
@@ -454,7 +454,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 260 episodios 
 - 2025-02-06 · E137: Modelos mentales. Equipo 10AMPRO · `youtube/2025-02-06-U-Tk9XzfWrQ.md` · https://www.youtube.com/watch?v=U-Tk9XzfWrQ
 - 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
 
-### longevidad (54)
+### longevidad (55)
 - 2026-05-06 · La Cárcel de los Péptidos  🔒 · `substack/2026-05-06-el-negocio-mas-grande-del-que-nadie.md` · https://www.10am.pro/p/el-negocio-mas-grande-del-que-nadie
 - 2026-07-02 · E215: Biología es el nuevo código. Antonio Linares · `youtube/2026-07-02-Sda5CFB56vI.md` · https://www.youtube.com/watch?v=Sda5CFB56vI
 - 2026-05-14 · E208: Esto es más grande que Palantir a USD 7. Antonio Linares · `youtube/2026-05-14-6j1_HGpUX2s.md` · https://www.youtube.com/watch?v=6j1_HGpUX2s
@@ -582,7 +582,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 260 episodios 
 - 2023-12-01 · E70: La Bolsa de Valores de Colombia es apenas el 25% de un MemeCoin. · `youtube/2023-12-01-L2jSZP_uVuI.md` · https://www.youtube.com/watch?v=L2jSZP_uVuI
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
 
-### energia (186)
+### energia (187)
 - 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
 - 2025-06-19 · E158: Los países ricos ya eligieron: ⚛️ Energía Nuclear . Lisandro Pérez 🇦🇷 · `youtube/2025-06-19-wXSM3Qb3eC4.md` · https://www.youtube.com/watch?v=wXSM3Qb3eC4
 - 2025-07-10 · E161: ⚠️ Crisis energética. Colombia al borde de un gran apagón 🚨| Natalia Gutiérrez, ACOLGEN · `youtube/2025-07-10-Rs0PsVFgP14.md` · https://www.youtube.com/watch?v=Rs0PsVFgP14
@@ -1024,6 +1024,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 260 episodios 
 - 2023-07-14 · E49: Hernán Kazah. De fundador de Mercado Libre a crear el fondo de inversión mas grande de Latam. · `youtube/2023-07-14-1xKVc5ZSncQ.md` · https://www.youtube.com/watch?v=1xKVc5ZSncQ · temas: emprendimiento, colombia, IA, macro, geopolitica
 - 2023-07-07 · E48: El próximo México del mundo debería ser Colombia. Alejandro Salazar · `youtube/2023-07-07-sfubzaa5cBM.md` · https://www.youtube.com/watch?v=sfubzaa5cBM · temas: colombia, geopolitica, energia
 - 2023-06-30 · E47: ¿Por qué Spotify puede ser el próximo Google de audio? Antonio Linares. · `youtube/2023-06-30-hz3PAl5ww8I.md` · https://www.youtube.com/watch?v=hz3PAl5ww8I · temas: TSLA, energia, PLTR
+- 2023-06-24 · E46 (Versión original): El mundo de los hongos y sus múltiples aplicaciones. · `youtube/2023-06-24-Ju0uCVQy9bA.md` · https://www.youtube.com/watch?v=Ju0uCVQy9bA · temas: energia, SOL, longevidad
 - 2023-06-23 · E46 (Versión traducida por IA): El mundo de los hongos y sus múltiples aplicaciones. · `youtube/2023-06-23-3sEnbLpID38.md` · https://www.youtube.com/watch?v=3sEnbLpID38 · temas: colombia, energia, SOL, IA, longevidad
 - 2023-06-16 · E45: 🇧🇷 Brasil, el gigante de los negocios en Latinoamérica.  Invitado, Pedro Faria, VC de Brasil · `youtube/2023-06-16-JWgIL5Cl47o.md` · https://www.youtube.com/watch?v=JWgIL5Cl47o · temas: colombia, emprendimiento, IA, energia
 - 2023-06-09 · E44: Aplicando un experimento en AMM. El Tamaño del negocio de Messi. Tokenización en Real Estate. · `youtube/2023-06-09-mrl94HYW2ew.md` · https://www.youtube.com/watch?v=mrl94HYW2ew · temas: colombia, tokenizacion, SOL, portafolio, emprendimiento
