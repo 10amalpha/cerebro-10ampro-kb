@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 169 posts de Substack (45 exclusivos para suscriptores), 261 episodios de YouTube, 1898 posts de X en 12 archivos mensuales.
+Totales: 169 posts de Substack (45 exclusivos para suscriptores), 261 episodios de YouTube, 1900 posts de X en 12 archivos mensuales.
 
 ## Por tema / ticker
 
