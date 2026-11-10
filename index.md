@@ -4,11 +4,13 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios de YouTube, 1900 posts de X en 12 archivos mensuales.
+Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios de YouTube, 1900 posts de X en 12 archivos mensuales, 9 notas diarias del chat de WhatsApp de 10ampro.
+
+Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
 ## Por tema / ticker
 
-### BTC (161)
+### BTC (167)
 - 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
 - 2024-08-22 · E108: ¡Bitcoin, la vacuna contra el corralito! Equipo 10AMPRO · `youtube/2024-08-22-zCmyQyVPdqk.md` · https://www.youtube.com/watch?v=zCmyQyVPdqk
 - 2025-06-05 · E156: El último Bitcoin. Equipo 10AMPRO · `youtube/2025-06-05-7YN24s8Ipg0.md` · https://www.youtube.com/watch?v=7YN24s8Ipg0
@@ -35,7 +37,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
 - 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
 
-### SOL (168)
+### SOL (172)
 - 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
 - 2024-02-16 · E81: Hackathon Solana Colombia. Episodio Medellín. Alex Ramírez. · `youtube/2024-02-16-5Hbv_Lwn8is.md` · https://www.youtube.com/watch?v=5Hbv_Lwn8is
 - 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
@@ -62,7 +64,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
 - 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
 
-### TSLA (136)
+### TSLA (140)
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 - 2025-07-06 · Tesla Será la Compañía mas Valiosa del Mundo · `substack/2025-07-06-tesla-sera-la-compania-mas-valiosa.md` · https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa
 - 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
@@ -116,7 +118,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2026-04-22 · Dale las Claves del Broker a Tu Esposa 🔒 · `substack/2026-04-22-dale-las-claves-del-broker-a-tu-esposa.md` · https://www.10am.pro/p/dale-las-claves-del-broker-a-tu-esposa
 - 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
 
-### PLTR (115)
+### PLTR (119)
 - 2025-08-20 · Palantir: la Compañía mas Importante de Occidente · `substack/2025-08-20-palantir-la-compania-mas-importante.md` · https://www.10am.pro/p/palantir-la-compania-mas-importante
 - 2026-03-09 ·  Lo Que Emil Michael Reveló Sobre Palantir, Maduro y el Pentágono 🔒 · `substack/2026-03-09-palantir-vs-todos.md` · https://www.10am.pro/p/palantir-vs-todos
 - 2026-06-17 · Velocidad de Ontología 🔒 · `substack/2026-06-17-el-dia-que-entendi-por-que-compre.md` · https://www.10am.pro/p/el-dia-que-entendi-por-que-compre
@@ -170,7 +172,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2026-07-01 · Biology is Code 🔒 · `substack/2026-07-01-biology-is-code.md` · https://www.10am.pro/p/biology-is-code
 - 2026-10-04 · El Día con Más Inteligencia que Ha Vivido Medellín · `substack/2026-10-04-unos-acumulan-activos-otros-acumulan.md` · https://www.10am.pro/p/unos-acumulan-activos-otros-acumulan
 
-### ETH (26)
+### ETH (27)
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
 - 2024-11-14 · E123: I never look at price. Kyle Samani - Multicoin Capital · `youtube/2024-11-14-CQB6erpyd6Y.md` · https://www.youtube.com/watch?v=CQB6erpyd6Y
 - 2023-07-21 · E50: El padrino del conocimiento ALPHA, Joe McCann, fundador de Node.JS y Asymmetric Capital. · `youtube/2023-07-21-SHEyv89MvM4.md` · https://www.youtube.com/watch?v=SHEyv89MvM4
@@ -182,6 +184,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2024-10-23 · E119: 🇺🇸 Anthony Scaramucci 🤑 55% of my networth is in Crypto · `youtube/2024-10-23-g_LWQWBtAiA.md` · https://www.youtube.com/watch?v=g_LWQWBtAiA
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
 - 2023-02-03 · E25: Amazon y su entrada a la web3. Nacen los primeros NFTS en Bitcoin. ¿ZK RollUps y ZK Proofs? · `youtube/2023-02-03-OLTMA-hOql8.md` · https://www.youtube.com/watch?v=OLTMA-hOql8
+- 2025-08-13 · Chat 10ampro (anti-deficit) — 2025-08-13 · `chat/chat-anti-deficit-2025-08-13.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2024-06-27 · E100: Joe McCann Asymmetric. In Colombia a rancher sold cows to buy Solana. · `youtube/2024-06-27-YCDVQ66idbw.md` · https://www.youtube.com/watch?v=YCDVQ66idbw
 - 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
@@ -195,12 +198,12 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
 - 2022-12-16 · E18: Novedades AI. ¿Cuál es el verdadero Morgan Freeman? OTTER, mi propia asistente AI. ¿Qué es MEV? · `youtube/2022-12-16-fAXriA9gQHo.md` · https://www.youtube.com/watch?v=fAXriA9gQHo
 - 2023-02-10 · E26: El CEO de BINANCE Latam nos cuenta cómo y por qué son el Exchange mas grande del mundo. · `youtube/2023-02-10-ionnuu54kDw.md` · https://www.youtube.com/watch?v=ionnuu54kDw
-- 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
 
-### XRP (3)
+### XRP (4)
 - 2025-06-15 · El Problema de Pensar Que Estás Pensando · `substack/2025-06-15-el-problema-de-pensar-que-estas-pensando.md` · https://www.10am.pro/p/el-problema-de-pensar-que-estas-pensando
 - 2024-08-15 · E107: ¿Lunes negro? El Carry Trade del Yen 🇯🇵. Equipo 10AMPRO · `youtube/2024-08-15-enmay3VnPKI.md` · https://www.youtube.com/watch?v=enmay3VnPKI
 - 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
+- 2025-08-13 · Chat 10ampro (anti-deficit) — 2025-08-13 · `chat/chat-anti-deficit-2025-08-13.md` · (chat privado, sin URL: cita Substack/YouTube)
 
 ### JUP (6)
 - 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
@@ -300,7 +303,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
 
-### macro (194)
+### macro (197)
 - 2025-09-28 · El Arquitecto Silencioso del Dólar · `substack/2025-09-28-el-arquitecto-silencioso-del-dolar.md` · https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar
 - 2025-12-27 · El Hombre que Está Reprogramando la Economía de Estados Unidos · `substack/2025-12-27-el-hombre-que-esta-reprogramando.md` · https://www.10am.pro/p/el-hombre-que-esta-reprogramando
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
@@ -348,7 +351,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2026-08-26 · GDP 04: Bessent activa el Bullrun · `youtube/2026-08-26-yy3eEXTUy50.md` · https://www.youtube.com/watch?v=yy3eEXTUy50
 - 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra
 
-### geopolitica (178)
+### geopolitica (182)
 - 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
 - 2026-03-19 · E200: Irán 🇮🇷 , petróleo🛢️, dólar 💵 y drones. Hernán, Darío, Guillermo, Andrés Felipe y El Gordo. · `youtube/2026-03-19-QbS-TGwMuw0.md` · https://www.youtube.com/watch?v=QbS-TGwMuw0
 - 2026-04-16 · E204: 🇮🇷 Irán, Donald Trump y El Estrecho de Ormuz. · `youtube/2026-04-16-HhBfwrQyvwA.md` · https://www.youtube.com/watch?v=HhBfwrQyvwA
@@ -375,7 +378,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 - 2026-09-18 · Los Midterms Pura Geopolitica  · `substack/2026-09-18-los-midterms-pura-geopolitica.md` · https://www.10am.pro/p/los-midterms-pura-geopolitica
 
-### stablecoins (40)
+### stablecoins (41)
 - 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
 - 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
 - 2024-01-12 · E76: Pagando en USDC con tarjetas de crédito virtuales. Equipo ZEBEC. · `youtube/2024-01-12-OMIimYPSdts.md` · https://www.youtube.com/watch?v=OMIimYPSdts
@@ -429,7 +432,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2024-07-04 · E101: ¿Qué es Wenia?. La apuesta de Bancolombia en el mundo Crypto. Pablo Arboleda · `youtube/2024-07-04-5n6aNZKkbuU.md` · https://www.youtube.com/watch?v=5n6aNZKkbuU
 - 2025-01-02 · E130: Global66 logró lo que gobiernos y bancos no pudieron; unificar financieramente a Latam. · `youtube/2025-01-02-Dx8EICNFqy4.md` · https://www.youtube.com/watch?v=Dx8EICNFqy4
 
-### IA (193)
+### IA (195)
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
 - 2026-07-29 · La élite de la inteligencia artificial: cinco trayectorias que están reescribiendo el siglo XXI 🔒 · `substack/2026-07-29-la-elite-de-la-inteligencia-artificial.md` · https://www.10am.pro/p/la-elite-de-la-inteligencia-artificial
 - 2024-05-03 · E92: ¿La IA será un nuevo Dios?. Gerardo Delgado. Nvidia · `youtube/2024-05-03-62xBbvvxMf4.md` · https://www.youtube.com/watch?v=62xBbvvxMf4
@@ -483,7 +486,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. 📱 · `youtube/2026-10-09-oZEJJOvUKBs.md` · https://www.youtube.com/watch?v=oZEJJOvUKBs
 - 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
 
-### colombia (272)
+### colombia (275)
 - 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
 - 2025-08-28 · E168: La urgencia de la Colombia ganadora. Sebastián Salazar. Estrategia Emergente · `youtube/2025-08-28-FykuBZB69KU.md` · https://www.youtube.com/watch?v=FykuBZB69KU
@@ -517,7 +520,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2025-11-13 · E179: ¿Mi negocio es mejor inversión que invertir en Bitcoin?. Equipo 10AMPRO · `youtube/2025-11-13-nl1AGKDaRXM.md` · https://www.youtube.com/watch?v=nl1AGKDaRXM
 - 2026-10-12 · La Regla del 5% · `substack/2026-10-12-nunca-vendo-la-mas-grande.md` · https://www.10am.pro/p/nunca-vendo-la-mas-grande
 
-### tesis_10x (72)
+### tesis_10x (74)
 - 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
@@ -585,7 +588,7 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2023-12-01 · E70: La Bolsa de Valores de Colombia es apenas el 25% de un MemeCoin. · `youtube/2023-12-01-L2jSZP_uVuI.md` · https://www.youtube.com/watch?v=L2jSZP_uVuI
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
 
-### energia (195)
+### energia (196)
 - 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
 - 2026-11-05 · La era de los ⚡️ Gigavatios: Por qué los megas ya no alcanzan. E230 · `youtube/2026-11-05-SyDYxjhPH2M.md` · https://www.youtube.com/watch?v=SyDYxjhPH2M
 - 2025-06-19 · E158: Los países ricos ya eligieron: ⚛️ Energía Nuclear . Lisandro Pérez 🇦🇷 · `youtube/2025-06-19-wXSM3Qb3eC4.md` · https://www.youtube.com/watch?v=wXSM3Qb3eC4
@@ -1109,3 +1112,15 @@ Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios 
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra · temas: PLTR, IA, colombia, macro, SOL, TSLA
 - 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra · temas: colombia, TSLA, macro, IA, SOL, geopolitica
 - 2025-12 · Posts de X @holdmybirra — 2025-12 · `x/2025-12.md` · https://x.com/holdmybirra · temas: colombia, SOL, IA, macro, stablecoins, BTC
+
+## Chat WhatsApp 10ampro (notas diarias)
+
+- 2025-08-14 · Chat 10ampro (anti-deficit) — 2025-08-14 · `chat/chat-anti-deficit-2025-08-14.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, SOL
+- 2025-08-13 · Chat 10ampro (anti-deficit) — 2025-08-13 · `chat/chat-anti-deficit-2025-08-13.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: ETH, SOL, BTC, XRP, stablecoins, TSLA
+- 2025-08-12 · Chat 10ampro (anti-deficit) — 2025-08-12 · `chat/chat-anti-deficit-2025-08-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: macro, geopolitica, TSLA
+- 2025-08-11 · Chat 10ampro (anti-deficit) — 2025-08-11 · `chat/chat-anti-deficit-2025-08-11.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: colombia, IA, SOL
+- 2025-08-10 · Chat 10ampro (anti-deficit) — 2025-08-10 · `chat/chat-anti-deficit-2025-08-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2025-08-09 · Chat 10ampro (anti-deficit) — 2025-08-09 · `chat/chat-anti-deficit-2025-08-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, TSLA, BTC, macro, geopolitica
+- 2025-08-08 · Chat 10ampro (anti-deficit) — 2025-08-08 · `chat/chat-anti-deficit-2025-08-08.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, IA, PLTR, colombia, SOL, macro
+- 2025-08-07 · Chat 10ampro (anti-deficit) — 2025-08-07 · `chat/chat-anti-deficit-2025-08-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, tesis_10x, colombia, energia, PLTR, geopolitica
+- 2025-08-06 · Chat 10ampro (anti-deficit) — 2025-08-06 · `chat/chat-anti-deficit-2025-08-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, TSLA, tesis_10x
