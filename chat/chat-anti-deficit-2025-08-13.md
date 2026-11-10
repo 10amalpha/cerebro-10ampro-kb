@@ -230,10 +230,6 @@ Un ETH treasury company esta building on sand… ese roadmap de producto cambian
 
 **Andrés Felipe Arias:** Impresionante discurso
 
-**Andrés Felipe Arias:** Y el respaldo a AUV y el CD impresionante, el viajao a Perto y al perro de JMS lo mejor
-
-**Andrés Felipe Arias:** No te imaginas lo q sentimos varios… Especialmente JMS, el precursor de la violencia en este país
-
 **Hernán:** Hombre el caracter es mas importante q la inteligencia, para todo
 
 **Hernán:** Yo hoy me convenzo mas q defender el metro cuadrado es tan importante
@@ -250,15 +246,7 @@ Un ETH treasury company esta building on sand… ese roadmap de producto cambian
 
 **Hernán:** Pero la casita ordenada eso se pega
 
-**Andrés Felipe Arias:** Un montón de periodistas locas y mamertas emputados por el espaldarazo visto por millones en tiempo real a AUV
-
-**Andrés Felipe Arias:** Como en el entierro de Galán a César Gaviria
-
 **Hernán:** Nada mas detestable q los pseudo intelectuales eso q leen se aprende ln tres frases alquiladas y y a se consideran q piensan
-
-**Hernán:** Alejandro Gaviria es el mas imbecil de todos
-
-**Andrés Felipe Arias:** y la marihuana lo debe tener muy aporreado
 
 **Andrés Felipe Arias:** Va a hablar Milei!
 
@@ -270,23 +258,11 @@ Un ETH treasury company esta building on sand… ese roadmap de producto cambian
 
 **Andrés Felipe Arias:** Nada q haya pasado por la corte de JMS o G Berto y Alejandro pasó por ambos
 
-**Andrés Felipe Arias:** más fácil proponer a Gonorroy
-
-**Andrés Felipe Arias:** o Alfonsito Prada
-
 **Hernán:** Yo soy el imberbe… y me acordare eternamente
 
 **Andrés Felipe Arias:** Por eso M Cárdenas tampoco… Santista
 
-**Andrés Felipe Arias:** pa la m…
-
 **Hernán:** Desde q se escribio ese articulo viene me disgusto x los tecnocratas
-
-**Andrés Felipe Arias:** Y es vecino mío jajja
-
-**Andrés Felipe Arias:** el man lo veo en el gym tratando de bajar de peso
-
-**Andrés Felipe Arias:** tiene más estado físico mi abuelita
 
 **Andrés Felipe Arias:** me estoy radicalizando demasiado
 
@@ -305,8 +281,6 @@ Un ETH treasury company esta building on sand… ese roadmap de producto cambian
 **Andrés Felipe Arias:** le va mejor al q maneja las reservas técnicas de las aseguradoras
 
 **Hernán:** To be fair alejandro es tecnocrata disfrazado de empresarismo…
-
-**Andrés Felipe Arias:** Candidato a Divercity
 
 **Andrés Felipe Arias:** @[miembro] mostrales el de [persona] q sí es el tope de humor sobretodo pa quienes lo conocemos
 
@@ -337,8 +311,6 @@ Un ETH treasury company esta building on sand… ese roadmap de producto cambian
 **Hernán:** Q recuerdos mas La W
 
 **Andrés Felipe Arias:** En eso estamos
-
-**Andrés Felipe Arias:** o asesinado
 
 **Hernán:** Este señor ha vivido 30 karmas en una sola vida… q cosa tan horrible
 

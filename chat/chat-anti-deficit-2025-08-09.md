@@ -150,10 +150,6 @@ chat: "10ampro WhatsApp (anti déficit de atención)"
 
 **Andrés Felipe Arias:** jjajaj
 
-**Andrés Felipe Arias:** yo me estoy radicalizando cada vez más… ahora con la Alcocer a restregarnos en la cara los impueatos q pagamos sin fondo estoy màs radical
-
-**Andrés Felipe Arias:** Estoy tan radical q me voy a salir de otro chat en el q solo hablan guevonadass y como con rabiecita a saylor
-
 **Hernán:** Muy dificl steelman la FED
 
 **Hernán:** Ademas con decisiones basadas en stats arcaicos

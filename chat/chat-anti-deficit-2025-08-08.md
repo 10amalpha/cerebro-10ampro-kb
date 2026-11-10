@@ -90,10 +90,6 @@ The longer game may be less about tariffs for revenue and more about weaponizing
 
 **Hernán:** Esa polizas todas creo son pre BTC en muchos casos.. pero ya existe BTC y ya creo q muchos entienden “the concept of money”… insanity is keep doing the same even you know it is wrong
 
-**Hernán:** Preguntenme si Mama y Sueg no esta metidas en BTC? Exactamente por todo lo anterior
-
-**Hernán:** Pero si me hubiera quedado esperando a q ellas les hubiese dado por meterse solitas, otro seria el estres
-
 **Andrés Felipe Arias:** https://x.com/AndresFelArias/status/1953779739862127043
 
 **Andrés Felipe Arias:** Eso son argumentos que nos inventamos para justificar la mediocridad como padres
@@ -245,10 +241,6 @@ OPTION: X - en una poliza (1 vote)
 
 **Andrés Felipe Arias:** También!
 
-**Camilo Ospina:** Con Diosdado, padrino y delcy
-
-**Andrés Felipe Arias:** Maduro va pa una temporada en el FDC… Allá baja la barriga a punta de hambre y frío
-
 **Hernán:** Decile q nosotros
 
 **Hernán:** Jordi Viser le dijo a los hijos gap years en europe y un titulo digital y luego aprendan
@@ -283,8 +275,6 @@ OPTION: Presté, amo el Army y voto porq sea obligatorio (7 votes)
 OPTION: No quiero q sea obligatorio, pobrecitos mis hijos, son generaciôn de cristal (2 votes)
 OPTION: No presté, mis papás pagaron, pero q los demás sí presten (10 votes)
 OPTION: Me salvé grc a Dios, soy woke y estoy en contra de todo lo q sea milicia. Viva Palestina (2 votes)
-
-**Andrés Felipe Arias:** Pobre man q le tocó ser eso con el impresentable
 
 **Andrés Felipe Arias:** ututy
 

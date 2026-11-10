@@ -55,8 +55,6 @@ OPTION: Abelardo (34 votes)
 
 **Hernán:** Si quiere
 
-**Hernán:** Como diria el sopenco de Alejandro Gaviria
-
 **Hernán:** Yo a los tecnocratas siempre lea he tenido mucha desconfianza, a los lectores citadores de frases… y sobre todo a los q jamas se han sobregirado en una nomina
 
 **Hernán:** Alejandro Gaviria es mi top de esa lista
@@ -77,17 +75,11 @@ Sin gustarme ni cinco ninguno de los dos, podrían ser los protagonistas anti Pa
 
 **Camilo Botero:** de una!!
 
-**Hernán:** Abelardo es el gulungo de las marcas.. nada mas antiestetico q eso
-
 **Hernán:** Q sea buen jurista…
 
 **Hernán:** Necesito a @[miembro] o @[miembro] o @[miembro] impartiendo opinion aho
 
-**Hernán:** [persona] es muy cavernicola pero nos dice como funciona la distribucion de contenido en redes… les da el sugar high a todas
-
 **Hernán:** Colombia le encanta la pornomiseria
-
-**Hernán:** Quedo Francia Marquez… cualquiera puede aspirar
 
 **Hernán:** Las cosas pasan segun como uno las pida
 
@@ -100,12 +92,6 @@ Sin gustarme ni cinco ninguno de los dos, podrían ser los protagonistas anti Pa
 **Hernán:** Todos son malos, la democracia premia el me gusta por el mas capacitado un CEO jamas se escoge asi
 
 **Camilo Botero:** Populismo puro y duro. Reina de belleza > estadista
-
-**Andrés Felipe Arias:** No hay derecho, miserables y malp… los de esta mano negra
-
-**Andrés Felipe Arias:** todos sabemos quiénes están detrás
-
-**Andrés Felipe Arias:** malp…
 
 **Hernán:** Y si no salen
 

@@ -72,19 +72,7 @@ CPI Core 3.1% YoY, Exp. 3.0%
 
 **Andrés Felipe Arias:** Importante: la inflación no se debe mirar como ese snapshot q unos burócratas miden de unas verduras en corabastos. La inflación es el crec % en M2
 
-**Andrés Felipe Arias:** Es que la rabia con este hp de JMS viéndolo llegar ayer al capitolio no tiene nombre
-
-**Andrés Felipe Arias:** tiene uno que ser demasiados triple hp
-
 **Andrés Felipe Arias:** La vi! sí muy buena! Justo antes de la mía jajaj
-
-**Andrés Felipe Arias:** Me auto saqué del otro chat en que medio hablan de temas cripto e inversiones (aunqe siguen pegados del P/E) porque puse algo de esto y empieza un malparido: “Andrés Felipe, este chat no es pa eso pues acá no todos somos de esta línea política…” Q coman mierda… Este país en este bollo y algunos cuidando las formas
-
-**Andrés Felipe Arias:** es demasiado malo
-
-**Andrés Felipe Arias:** es que ayer entrando y uno viéndolo por TV y AUV no puede ir porque está en la cárcel
-
-**Andrés Felipe Arias:** Yo le pido a Dios que nunca me lo encuentre, y que si eso pasa no esté con [persona] y mis hijos, ,,, yo trato de meditar para no pegarle ni escupirlo el día que eso pase, pero a veces, como hoy, si ese malparido medio te insinua algo, me avisás…. jajajaj
 
 **Hernán:** https://x.com/davidpedraza_a/status/1955282790422872483
 
@@ -95,8 +83,6 @@ CPI Core 3.1% YoY, Exp. 3.0%
 **Andrés Felipe Arias:** esee man es de lo más astuto q he visto
 
 **Hernán:** Les da 3 vueltas a todos… esa foto de la bandera.. y en este momento
-
-**Hernán:** Avispado y malo si es
 
 **Hernán:** Communityguidelines a la lata para matarle el reach
 

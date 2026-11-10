@@ -40,8 +40,6 @@ No tiene chance ni ungido por la familia de Miguel y AUV?
 
 **Andrés Felipe Arias:** Dsps de lo de Miguel Papá hoy sí
 
-**Andrés Felipe Arias:** Yo digo q, aún habiendo sido tan cercano al inombrable, rompió con él, y es un buen hombre. Pero x haber estado por fuera del partido y en ese gobierno de m… no tiene chance de ser ungido
-
 **Hernán:** El q siga hablando de ETH, realmente no entiende q better tech always wins
 
 **Hernán:** https://x.com/0xmert_/status/1955682105465466980

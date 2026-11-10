@@ -6,8 +6,6 @@ chat: "10ampro WhatsApp (anti déficit de atención)"
 ---
 # Chat 10ampro 
 
-**Andrés Felipe Arias:** Esta es la top imbecilidad de este hp
-
 **Hernán:** https://x.com/solanafloor/status/1953078946343297449
 
 **Hernán:** una vez salga CYFRF listada me voy a ir con buy calls
@@ -214,8 +212,6 @@ OPTION: Oci nuevo (2 votes)
 **Hernán:** How to kill asymmetry? Trim the winners
 
 **Hernán:** Como son de golosos
-
-**Hernán:** Ella ya te pide permiso para comprar? Se materializo la pareja en Pereira?
 
 **Hernán:** Claro
 

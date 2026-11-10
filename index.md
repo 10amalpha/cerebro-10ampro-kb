@@ -10,7 +10,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## Por tema / ticker
 
-### BTC (167)
+### BTC (166)
 - 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
 - 2024-08-22 · E108: ¡Bitcoin, la vacuna contra el corralito! Equipo 10AMPRO · `youtube/2024-08-22-zCmyQyVPdqk.md` · https://www.youtube.com/watch?v=zCmyQyVPdqk
 - 2025-06-05 · E156: El último Bitcoin. Equipo 10AMPRO · `youtube/2025-06-05-7YN24s8Ipg0.md` · https://www.youtube.com/watch?v=7YN24s8Ipg0
@@ -1120,7 +1120,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-08-12 · Chat 10ampro (anti-deficit) — 2025-08-12 · `chat/chat-anti-deficit-2025-08-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: macro, geopolitica, TSLA
 - 2025-08-11 · Chat 10ampro (anti-deficit) — 2025-08-11 · `chat/chat-anti-deficit-2025-08-11.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: colombia, IA, SOL
 - 2025-08-10 · Chat 10ampro (anti-deficit) — 2025-08-10 · `chat/chat-anti-deficit-2025-08-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
-- 2025-08-09 · Chat 10ampro (anti-deficit) — 2025-08-09 · `chat/chat-anti-deficit-2025-08-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, TSLA, BTC, macro, geopolitica
+- 2025-08-09 · Chat 10ampro (anti-deficit) — 2025-08-09 · `chat/chat-anti-deficit-2025-08-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, TSLA, macro, geopolitica
 - 2025-08-08 · Chat 10ampro (anti-deficit) — 2025-08-08 · `chat/chat-anti-deficit-2025-08-08.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, IA, PLTR, colombia, SOL, macro
 - 2025-08-07 · Chat 10ampro (anti-deficit) — 2025-08-07 · `chat/chat-anti-deficit-2025-08-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, tesis_10x, colombia, energia, PLTR, geopolitica
 - 2025-08-06 · Chat 10ampro (anti-deficit) — 2025-08-06 · `chat/chat-anti-deficit-2025-08-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, TSLA, tesis_10x
