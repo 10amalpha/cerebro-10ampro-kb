@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/palantir-q2-2026-el-dia-que-wall
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/palantir-q2-2026-el-dia-que-wall
-
 # Palantir Q2 2026: El Día que Wall Street Entendió la Ontología
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/7e279bbf-7c3b-4eec-bd64-18c67c7bae6c_1600x933.jpeg)](https://substackcdn.com/image/fetch/$s_!48Pg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e279bbf-7c3b-4eec-bd64-18c67c7bae6c_1600x933.jpeg)

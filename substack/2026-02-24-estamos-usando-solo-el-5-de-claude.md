@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/estamos-usando-solo-el-5-de-claude
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/estamos-usando-solo-el-5-de-claude
-
 # Estamos Usando Solo el 5% de Claude Code
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/8bdff271-bf48-4210-a971-e9719b8e3725_2752x1536.png)](https://substack.com/@camilogomez321)

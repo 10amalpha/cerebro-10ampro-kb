@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/el-algoritmo-de-la-longevidad-es
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/el-algoritmo-de-la-longevidad-es
-
 # Munger Nunca Pisó un Gimnasio
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/d6d83614-8ebc-4788-a76a-4fe9edef4655_1643x957.png)](https://substackcdn.com/image/fetch/$s_!6GvJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d83614-8ebc-4788-a76a-4fe9edef4655_1643x957.png)

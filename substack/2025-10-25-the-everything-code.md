@@ -81,7 +81,6 @@ Una de las contribuciones más valiosas del Everything Code es su sistema de “
 
 Esta secuencia predictiva no es teórica; ha demostrado una precisión notable en los últimos ciclos. Por ejemplo, el aumento de liquidez iniciado en octubre de 2023 predijo correctamente el rally en activos de riesgo que comenzó en abril de 2024. El sistema actualmente señala expansión económica continua hasta al menos finales de 2026, contradiciendo las narrativas recesivas prevalentes en los medios financieros tradicionales.
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 ### La Muerte de la Diversificación Tradicional
 

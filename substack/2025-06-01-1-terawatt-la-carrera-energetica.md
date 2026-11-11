@@ -364,7 +364,6 @@ Saludos desde Cartagena.
 
 ⚡ **Si te gustó el post, compártelo con amigos, deja un like y cuéntame qué piensas en los comentarios.**
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 X: [@holdmybirra](http://x.com/holdmybirra)
 

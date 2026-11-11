@@ -26,7 +26,6 @@ Lo que siguió fue una hora de debate crudo — sin guion, sin filtro, con la ad
 
 Pero hay una diferencia fundamental entre llorar y hacer aritmética. Este artículo es la aritmética.
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 ## II. Time to Market
 

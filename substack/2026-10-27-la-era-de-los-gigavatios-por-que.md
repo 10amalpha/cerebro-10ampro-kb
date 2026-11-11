@@ -4,7 +4,7 @@ subtitle: "Por qué los megas ya no alcanzan. La conversación sobre la energía
 date: 2026-10-27
 url: https://www.10am.pro/p/la-era-de-los-gigavatios-por-que
 source: substack
-paywalled: false
+paywalled: true
 ---
 # La era de los ⚡️ Gigavatios: Por qué los megas ya no alcanzan. E230
 

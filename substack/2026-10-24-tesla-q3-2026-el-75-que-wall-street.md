@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street
-
 # Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/924a782b-139e-46f6-8d90-1f078c79b5da_1643x957.png)](https://substackcdn.com/image/fetch/$s_!jeg3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F924a782b-139e-46f6-8d90-1f078c79b5da_1643x957.png)

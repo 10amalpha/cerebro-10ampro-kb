@@ -326,7 +326,6 @@ Bitcoin necesitará evolucionar su infraestructura criptográfica —probablemen
 9. [Tokens fiduciarios](https://www.youtube.com/watch?v=fRP0_f097tU&t=660s) - Solana el motor para tokenizar todo
 10. [BTC llegará $1M](https://www.youtube.com/watch?v=xtQY-1SJX4o) - Unidades de FIAT persiguiendo un refugio
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 ---
 

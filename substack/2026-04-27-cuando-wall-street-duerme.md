@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/cuando-wall-street-duerme
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/cuando-wall-street-duerme
-
 # De $21M a $3.7B en un Sábado 
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/8d7d158a-91db-4d31-b2c0-4972ac681a0a_1642x958.png)](https://substackcdn.com/image/fetch/$s_!8n6O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d7d158a-91db-4d31-b2c0-4972ac681a0a_1642x958.png)

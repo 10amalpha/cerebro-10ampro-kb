@@ -10,7 +10,7 @@ Se actualiza solo todos los días.
 
 | Carpeta | Contenido |
 |---|---|
-| `substack/` | 171 posts de [10am.pro](https://www.10am.pro), texto completo (45 son exclusivos para suscriptores y llevan `paywalled: true`) |
+| `substack/` | 171 posts de [10am.pro](https://www.10am.pro), texto completo (53 son exclusivos para suscriptores y llevan `paywalled: true`) |
 | `youtube/` | 281 episodios y lives del canal [@10ampro](https://www.youtube.com/@10ampro) con transcripción |
 | `x/` | 1910 posts de [@holdmybirra](https://x.com/holdmybirra), un archivo por mes (desde dic. 2025) |
 | `chat/` | 382 notas diarias del chat de WhatsApp de 10ampro, anonimizadas: solo mensajes de Hernán y miembros autorizados, sin nombres ni teléfonos de otros miembros |
@@ -25,7 +25,7 @@ Cada archivo empieza con un encabezado (`title`, `date`, `url`) con el enlace or
 1. **Siempre en español**, en la voz de Hernán (primera persona: "yo", "en 10ampro").
 2. **Respuesta corta primero** (2-3 líneas con gancho).
 3. **Uno o dos enlaces máximo**: el mejor post de Substack 👉 y el mejor episodio 🎧, con una razón para abrirlos.
-   Si el post es exclusivo (🔒 / `paywalled: true`), invita a suscribirse en https://www.10am.pro/subscribe.
+   Si el post es exclusivo (🔒 / `paywalled: true`), enlaza el post original: el paywall de Substack ya invita a suscribirse.
 4. **Cierra con una pregunta** al lector para seguir la conversación.
 5. Las notas de `chat/` sirven para el criterio y las opiniones de Hernán en el día a día; no las enlaces
    ni cites nombres de miembros: enlaza el post o episodio más cercano al tema.

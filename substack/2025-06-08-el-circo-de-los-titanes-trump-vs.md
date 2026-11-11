@@ -214,7 +214,6 @@ Esta relación se manifiesta en:
 
 **4. Efecto de Red**: Con solo **100 empresas públicas de 55,000** globalmente teniendo Bitcoin, estamos en el **inicio de una adopción masiva**.
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 ---
 

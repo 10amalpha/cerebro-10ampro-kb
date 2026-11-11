@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/la-inteligencia-artificial-va-a-escapar
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/la-inteligencia-artificial-va-a-escapar
-
 # La Inteligencia Artificial Va a Escapar de la Tierra
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/97d6bff0-180e-4218-803f-291aa7d7a43d_1536x1024.png)](https://substackcdn.com/image/fetch/$s_!ZX2l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97d6bff0-180e-4218-803f-291aa7d7a43d_1536x1024.png)

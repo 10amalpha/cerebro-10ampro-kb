@@ -4,7 +4,7 @@ subtitle: "Adrian Mastronardi, CTO de Habi. Una conversación sobre por qué tan
 date: 2026-11-10
 url: https://www.10am.pro/p/el-problema-de-las-empresas-no-es
 source: substack
-paywalled: false
+paywalled: true
 ---
 # El problema de las empresas no es tecnológico, es cultural. Adrian Mastronardi. E232
 

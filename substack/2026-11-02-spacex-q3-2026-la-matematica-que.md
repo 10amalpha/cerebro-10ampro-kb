@@ -4,7 +4,7 @@ subtitle: "Doscientos mil chips al mes, un terawatt de silicio al año y una com
 date: 2026-11-02
 url: https://www.10am.pro/p/spacex-q3-2026-la-matematica-que
 source: substack
-paywalled: false
+paywalled: true
 ---
 # SpaceX Q3 2026: La Matemática que Nadie Está Haciendo
 

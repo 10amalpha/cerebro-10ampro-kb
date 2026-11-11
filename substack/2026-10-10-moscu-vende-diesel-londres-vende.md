@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/moscu-vende-diesel-londres-vende
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/moscu-vende-diesel-londres-vende
-
 # Moscú Vende Diésel, Londres Vende Caos
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/a4d29f42-1936-48a6-880a-76684111552d_1643x957.png)](https://substackcdn.com/image/fetch/$s_!W-CF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4d29f42-1936-48a6-880a-76684111552d_1643x957.png)

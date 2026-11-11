@@ -34,7 +34,6 @@ Con todo, el abuelo Buffett sigue enseñando la virtud de la simplicidad: a sus 
 
 En síntesis, respetamos al oráculo, pero ya no vivimos en la era de los cupones y la contabilidad de seguros. Vivimos en la era donde el capital más escaso es la **atención exponencial**—y el primer lugar de la fila Cantillon ya está ocupado. 10AMPRO prefiere arriesgarse a la volatilidad inteligente antes que financiar la fiesta del Tesoro con nuestra propia erosión silenciosa.
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 ---
 

@@ -4,7 +4,7 @@ subtitle: "Una conversación sobre por qué Antioquia necesita dejar de pensar e
 date: 2026-11-04
 url: https://www.10am.pro/p/la-urgencia-de-pensar-en-macroproyectos
 source: substack
-paywalled: false
+paywalled: true
 ---
 # La urgencia de pensar en macroproyectos para Antioquia. Alejandro Arbeláez. E231
 

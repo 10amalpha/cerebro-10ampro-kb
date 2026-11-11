@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/biology-is-code
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/biology-is-code
-
 # Biology is Code
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/ef79a187-4d7b-4eae-b6e8-b7aaf6489cb7_1536x1024.png)](https://substackcdn.com/image/fetch/$s_!wh2W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef79a187-4d7b-4eae-b6e8-b7aaf6489cb7_1536x1024.png)

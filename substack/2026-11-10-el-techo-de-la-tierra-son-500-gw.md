@@ -4,7 +4,7 @@ subtitle: "Un terawatt de AI al año exige duplicar la red eléctrica de Estados
 date: 2026-11-10
 url: https://www.10am.pro/p/el-techo-de-la-tierra-son-500-gw
 source: substack
-paywalled: false
+paywalled: true
 ---
 # El Techo de la Tierra Son 500 GW 
 

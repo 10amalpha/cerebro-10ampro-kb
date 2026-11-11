@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/el-primer-cliente-que-no-respira
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/el-primer-cliente-que-no-respira
-
 # El Primer Cliente Que No Respira (2nda parte)
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/737cb0e2-a459-48de-ab4b-a557b8f8bb60_1642x958.png)](https://substackcdn.com/image/fetch/$s_!kOyp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F737cb0e2-a459-48de-ab4b-a557b8f8bb60_1642x958.png)

@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/el-dia-que-entendi-por-que-compre
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/el-dia-que-entendi-por-que-compre
-
 # Velocidad de Ontología
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/0f293225-cbee-40e5-ba93-a38a6a944975_1642x958.png)](https://substackcdn.com/image/fetch/$s_!IBf0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f293225-cbee-40e5-ba93-a38a6a944975_1642x958.png)

@@ -104,7 +104,6 @@ Esta convergencia también está generando una migración de capital silenciosa:
 
 **Posibles conclusiones:** En 10AMPRO, pensamos que Bitcoin tiene mecanismos inherentes para adaptarse a los cambios, y su naturaleza antifrágil le permitirá encontrar equilibrios entre la adopción como store of value y la necesidad de mantener una red segura. Sin embargo, es un tema que requiere seguimiento, especialmente a medida que nos acercamos al agotamiento de las recompensas por bloque en las próximas décadas.
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 ## **📎** Dieta de Información
 

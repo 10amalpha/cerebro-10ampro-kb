@@ -87,7 +87,6 @@ Eso, por supuesto, amenaza el modelo convencional. Los Estados tradicionales tie
 
 Acá aparece la idea de soberanía como producto. Y como todo producto, puede fallar, escalar, pivotear o morir. Un Network State mal diseñado colapsará. Uno bien diseñado crecerá de 1.000 a 1 millón de miembros, y eventualmente adquirirá poder territorial, económico y diplomático. Pero incluso si muere, su código sobrevive. Se puede bifurcar. Se puede recombinar. Es la evolución darwiniana aplicada a estructuras políticas.
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 Desde la visión de 10ampro, esto reconfigura completamente cómo se entiende el riesgo político. Ya no es “¿qué pasa si gana X partido?”, sino “¿qué estructura tiene menor fricción para la coordinación futura?”. Las inversiones no se hacen solo en activos, sino en arquitecturas. ¿Invertís en un país que imprime sin freno? ¿O en un protocolo que emite según reglas fijas y consenso abierto? ¿Te casás con un sistema judicial opaco? ¿O preferís un sistema donde las reglas no las impone un burócrata, sino un contrato con reputación colateralizada?
 

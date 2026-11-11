@@ -16,7 +16,6 @@ Esta semana en el chat de 10AMPRO, nos sumergimos en discusiones profundas que a
 
 "Están perdiendo una de las estrategias políticas más únicas de la historia, una combinación de ejecutar una guerra fría y negociar un Bretton Woods 2.0."
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 ## **🧠 5 Ideas Más Interesantes**
 

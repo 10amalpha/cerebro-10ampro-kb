@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/buena-vista-social-club-ai-y-mis
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/buena-vista-social-club-ai-y-mis
-
 # Buena Vista Social Club, AI y Mis Amigos de Mas de 50
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/8f669637-22fe-4420-b02c-1c138584233a_1536x1024.png)](https://substackcdn.com/image/fetch/$s_!HPka!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f669637-22fe-4420-b02c-1c138584233a_1536x1024.png)

@@ -150,7 +150,6 @@ Pero más allá de los números, hay una verdad más profunda. Robinhood ha capt
 
 La transferencia generacional de riqueza que está comenzando redefinirá el panorama financiero global. Los ganadores serán aquellas plataformas que entiendan y sirvan las necesidades de las generaciones más jóvenes. Los perdedores serán las instituciones que se aferren a modelos obsoletos y interfaces arcaicas.
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 Robinhood se ha posicionado brillantemente para ser el principal beneficiario de esta transferencia. Pero su impacto irá más allá de capturar activos. Está redefiniendo las expectativas de lo que debe ser una plataforma financiera: simple, accesible, transparente, y alineada con los intereses de sus usuarios.
 

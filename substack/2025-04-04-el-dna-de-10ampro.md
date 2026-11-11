@@ -10,7 +10,6 @@ paywalled: false
 
 [![](https://substackcdn.com/image/fetch/$s_!i5Wv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c6b1678-c9cc-4b7b-b12c-5e7e72a1871c_960x960.jpeg)](http://10am.pro)
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 ## 1. Never rent out conviction / Nunca alquiles tu convicción
 

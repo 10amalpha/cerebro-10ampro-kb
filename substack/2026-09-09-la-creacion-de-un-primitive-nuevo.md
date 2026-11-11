@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
-
 #  La Creación de un Primitive Nuevo.
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/fcb45402-b003-4d27-88b2-8e62b041a5eb_1643x957.png)](https://substackcdn.com/image/fetch/$s_!rAPC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcb45402-b003-4d27-88b2-8e62b041a5eb_1643x957.png)

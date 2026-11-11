@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/lo-unico-que-necesitamos-es-que-el
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/lo-unico-que-necesitamos-es-que-el
-
 # Lo único que necesitamos es que el Estado colombiano quite el pie del freno. El sector privado como motor de abundancia: lo que Colombia puede hacer sin esperar al Estado
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/1d2253c3-73f2-4f24-8f6e-6368bef88171_2816x1536.jpeg)](https://substackcdn.com/image/fetch/$s_!8P58!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d2253c3-73f2-4f24-8f6e-6368bef88171_2816x1536.jpeg)

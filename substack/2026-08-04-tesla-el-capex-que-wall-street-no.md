@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
-
 # Tesla: El Capex que Wall Street No Sabe Leer
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/2e6a923b-b623-416c-ad30-c14d879d417e_1600x933.jpeg)](https://substackcdn.com/image/fetch/$s_!j_ws!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e6a923b-b623-416c-ad30-c14d879d417e_1600x933.jpeg)

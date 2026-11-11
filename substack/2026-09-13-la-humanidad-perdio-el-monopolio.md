@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/la-humanidad-perdio-el-monopolio
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/la-humanidad-perdio-el-monopolio
-
 # Diez Mil Agentes Resuelven un Problema de 200 Años
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/201824c3-7ee2-4b71-a991-af3ea7a4d16c_1643x957.png)](https://substackcdn.com/image/fetch/$s_!tS70!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F201824c3-7ee2-4b71-a991-af3ea7a4d16c_1643x957.png)

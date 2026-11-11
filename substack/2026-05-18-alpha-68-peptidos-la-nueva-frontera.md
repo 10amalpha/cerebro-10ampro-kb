@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/alpha-68-peptidos-la-nueva-frontera
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/alpha-68-peptidos-la-nueva-frontera
-
 # Alpha 68: Péptidos: la nueva frontera entre longevidad, humo y medicina personalizada
 
 Aquí las notas de este AMA.

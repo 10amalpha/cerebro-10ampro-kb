@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
-
 # Solana ya tiene el 97% del mercado mundial de acciones tokenizadas. 
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/dfb27145-fd4b-40bc-a88e-d28c04f40ef3_1649x954.png)](https://substackcdn.com/image/fetch/$s_!I7L_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb27145-fd4b-40bc-a88e-d28c04f40ef3_1649x954.png)

@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
-
 # SpaceX Encontró un Negocio Más Grande que los Cohetes
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/6f2a4836-0b47-490c-a261-1a6673f83d03_1600x933.jpeg)](https://substackcdn.com/image/fetch/$s_!aR8F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f2a4836-0b47-490c-a261-1a6673f83d03_1600x933.jpeg)

@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/alpha63-como-arias-usa-ai-sin-saber
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/alpha63-como-arias-usa-ai-sin-saber
-
 # ALPHA63: Cómo Arias Usa AI Sin Saber Programar
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/952ea1fd-8ff4-4512-ae09-cf1263647686_1862x960.png)](https://substackcdn.com/image/fetch/$s_!gw6o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F952ea1fd-8ff4-4512-ae09-cf1263647686_1862x960.png)

@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/elon-musk-vs-tony-stark-cuando-la
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/elon-musk-vs-tony-stark-cuando-la
-
 # Elon Musk vs Tony Stark: Cuando la Realidad Supera la Ciencia Ficción 
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/12a780d9-4be4-4648-8534-f57647d45e0c_1642x958.png)](https://substackcdn.com/image/fetch/$s_!tMHl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12a780d9-4be4-4648-8534-f57647d45e0c_1642x958.png)

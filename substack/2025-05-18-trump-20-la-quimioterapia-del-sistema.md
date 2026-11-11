@@ -110,7 +110,6 @@ La conversación giró alrededor de cómo estructurar portafolios que no busquen
 
 Incluso las opciones volvieron a escena. No para hacer trading semanal, sino como mecanismo para captar deltas asimétricas con riesgo limitado. El dilema ya no es volatilidad sí o no, sino volatilidad con sentido vs. entropía sin upside.
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 Esta visión redefine la psicología del inversor. Obliga a desintoxicarse de la necesidad de validación inmediata y a construir convicción en base a fundamentos, no a precio. Como se dijo al cierre: “Nunca alquiles tu convicción; cómprala con sangre, datos y tiempo.”
 

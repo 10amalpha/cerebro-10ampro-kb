@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
-
 # El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/74218ae6-c577-492a-91fb-3c7939d6b2c3_1536x1024.png)](https://substackcdn.com/image/fetch/$s_!simm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74218ae6-c577-492a-91fb-3c7939d6b2c3_1536x1024.png)

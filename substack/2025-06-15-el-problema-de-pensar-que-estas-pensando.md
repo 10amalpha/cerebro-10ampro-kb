@@ -249,7 +249,6 @@ En Colombia, la burocracia es un impuesto invisible que asfixia la innovación y
 
 El impacto es brutal. Crear una Sociedad por Acciones Simplificada (SAS) implica sortear un laberinto de cámaras de comercio, registros en el RUT y trámites que un modelo de lenguaje podría resolver en minutos. En Delaware, una LLC se constituye en línea en menos de un día, sin notarías ni requisitos arcaicos. Esta brecha empuja a emprendedores e inversores a jurisdicciones más ágiles, drenando talento y capital. La burocracia no solo encarece la operación; desincentiva la creación de valor, perpetuando un ciclo de estancamiento que beneficia al statu quo.
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 Peor aún, las fricciones son sistémicas. Bancos exigen documentos físicos en un mundo digital, notarías piden autenticaciones innecesarias, y regulaciones como el impuesto al patrimonio o cargas laborales desproporcionadas ahuyentan la inversión. En un entorno global donde la velocidad es el diferenciador, Colombia se rezaga, atrapada en un marco regulatorio que castiga la asimetría. Mientras el país podría liderar en innovación, su burocracia actúa como un ancla, sofocando el potencial de quienes buscan el próximo gran trade.
 

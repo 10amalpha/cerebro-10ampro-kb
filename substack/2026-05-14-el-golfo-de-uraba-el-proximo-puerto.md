@@ -26,7 +26,6 @@ Lo que parecía una interacción cordial entre paisas con buen inglés y un empr
 
 Este artículo es la carta que quisiera que llegara a la mesa de Musk antes de que tomen la decisión. Y la hoja de ruta que quisiera que el gobernador Rendón pusiera sobre su escritorio mañana lunes a las siete de la mañana.
 
-[Subscribe now](https://www.10am.pro/subscribe?)
 
 ### II. La Latitud
 

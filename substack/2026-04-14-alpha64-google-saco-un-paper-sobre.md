@@ -5,9 +5,6 @@ url: https://www.10am.pro/p/alpha64-google-saco-un-paper-sobre
 source: substack
 paywalled: true
 ---
-> Post exclusivo para suscriptores de 10ampro — suscríbete en https://www.10am.pro/subscribe
-> Post original: https://www.10am.pro/p/alpha64-google-saco-un-paper-sobre
-
 # ALPHA64: Google sacó un paper sobre Quantum Computing — qué tengo que hacer con mi BTC
 
 Aqui pueden verificar el nivel de riesgo al que estan expuestos:
