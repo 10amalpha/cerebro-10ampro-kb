@@ -120,6 +120,8 @@ I expect the story is closer to this:
 **Gordo Barato:** https://x.com/stocksavvyshay/status/2116908125177676156
 Adicionemos un poquito de gigas …
 
+**Ricardo Sierra:** Bien por @[miembro]https://x.com/alvarouribevel/status/2116870206425338141
+
 **Hernán:** Me tiene muy cabezon este tema… muy inteligencia o money
 
 **Hernán:** https://youtu.be/n9jBeN9SaOA

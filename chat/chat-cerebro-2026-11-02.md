@@ -130,6 +130,11 @@ Además tengo un problema de taxes berraquísimo si no hago tax harvesting y rea
 
 Sin embargo creo que la jugada de SpaceX, a pesar de estar en un buen precio, tampoco se va a disparar muy pronto. Con esto quiero decir que todavía hay tiempo para entrarle y que va a dar papaya más adelante, así sea un poco más arriba. De pronto la jugada, yo la había pensado también, es con lips. ¿Cómo pinta el mercado hoy?
 
+**Fede Suarez:** Aca hablan de como estas cias (SpaceX, Anthropic, Google, Open AI) van a empezar a crowd-out el gobierno dado el nivel de deuda que van a tener que contraer para financiar el capex.
+https://www.youtube.com/watch?v=p1Dy4e4ff0s
+
+**Fede Suarez:** Esto creo que refuerza la tesis del porque USA va a empujar stablecoins hasta mas no poder porque les permite financiarse en la parte corta, muy barato, super atomizado y de forma global sin crowd out los actores de la parte media de la curva de Treasuries
+
 **Hernán:** Los numeros de spacex son como de mongolico con redbull y viagra…muy absurdos y yo ante la ingenieria y ejecución qdo seducido
 
 **Andrés Felipe Arias:** call leaps

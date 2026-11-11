@@ -57,6 +57,8 @@ Ahora que nos sirve el ingreso de TV 5X … viene lo bueno en lo deportivo si la
 
 **Andrés Felipe Arias:** Lo bueno es que en USA no hay monarcas, entonces no es tan fácil llegar a arrasar, ni de un lado ni del otro. Esperemos que eso no retroceda
 
+**Ricardo Sierra:** Buenas razones y buen análisis. Recomendado. https://x.com/martinvars/status/2117865421051502930
+
 **Hernán:** odontologia... https://www.youtube.com/watch?v=Ybja3TsU8MM
 
 **Hernán:** el q entiende esta mental model no vuelve a dudar de hims https://www.youtube.com/watch?v=1izhKc2S0xc&t=13s
@@ -109,6 +111,13 @@ Ala shit
 **Andrés Felipe Arias:** Es como si el mercado estuviera leyendo que la IA quedó cascada y que HIMS y DUOL no se potencian con IA
 
 **Andrés Felipe Arias:** Es que lo mismo está pasando con LMND, OSCR, ZETA
+
+**Fede Suarez:** Instinct le acaba de recuperar 3000  pavos en tickets/hotels cancelados
+Esto va a cambiar rev stream de muchas empresas y va a generar provisiones
+Sobre todo bancos suscripciones laterales fees cancelaciones bookings
+Your in efficiency my opportunity
+
+**Fede Suarez:** Y solo con un cortó mensaje: tengo este problema arrrr
 
 **Gordo Barato:** https://x.com/10ampro/status/2118003689260744801
 

@@ -90,7 +90,29 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 
 **Hernán:** Q el esfuerzo y la buena voluntad de todos tenga max traccion
 
+**Ricardo Sierra:** Hola.
+
+Queremos compartirles un gran hito en el proceso de restablecimiento del sistema eléctrico del Valle del Cauca (ex Cali y Yumbo). Todas los cascos urbanos ya tienen energía desde las 10 pm anoche, al momento solo 30.000 clientes están sin energía de más de 800.000 que atendemos. Es importante aclarar que estamos lejos de “normalidad”, los sistemas rurales siguen en la prioridad y allí los daños se ven más complejos de reparar, y en los cascos urbanos tenemos mucha debilidad e intermitencia debido a que la red sufrió mucho. Seguiremos con todo el empuje y compromiso en recuperar y dar estabilidad a todos nuestros clientes. Agradecemos la paciencia y comprensión y al equipo de operaciones de Celsia y a todos sus contratistas un agradecimiento por estas jornadas extensas para ayudar a tantos afectados por el terremoto.
+
+Seguiremos en la tarea, acompañando este Valle del Cauca que es parte del corazón Celsiano.
+
+Adjunto comunicado con detalles.
+
+**Ricardo Sierra:** Reporte8_Sismo_Colombia_afectaciónservicioValle.pdf
+
 **Hernán:** Que bien Ricardo
+
+**Ricardo Sierra:** La tragedia humanitaria es de una escala muy grande.
+
+La primera línea de rescate de víctimas termina en un par de días, sigue evaluación de daños y damnificados, que empieza por habitabilidad de las viviendas y aquí vamos a ver mucha gente que literalmente queda en la calle. Vemos que las redes familiares y de amigos se han desplegado con mucha solidaridad pero al final se va a necesitar recursos para reconstruir, rehabilitar, demoler y construir. Aquí deberían llegar paquetes gubernamentales y de ayudas en financiamiento, esto vale muchísimo dinero.
+
+Es muy impresionante ver que muchas personas carecen de seguros que hubiese podido aliviar la crisis.
+
+Hay infraestructura pública derruida, escuelas, centros de salud, etc. Aquí también recursos públicos deben llegar.
+
+Estamos planteando: “Reconstrucción por Impuestos”, una forma de Obras por Impuestos. Esto permitirá un despliegue del sector privado en la ejecución, creo que sería muy saludable.
+
+Para darles una idea, creemos que cerca de 15.000 a 20.000 viviendas de nuestros clientes han quedado afectadas en forma media o total.
 
 **Hernán:** Buena idea
 

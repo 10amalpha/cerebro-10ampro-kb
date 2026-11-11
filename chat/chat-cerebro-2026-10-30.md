@@ -14,6 +14,10 @@ Si hay alguna novedad estaremos informando 😡😡😡
 
 **Gordo Barato:** https://x.com/binance/status/2115960292115124558
 
+**Ricardo Sierra:** https://x.com/agusantonetti/status/2115927622068920489
+
+**Ricardo Sierra:** Impresionante
+
 **Dario Palacio:** Hasta mañana 😴 https://x.com/minesum10/status/2115936649217474938
 
 **Gordo Barato:** https://x.com/watcherguru/status/2116035434681634857

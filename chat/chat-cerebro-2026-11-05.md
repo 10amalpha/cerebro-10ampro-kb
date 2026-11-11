@@ -44,6 +44,8 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 
 **Hernán:** 🔥🔥🔥 buy $NAUT 🔥🔥🔥
 
+**Fede Suarez:** Volviendo a Substack:  https://fsuarezr.substack.com/p/udaf-one-year-on-why-agentic-ai-needs
+
 **Gordo Barato:** https://x.com/foxnews/status/2118320382818095560
 The caos
 
@@ -77,13 +79,27 @@ The caos
 
 **Gordo Barato:** Jajaja
 
+**Fede Suarez:** Medellin solo tiene que hacer una cosita para que los pagos digitales se vuelvan la norma y no la excepcion. Cambiar esa pecueca de tarjeta Amiga y volver el Metro y Bus, tap to pay.
+En 2 min toda la poblacion se volvio digital y no hay vuelta atras.
+
+En Bogota ya muchos taxis tienen mini-datafono bold o pago QR
+
+El de la tienda es monopolio y hace lo que se le de la gana para no pagar impuestos 🤣
+
 **Dario Palacio:** asi es
+
+**Fede Suarez:** yo quiero ser el de la tienda 🤣🤣🤣
 
 **Hernán:** So totearon varios fondos
 
 **Hernán:** Fijo citadel los recoje
 
 **Hernán:** I need cash to buy…
+
+**Fede Suarez:** Es una vergüenza
+Y sino tiene uno teléfono local paila
+
+**Fede Suarez:** Quienes doc?
 
 **Hernán:** https://x.com/mitchellvii/status/2118388337102729425
 
@@ -96,3 +112,5 @@ The caos
 **Andrés Felipe Arias:** https://x.com/kobeissiletter/status/2118417312524955835
 
 **Gordo Barato:** https://x.com/stocksavvyshay/status/2118451255127470222
+
+**Fede Suarez:** Flying taxis, sera que tenemos lo mismo para subir de medellin al Josema?:  https://fdot.gov/info/co/news/2026/11042026/

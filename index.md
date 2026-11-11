@@ -64,7 +64,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
 - 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
 
-### TSLA (199)
+### TSLA (200)
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 - 2025-07-06 · Tesla Será la Compañía mas Valiosa del Mundo · `substack/2025-07-06-tesla-sera-la-compania-mas-valiosa.md` · https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa
 - 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
@@ -320,7 +320,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-11-10 · El Techo de la Tierra Son 500 GW  🔒 · `substack/2026-11-10-el-techo-de-la-tierra-son-500-gw.md` · https://www.10am.pro/p/el-techo-de-la-tierra-son-500-gw
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 
-### SpaceX (71)
+### SpaceX (72)
 - 2025-11-08 · SpaceX: La Compañía más Importante de la Tierra · `substack/2025-11-08-spacex-el-elevador-que-redefine-el.md` · https://www.10am.pro/p/spacex-el-elevador-que-redefine-el
 - 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
 - 2026-05-14 · El Golfo de Urabá: ¿el próximo puerto espacial de SpaceX? · `substack/2026-05-14-el-golfo-de-uraba-el-proximo-puerto.md` · https://www.10am.pro/p/el-golfo-de-uraba-el-proximo-puerto
@@ -335,10 +335,10 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-11-02 · SpaceX Q3 2026: La Matemática que Nadie Está Haciendo 🔒 · `substack/2026-11-02-spacex-q3-2026-la-matematica-que.md` · https://www.10am.pro/p/spacex-q3-2026-la-matematica-que
 - 2026-04-01 · Terafab: El Proyecto Más Ambicioso en la Historia de la Humanidad 🔒 · `substack/2026-04-01-terafab-el-proyecto-mas-ambicioso.md` · https://www.10am.pro/p/terafab-el-proyecto-mas-ambicioso
 - 2026-08-18 · Tesla: El capex que Wall Street no sabe leer · `youtube/2026-08-18-hP_b4YLchkU.md` · https://www.youtube.com/watch?v=hP_b4YLchkU
+- 2026-11-02 · Chat 10ampro (cerebro) — 2026-11-02 · `chat/chat-cerebro-2026-11-02.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
 - 2026-11-10 · El Techo de la Tierra Son 500 GW  🔒 · `substack/2026-11-10-el-techo-de-la-tierra-son-500-gw.md` · https://www.10am.pro/p/el-techo-de-la-tierra-son-500-gw
 - 2026-08-18 · Tesla: El capex que Wall Street no sabe leer 📱 · `youtube/2026-08-18-LNw2CvQ4Jmk.md` · https://www.youtube.com/watch?v=LNw2CvQ4Jmk
-- 2026-11-02 · Chat 10ampro (cerebro) — 2026-11-02 · `chat/chat-cerebro-2026-11-02.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
 - 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo 🔒 · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street
 - 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
@@ -374,7 +374,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-02-22 · Chat 10ampro (cerebro) — 2024-02-22 · `chat/chat-cerebro-2024-02-22.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2024-02-24 · Chat 10ampro (cerebro) — 2024-02-24 · `chat/chat-cerebro-2024-02-24.md` · (chat privado, sin URL: cita Substack/YouTube)
 
-### macro (220)
+### macro (221)
 - 2025-09-28 · El Arquitecto Silencioso del Dólar · `substack/2025-09-28-el-arquitecto-silencioso-del-dolar.md` · https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar
 - 2025-12-27 · El Hombre que Está Reprogramando la Economía de Estados Unidos · `substack/2025-12-27-el-hombre-que-esta-reprogramando.md` · https://www.10am.pro/p/el-hombre-que-esta-reprogramando
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
@@ -558,7 +558,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. 📱 · `youtube/2026-10-09-oZEJJOvUKBs.md` · https://www.youtube.com/watch?v=oZEJJOvUKBs
 - 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
 
-### colombia (300)
+### colombia (301)
 - 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
 - 2025-08-28 · E168: La urgencia de la Colombia ganadora. Sebastián Salazar. Estrategia Emergente · `youtube/2025-08-28-FykuBZB69KU.md` · https://www.youtube.com/watch?v=FykuBZB69KU
@@ -663,7 +663,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-04-09 · Chat 10ampro (cerebro) — 2024-04-09 · `chat/chat-cerebro-2024-04-09.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
 
-### energia (203)
+### energia (204)
 - 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
 - 2026-11-05 · La era de los ⚡️ Gigavatios: Por qué los megas ya no alcanzan. E230 · `youtube/2026-11-05-SyDYxjhPH2M.md` · https://www.youtube.com/watch?v=SyDYxjhPH2M
 - 2025-06-19 · E158: Los países ricos ya eligieron: ⚛️ Energía Nuclear . Lisandro Pérez 🇦🇷 · `youtube/2025-06-19-wXSM3Qb3eC4.md` · https://www.youtube.com/watch?v=wXSM3Qb3eC4
@@ -1193,15 +1193,15 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 ## Chat WhatsApp 10ampro (notas diarias)
 
 - 2026-11-11 · Chat 10ampro (cerebro) — 2026-11-11 · `chat/chat-cerebro-2026-11-11.md` · (chat privado, sin URL: cita Substack/YouTube)
-- 2026-11-10 · Chat 10ampro (cerebro) — 2026-11-10 · `chat/chat-cerebro-2026-11-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HIMS, IA, HOOD
+- 2026-11-10 · Chat 10ampro (cerebro) — 2026-11-10 · `chat/chat-cerebro-2026-11-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: IA, HIMS, HOOD
 - 2026-11-09 · Chat 10ampro (cerebro) — 2026-11-09 · `chat/chat-cerebro-2026-11-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NVDA, geopolitica
 - 2026-11-08 · Chat 10ampro (cerebro) — 2026-11-08 · `chat/chat-cerebro-2026-11-08.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-11-07 · Chat 10ampro (cerebro) — 2026-11-07 · `chat/chat-cerebro-2026-11-07.md` · (chat privado, sin URL: cita Substack/YouTube)
-- 2026-11-06 · Chat 10ampro (cerebro) — 2026-11-06 · `chat/chat-cerebro-2026-11-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HIMS
-- 2026-11-05 · Chat 10ampro (cerebro) — 2026-11-05 · `chat/chat-cerebro-2026-11-05.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-11-06 · Chat 10ampro (cerebro) — 2026-11-06 · `chat/chat-cerebro-2026-11-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HIMS, TSLA
+- 2026-11-05 · Chat 10ampro (cerebro) — 2026-11-05 · `chat/chat-cerebro-2026-11-05.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: colombia
 - 2026-11-04 · Chat 10ampro (cerebro) — 2026-11-04 · `chat/chat-cerebro-2026-11-04.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: IA, HIMS
 - 2026-11-03 · Chat 10ampro (cerebro) — 2026-11-03 · `chat/chat-cerebro-2026-11-03.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, IA, geopolitica, HOOD
-- 2026-11-02 · Chat 10ampro (cerebro) — 2026-11-02 · `chat/chat-cerebro-2026-11-02.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SpaceX, PLTR, IA, geopolitica
+- 2026-11-02 · Chat 10ampro (cerebro) — 2026-11-02 · `chat/chat-cerebro-2026-11-02.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SpaceX, IA, PLTR, macro, geopolitica
 - 2026-11-01 · Chat 10ampro (cerebro) — 2026-11-01 · `chat/chat-cerebro-2026-11-01.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
 - 2026-10-31 · Chat 10ampro (cerebro) — 2026-10-31 · `chat/chat-cerebro-2026-10-31.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SpaceX, IA
 - 2026-10-30 · Chat 10ampro (cerebro) — 2026-10-30 · `chat/chat-cerebro-2026-10-30.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, colombia
@@ -1218,13 +1218,13 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-08-27 · Chat 10ampro (cerebro) — 2026-08-27 · `chat/chat-cerebro-2026-08-27.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-08-24 · Chat 10ampro (cerebro) — 2026-08-24 · `chat/chat-cerebro-2026-08-24.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-08-20 · Chat 10ampro (cerebro) — 2026-08-20 · `chat/chat-cerebro-2026-08-20.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: macro, Bessent, BTC, stablecoins, TSLA, geopolitica
-- 2026-08-19 · Chat 10ampro (cerebro) — 2026-08-19 · `chat/chat-cerebro-2026-08-19.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, ETH, PLTR, TSLA
+- 2026-08-19 · Chat 10ampro (cerebro) — 2026-08-19 · `chat/chat-cerebro-2026-08-19.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, ETH, PLTR, TSLA, SpaceX
 - 2026-08-18 · Chat 10ampro (cerebro) — 2026-08-18 · `chat/chat-cerebro-2026-08-18.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-08-17 · Chat 10ampro (cerebro) — 2026-08-17 · `chat/chat-cerebro-2026-08-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HIMS, PLTR, BTC
 - 2026-08-16 · Chat 10ampro (cerebro) — 2026-08-16 · `chat/chat-cerebro-2026-08-16.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, colombia
 - 2026-08-15 · Chat 10ampro (cerebro) — 2026-08-15 · `chat/chat-cerebro-2026-08-15.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, macro, SpaceX
 - 2026-08-14 · Chat 10ampro (cerebro) — 2026-08-14 · `chat/chat-cerebro-2026-08-14.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HIMS, SpaceX
-- 2026-08-13 · Chat 10ampro (cerebro) — 2026-08-13 · `chat/chat-cerebro-2026-08-13.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-08-13 · Chat 10ampro (cerebro) — 2026-08-13 · `chat/chat-cerebro-2026-08-13.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: energia
 - 2026-08-07 · Chat 10ampro (cerebro) — 2026-08-07 · `chat/chat-cerebro-2026-08-07.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-08-04 · Chat 10ampro (cerebro) — 2026-08-04 · `chat/chat-cerebro-2026-08-04.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-08-03 · Chat 10ampro (cerebro) — 2026-08-03 · `chat/chat-cerebro-2026-08-03.md` · (chat privado, sin URL: cita Substack/YouTube)

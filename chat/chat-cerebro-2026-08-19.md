@@ -6,6 +6,8 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 ---
 # Chat 10ampro 
 
+**Ricardo Sierra:** Hay gente pagando más por volar en aerolíneas con Starlink. Eso sí es tomarse un mercado por asalto. 🚀
+
 **Hernán:** Las acciones de usa le falta mucho inflow… cuanta gente con ganas de comprar tesla, pltr, spacex, hims si tener q dar vueltas por brokers lentos… https://x.com/vladtenev/status/2089813816611922368
 
 **Gordo Barato:** https://x.com/leoxbtt/status/2089394198503985202

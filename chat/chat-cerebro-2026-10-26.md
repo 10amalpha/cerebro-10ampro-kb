@@ -8,6 +8,8 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 
 **Lucas Jaramillo:** https://x.com/elonmusk/status/2114434646914068862
 
+**Ricardo Sierra:** Ufff.
+
 **Gordo Barato:** Se metió Lula
 
 **Lucas Jaramillo:** llorelo.  que cagada.
@@ -104,6 +106,18 @@ Obviously there’s risk if the demand for compute subsides in the short-term, b
 
 **Gordo Barato:** https://x.com/10ampro/status/2114740473717760471
 
+**Fede Suarez:** Buy
+30% ROE
+Cot-to-income debajo de 30 (avg bancos arriba de 50)
+Cost-to-serve $1
+Creciendo doble digito
+Mx es una oportunidad enorme y USA tambien
+
+**Fede Suarez:** Aca hice un ejercicio de comparacion
+No es finanzas corporativas sino la palanca de crecimiento en usuarios y como el mcdo lo esta valorando
+
+**Fede Suarez:** https://www.linkedin.com/feed/update/urn:li:activity:7516483066626899968/
+
 **Camilo Botero:** Me fui como una gorda en tobogán con $NU
 
 **Camilo Botero:** y guardé un segundo envión en caso que afloje… si tienen dudas de esa empresa, oigan éste
@@ -136,7 +150,13 @@ In a race where the winner is whoever can build the most, Anthropic is about to 
 
 Éste es el bolsillo más especulativo, pero NU es una posición que puede ser más larga. Sólida esa empresa y mucho upside (USA + AI).
 
+**Fede Suarez:** este mas esta a la altura de cualquier founder global
+NU es un AI machine
+
 **Hernán:** DLMM
+
+**Fede Suarez:** aca porque esa cia es una serie de XXX
+https://lnkd.in/p/eMY_zZi4
 
 **Hernán:** nos vamos a ir choppy de aqui hasta midterms..
 
@@ -175,6 +195,11 @@ Para usarlo necesitas The X Subscription en Premium o superior (o un plan de Cur
 En corto: con Grok gratis puedes abrir el link, pero Cerebro solo te funciona de verdad si tienes un plan que incluya Grok Bot (o mientras dure la prueba).
 
 **Hernán:** Aclaracion sobre cerebro.10am.pro
+
+**Fede Suarez:** Distress data Centers
+
+
+https://x.com/alanchanguk/status/2114484319473582319
 
 **Gordo Barato:** https://x.com/10ampro/status/2114809398245867893
 

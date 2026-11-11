@@ -102,6 +102,8 @@ Viva la libertad carajo
 **Gordo Barato:** https://x.com/fedesturze/status/2117581085035151869
 Juepucha… claro q es posible
 
+**Ricardo Sierra:** Totalmente. 💯
+
 **Camilo Botero:** Estoy en SF viendo cosas locas. Les voy a ir soltando algunas que me parece que ameritan dedicarle tiempo.
 
 **Camilo Botero:** La primera:
@@ -124,11 +126,17 @@ Modelos de Anthropic > los de OpenAI y xAI porque están un poco más antropomor
 
 **Camilo Botero:** Scott Wu de Cognition
 
+**Fede Suarez:** como hiciste para cargar el ramo de flores y tomarle foto 🤣🤣🤣
+
 **Camilo Botero:** AGI = EBITDA button
 
 **Camilo Botero:** Estoy en las sillas baratas
 
 **Camilo Botero:** De milagro lo veo!
+
+**Fede Suarez:** No te vas a tomar el agua del florero porfavor
+
+**Fede Suarez:** el segundo es mas complejo porque ademas nadie comenzando por el board acepta que se nombre la palabra riesgo
 
 **Camilo Botero:** World model scaling laws are now proven. Hace 12 meses no tenían idea.
 

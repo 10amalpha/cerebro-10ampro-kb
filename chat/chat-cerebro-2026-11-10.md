@@ -100,7 +100,11 @@ Lo resumí de la transcripción de Motley Fool, que cubre los ~65 minutos, no de
 
 Me parece que todos los inversionistas de A16Z disfrazan la sobresimplificación de su estilo de inversión y la justificación del tamaño de sus fondos, haciéndose parecer intelectualmente sofisticados. Los fundadores de esa firma son admirables, pero los marcos mentales que Martín Casado muestra pretenden llevar al absurdo la racionalización y las tesis que nosotros hemos visto que funcionan para invertir un fondo de venture capital. Como ellos tienen que invertir $15 billion en cada ciclo, están en la obligación de apuntarle a absolutamente todo. Por eso, ese framework que él utiliza le cabe absolutamente todo, burlándose de los que hacemos matemáticas y hacemos análisis cuantitativos cuando estamos tomando decisiones de inversión.
 
+**Ricardo Sierra:** Y el libro es muy bueno. Se los recomiendo. https://bukz.co/products/maestros-involuntarios
+
 **Gordo Barato:** https://x.com/10ampro/status/2120160681966068132
+
+**Fede Suarez:** Sobre AI Agentes y lo que nos dicen los T&C (Grok, Muse, Instinct, ...):  https://fsuarezr.substack.com/p/udaf-meets-the-market-reading-muse
 
 **Hernán:** https://x.com/alc2022/status/2120165316307358134/video/1
 

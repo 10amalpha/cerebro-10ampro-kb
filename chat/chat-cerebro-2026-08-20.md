@@ -32,6 +32,10 @@ Wall St and the Fed  are full of people who can talk about markets. Bessent is o
 
 **Hernán:** https://x.com/zerogrand000/status/2090221998509035527
 
+**Ricardo Sierra:** They are coming!!! https://x.com/rewkang/status/2090062397063254133
+
+**Ricardo Sierra:** Space X new competitors https://x.com/chinascience/status/2089872122940477696
+
 **Lucas Jaramillo:** https://x.com/kobeissiletter/status/2090197114387382477
 
 **Lucas Jaramillo:** 3X en cuantas horas

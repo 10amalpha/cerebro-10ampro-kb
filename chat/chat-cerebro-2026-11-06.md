@@ -78,6 +78,8 @@ OPTION: Sigo en Colpensiones (1 vote)
 
 **Gordo Barato:** https://x.com/alc2022/status/2118663602441744400
 
+**Ricardo Sierra:** Pregunta: ante una potencial fusión de SPACEX y TESLA, donde se debería posicionar uno para obtener mejor valor antes de la misma? O solo tenemos en cuenta las posiciones de valor de mercado.
+
 **Gordo Barato:** https://x.com/wolf_financial/status/2118673748203082079
 
 **Dario Palacio:** https://x.com/latamdata/status/2118500863711084574

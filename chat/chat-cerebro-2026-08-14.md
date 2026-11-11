@@ -34,6 +34,8 @@ Cualquier cosa que necesites, me cuentas.
 
 https://www.adoptaunhogar.com/
 
+**Ricardo Sierra:** Es muy buena. Apúntense
+
 **Hernán:** DLMMs
 
 **Camilo Botero:** A propósito, recomendado para entender el paso de modelo de lenguaje a modelos que entienden todas las ómicas:

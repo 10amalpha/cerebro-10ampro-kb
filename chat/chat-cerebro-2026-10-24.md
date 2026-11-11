@@ -46,6 +46,8 @@ Acabo de contratar a un consultor para que me organice todos los bots, me recomi
 
 **Andrés Felipe Arias:** siquieranohicimosnada.com
 
+**Fede Suarez:** Arias que buen muro
+
 **Dario Palacio:** https://x.com/franperez_fp/status/2113855768781111777
 
 **Andrés Felipe Arias:** Grc x compartir! Impresionante! Favor difundir! Bendecida, agradecida y empoderada

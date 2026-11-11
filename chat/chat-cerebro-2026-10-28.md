@@ -117,4 +117,6 @@ Philanthrop genio, playboy y billonario se la jugó
 - One-time losses on
 $SPCX securities reduced net income and EPS by -$6.7B and  -$.55 respectively.
 
+**Fede Suarez:** ads abajo pero cloud arriba
+
 **Andrés Felipe Arias:** y CAPEX más suave de lo esperado

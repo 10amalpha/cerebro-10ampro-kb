@@ -10,6 +10,8 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 
 **Dario Palacio:** La creatividad del estado https://x.com/unusual_whales/status/2116290132097769745
 
+**Ricardo Sierra:** Creativos si son.
+
 **Hernán:** Yo creo q se puede comprar SPCX ya
 
 **Hernán:** https://x.com/shaunmmaguire/status/2116260821080973679

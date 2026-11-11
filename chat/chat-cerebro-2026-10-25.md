@@ -103,3 +103,5 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 **Andrés Felipe Arias:** y esta new gen aprendiendo
 
 **Gordo Barato:** buona sera
+
+**Fede Suarez:** Pasenla buena y ojo con la sobredosis de Limonccello que la agriera es maluca
