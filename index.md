@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios de YouTube, 1900 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 171 posts de Substack (45 exclusivos para suscriptores), 281 episodios de YouTube, 1910 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -37,7 +37,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
 - 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
 
-### SOL (329)
+### SOL (330)
 - 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
 - 2024-02-16 · E81: Hackathon Solana Colombia. Episodio Medellín. Alex Ramírez. · `youtube/2024-02-16-5Hbv_Lwn8is.md` · https://www.youtube.com/watch?v=5Hbv_Lwn8is
 - 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
@@ -91,7 +91,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
 - 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
 
-### HOOD (74)
+### HOOD (75)
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
 - 2025-07-13 · El Puente de los $124 Trillones: Cómo Robinhood Se Convierte en Wall Street para Millennials, Gen Z y Gen X  · `substack/2025-07-13-el-puente-de-los-124-trillones-como.md` · https://www.10am.pro/p/el-puente-de-los-124-trillones-como
 - 2026-08-02 · Robinhood: El Puente Ya Tiene 13 Carriles · `substack/2026-08-02-robinhood-el-puente-ya-tiene-13-carriles.md` · https://www.10am.pro/p/robinhood-el-puente-ya-tiene-13-carriles
@@ -293,7 +293,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra
 - 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
 
-### NVDA (31)
+### NVDA (32)
 - 2025-11-06 · E178: La era de la abundancia. Gerardo Delgado / Nvidia · `youtube/2025-11-06-QgWVt-cLwHs.md` · https://www.youtube.com/watch?v=QgWVt-cLwHs
 - 2024-11-04 · Chat 10ampro (cerebro) — 2024-11-04 · `chat/chat-cerebro-2024-11-04.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2023-04-21 · E37: Nvidia, la compañía detrás de la inteligencia artificial de ChatGPT y los  efectos de Marvel. · `youtube/2023-04-21-017G3m4LECc.md` · https://www.youtube.com/watch?v=017G3m4LECc
@@ -317,10 +317,10 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-09-21 · AI mas Grande que La Revolución Industrial · `substack/2025-09-21-lo-que-se-viene-en-ai-es-mas-grande.md` · https://www.10am.pro/p/lo-que-se-viene-en-ai-es-mas-grande
 - 2026-04-01 · Terafab: El Proyecto Más Ambicioso en la Historia de la Humanidad 🔒 · `substack/2026-04-01-terafab-el-proyecto-mas-ambicioso.md` · https://www.10am.pro/p/terafab-el-proyecto-mas-ambicioso
 - 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
+- 2026-11-10 · El Techo de la Tierra Son 500 GW  · `substack/2026-11-10-el-techo-de-la-tierra-son-500-gw.md` · https://www.10am.pro/p/el-techo-de-la-tierra-son-500-gw
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
-- 2026-03-05 · E198: 2028 🤯  el año que todos quedaremos sin trabajo · `youtube/2026-03-05-5QWEatCbScI.md` · https://www.youtube.com/watch?v=5QWEatCbScI
 
-### SpaceX (70)
+### SpaceX (71)
 - 2025-11-08 · SpaceX: La Compañía más Importante de la Tierra · `substack/2025-11-08-spacex-el-elevador-que-redefine-el.md` · https://www.10am.pro/p/spacex-el-elevador-que-redefine-el
 - 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
 - 2026-05-14 · El Golfo de Urabá: ¿el próximo puerto espacial de SpaceX? · `substack/2026-05-14-el-golfo-de-uraba-el-proximo-puerto.md` · https://www.10am.pro/p/el-golfo-de-uraba-el-proximo-puerto
@@ -336,6 +336,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-04-01 · Terafab: El Proyecto Más Ambicioso en la Historia de la Humanidad 🔒 · `substack/2026-04-01-terafab-el-proyecto-mas-ambicioso.md` · https://www.10am.pro/p/terafab-el-proyecto-mas-ambicioso
 - 2026-08-18 · Tesla: El capex que Wall Street no sabe leer · `youtube/2026-08-18-hP_b4YLchkU.md` · https://www.youtube.com/watch?v=hP_b4YLchkU
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
+- 2026-11-10 · El Techo de la Tierra Son 500 GW  · `substack/2026-11-10-el-techo-de-la-tierra-son-500-gw.md` · https://www.10am.pro/p/el-techo-de-la-tierra-son-500-gw
 - 2026-08-18 · Tesla: El capex que Wall Street no sabe leer 📱 · `youtube/2026-08-18-LNw2CvQ4Jmk.md` · https://www.youtube.com/watch?v=LNw2CvQ4Jmk
 - 2026-11-02 · Chat 10ampro (cerebro) — 2026-11-02 · `chat/chat-cerebro-2026-11-02.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
@@ -345,7 +346,6 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
 - 2023-11-24 · E69: Medellín 10X. Cómo multiplicar por 10 el PIB de la ciudad de Medellín - Colombia 🇨🇴 en 5 años. · `youtube/2023-11-24-53WSW_h3eew.md` · https://www.youtube.com/watch?v=53WSW_h3eew
 - 2026-06-12 · ⚡ Episodio Especial 03: Colombia 🇨🇴 Elijamos el camino de la abundancia. José Manuel Restrepo. · `youtube/2026-06-12-xT_zbjfV5vc.md` · https://www.youtube.com/watch?v=xT_zbjfV5vc
-- 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
 
 ### DLMM (41)
 - 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
@@ -423,7 +423,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-08-26 · GDP 04: Bessent activa el Bullrun · `youtube/2026-08-26-yy3eEXTUy50.md` · https://www.youtube.com/watch?v=yy3eEXTUy50
 - 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra
 
-### geopolitica (205)
+### geopolitica (206)
 - 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
 - 2026-03-19 · E200: Irán 🇮🇷 , petróleo🛢️, dólar 💵 y drones. Hernán, Darío, Guillermo, Andrés Felipe y El Gordo. · `youtube/2026-03-19-QbS-TGwMuw0.md` · https://www.youtube.com/watch?v=QbS-TGwMuw0
 - 2026-04-16 · E204: 🇮🇷 Irán, Donald Trump y El Estrecho de Ormuz. · `youtube/2026-04-16-HhBfwrQyvwA.md` · https://www.youtube.com/watch?v=HhBfwrQyvwA
@@ -619,7 +619,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
 
-### portafolio (99)
+### portafolio (100)
 - 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
 - 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
 - 2025-01-30 · E136: Las predicciones de 10AMPRO para el 2025. Equipo 10AMPRO · `youtube/2025-01-30-4RfzDtrKKnI.md` · https://www.youtube.com/watch?v=4RfzDtrKKnI
@@ -719,6 +719,8 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## Substack (todos)
 
+- 2026-11-10 · El problema de las empresas no es tecnológico, es cultural. Adrian Mastronardi. E232 · `substack/2026-11-10-el-problema-de-las-empresas-no-es.md` · https://www.10am.pro/p/el-problema-de-las-empresas-no-es
+- 2026-11-10 · El Techo de la Tierra Son 500 GW  · `substack/2026-11-10-el-techo-de-la-tierra-son-500-gw.md` · https://www.10am.pro/p/el-techo-de-la-tierra-son-500-gw · temas: SpaceX, geopolitica, NVDA
 - 2026-11-06 · ⚡️ El Día D. Todos los invitados: ¿En qué estamos invirtiendo? · `substack/2026-11-06-el-dia-d-todos-los-invitados-en-que.md` · https://www.10am.pro/p/el-dia-d-todos-los-invitados-en-que
 - 2026-11-04 · ⚡️ El Día D. Andrés Felipe Arias: ¿Qué es la Ontología? · `substack/2026-11-04-el-dia-d-andres-felipe-arias-que.md` · https://www.10am.pro/p/el-dia-d-andres-felipe-arias-que
 - 2026-11-04 · La urgencia de pensar en macroproyectos para Antioquia. Alejandro Arbeláez. E231 · `substack/2026-11-04-la-urgencia-de-pensar-en-macroproyectos.md` · https://www.10am.pro/p/la-urgencia-de-pensar-en-macroproyectos
@@ -1175,7 +1177,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## X (archivos mensuales)
 
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: PLTR, colombia, IA, geopolitica, energia, TSLA
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: PLTR, colombia, IA, geopolitica, energia, SOL
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, IA, PLTR
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
