@@ -174,7 +174,7 @@ chat: "10ampro WhatsApp (anti déficit de atención)"
 
 **Hernán:** https://claude.ai/public/artifacts/dce090b1-c6b1-4810-ad6f-a4c6f67f088e
 
-**Hernán:** cuando vuelva a Linares
+**Hernán:** cuando vuelva a [persona]
 
 **Hernán:** le mostramos ese grafico para q ver como debate
 

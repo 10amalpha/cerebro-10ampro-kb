@@ -159,7 +159,7 @@ OPTION: Sacrificame a mi (3 votes)
 
 **Hernán:** Constipación? Para eso existe metamusil… ademas mental
 
-**Hernán:** Ah Linares… dejemoslo un rato para ver si cofradia Colombiana lenhace falta
+**Hernán:** Ah [persona]… dejemoslo un rato para ver si cofradia Colombiana lenhace falta
 
 **Hernán:** Ademas anda anti hedonista
 

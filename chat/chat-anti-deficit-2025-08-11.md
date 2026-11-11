@@ -23,7 +23,7 @@ chat: "10ampro WhatsApp (anti déficit de atención)"
 **Hernán:** Seria muy gracioso q este inmamable
 Nos diera el mas ROI
 
-**Hernán:** Me tiene pensando DUOL, con el engagement de Linares pero es q un wrapper con interfaz si es suficiente MOAT para un xAI, chatgpt, anthropic? Si soy capaz de responderme eso le entro
+**Hernán:** Me tiene pensando DUOL, con el engagement de [persona] pero es q un wrapper con interfaz si es suficiente MOAT para un xAI, chatgpt, anthropic? Si soy capaz de responderme eso le entro
 
 **Hernán:** Nunca olviden a los chihuahuas
 

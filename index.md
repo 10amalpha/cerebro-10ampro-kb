@@ -4,13 +4,13 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios de YouTube, 1900 posts de X en 12 archivos mensuales, 9 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 169 posts de Substack (45 exclusivos para suscriptores), 281 episodios de YouTube, 1900 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
 ## Por tema / ticker
 
-### BTC (166)
+### BTC (273)
 - 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
 - 2024-08-22 · E108: ¡Bitcoin, la vacuna contra el corralito! Equipo 10AMPRO · `youtube/2024-08-22-zCmyQyVPdqk.md` · https://www.youtube.com/watch?v=zCmyQyVPdqk
 - 2025-06-05 · E156: El último Bitcoin. Equipo 10AMPRO · `youtube/2025-06-05-7YN24s8Ipg0.md` · https://www.youtube.com/watch?v=7YN24s8Ipg0
@@ -37,7 +37,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
 - 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
 
-### SOL (172)
+### SOL (329)
 - 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
 - 2024-02-16 · E81: Hackathon Solana Colombia. Episodio Medellín. Alex Ramírez. · `youtube/2024-02-16-5Hbv_Lwn8is.md` · https://www.youtube.com/watch?v=5Hbv_Lwn8is
 - 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
@@ -64,7 +64,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
 - 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
 
-### TSLA (140)
+### TSLA (199)
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 - 2025-07-06 · Tesla Será la Compañía mas Valiosa del Mundo · `substack/2025-07-06-tesla-sera-la-compania-mas-valiosa.md` · https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa
 - 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
@@ -72,6 +72,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-10-10 · E116: Del colegio hacia Tesla. Martín Peláez. CTO Plenti · `youtube/2024-10-10-oYRaIsFZTMg.md` · https://www.youtube.com/watch?v=oYRaIsFZTMg
 - 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
 - 2022-12-09 · E17: Probamos la actualización de Tesla FSD Beta. Utilizamos y aplicamos la IA de ChatGPT ;D · `youtube/2022-12-09-znZJ_aepTrA.md` · https://www.youtube.com/watch?v=znZJ_aepTrA
+- 2024-02-23 · Chat 10ampro (cerebro) — 2024-02-23 · `chat/chat-cerebro-2024-02-23.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2024-09-19 · E113: Los Pros y contras de Elon Musk. Ernesto Montesano · `youtube/2024-09-19-jqT7uUfrOK4.md` · https://www.youtube.com/watch?v=jqT7uUfrOK4
 - 2026-09-23 · Elon Musk vs Tony Stark: Cuando la Realidad Supera la Ciencia Ficción  🔒 · `substack/2026-09-23-elon-musk-vs-tony-stark-cuando-la.md` · https://www.10am.pro/p/elon-musk-vs-tony-stark-cuando-la
 - 2024-10-31 · E120: 🚙 Rivian, el próximo Tesla 🤯. Antonio Linares. · `youtube/2024-10-31-JVQ45TkT0sM.md` · https://www.youtube.com/watch?v=JVQ45TkT0sM
@@ -89,9 +90,8 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-04-01 · Terafab: El Proyecto Más Ambicioso en la Historia de la Humanidad 🔒 · `substack/2026-04-01-terafab-el-proyecto-mas-ambicioso.md` · https://www.10am.pro/p/terafab-el-proyecto-mas-ambicioso
 - 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
 - 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
-- 2025-11-16 · E180: Solana, Palantir y Tesla. Equipo 10AMPRO · `youtube/2025-11-16-FpcWtNhmDWY.md` · https://www.youtube.com/watch?v=FpcWtNhmDWY
 
-### HOOD (53)
+### HOOD (74)
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
 - 2025-07-13 · El Puente de los $124 Trillones: Cómo Robinhood Se Convierte en Wall Street para Millennials, Gen Z y Gen X  · `substack/2025-07-13-el-puente-de-los-124-trillones-como.md` · https://www.10am.pro/p/el-puente-de-los-124-trillones-como
 - 2026-08-02 · Robinhood: El Puente Ya Tiene 13 Carriles · `substack/2026-08-02-robinhood-el-puente-ya-tiene-13-carriles.md` · https://www.10am.pro/p/robinhood-el-puente-ya-tiene-13-carriles
@@ -114,11 +114,11 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-05-22 · E154: ¿Va ganando o perdiendo el portafolio de 10AMPRO en 2025? Descúbrelo en este análisis. · `youtube/2025-05-22-RG83P3KXJ5A.md` · https://www.youtube.com/watch?v=RG83P3KXJ5A
 - 2026-05 · Posts de X @holdmybirra — 2026-05 · `x/2026-05.md` · https://x.com/holdmybirra
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
+- 2024-03-10 · Chat 10ampro (cerebro) — 2024-03-10 · `chat/chat-cerebro-2024-03-10.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2025-05-04 · Señales vs Ruido y La Trilogia que me Mantiene Pobre · `substack/2025-05-04-senales-vs-ruido-y-la-trilogia-que.md` · https://www.10am.pro/p/senales-vs-ruido-y-la-trilogia-que
 - 2026-04-22 · Dale las Claves del Broker a Tu Esposa 🔒 · `substack/2026-04-22-dale-las-claves-del-broker-a-tu-esposa.md` · https://www.10am.pro/p/dale-las-claves-del-broker-a-tu-esposa
-- 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
 
-### PLTR (119)
+### PLTR (163)
 - 2025-08-20 · Palantir: la Compañía mas Importante de Occidente · `substack/2025-08-20-palantir-la-compania-mas-importante.md` · https://www.10am.pro/p/palantir-la-compania-mas-importante
 - 2026-03-09 ·  Lo Que Emil Michael Reveló Sobre Palantir, Maduro y el Pentágono 🔒 · `substack/2026-03-09-palantir-vs-todos.md` · https://www.10am.pro/p/palantir-vs-todos
 - 2026-06-17 · Velocidad de Ontología 🔒 · `substack/2026-06-17-el-dia-que-entendi-por-que-compre.md` · https://www.10am.pro/p/el-dia-que-entendi-por-que-compre
@@ -145,7 +145,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
 - 2026-01-29 · E191: Las 5 señales del cambio de era. Hernán, Darío,  Andrés Felipe, Guillermo,  Nicolás & el gordo · `youtube/2026-01-29-PdTGv5Z71SE.md` · https://www.youtube.com/watch?v=PdTGv5Z71SE
 
-### HIMS (38)
+### HIMS (51)
 - 2026-05-06 · La Cárcel de los Péptidos  🔒 · `substack/2026-05-06-el-negocio-mas-grande-del-que-nadie.md` · https://www.10am.pro/p/el-negocio-mas-grande-del-que-nadie
 - 2026-09-27 · HIMS No Es Telemedicina 🔒 · `substack/2026-09-27-hims-no-es-telemedicina.md` · https://www.10am.pro/p/hims-no-es-telemedicina
 - 2025-04-24 · E150: ¿HIMS el próximo 10X? Antonio Linares · `youtube/2025-04-24-jB-Qew9B9_o.md` · https://www.youtube.com/watch?v=jB-Qew9B9_o
@@ -169,10 +169,10 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
 - 2025-05-22 · E154: ¿Va ganando o perdiendo el portafolio de 10AMPRO en 2025? Descúbrelo en este análisis. · `youtube/2025-05-22-RG83P3KXJ5A.md` · https://www.youtube.com/watch?v=RG83P3KXJ5A
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
+- 2026-10-28 · Chat 10ampro (cerebro) — 2026-10-28 · `chat/chat-cerebro-2026-10-28.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-07-01 · Biology is Code 🔒 · `substack/2026-07-01-biology-is-code.md` · https://www.10am.pro/p/biology-is-code
-- 2026-10-04 · El Día con Más Inteligencia que Ha Vivido Medellín · `substack/2026-10-04-unos-acumulan-activos-otros-acumulan.md` · https://www.10am.pro/p/unos-acumulan-activos-otros-acumulan
 
-### ETH (27)
+### ETH (46)
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
 - 2024-11-14 · E123: I never look at price. Kyle Samani - Multicoin Capital · `youtube/2024-11-14-CQB6erpyd6Y.md` · https://www.youtube.com/watch?v=CQB6erpyd6Y
 - 2023-07-21 · E50: El padrino del conocimiento ALPHA, Joe McCann, fundador de Node.JS y Asymmetric Capital. · `youtube/2023-07-21-SHEyv89MvM4.md` · https://www.youtube.com/watch?v=SHEyv89MvM4
@@ -192,28 +192,48 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
 - 2026-04-27 · De $21M a $3.7B en un Sábado  🔒 · `substack/2026-04-27-cuando-wall-street-duerme.md` · https://www.10am.pro/p/cuando-wall-street-duerme
 - 2022-09-17 · E5: The Merge en Ethereum, Battle for Nippon el casino en web3, la historia de Sam Bankmann y FTX. · `youtube/2022-09-17-i3IA4LFSgn0.md` · https://www.youtube.com/watch?v=i3IA4LFSgn0
+- 2026-08-19 · Chat 10ampro (cerebro) — 2026-08-19 · `chat/chat-cerebro-2026-08-19.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2025-05-25 · El divorcio monetario: por qué la nueva guerra es contra los bonos y el refugio es Bitcoin · `substack/2025-05-25-el-divorcio-monetario-por-que-la.md` · https://www.10am.pro/p/el-divorcio-monetario-por-que-la
 - 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
+- 2024-11-03 · Chat 10ampro (cerebro) — 2024-11-03 · `chat/chat-cerebro-2024-11-03.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
-- 2022-12-16 · E18: Novedades AI. ¿Cuál es el verdadero Morgan Freeman? OTTER, mi propia asistente AI. ¿Qué es MEV? · `youtube/2022-12-16-fAXriA9gQHo.md` · https://www.youtube.com/watch?v=fAXriA9gQHo
-- 2023-02-10 · E26: El CEO de BINANCE Latam nos cuenta cómo y por qué son el Exchange mas grande del mundo. · `youtube/2023-02-10-ionnuu54kDw.md` · https://www.youtube.com/watch?v=ionnuu54kDw
 
-### XRP (4)
+### XRP (5)
 - 2025-06-15 · El Problema de Pensar Que Estás Pensando · `substack/2025-06-15-el-problema-de-pensar-que-estas-pensando.md` · https://www.10am.pro/p/el-problema-de-pensar-que-estas-pensando
+- 2024-06-25 · Chat 10ampro (cerebro) — 2024-06-25 · `chat/chat-cerebro-2024-06-25.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2024-08-15 · E107: ¿Lunes negro? El Carry Trade del Yen 🇯🇵. Equipo 10AMPRO · `youtube/2024-08-15-enmay3VnPKI.md` · https://www.youtube.com/watch?v=enmay3VnPKI
 - 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
 - 2025-08-13 · Chat 10ampro (anti-deficit) — 2025-08-13 · `chat/chat-anti-deficit-2025-08-13.md` · (chat privado, sin URL: cita Substack/YouTube)
 
-### JUP (6)
+### JUP (39)
 - 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
 - 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
+- 2024-03-16 · Chat 10ampro (cerebro) — 2024-03-16 · `chat/chat-cerebro-2024-03-16.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
+- 2024-02-18 · Chat 10ampro (cerebro) — 2024-02-18 · `chat/chat-cerebro-2024-02-18.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-03-21 · Chat 10ampro (cerebro) — 2024-03-21 · `chat/chat-cerebro-2024-03-21.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-04-30 · Chat 10ampro (cerebro) — 2024-04-30 · `chat/chat-cerebro-2024-04-30.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-01-15 · Pronóstico 2026: El Año Donde Todo Será Vertical · `substack/2026-01-15-pronostico-2026-el-ano-donde-todo.md` · https://www.10am.pro/p/pronostico-2026-el-ano-donde-todo
-- 2026-05 · Posts de X @holdmybirra — 2026-05 · `x/2026-05.md` · https://x.com/holdmybirra
+- 2023-12-03 · Chat 10ampro (cerebro) — 2023-12-03 · `chat/chat-cerebro-2023-12-03.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-03-05 · Chat 10ampro (cerebro) — 2024-03-05 · `chat/chat-cerebro-2024-03-05.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-04-09 · Chat 10ampro (cerebro) — 2024-04-09 · `chat/chat-cerebro-2024-04-09.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-29 · Chat 10ampro (cerebro) — 2024-01-29 · `chat/chat-cerebro-2024-01-29.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-31 · Chat 10ampro (cerebro) — 2024-01-31 · `chat/chat-cerebro-2024-01-31.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-01 · Chat 10ampro (cerebro) — 2024-02-01 · `chat/chat-cerebro-2024-02-01.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-03-30 · Chat 10ampro (cerebro) — 2024-03-30 · `chat/chat-cerebro-2024-03-30.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-05-28 · Chat 10ampro (cerebro) — 2024-05-28 · `chat/chat-cerebro-2024-05-28.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-10-23 · Chat 10ampro (cerebro) — 2024-10-23 · `chat/chat-cerebro-2024-10-23.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-04 · Chat 10ampro (cerebro) — 2023-12-04 · `chat/chat-cerebro-2023-12-04.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-30 · Chat 10ampro (cerebro) — 2023-12-30 · `chat/chat-cerebro-2023-12-30.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-03 · Chat 10ampro (cerebro) — 2024-01-03 · `chat/chat-cerebro-2024-01-03.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-11 · Chat 10ampro (cerebro) — 2024-01-11 · `chat/chat-cerebro-2024-01-11.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-26 · Chat 10ampro (cerebro) — 2024-01-26 · `chat/chat-cerebro-2024-01-26.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-24 · Chat 10ampro (cerebro) — 2024-02-24 · `chat/chat-cerebro-2024-02-24.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-29 · Chat 10ampro (cerebro) — 2024-02-29 · `chat/chat-cerebro-2024-02-29.md` · (chat privado, sin URL: cita Substack/YouTube)
 
-### JTO (11)
+### JTO (44)
 - 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
 - 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
 - 2026-10-24 · ⚡️ El Día D. Joe McCann: Solana más IA · `youtube/2026-10-24-cAzFArF_vuY.md` · https://www.youtube.com/watch?v=cAzFArF_vuY
@@ -221,20 +241,51 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
 - 2023-12-22 · E73:  Error no es fracaso. Equipo  10AMPRO. · `youtube/2023-12-22-eYZg98A2DH4.md` · https://www.youtube.com/watch?v=eYZg98A2DH4
+- 2024-01-01 · Chat 10ampro (cerebro) — 2024-01-01 · `chat/chat-cerebro-2024-01-01.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-11 · Chat 10ampro (cerebro) — 2024-01-11 · `chat/chat-cerebro-2024-01-11.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-03-16 · Chat 10ampro (cerebro) — 2024-03-16 · `chat/chat-cerebro-2024-03-16.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-09-03 · Sigo Bullish en $SOL y $JTO, nos vemos en El Dia D - Joe McCann. #223 · `youtube/2026-09-03-qoReYHBo3zo.md` · https://www.youtube.com/watch?v=qoReYHBo3zo
+- 2023-12-04 · Chat 10ampro (cerebro) — 2023-12-04 · `chat/chat-cerebro-2023-12-04.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-21 · Chat 10ampro (cerebro) — 2023-12-21 · `chat/chat-cerebro-2023-12-21.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-23 · Chat 10ampro (cerebro) — 2024-02-23 · `chat/chat-cerebro-2024-02-23.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-29 · Chat 10ampro (cerebro) — 2024-02-29 · `chat/chat-cerebro-2024-02-29.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-05-19 · Chat 10ampro (cerebro) — 2024-05-19 · `chat/chat-cerebro-2024-05-19.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2025-05-11 · ¿Somos Anti-Buffett en 10ampro? y un montón de ER · `substack/2025-05-11-somos-anti-buffet-en-10ampro-y-un.md` · https://www.10am.pro/p/somos-anti-buffet-en-10ampro-y-un
 - 2025-06-15 · El Problema de Pensar Que Estás Pensando · `substack/2025-06-15-el-problema-de-pensar-que-estas-pensando.md` · https://www.10am.pro/p/el-problema-de-pensar-que-estas-pensando
 - 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
+- 2023-12-07 · Chat 10ampro (cerebro) — 2023-12-07 · `chat/chat-cerebro-2023-12-07.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-11 · Chat 10ampro (cerebro) — 2023-12-11 · `chat/chat-cerebro-2023-12-11.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-30 · Chat 10ampro (cerebro) — 2023-12-30 · `chat/chat-cerebro-2023-12-30.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-31 · Chat 10ampro (cerebro) — 2023-12-31 · `chat/chat-cerebro-2023-12-31.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-03 · Chat 10ampro (cerebro) — 2024-01-03 · `chat/chat-cerebro-2024-01-03.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-05-28 · Chat 10ampro (cerebro) — 2024-05-28 · `chat/chat-cerebro-2024-05-28.md` · (chat privado, sin URL: cita Substack/YouTube)
 
-### NOS (8)
+### NOS (48)
 - 2024-09-18 · E112: ¿Qué es Nosana? El Airbnb de los GPU´S. Jesse Eisses. · `youtube/2024-09-18-Rmcgd-xeee4.md` · https://www.youtube.com/watch?v=Rmcgd-xeee4
 - 2024-12-12 · E127: ¿Se cumplieron las predicciones financieras en 10AMPRO?. Equipo 10AMPRO · `youtube/2024-12-12--nbXdwXnGnA.md` · https://www.youtube.com/watch?v=-nbXdwXnGnA
+- 2024-05-01 · Chat 10ampro (cerebro) — 2024-05-01 · `chat/chat-cerebro-2024-05-01.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-29 · Chat 10ampro (cerebro) — 2023-12-29 · `chat/chat-cerebro-2023-12-29.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-08 · Chat 10ampro (cerebro) — 2024-01-08 · `chat/chat-cerebro-2024-01-08.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-09-03 · Chat 10ampro (cerebro) — 2024-09-03 · `chat/chat-cerebro-2024-09-03.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
 - 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
 - 2024-11-21 · E124: Aplicando Inteligencia Artificial en 10AMPRO. Con Felipe Aguirre. · `youtube/2024-11-21-DwwDKZPPt9I.md` · https://www.youtube.com/watch?v=DwwDKZPPt9I
+- 2023-12-31 · Chat 10ampro (cerebro) — 2023-12-31 · `chat/chat-cerebro-2023-12-31.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-28 · Chat 10ampro (cerebro) — 2024-02-28 · `chat/chat-cerebro-2024-02-28.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-08-15 · Chat 10ampro (cerebro) — 2024-08-15 · `chat/chat-cerebro-2024-08-15.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-09-20 · Chat 10ampro (cerebro) — 2024-09-20 · `chat/chat-cerebro-2024-09-20.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-11-04 · Chat 10ampro (cerebro) — 2024-11-04 · `chat/chat-cerebro-2024-11-04.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2024-02-02 · E79: La minería de oro 3.0. Conectando la minería tradicional con blockchain. José Santiago Gómez. · `youtube/2024-02-02-O1W8NhtOaoQ.md` · https://www.youtube.com/watch?v=O1W8NhtOaoQ
 - 2024-07-25 · E104: ¿Qué es un validador en crypto y cómo vivir de ello?. Juan Andrés Calderón · `youtube/2024-07-25-lJHhwA7eKkQ.md` · https://www.youtube.com/watch?v=lJHhwA7eKkQ
-- 2026-03 · Posts de X @holdmybirra — 2026-03 · `x/2026-03.md` · https://x.com/holdmybirra
+- 2024-01-04 · Chat 10ampro (cerebro) — 2024-01-04 · `chat/chat-cerebro-2024-01-04.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-11 · Chat 10ampro (cerebro) — 2024-01-11 · `chat/chat-cerebro-2024-01-11.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-12 · Chat 10ampro (cerebro) — 2024-01-12 · `chat/chat-cerebro-2024-01-12.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-29 · Chat 10ampro (cerebro) — 2024-02-29 · `chat/chat-cerebro-2024-02-29.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-03-06 · Chat 10ampro (cerebro) — 2024-03-06 · `chat/chat-cerebro-2024-03-06.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-06-05 · Chat 10ampro (cerebro) — 2024-06-05 · `chat/chat-cerebro-2024-06-05.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-09-10 · Chat 10ampro (cerebro) — 2024-09-10 · `chat/chat-cerebro-2024-09-10.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-12 · Chat 10ampro (cerebro) — 2023-12-12 · `chat/chat-cerebro-2023-12-12.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-19 · Chat 10ampro (cerebro) — 2023-12-19 · `chat/chat-cerebro-2023-12-19.md` · (chat privado, sin URL: cita Substack/YouTube)
 
 ### STKE (4)
 - 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
@@ -242,9 +293,11 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra
 - 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
 
-### NVDA (29)
+### NVDA (31)
 - 2025-11-06 · E178: La era de la abundancia. Gerardo Delgado / Nvidia · `youtube/2025-11-06-QgWVt-cLwHs.md` · https://www.youtube.com/watch?v=QgWVt-cLwHs
+- 2024-11-04 · Chat 10ampro (cerebro) — 2024-11-04 · `chat/chat-cerebro-2024-11-04.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2023-04-21 · E37: Nvidia, la compañía detrás de la inteligencia artificial de ChatGPT y los  efectos de Marvel. · `youtube/2023-04-21-017G3m4LECc.md` · https://www.youtube.com/watch?v=017G3m4LECc
+- 2026-11-09 · Chat 10ampro (cerebro) — 2026-11-09 · `chat/chat-cerebro-2026-11-09.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-08-06 · Palantir Q2 2026: El Día que Wall Street Entendió la Ontología 🔒 · `substack/2026-08-06-palantir-q2-2026-el-dia-que-wall.md` · https://www.10am.pro/p/palantir-q2-2026-el-dia-que-wall
 - 2024-05-03 · E92: ¿La IA será un nuevo Dios?. Gerardo Delgado. Nvidia · `youtube/2024-05-03-62xBbvvxMf4.md` · https://www.youtube.com/watch?v=62xBbvvxMf4
 - 2025-11-01 · AI + Biología = Quantum-Si · `substack/2025-11-01-quantum-si-cuando-la-biologia-se.md` · https://www.10am.pro/p/quantum-si-cuando-la-biologia-se
@@ -266,10 +319,8 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 - 2026-03-05 · E198: 2028 🤯  el año que todos quedaremos sin trabajo · `youtube/2026-03-05-5QWEatCbScI.md` · https://www.youtube.com/watch?v=5QWEatCbScI
-- 2026-08-13 · E220: Solo invertimos donde exista impacto económico. VeroNorte · `youtube/2026-08-13-51LweNLGXh4.md` · https://www.youtube.com/watch?v=51LweNLGXh4
-- 2026-09-16 · GDP 07: Dario Amodei  -  La Gestapo disfrazada de nerd · `youtube/2026-09-16-DxYtlO9VI1o.md` · https://www.youtube.com/watch?v=DxYtlO9VI1o
 
-### SpaceX (61)
+### SpaceX (70)
 - 2025-11-08 · SpaceX: La Compañía más Importante de la Tierra · `substack/2025-11-08-spacex-el-elevador-que-redefine-el.md` · https://www.10am.pro/p/spacex-el-elevador-que-redefine-el
 - 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
 - 2026-05-14 · El Golfo de Urabá: ¿el próximo puerto espacial de SpaceX? · `substack/2026-05-14-el-golfo-de-uraba-el-proximo-puerto.md` · https://www.10am.pro/p/el-golfo-de-uraba-el-proximo-puerto
@@ -286,6 +337,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-08-18 · Tesla: El capex que Wall Street no sabe leer · `youtube/2026-08-18-hP_b4YLchkU.md` · https://www.youtube.com/watch?v=hP_b4YLchkU
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
 - 2026-08-18 · Tesla: El capex que Wall Street no sabe leer 📱 · `youtube/2026-08-18-LNw2CvQ4Jmk.md` · https://www.youtube.com/watch?v=LNw2CvQ4Jmk
+- 2026-11-02 · Chat 10ampro (cerebro) — 2026-11-02 · `chat/chat-cerebro-2026-11-02.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
 - 2026-10-24 · Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo 🔒 · `substack/2026-10-24-tesla-q3-2026-el-75-que-wall-street.md` · https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street
 - 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
@@ -294,16 +346,35 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2023-11-24 · E69: Medellín 10X. Cómo multiplicar por 10 el PIB de la ciudad de Medellín - Colombia 🇨🇴 en 5 años. · `youtube/2023-11-24-53WSW_h3eew.md` · https://www.youtube.com/watch?v=53WSW_h3eew
 - 2026-06-12 · ⚡ Episodio Especial 03: Colombia 🇨🇴 Elijamos el camino de la abundancia. José Manuel Restrepo. · `youtube/2026-06-12-xT_zbjfV5vc.md` · https://www.youtube.com/watch?v=xT_zbjfV5vc
 - 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
-- 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
 
-### DLMM (5)
+### DLMM (41)
 - 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
 - 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
+- 2024-03-06 · Chat 10ampro (cerebro) — 2024-03-06 · `chat/chat-cerebro-2024-03-06.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
+- 2024-03-02 · Chat 10ampro (cerebro) — 2024-03-02 · `chat/chat-cerebro-2024-03-02.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-14 · Chat 10ampro (cerebro) — 2024-02-14 · `chat/chat-cerebro-2024-02-14.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-04-18 · Chat 10ampro (cerebro) — 2024-04-18 · `chat/chat-cerebro-2024-04-18.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-04-30 · Chat 10ampro (cerebro) — 2024-04-30 · `chat/chat-cerebro-2024-04-30.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
-- 2026-02 · Posts de X @holdmybirra — 2026-02 · `x/2026-02.md` · https://x.com/holdmybirra
+- 2024-03-04 · Chat 10ampro (cerebro) — 2024-03-04 · `chat/chat-cerebro-2024-03-04.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-03-21 · Chat 10ampro (cerebro) — 2024-03-21 · `chat/chat-cerebro-2024-03-21.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-05-08 · Chat 10ampro (cerebro) — 2024-05-08 · `chat/chat-cerebro-2024-05-08.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-10-22 · Chat 10ampro (cerebro) — 2024-10-22 · `chat/chat-cerebro-2024-10-22.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-18 · Chat 10ampro (cerebro) — 2024-02-18 · `chat/chat-cerebro-2024-02-18.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-03-07 · Chat 10ampro (cerebro) — 2024-03-07 · `chat/chat-cerebro-2024-03-07.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-04-07 · Chat 10ampro (cerebro) — 2024-04-07 · `chat/chat-cerebro-2024-04-07.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-04-10 · Chat 10ampro (cerebro) — 2024-04-10 · `chat/chat-cerebro-2024-04-10.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-04-28 · Chat 10ampro (cerebro) — 2024-04-28 · `chat/chat-cerebro-2024-04-28.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-05-02 · Chat 10ampro (cerebro) — 2024-05-02 · `chat/chat-cerebro-2024-05-02.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-05-10 · Chat 10ampro (cerebro) — 2024-05-10 · `chat/chat-cerebro-2024-05-10.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-09-29 · Chat 10ampro (cerebro) — 2024-09-29 · `chat/chat-cerebro-2024-09-29.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-10-27 · Chat 10ampro (cerebro) — 2024-10-27 · `chat/chat-cerebro-2024-10-27.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-02 · Chat 10ampro (cerebro) — 2024-02-02 · `chat/chat-cerebro-2024-02-02.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-22 · Chat 10ampro (cerebro) — 2024-02-22 · `chat/chat-cerebro-2024-02-22.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-24 · Chat 10ampro (cerebro) — 2024-02-24 · `chat/chat-cerebro-2024-02-24.md` · (chat privado, sin URL: cita Substack/YouTube)
 
-### macro (197)
+### macro (220)
 - 2025-09-28 · El Arquitecto Silencioso del Dólar · `substack/2025-09-28-el-arquitecto-silencioso-del-dolar.md` · https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar
 - 2025-12-27 · El Hombre que Está Reprogramando la Economía de Estados Unidos · `substack/2025-12-27-el-hombre-que-esta-reprogramando.md` · https://www.10am.pro/p/el-hombre-que-esta-reprogramando
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
@@ -330,12 +401,13 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-10-11 · Bitcoin como Motor de Crédito Digital · `substack/2025-10-11-bitcoin-como-motor-de-credito-digital.md` · https://www.10am.pro/p/bitcoin-como-motor-de-credito-digital
 - 2026-03-15 · El Modelo de Negocio del Caos: 500 Años de Historia en Una Milla Cuadrada 🔒 · `substack/2026-03-15-the-end-game-quien-se-beneficia-del.md` · https://www.10am.pro/p/the-end-game-quien-se-beneficia-del
 
-### Bessent (19)
+### Bessent (20)
 - 2025-09-28 · El Arquitecto Silencioso del Dólar · `substack/2025-09-28-el-arquitecto-silencioso-del-dolar.md` · https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar
 - 2025-12-27 · El Hombre que Está Reprogramando la Economía de Estados Unidos · `substack/2025-12-27-el-hombre-que-esta-reprogramando.md` · https://www.10am.pro/p/el-hombre-que-esta-reprogramando
 - 2025-06-01 · 1 TERAWATT: LA CARRERA ENERGÉTICA DE EE.UU. · `substack/2025-06-01-1-terawatt-la-carrera-energetica.md` · https://www.10am.pro/p/1-terawatt-la-carrera-energetica
 - 2026-08-23 · Cuando el Perro Grande Bosteza · `substack/2026-08-23-hormuz-no-era-iran.md` · https://www.10am.pro/p/hormuz-no-era-iran
 - 2026-03-15 · El Modelo de Negocio del Caos: 500 Años de Historia en Una Milla Cuadrada 🔒 · `substack/2026-03-15-the-end-game-quien-se-beneficia-del.md` · https://www.10am.pro/p/the-end-game-quien-se-beneficia-del
+- 2026-08-20 · Chat 10ampro (cerebro) — 2026-08-20 · `chat/chat-cerebro-2026-08-20.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-01-25 · 🔨 The Hammer: Howard Lutnick y la Reconfiguración del Comercio Global · `substack/2026-01-25-the-hammer-howard-lutnick-y-la-reconfiguracion.md` · https://www.10am.pro/p/the-hammer-howard-lutnick-y-la-reconfiguracion
 - 2026-09-18 · Los Midterms Pura Geopolitica  · `substack/2026-09-18-los-midterms-pura-geopolitica.md` · https://www.10am.pro/p/los-midterms-pura-geopolitica
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
@@ -351,7 +423,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-08-26 · GDP 04: Bessent activa el Bullrun · `youtube/2026-08-26-yy3eEXTUy50.md` · https://www.youtube.com/watch?v=yy3eEXTUy50
 - 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra
 
-### geopolitica (182)
+### geopolitica (205)
 - 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
 - 2026-03-19 · E200: Irán 🇮🇷 , petróleo🛢️, dólar 💵 y drones. Hernán, Darío, Guillermo, Andrés Felipe y El Gordo. · `youtube/2026-03-19-QbS-TGwMuw0.md` · https://www.youtube.com/watch?v=QbS-TGwMuw0
 - 2026-04-16 · E204: 🇮🇷 Irán, Donald Trump y El Estrecho de Ormuz. · `youtube/2026-04-16-HhBfwrQyvwA.md` · https://www.youtube.com/watch?v=HhBfwrQyvwA
@@ -378,7 +450,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
 - 2026-09-18 · Los Midterms Pura Geopolitica  · `substack/2026-09-18-los-midterms-pura-geopolitica.md` · https://www.10am.pro/p/los-midterms-pura-geopolitica
 
-### stablecoins (41)
+### stablecoins (63)
 - 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
 - 2024-04-05 · E88: Contenido ALPHA para tener un rendimiento del 1 a 3% diario en Meteora · `youtube/2024-04-05-0bFtwX1HAHQ.md` · https://www.youtube.com/watch?v=0bFtwX1HAHQ
 - 2024-01-12 · E76: Pagando en USDC con tarjetas de crédito virtuales. Equipo ZEBEC. · `youtube/2024-01-12-OMIimYPSdts.md` · https://www.youtube.com/watch?v=OMIimYPSdts
@@ -387,12 +459,16 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-10-10 · E116: Del colegio hacia Tesla. Martín Peláez. CTO Plenti · `youtube/2024-10-10-oYRaIsFZTMg.md` · https://www.youtube.com/watch?v=oYRaIsFZTMg
 - 2025-05-04 · Señales vs Ruido y La Trilogia que me Mantiene Pobre · `substack/2025-05-04-senales-vs-ruido-y-la-trilogia-que.md` · https://www.10am.pro/p/senales-vs-ruido-y-la-trilogia-que
 - 2025-09-28 · El Arquitecto Silencioso del Dólar · `substack/2025-09-28-el-arquitecto-silencioso-del-dolar.md` · https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar
+- 2024-06-19 · Chat 10ampro (cerebro) — 2024-06-19 · `chat/chat-cerebro-2024-06-19.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2025-06-15 · El Problema de Pensar Que Estás Pensando · `substack/2025-06-15-el-problema-de-pensar-que-estas-pensando.md` · https://www.10am.pro/p/el-problema-de-pensar-que-estas-pensando
 - 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
 - 2026-04-30 · E206: ETH está sobrevalorada. Santiago Santos · `youtube/2026-04-30-cCNGqlJkjAs.md` · https://www.youtube.com/watch?v=cCNGqlJkjAs
 - 2026-06-25 · Live: La ilusión de una nueva Colombia. · `youtube/2026-06-25-fZ_wFCK1VC8.md` · https://www.youtube.com/watch?v=fZ_wFCK1VC8
+- 2023-12-19 · Chat 10ampro (cerebro) — 2023-12-19 · `chat/chat-cerebro-2023-12-19.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-05-16 · Chat 10ampro (cerebro) — 2024-05-16 · `chat/chat-cerebro-2024-05-16.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2024-10-15 · E117: Web 3 Mobile Phone only USD$99. Jambo Technology (Eng) · `youtube/2024-10-15-jzCszPj74jY.md` · https://www.youtube.com/watch?v=jzCszPj74jY
 - 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
+- 2024-09-02 · Chat 10ampro (cerebro) — 2024-09-02 · `chat/chat-cerebro-2024-09-02.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
 - 2024-06-13 · E98: ¿Cómo pensamos en inversiones en 10AMPRO? Mariana Botero · `youtube/2024-06-13-_emkuBiHlPk.md` · https://www.youtube.com/watch?v=_emkuBiHlPk
@@ -400,12 +476,8 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-04-03 · E147: Como traer mas usuarios al mundo cripto  Santiago R Santos. · `youtube/2025-04-03-nISXebAfY2U.md` · https://www.youtube.com/watch?v=nISXebAfY2U
 - 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
-- 2025-04-21 · El Pulso entre EE. UU. y China y su Impacto en los Mercados · `substack/2025-04-21-el-pulso-entre-ee-uu-y-china-y-su.md` · https://www.10am.pro/p/el-pulso-entre-ee-uu-y-china-y-su
-- 2026-06-09 · El Primer Cliente Que No Respira (2nda parte) 🔒 · `substack/2026-06-09-el-primer-cliente-que-no-respira.md` · https://www.10am.pro/p/el-primer-cliente-que-no-respira
-- 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
-- 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
 
-### tokenizacion (28)
+### tokenizacion (31)
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
 - 2025-09-04 · E169: Quien sepa gobernar tokens y electrones, gobernará el futuro. Gabriel Merlo 🇪🇸 · `youtube/2025-09-04-JdZCcg7QtLA.md` · https://www.youtube.com/watch?v=JdZCcg7QtLA
 - 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
@@ -432,7 +504,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-07-04 · E101: ¿Qué es Wenia?. La apuesta de Bancolombia en el mundo Crypto. Pablo Arboleda · `youtube/2024-07-04-5n6aNZKkbuU.md` · https://www.youtube.com/watch?v=5n6aNZKkbuU
 - 2025-01-02 · E130: Global66 logró lo que gobiernos y bancos no pudieron; unificar financieramente a Latam. · `youtube/2025-01-02-Dx8EICNFqy4.md` · https://www.youtube.com/watch?v=Dx8EICNFqy4
 
-### IA (195)
+### IA (227)
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
 - 2026-07-29 · La élite de la inteligencia artificial: cinco trayectorias que están reescribiendo el siglo XXI 🔒 · `substack/2026-07-29-la-elite-de-la-inteligencia-artificial.md` · https://www.10am.pro/p/la-elite-de-la-inteligencia-artificial
 - 2024-05-03 · E92: ¿La IA será un nuevo Dios?. Gerardo Delgado. Nvidia · `youtube/2024-05-03-62xBbvvxMf4.md` · https://www.youtube.com/watch?v=62xBbvvxMf4
@@ -455,9 +527,9 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 - 2022-12-16 · E18: Novedades AI. ¿Cuál es el verdadero Morgan Freeman? OTTER, mi propia asistente AI. ¿Qué es MEV? · `youtube/2022-12-16-fAXriA9gQHo.md` · https://www.youtube.com/watch?v=fAXriA9gQHo
 - 2025-12-04 · E183: Michael Saylor, BTC y la Burbuja de la Inteligencia Artificial. Análisis Real. Sebastián Toro · `youtube/2025-12-04-BmpA_Tel6-0.md` · https://www.youtube.com/watch?v=BmpA_Tel6-0
+- 2026-10-26 · Chat 10ampro (cerebro) — 2026-10-26 · `chat/chat-cerebro-2026-10-26.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2023-04-14 · E36: Aumenta tu productividad con ChatGPT 🤖 : Ejemplos prácticos de uso en la vida real 💪 · `youtube/2023-04-14-THrWSI4Lq2U.md` · https://www.youtube.com/watch?v=THrWSI4Lq2U
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
-- 2025-02-06 · E137: Modelos mentales. Equipo 10AMPRO · `youtube/2025-02-06-U-Tk9XzfWrQ.md` · https://www.youtube.com/watch?v=U-Tk9XzfWrQ
 
 ### longevidad (59)
 - 2026-10-14 · El Dia D en Vivo. 14 de octubre de 2026 · `youtube/2026-10-14-KF3J__PZSxk.md` · https://www.youtube.com/watch?v=KF3J__PZSxk
@@ -486,7 +558,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. 📱 · `youtube/2026-10-09-oZEJJOvUKBs.md` · https://www.youtube.com/watch?v=oZEJJOvUKBs
 - 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
 
-### colombia (275)
+### colombia (300)
 - 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
 - 2025-08-28 · E168: La urgencia de la Colombia ganadora. Sebastián Salazar. Estrategia Emergente · `youtube/2025-08-28-FykuBZB69KU.md` · https://www.youtube.com/watch?v=FykuBZB69KU
@@ -520,7 +592,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-11-13 · E179: ¿Mi negocio es mejor inversión que invertir en Bitcoin?. Equipo 10AMPRO · `youtube/2025-11-13-nl1AGKDaRXM.md` · https://www.youtube.com/watch?v=nl1AGKDaRXM
 - 2026-10-12 · La Regla del 5% · `substack/2026-10-12-nunca-vendo-la-mas-grande.md` · https://www.10am.pro/p/nunca-vendo-la-mas-grande
 
-### tesis_10x (74)
+### tesis_10x (82)
 - 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
@@ -547,7 +619,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
 
-### portafolio (92)
+### portafolio (99)
 - 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
 - 2026-01-22 · E190: Forecast 2026. Hernán Jaramillo, Darío Palacio, Andrés Arias, Guillermo Valencia, El Gordo. · `youtube/2026-01-22-yIPNyvVyApk.md` · https://www.youtube.com/watch?v=yIPNyvVyApk
 - 2025-01-30 · E136: Las predicciones de 10AMPRO para el 2025. Equipo 10AMPRO · `youtube/2025-01-30-4RfzDtrKKnI.md` · https://www.youtube.com/watch?v=4RfzDtrKKnI
@@ -574,7 +646,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-09-24 · El Día D - La Previa · `youtube/2026-09-24-i4ST73gS5yA.md` · https://www.youtube.com/watch?v=i4ST73gS5yA
 - 2025-12-13 · Recalibrando el Algoritmo del 10x · `substack/2025-12-13-recalibrando-el-algoritmo-del-10x.md` · https://www.10am.pro/p/recalibrando-el-algoritmo-del-10x
 
-### memecoins (12)
+### memecoins (15)
 - 2024-06-27 · E100: Joe McCann Asymmetric. In Colombia a rancher sold cows to buy Solana. · `youtube/2024-06-27-YCDVQ66idbw.md` · https://www.youtube.com/watch?v=YCDVQ66idbw
 - 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
@@ -583,12 +655,15 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-11-14 · E123: I never look at price. Kyle Samani - Multicoin Capital · `youtube/2024-11-14-CQB6erpyd6Y.md` · https://www.youtube.com/watch?v=CQB6erpyd6Y
 - 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
+- 2024-10-07 · Chat 10ampro (cerebro) — 2024-10-07 · `chat/chat-cerebro-2024-10-07.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
 - 2023-01-06 · E21: El mundo #crypto se enloquece con #bonk. Jugando y ganando #dinero con #blockchain #solana · `youtube/2023-01-06-e6X31OI7Ihs.md` · https://www.youtube.com/watch?v=e6X31OI7Ihs
 - 2023-12-01 · E70: La Bolsa de Valores de Colombia es apenas el 25% de un MemeCoin. · `youtube/2023-12-01-L2jSZP_uVuI.md` · https://www.youtube.com/watch?v=L2jSZP_uVuI
+- 2024-04-06 · Chat 10ampro (cerebro) — 2024-04-06 · `chat/chat-cerebro-2024-04-06.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-04-09 · Chat 10ampro (cerebro) — 2024-04-09 · `chat/chat-cerebro-2024-04-09.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
 
-### energia (196)
+### energia (203)
 - 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
 - 2026-11-05 · La era de los ⚡️ Gigavatios: Por qué los megas ya no alcanzan. E230 · `youtube/2026-11-05-SyDYxjhPH2M.md` · https://www.youtube.com/watch?v=SyDYxjhPH2M
 - 2025-06-19 · E158: Los países ricos ya eligieron: ⚛️ Energía Nuclear . Lisandro Pérez 🇦🇷 · `youtube/2025-06-19-wXSM3Qb3eC4.md` · https://www.youtube.com/watch?v=wXSM3Qb3eC4
@@ -615,7 +690,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-08-15 · Inteligencia colectiva con Colombia · `youtube/2026-08-15-k7hgZ_hY4IY.md` · https://www.youtube.com/watch?v=k7hgZ_hY4IY
 - 2026-09-17 · Crisis energética en Colombia. El gas que necesitamos. Alberto Consuegra. E225 · `youtube/2026-09-17-SfYAGq1QPrA.md` · https://www.youtube.com/watch?v=SfYAGq1QPrA
 
-### emprendimiento (135)
+### emprendimiento (140)
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
 - 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
 - 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
@@ -1115,6 +1190,45 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## Chat WhatsApp 10ampro (notas diarias)
 
+- 2026-11-11 · Chat 10ampro (cerebro) — 2026-11-11 · `chat/chat-cerebro-2026-11-11.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-11-10 · Chat 10ampro (cerebro) — 2026-11-10 · `chat/chat-cerebro-2026-11-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HIMS, IA, HOOD
+- 2026-11-09 · Chat 10ampro (cerebro) — 2026-11-09 · `chat/chat-cerebro-2026-11-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NVDA, geopolitica
+- 2026-11-08 · Chat 10ampro (cerebro) — 2026-11-08 · `chat/chat-cerebro-2026-11-08.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-11-07 · Chat 10ampro (cerebro) — 2026-11-07 · `chat/chat-cerebro-2026-11-07.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-11-06 · Chat 10ampro (cerebro) — 2026-11-06 · `chat/chat-cerebro-2026-11-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HIMS
+- 2026-11-05 · Chat 10ampro (cerebro) — 2026-11-05 · `chat/chat-cerebro-2026-11-05.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-11-04 · Chat 10ampro (cerebro) — 2026-11-04 · `chat/chat-cerebro-2026-11-04.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: IA, HIMS
+- 2026-11-03 · Chat 10ampro (cerebro) — 2026-11-03 · `chat/chat-cerebro-2026-11-03.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, IA, geopolitica, HOOD
+- 2026-11-02 · Chat 10ampro (cerebro) — 2026-11-02 · `chat/chat-cerebro-2026-11-02.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SpaceX, PLTR, IA, geopolitica
+- 2026-11-01 · Chat 10ampro (cerebro) — 2026-11-01 · `chat/chat-cerebro-2026-11-01.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2026-10-31 · Chat 10ampro (cerebro) — 2026-10-31 · `chat/chat-cerebro-2026-10-31.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SpaceX, IA
+- 2026-10-30 · Chat 10ampro (cerebro) — 2026-10-30 · `chat/chat-cerebro-2026-10-30.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, colombia
+- 2026-10-29 · Chat 10ampro (cerebro) — 2026-10-29 · `chat/chat-cerebro-2026-10-29.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HOOD, macro
+- 2026-10-28 · Chat 10ampro (cerebro) — 2026-10-28 · `chat/chat-cerebro-2026-10-28.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HIMS
+- 2026-10-27 · Chat 10ampro (cerebro) — 2026-10-27 · `chat/chat-cerebro-2026-10-27.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, IA
+- 2026-10-26 · Chat 10ampro (cerebro) — 2026-10-26 · `chat/chat-cerebro-2026-10-26.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: IA, SpaceX, TSLA
+- 2026-10-25 · Chat 10ampro (cerebro) — 2026-10-25 · `chat/chat-cerebro-2026-10-25.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, SpaceX, IA
+- 2026-10-24 · Chat 10ampro (cerebro) — 2026-10-24 · `chat/chat-cerebro-2026-10-24.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: IA
+- 2026-10-23 · Chat 10ampro (cerebro) — 2026-10-23 · `chat/chat-cerebro-2026-10-23.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-10-16 · Chat 10ampro (cerebro) — 2026-10-16 · `chat/chat-cerebro-2026-10-16.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-09-24 · Chat 10ampro (cerebro) — 2026-09-24 · `chat/chat-cerebro-2026-09-24.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-09-05 · Chat 10ampro (cerebro) — 2026-09-05 · `chat/chat-cerebro-2026-09-05.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-08-27 · Chat 10ampro (cerebro) — 2026-08-27 · `chat/chat-cerebro-2026-08-27.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-08-24 · Chat 10ampro (cerebro) — 2026-08-24 · `chat/chat-cerebro-2026-08-24.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-08-20 · Chat 10ampro (cerebro) — 2026-08-20 · `chat/chat-cerebro-2026-08-20.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: macro, Bessent, BTC, stablecoins, TSLA, geopolitica
+- 2026-08-19 · Chat 10ampro (cerebro) — 2026-08-19 · `chat/chat-cerebro-2026-08-19.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, ETH, PLTR, TSLA
+- 2026-08-18 · Chat 10ampro (cerebro) — 2026-08-18 · `chat/chat-cerebro-2026-08-18.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-08-17 · Chat 10ampro (cerebro) — 2026-08-17 · `chat/chat-cerebro-2026-08-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HIMS, PLTR, BTC
+- 2026-08-16 · Chat 10ampro (cerebro) — 2026-08-16 · `chat/chat-cerebro-2026-08-16.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, colombia
+- 2026-08-15 · Chat 10ampro (cerebro) — 2026-08-15 · `chat/chat-cerebro-2026-08-15.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, macro, SpaceX
+- 2026-08-14 · Chat 10ampro (cerebro) — 2026-08-14 · `chat/chat-cerebro-2026-08-14.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HIMS, SpaceX
+- 2026-08-13 · Chat 10ampro (cerebro) — 2026-08-13 · `chat/chat-cerebro-2026-08-13.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-08-07 · Chat 10ampro (cerebro) — 2026-08-07 · `chat/chat-cerebro-2026-08-07.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-08-04 · Chat 10ampro (cerebro) — 2026-08-04 · `chat/chat-cerebro-2026-08-04.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-08-03 · Chat 10ampro (cerebro) — 2026-08-03 · `chat/chat-cerebro-2026-08-03.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-07-22 · Chat 10ampro (cerebro) — 2026-07-22 · `chat/chat-cerebro-2026-07-22.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-07-16 · Chat 10ampro (cerebro) — 2026-07-16 · `chat/chat-cerebro-2026-07-16.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, IA
+- 2026-07-15 · Chat 10ampro (cerebro) — 2026-07-15 · `chat/chat-cerebro-2026-07-15.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL
 - 2025-08-14 · Chat 10ampro (anti-deficit) — 2025-08-14 · `chat/chat-anti-deficit-2025-08-14.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, SOL
 - 2025-08-13 · Chat 10ampro (anti-deficit) — 2025-08-13 · `chat/chat-anti-deficit-2025-08-13.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: ETH, SOL, BTC, XRP, stablecoins, TSLA
 - 2025-08-12 · Chat 10ampro (anti-deficit) — 2025-08-12 · `chat/chat-anti-deficit-2025-08-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: macro, geopolitica, TSLA
@@ -1124,3 +1238,337 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-08-08 · Chat 10ampro (anti-deficit) — 2025-08-08 · `chat/chat-anti-deficit-2025-08-08.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, IA, PLTR, colombia, SOL, macro
 - 2025-08-07 · Chat 10ampro (anti-deficit) — 2025-08-07 · `chat/chat-anti-deficit-2025-08-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, tesis_10x, colombia, energia, PLTR, geopolitica
 - 2025-08-06 · Chat 10ampro (anti-deficit) — 2025-08-06 · `chat/chat-anti-deficit-2025-08-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, TSLA, tesis_10x
+- 2024-11-04 · Chat 10ampro (cerebro) — 2024-11-04 · `chat/chat-cerebro-2024-11-04.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NVDA, NOS, IA, JTO
+- 2024-11-03 · Chat 10ampro (cerebro) — 2024-11-03 · `chat/chat-cerebro-2024-11-03.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, ETH
+- 2024-11-02 · Chat 10ampro (cerebro) — 2024-11-02 · `chat/chat-cerebro-2024-11-02.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-11-01 · Chat 10ampro (cerebro) — 2024-11-01 · `chat/chat-cerebro-2024-11-01.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: geopolitica
+- 2024-10-31 · Chat 10ampro (cerebro) — 2024-10-31 · `chat/chat-cerebro-2024-10-31.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: stablecoins, IA, HIMS, colombia
+- 2024-10-30 · Chat 10ampro (cerebro) — 2024-10-30 · `chat/chat-cerebro-2024-10-30.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, HOOD, DLMM
+- 2024-10-29 · Chat 10ampro (cerebro) — 2024-10-29 · `chat/chat-cerebro-2024-10-29.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HOOD, tesis_10x
+- 2024-10-28 · Chat 10ampro (cerebro) — 2024-10-28 · `chat/chat-cerebro-2024-10-28.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, HOOD, PLTR, geopolitica, tesis_10x
+- 2024-10-27 · Chat 10ampro (cerebro) — 2024-10-27 · `chat/chat-cerebro-2024-10-27.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: DLMM, NOS
+- 2024-10-26 · Chat 10ampro (cerebro) — 2024-10-26 · `chat/chat-cerebro-2024-10-26.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: geopolitica
+- 2024-10-25 · Chat 10ampro (cerebro) — 2024-10-25 · `chat/chat-cerebro-2024-10-25.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2024-10-24 · Chat 10ampro (cerebro) — 2024-10-24 · `chat/chat-cerebro-2024-10-24.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC
+- 2024-10-23 · Chat 10ampro (cerebro) — 2024-10-23 · `chat/chat-cerebro-2024-10-23.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JUP, IA, BTC, SOL, TSLA
+- 2024-10-22 · Chat 10ampro (cerebro) — 2024-10-22 · `chat/chat-cerebro-2024-10-22.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: DLMM
+- 2024-10-21 · Chat 10ampro (cerebro) — 2024-10-21 · `chat/chat-cerebro-2024-10-21.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: IA, NOS
+- 2024-10-20 · Chat 10ampro (cerebro) — 2024-10-20 · `chat/chat-cerebro-2024-10-20.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JUP
+- 2024-10-19 · Chat 10ampro (cerebro) — 2024-10-19 · `chat/chat-cerebro-2024-10-19.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-10-18 · Chat 10ampro (cerebro) — 2024-10-18 · `chat/chat-cerebro-2024-10-18.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-10-17 · Chat 10ampro (cerebro) — 2024-10-17 · `chat/chat-cerebro-2024-10-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, SOL, HOOD, PLTR, JTO
+- 2024-10-16 · Chat 10ampro (cerebro) — 2024-10-16 · `chat/chat-cerebro-2024-10-16.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: energia, PLTR
+- 2024-10-15 · Chat 10ampro (cerebro) — 2024-10-15 · `chat/chat-cerebro-2024-10-15.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR
+- 2024-10-14 · Chat 10ampro (cerebro) — 2024-10-14 · `chat/chat-cerebro-2024-10-14.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SpaceX
+- 2024-10-13 · Chat 10ampro (cerebro) — 2024-10-13 · `chat/chat-cerebro-2024-10-13.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, BTC, SOL, SpaceX
+- 2024-10-12 · Chat 10ampro (cerebro) — 2024-10-12 · `chat/chat-cerebro-2024-10-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, geopolitica, IA
+- 2024-10-11 · Chat 10ampro (cerebro) — 2024-10-11 · `chat/chat-cerebro-2024-10-11.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, macro
+- 2024-10-10 · Chat 10ampro (cerebro) — 2024-10-10 · `chat/chat-cerebro-2024-10-10.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-10-09 · Chat 10ampro (cerebro) — 2024-10-09 · `chat/chat-cerebro-2024-10-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, SOL, TSLA
+- 2024-10-08 · Chat 10ampro (cerebro) — 2024-10-08 · `chat/chat-cerebro-2024-10-08.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, PLTR
+- 2024-10-07 · Chat 10ampro (cerebro) — 2024-10-07 · `chat/chat-cerebro-2024-10-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, memecoins, TSLA, PLTR, IA
+- 2024-10-06 · Chat 10ampro (cerebro) — 2024-10-06 · `chat/chat-cerebro-2024-10-06.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-10-05 · Chat 10ampro (cerebro) — 2024-10-05 · `chat/chat-cerebro-2024-10-05.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: DLMM
+- 2024-10-04 · Chat 10ampro (cerebro) — 2024-10-04 · `chat/chat-cerebro-2024-10-04.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: IA
+- 2024-10-03 · Chat 10ampro (cerebro) — 2024-10-03 · `chat/chat-cerebro-2024-10-03.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, TSLA, SOL, tesis_10x, SpaceX, IA
+- 2024-10-02 · Chat 10ampro (cerebro) — 2024-10-02 · `chat/chat-cerebro-2024-10-02.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, geopolitica, IA
+- 2024-10-01 · Chat 10ampro (cerebro) — 2024-10-01 · `chat/chat-cerebro-2024-10-01.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-09-30 · Chat 10ampro (cerebro) — 2024-09-30 · `chat/chat-cerebro-2024-09-30.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: stablecoins, HOOD, HIMS
+- 2024-09-29 · Chat 10ampro (cerebro) — 2024-09-29 · `chat/chat-cerebro-2024-09-29.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: IA, DLMM, BTC, SOL
+- 2024-09-28 · Chat 10ampro (cerebro) — 2024-09-28 · `chat/chat-cerebro-2024-09-28.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, ETH, NOS, DLMM
+- 2024-09-27 · Chat 10ampro (cerebro) — 2024-09-27 · `chat/chat-cerebro-2024-09-27.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: colombia, BTC, tesis_10x, NOS, portafolio
+- 2024-09-26 · Chat 10ampro (cerebro) — 2024-09-26 · `chat/chat-cerebro-2024-09-26.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: geopolitica, TSLA, NOS
+- 2024-09-25 · Chat 10ampro (cerebro) — 2024-09-25 · `chat/chat-cerebro-2024-09-25.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, geopolitica, PLTR, colombia
+- 2024-09-24 · Chat 10ampro (cerebro) — 2024-09-24 · `chat/chat-cerebro-2024-09-24.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, PLTR, BTC, SOL
+- 2024-09-23 · Chat 10ampro (cerebro) — 2024-09-23 · `chat/chat-cerebro-2024-09-23.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: stablecoins, SOL
+- 2024-09-22 · Chat 10ampro (cerebro) — 2024-09-22 · `chat/chat-cerebro-2024-09-22.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: geopolitica
+- 2024-09-21 · Chat 10ampro (cerebro) — 2024-09-21 · `chat/chat-cerebro-2024-09-21.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-09-20 · Chat 10ampro (cerebro) — 2024-09-20 · `chat/chat-cerebro-2024-09-20.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NOS, SOL, colombia
+- 2024-09-19 · Chat 10ampro (cerebro) — 2024-09-19 · `chat/chat-cerebro-2024-09-19.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, portafolio
+- 2024-09-18 · Chat 10ampro (cerebro) — 2024-09-18 · `chat/chat-cerebro-2024-09-18.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: macro, colombia
+- 2024-09-17 · Chat 10ampro (cerebro) — 2024-09-17 · `chat/chat-cerebro-2024-09-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, PLTR, NOS, macro
+- 2024-09-15 · Chat 10ampro (cerebro) — 2024-09-15 · `chat/chat-cerebro-2024-09-15.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: colombia
+- 2024-09-14 · Chat 10ampro (cerebro) — 2024-09-14 · `chat/chat-cerebro-2024-09-14.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-09-13 · Chat 10ampro (cerebro) — 2024-09-13 · `chat/chat-cerebro-2024-09-13.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, BTC, PLTR, HIMS
+- 2024-09-12 · Chat 10ampro (cerebro) — 2024-09-12 · `chat/chat-cerebro-2024-09-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: tesis_10x, SOL, HIMS, portafolio, energia
+- 2024-09-11 · Chat 10ampro (cerebro) — 2024-09-11 · `chat/chat-cerebro-2024-09-11.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: colombia
+- 2024-09-10 · Chat 10ampro (cerebro) — 2024-09-10 · `chat/chat-cerebro-2024-09-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NOS, JUP
+- 2024-09-09 · Chat 10ampro (cerebro) — 2024-09-09 · `chat/chat-cerebro-2024-09-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2024-09-08 · Chat 10ampro (cerebro) — 2024-09-08 · `chat/chat-cerebro-2024-09-08.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, colombia, energia
+- 2024-09-07 · Chat 10ampro (cerebro) — 2024-09-07 · `chat/chat-cerebro-2024-09-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, stablecoins
+- 2024-09-06 · Chat 10ampro (cerebro) — 2024-09-06 · `chat/chat-cerebro-2024-09-06.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-09-05 · Chat 10ampro (cerebro) — 2024-09-05 · `chat/chat-cerebro-2024-09-05.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, colombia, macro
+- 2024-09-04 · Chat 10ampro (cerebro) — 2024-09-04 · `chat/chat-cerebro-2024-09-04.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: colombia, BTC
+- 2024-09-03 · Chat 10ampro (cerebro) — 2024-09-03 · `chat/chat-cerebro-2024-09-03.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NOS, BTC, SOL, geopolitica
+- 2024-09-02 · Chat 10ampro (cerebro) — 2024-09-02 · `chat/chat-cerebro-2024-09-02.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: stablecoins, BTC, SOL, emprendimiento
+- 2024-09-01 · Chat 10ampro (cerebro) — 2024-09-01 · `chat/chat-cerebro-2024-09-01.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, TSLA
+- 2024-08-31 · Chat 10ampro (cerebro) — 2024-08-31 · `chat/chat-cerebro-2024-08-31.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-08-30 · Chat 10ampro (cerebro) — 2024-08-30 · `chat/chat-cerebro-2024-08-30.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, IA
+- 2024-08-29 · Chat 10ampro (cerebro) — 2024-08-29 · `chat/chat-cerebro-2024-08-29.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: geopolitica
+- 2024-08-28 · Chat 10ampro (cerebro) — 2024-08-28 · `chat/chat-cerebro-2024-08-28.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, IA, SOL, tokenizacion, macro, colombia
+- 2024-08-27 · Chat 10ampro (cerebro) — 2024-08-27 · `chat/chat-cerebro-2024-08-27.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, HOOD, NOS
+- 2024-08-26 · Chat 10ampro (cerebro) — 2024-08-26 · `chat/chat-cerebro-2024-08-26.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, TSLA, geopolitica
+- 2024-08-25 · Chat 10ampro (cerebro) — 2024-08-25 · `chat/chat-cerebro-2024-08-25.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, IA, colombia
+- 2024-08-24 · Chat 10ampro (cerebro) — 2024-08-24 · `chat/chat-cerebro-2024-08-24.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, NOS, DLMM
+- 2024-08-23 · Chat 10ampro (cerebro) — 2024-08-23 · `chat/chat-cerebro-2024-08-23.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NOS
+- 2024-08-22 · Chat 10ampro (cerebro) — 2024-08-22 · `chat/chat-cerebro-2024-08-22.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-08-21 · Chat 10ampro (cerebro) — 2024-08-21 · `chat/chat-cerebro-2024-08-21.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: IA
+- 2024-08-20 · Chat 10ampro (cerebro) — 2024-08-20 · `chat/chat-cerebro-2024-08-20.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: macro, colombia, BTC, SOL
+- 2024-08-19 · Chat 10ampro (cerebro) — 2024-08-19 · `chat/chat-cerebro-2024-08-19.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-08-18 · Chat 10ampro (cerebro) — 2024-08-18 · `chat/chat-cerebro-2024-08-18.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, colombia, DLMM
+- 2024-08-17 · Chat 10ampro (cerebro) — 2024-08-17 · `chat/chat-cerebro-2024-08-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, DLMM, portafolio
+- 2024-08-16 · Chat 10ampro (cerebro) — 2024-08-16 · `chat/chat-cerebro-2024-08-16.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, BTC, tesis_10x
+- 2024-08-15 · Chat 10ampro (cerebro) — 2024-08-15 · `chat/chat-cerebro-2024-08-15.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NOS, DLMM, emprendimiento
+- 2024-08-14 · Chat 10ampro (cerebro) — 2024-08-14 · `chat/chat-cerebro-2024-08-14.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, PLTR, IA
+- 2024-08-13 · Chat 10ampro (cerebro) — 2024-08-13 · `chat/chat-cerebro-2024-08-13.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-08-12 · Chat 10ampro (cerebro) — 2024-08-12 · `chat/chat-cerebro-2024-08-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2024-08-11 · Chat 10ampro (cerebro) — 2024-08-11 · `chat/chat-cerebro-2024-08-11.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR
+- 2024-08-10 · Chat 10ampro (cerebro) — 2024-08-10 · `chat/chat-cerebro-2024-08-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2024-08-09 · Chat 10ampro (cerebro) — 2024-08-09 · `chat/chat-cerebro-2024-08-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR
+- 2024-08-08 · Chat 10ampro (cerebro) — 2024-08-08 · `chat/chat-cerebro-2024-08-08.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-08-07 · Chat 10ampro (cerebro) — 2024-08-07 · `chat/chat-cerebro-2024-08-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, ETH
+- 2024-08-06 · Chat 10ampro (cerebro) — 2024-08-06 · `chat/chat-cerebro-2024-08-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, stablecoins
+- 2024-08-05 · Chat 10ampro (cerebro) — 2024-08-05 · `chat/chat-cerebro-2024-08-05.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: macro, BTC, PLTR, portafolio, SOL, TSLA
+- 2024-08-04 · Chat 10ampro (cerebro) — 2024-08-04 · `chat/chat-cerebro-2024-08-04.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, macro, JTO
+- 2024-08-03 · Chat 10ampro (cerebro) — 2024-08-03 · `chat/chat-cerebro-2024-08-03.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-08-02 · Chat 10ampro (cerebro) — 2024-08-02 · `chat/chat-cerebro-2024-08-02.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-08-01 · Chat 10ampro (cerebro) — 2024-08-01 · `chat/chat-cerebro-2024-08-01.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, macro, geopolitica, colombia
+- 2024-07-31 · Chat 10ampro (cerebro) — 2024-07-31 · `chat/chat-cerebro-2024-07-31.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-07-30 · Chat 10ampro (cerebro) — 2024-07-30 · `chat/chat-cerebro-2024-07-30.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, PLTR, geopolitica
+- 2024-07-29 · Chat 10ampro (cerebro) — 2024-07-29 · `chat/chat-cerebro-2024-07-29.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC
+- 2024-07-28 · Chat 10ampro (cerebro) — 2024-07-28 · `chat/chat-cerebro-2024-07-28.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-07-27 · Chat 10ampro (cerebro) — 2024-07-27 · `chat/chat-cerebro-2024-07-27.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-07-26 · Chat 10ampro (cerebro) — 2024-07-26 · `chat/chat-cerebro-2024-07-26.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, ETH
+- 2024-07-25 · Chat 10ampro (cerebro) — 2024-07-25 · `chat/chat-cerebro-2024-07-25.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-07-24 · Chat 10ampro (cerebro) — 2024-07-24 · `chat/chat-cerebro-2024-07-24.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, TSLA
+- 2024-07-23 · Chat 10ampro (cerebro) — 2024-07-23 · `chat/chat-cerebro-2024-07-23.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, SOL
+- 2024-07-22 · Chat 10ampro (cerebro) — 2024-07-22 · `chat/chat-cerebro-2024-07-22.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, stablecoins
+- 2024-07-21 · Chat 10ampro (cerebro) — 2024-07-21 · `chat/chat-cerebro-2024-07-21.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-07-19 · Chat 10ampro (cerebro) — 2024-07-19 · `chat/chat-cerebro-2024-07-19.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2024-07-18 · Chat 10ampro (cerebro) — 2024-07-18 · `chat/chat-cerebro-2024-07-18.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2024-07-17 · Chat 10ampro (cerebro) — 2024-07-17 · `chat/chat-cerebro-2024-07-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, IA, TSLA, macro
+- 2024-07-16 · Chat 10ampro (cerebro) — 2024-07-16 · `chat/chat-cerebro-2024-07-16.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA
+- 2024-07-15 · Chat 10ampro (cerebro) — 2024-07-15 · `chat/chat-cerebro-2024-07-15.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-07-13 · Chat 10ampro (cerebro) — 2024-07-13 · `chat/chat-cerebro-2024-07-13.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-07-12 · Chat 10ampro (cerebro) — 2024-07-12 · `chat/chat-cerebro-2024-07-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR
+- 2024-07-11 · Chat 10ampro (cerebro) — 2024-07-11 · `chat/chat-cerebro-2024-07-11.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, BTC
+- 2024-07-10 · Chat 10ampro (cerebro) — 2024-07-10 · `chat/chat-cerebro-2024-07-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NOS
+- 2024-07-08 · Chat 10ampro (cerebro) — 2024-07-08 · `chat/chat-cerebro-2024-07-08.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-07-07 · Chat 10ampro (cerebro) — 2024-07-07 · `chat/chat-cerebro-2024-07-07.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-07-06 · Chat 10ampro (cerebro) — 2024-07-06 · `chat/chat-cerebro-2024-07-06.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-07-05 · Chat 10ampro (cerebro) — 2024-07-05 · `chat/chat-cerebro-2024-07-05.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-07-04 · Chat 10ampro (cerebro) — 2024-07-04 · `chat/chat-cerebro-2024-07-04.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-07-03 · Chat 10ampro (cerebro) — 2024-07-03 · `chat/chat-cerebro-2024-07-03.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-07-02 · Chat 10ampro (cerebro) — 2024-07-02 · `chat/chat-cerebro-2024-07-02.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA
+- 2024-07-01 · Chat 10ampro (cerebro) — 2024-07-01 · `chat/chat-cerebro-2024-07-01.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-06-30 · Chat 10ampro (cerebro) — 2024-06-30 · `chat/chat-cerebro-2024-06-30.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-06-29 · Chat 10ampro (cerebro) — 2024-06-29 · `chat/chat-cerebro-2024-06-29.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-06-28 · Chat 10ampro (cerebro) — 2024-06-28 · `chat/chat-cerebro-2024-06-28.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HOOD, SOL, TSLA, PLTR, HIMS
+- 2024-06-27 · Chat 10ampro (cerebro) — 2024-06-27 · `chat/chat-cerebro-2024-06-27.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC
+- 2024-06-26 · Chat 10ampro (cerebro) — 2024-06-26 · `chat/chat-cerebro-2024-06-26.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA
+- 2024-06-25 · Chat 10ampro (cerebro) — 2024-06-25 · `chat/chat-cerebro-2024-06-25.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: XRP, BTC, SOL, ETH, NOS
+- 2024-06-24 · Chat 10ampro (cerebro) — 2024-06-24 · `chat/chat-cerebro-2024-06-24.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-06-23 · Chat 10ampro (cerebro) — 2024-06-23 · `chat/chat-cerebro-2024-06-23.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-06-22 · Chat 10ampro (cerebro) — 2024-06-22 · `chat/chat-cerebro-2024-06-22.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-06-21 · Chat 10ampro (cerebro) — 2024-06-21 · `chat/chat-cerebro-2024-06-21.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-06-20 · Chat 10ampro (cerebro) — 2024-06-20 · `chat/chat-cerebro-2024-06-20.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, BTC
+- 2024-06-19 · Chat 10ampro (cerebro) — 2024-06-19 · `chat/chat-cerebro-2024-06-19.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: stablecoins, BTC, ETH
+- 2024-06-18 · Chat 10ampro (cerebro) — 2024-06-18 · `chat/chat-cerebro-2024-06-18.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, PLTR, geopolitica
+- 2024-06-17 · Chat 10ampro (cerebro) — 2024-06-17 · `chat/chat-cerebro-2024-06-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-06-16 · Chat 10ampro (cerebro) — 2024-06-16 · `chat/chat-cerebro-2024-06-16.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2024-06-15 · Chat 10ampro (cerebro) — 2024-06-15 · `chat/chat-cerebro-2024-06-15.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL
+- 2024-06-14 · Chat 10ampro (cerebro) — 2024-06-14 · `chat/chat-cerebro-2024-06-14.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA
+- 2024-06-13 · Chat 10ampro (cerebro) — 2024-06-13 · `chat/chat-cerebro-2024-06-13.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, energia, macro, JUP, geopolitica
+- 2024-06-12 · Chat 10ampro (cerebro) — 2024-06-12 · `chat/chat-cerebro-2024-06-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, DLMM
+- 2024-06-11 · Chat 10ampro (cerebro) — 2024-06-11 · `chat/chat-cerebro-2024-06-11.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, PLTR, TSLA, JUP
+- 2024-06-10 · Chat 10ampro (cerebro) — 2024-06-10 · `chat/chat-cerebro-2024-06-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR
+- 2024-06-09 · Chat 10ampro (cerebro) — 2024-06-09 · `chat/chat-cerebro-2024-06-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR
+- 2024-06-08 · Chat 10ampro (cerebro) — 2024-06-08 · `chat/chat-cerebro-2024-06-08.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-06-07 · Chat 10ampro (cerebro) — 2024-06-07 · `chat/chat-cerebro-2024-06-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, stablecoins, SOL
+- 2024-06-06 · Chat 10ampro (cerebro) — 2024-06-06 · `chat/chat-cerebro-2024-06-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HIMS, SOL
+- 2024-06-05 · Chat 10ampro (cerebro) — 2024-06-05 · `chat/chat-cerebro-2024-06-05.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, NOS, BTC
+- 2024-06-04 · Chat 10ampro (cerebro) — 2024-06-04 · `chat/chat-cerebro-2024-06-04.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, macro
+- 2024-06-03 · Chat 10ampro (cerebro) — 2024-06-03 · `chat/chat-cerebro-2024-06-03.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-06-02 · Chat 10ampro (cerebro) — 2024-06-02 · `chat/chat-cerebro-2024-06-02.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-06-01 · Chat 10ampro (cerebro) — 2024-06-01 · `chat/chat-cerebro-2024-06-01.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-05-31 · Chat 10ampro (cerebro) — 2024-05-31 · `chat/chat-cerebro-2024-05-31.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: geopolitica, energia
+- 2024-05-30 · Chat 10ampro (cerebro) — 2024-05-30 · `chat/chat-cerebro-2024-05-30.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NOS
+- 2024-05-29 · Chat 10ampro (cerebro) — 2024-05-29 · `chat/chat-cerebro-2024-05-29.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, SOL, TSLA
+- 2024-05-28 · Chat 10ampro (cerebro) — 2024-05-28 · `chat/chat-cerebro-2024-05-28.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, TSLA, JUP, JTO, tesis_10x
+- 2024-05-27 · Chat 10ampro (cerebro) — 2024-05-27 · `chat/chat-cerebro-2024-05-27.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, energia, SOL, macro, geopolitica
+- 2024-05-26 · Chat 10ampro (cerebro) — 2024-05-26 · `chat/chat-cerebro-2024-05-26.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JTO
+- 2024-05-25 · Chat 10ampro (cerebro) — 2024-05-25 · `chat/chat-cerebro-2024-05-25.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, TSLA
+- 2024-05-24 · Chat 10ampro (cerebro) — 2024-05-24 · `chat/chat-cerebro-2024-05-24.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2024-05-23 · Chat 10ampro (cerebro) — 2024-05-23 · `chat/chat-cerebro-2024-05-23.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, JUP
+- 2024-05-22 · Chat 10ampro (cerebro) — 2024-05-22 · `chat/chat-cerebro-2024-05-22.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, ETH
+- 2024-05-21 · Chat 10ampro (cerebro) — 2024-05-21 · `chat/chat-cerebro-2024-05-21.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC
+- 2024-05-20 · Chat 10ampro (cerebro) — 2024-05-20 · `chat/chat-cerebro-2024-05-20.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: stablecoins, SOL, HOOD, PLTR, HIMS
+- 2024-05-19 · Chat 10ampro (cerebro) — 2024-05-19 · `chat/chat-cerebro-2024-05-19.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JTO, SOL
+- 2024-05-17 · Chat 10ampro (cerebro) — 2024-05-17 · `chat/chat-cerebro-2024-05-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-05-16 · Chat 10ampro (cerebro) — 2024-05-16 · `chat/chat-cerebro-2024-05-16.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: stablecoins, SOL
+- 2024-05-15 · Chat 10ampro (cerebro) — 2024-05-15 · `chat/chat-cerebro-2024-05-15.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-05-14 · Chat 10ampro (cerebro) — 2024-05-14 · `chat/chat-cerebro-2024-05-14.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, colombia, energia
+- 2024-05-13 · Chat 10ampro (cerebro) — 2024-05-13 · `chat/chat-cerebro-2024-05-13.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, NOS
+- 2024-05-12 · Chat 10ampro (cerebro) — 2024-05-12 · `chat/chat-cerebro-2024-05-12.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-05-11 · Chat 10ampro (cerebro) — 2024-05-11 · `chat/chat-cerebro-2024-05-11.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, DLMM
+- 2024-05-10 · Chat 10ampro (cerebro) — 2024-05-10 · `chat/chat-cerebro-2024-05-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, DLMM
+- 2024-05-09 · Chat 10ampro (cerebro) — 2024-05-09 · `chat/chat-cerebro-2024-05-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2024-05-08 · Chat 10ampro (cerebro) — 2024-05-08 · `chat/chat-cerebro-2024-05-08.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, DLMM, BTC, JUP
+- 2024-05-07 · Chat 10ampro (cerebro) — 2024-05-07 · `chat/chat-cerebro-2024-05-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, SOL, TSLA
+- 2024-05-06 · Chat 10ampro (cerebro) — 2024-05-06 · `chat/chat-cerebro-2024-05-06.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-05-05 · Chat 10ampro (cerebro) — 2024-05-05 · `chat/chat-cerebro-2024-05-05.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-05-04 · Chat 10ampro (cerebro) — 2024-05-04 · `chat/chat-cerebro-2024-05-04.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-05-03 · Chat 10ampro (cerebro) — 2024-05-03 · `chat/chat-cerebro-2024-05-03.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL
+- 2024-05-02 · Chat 10ampro (cerebro) — 2024-05-02 · `chat/chat-cerebro-2024-05-02.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, DLMM, JUP, JTO
+- 2024-05-01 · Chat 10ampro (cerebro) — 2024-05-01 · `chat/chat-cerebro-2024-05-01.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NOS, macro, BTC, SOL, IA, ETH
+- 2024-04-30 · Chat 10ampro (cerebro) — 2024-04-30 · `chat/chat-cerebro-2024-04-30.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JUP, DLMM, BTC, PLTR, macro
+- 2024-04-29 · Chat 10ampro (cerebro) — 2024-04-29 · `chat/chat-cerebro-2024-04-29.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: macro
+- 2024-04-28 · Chat 10ampro (cerebro) — 2024-04-28 · `chat/chat-cerebro-2024-04-28.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: DLMM, SOL
+- 2024-04-27 · Chat 10ampro (cerebro) — 2024-04-27 · `chat/chat-cerebro-2024-04-27.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, DLMM
+- 2024-04-26 · Chat 10ampro (cerebro) — 2024-04-26 · `chat/chat-cerebro-2024-04-26.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL
+- 2024-04-25 · Chat 10ampro (cerebro) — 2024-04-25 · `chat/chat-cerebro-2024-04-25.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, stablecoins, BTC, ETH, DLMM
+- 2024-04-24 · Chat 10ampro (cerebro) — 2024-04-24 · `chat/chat-cerebro-2024-04-24.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA
+- 2024-04-23 · Chat 10ampro (cerebro) — 2024-04-23 · `chat/chat-cerebro-2024-04-23.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: stablecoins, SOL, TSLA
+- 2024-04-22 · Chat 10ampro (cerebro) — 2024-04-22 · `chat/chat-cerebro-2024-04-22.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2024-04-21 · Chat 10ampro (cerebro) — 2024-04-21 · `chat/chat-cerebro-2024-04-21.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-04-20 · Chat 10ampro (cerebro) — 2024-04-20 · `chat/chat-cerebro-2024-04-20.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL
+- 2024-04-19 · Chat 10ampro (cerebro) — 2024-04-19 · `chat/chat-cerebro-2024-04-19.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, DLMM
+- 2024-04-18 · Chat 10ampro (cerebro) — 2024-04-18 · `chat/chat-cerebro-2024-04-18.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: DLMM, SOL
+- 2024-04-17 · Chat 10ampro (cerebro) — 2024-04-17 · `chat/chat-cerebro-2024-04-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2024-04-16 · Chat 10ampro (cerebro) — 2024-04-16 · `chat/chat-cerebro-2024-04-16.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-04-15 · Chat 10ampro (cerebro) — 2024-04-15 · `chat/chat-cerebro-2024-04-15.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-04-14 · Chat 10ampro (cerebro) — 2024-04-14 · `chat/chat-cerebro-2024-04-14.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-04-13 · Chat 10ampro (cerebro) — 2024-04-13 · `chat/chat-cerebro-2024-04-13.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, stablecoins
+- 2024-04-12 · Chat 10ampro (cerebro) — 2024-04-12 · `chat/chat-cerebro-2024-04-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: geopolitica, SOL
+- 2024-04-11 · Chat 10ampro (cerebro) — 2024-04-11 · `chat/chat-cerebro-2024-04-11.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC
+- 2024-04-10 · Chat 10ampro (cerebro) — 2024-04-10 · `chat/chat-cerebro-2024-04-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: macro, DLMM
+- 2024-04-09 · Chat 10ampro (cerebro) — 2024-04-09 · `chat/chat-cerebro-2024-04-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JUP, DLMM, colombia, memecoins
+- 2024-04-08 · Chat 10ampro (cerebro) — 2024-04-08 · `chat/chat-cerebro-2024-04-08.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, DLMM, stablecoins
+- 2024-04-07 · Chat 10ampro (cerebro) — 2024-04-07 · `chat/chat-cerebro-2024-04-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, DLMM, SOL, stablecoins, IA
+- 2024-04-06 · Chat 10ampro (cerebro) — 2024-04-06 · `chat/chat-cerebro-2024-04-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, memecoins
+- 2024-04-05 · Chat 10ampro (cerebro) — 2024-04-05 · `chat/chat-cerebro-2024-04-05.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-04-04 · Chat 10ampro (cerebro) — 2024-04-04 · `chat/chat-cerebro-2024-04-04.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, PLTR, TSLA, ETH, JTO
+- 2024-04-03 · Chat 10ampro (cerebro) — 2024-04-03 · `chat/chat-cerebro-2024-04-03.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA
+- 2024-04-02 · Chat 10ampro (cerebro) — 2024-04-02 · `chat/chat-cerebro-2024-04-02.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, TSLA, JUP, JTO
+- 2024-04-01 · Chat 10ampro (cerebro) — 2024-04-01 · `chat/chat-cerebro-2024-04-01.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JTO, IA
+- 2024-03-31 · Chat 10ampro (cerebro) — 2024-03-31 · `chat/chat-cerebro-2024-03-31.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-03-30 · Chat 10ampro (cerebro) — 2024-03-30 · `chat/chat-cerebro-2024-03-30.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JUP, BTC
+- 2024-03-29 · Chat 10ampro (cerebro) — 2024-03-29 · `chat/chat-cerebro-2024-03-29.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA
+- 2024-03-28 · Chat 10ampro (cerebro) — 2024-03-28 · `chat/chat-cerebro-2024-03-28.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: colombia
+- 2024-03-27 · Chat 10ampro (cerebro) — 2024-03-27 · `chat/chat-cerebro-2024-03-27.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HOOD
+- 2024-03-26 · Chat 10ampro (cerebro) — 2024-03-26 · `chat/chat-cerebro-2024-03-26.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-03-25 · Chat 10ampro (cerebro) — 2024-03-25 · `chat/chat-cerebro-2024-03-25.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, TSLA, JUP
+- 2024-03-24 · Chat 10ampro (cerebro) — 2024-03-24 · `chat/chat-cerebro-2024-03-24.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: macro
+- 2024-03-23 · Chat 10ampro (cerebro) — 2024-03-23 · `chat/chat-cerebro-2024-03-23.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-03-22 · Chat 10ampro (cerebro) — 2024-03-22 · `chat/chat-cerebro-2024-03-22.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JUP, emprendimiento
+- 2024-03-21 · Chat 10ampro (cerebro) — 2024-03-21 · `chat/chat-cerebro-2024-03-21.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, JUP, DLMM
+- 2024-03-20 · Chat 10ampro (cerebro) — 2024-03-20 · `chat/chat-cerebro-2024-03-20.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA
+- 2024-03-19 · Chat 10ampro (cerebro) — 2024-03-19 · `chat/chat-cerebro-2024-03-19.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-03-18 · Chat 10ampro (cerebro) — 2024-03-18 · `chat/chat-cerebro-2024-03-18.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, ETH
+- 2024-03-17 · Chat 10ampro (cerebro) — 2024-03-17 · `chat/chat-cerebro-2024-03-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JUP
+- 2024-03-16 · Chat 10ampro (cerebro) — 2024-03-16 · `chat/chat-cerebro-2024-03-16.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JUP, JTO, SOL, NOS
+- 2024-03-15 · Chat 10ampro (cerebro) — 2024-03-15 · `chat/chat-cerebro-2024-03-15.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-03-14 · Chat 10ampro (cerebro) — 2024-03-14 · `chat/chat-cerebro-2024-03-14.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, HOOD
+- 2024-03-13 · Chat 10ampro (cerebro) — 2024-03-13 · `chat/chat-cerebro-2024-03-13.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL
+- 2024-03-12 · Chat 10ampro (cerebro) — 2024-03-12 · `chat/chat-cerebro-2024-03-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JTO, stablecoins
+- 2024-03-11 · Chat 10ampro (cerebro) — 2024-03-11 · `chat/chat-cerebro-2024-03-11.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, portafolio
+- 2024-03-10 · Chat 10ampro (cerebro) — 2024-03-10 · `chat/chat-cerebro-2024-03-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HOOD
+- 2024-03-09 · Chat 10ampro (cerebro) — 2024-03-09 · `chat/chat-cerebro-2024-03-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, ETH
+- 2024-03-08 · Chat 10ampro (cerebro) — 2024-03-08 · `chat/chat-cerebro-2024-03-08.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HOOD
+- 2024-03-07 · Chat 10ampro (cerebro) — 2024-03-07 · `chat/chat-cerebro-2024-03-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, DLMM, PLTR
+- 2024-03-06 · Chat 10ampro (cerebro) — 2024-03-06 · `chat/chat-cerebro-2024-03-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: DLMM, PLTR, SOL, NOS
+- 2024-03-05 · Chat 10ampro (cerebro) — 2024-03-05 · `chat/chat-cerebro-2024-03-05.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JUP, HOOD, DLMM
+- 2024-03-04 · Chat 10ampro (cerebro) — 2024-03-04 · `chat/chat-cerebro-2024-03-04.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, TSLA, DLMM, JUP
+- 2024-03-03 · Chat 10ampro (cerebro) — 2024-03-03 · `chat/chat-cerebro-2024-03-03.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JUP
+- 2024-03-02 · Chat 10ampro (cerebro) — 2024-03-02 · `chat/chat-cerebro-2024-03-02.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: DLMM
+- 2024-03-01 · Chat 10ampro (cerebro) — 2024-03-01 · `chat/chat-cerebro-2024-03-01.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, HOOD
+- 2024-02-29 · Chat 10ampro (cerebro) — 2024-02-29 · `chat/chat-cerebro-2024-02-29.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JTO, NOS, JUP
+- 2024-02-28 · Chat 10ampro (cerebro) — 2024-02-28 · `chat/chat-cerebro-2024-02-28.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, NOS, TSLA, HOOD
+- 2024-02-27 · Chat 10ampro (cerebro) — 2024-02-27 · `chat/chat-cerebro-2024-02-27.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, JTO
+- 2024-02-26 · Chat 10ampro (cerebro) — 2024-02-26 · `chat/chat-cerebro-2024-02-26.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, ETH, SOL
+- 2024-02-25 · Chat 10ampro (cerebro) — 2024-02-25 · `chat/chat-cerebro-2024-02-25.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-24 · Chat 10ampro (cerebro) — 2024-02-24 · `chat/chat-cerebro-2024-02-24.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JUP, JTO, NOS, DLMM
+- 2024-02-23 · Chat 10ampro (cerebro) — 2024-02-23 · `chat/chat-cerebro-2024-02-23.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, JTO, SOL
+- 2024-02-22 · Chat 10ampro (cerebro) — 2024-02-22 · `chat/chat-cerebro-2024-02-22.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, DLMM, macro
+- 2024-02-21 · Chat 10ampro (cerebro) — 2024-02-21 · `chat/chat-cerebro-2024-02-21.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-20 · Chat 10ampro (cerebro) — 2024-02-20 · `chat/chat-cerebro-2024-02-20.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-19 · Chat 10ampro (cerebro) — 2024-02-19 · `chat/chat-cerebro-2024-02-19.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-18 · Chat 10ampro (cerebro) — 2024-02-18 · `chat/chat-cerebro-2024-02-18.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JUP, DLMM, SOL, JTO
+- 2024-02-17 · Chat 10ampro (cerebro) — 2024-02-17 · `chat/chat-cerebro-2024-02-17.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-16 · Chat 10ampro (cerebro) — 2024-02-16 · `chat/chat-cerebro-2024-02-16.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, colombia
+- 2024-02-15 · Chat 10ampro (cerebro) — 2024-02-15 · `chat/chat-cerebro-2024-02-15.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, NOS, emprendimiento
+- 2024-02-14 · Chat 10ampro (cerebro) — 2024-02-14 · `chat/chat-cerebro-2024-02-14.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: HOOD, PLTR, DLMM, SOL, NOS
+- 2024-02-13 · Chat 10ampro (cerebro) — 2024-02-13 · `chat/chat-cerebro-2024-02-13.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-02-12 · Chat 10ampro (cerebro) — 2024-02-12 · `chat/chat-cerebro-2024-02-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, NOS
+- 2024-02-11 · Chat 10ampro (cerebro) — 2024-02-11 · `chat/chat-cerebro-2024-02-11.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-10 · Chat 10ampro (cerebro) — 2024-02-10 · `chat/chat-cerebro-2024-02-10.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-09 · Chat 10ampro (cerebro) — 2024-02-09 · `chat/chat-cerebro-2024-02-09.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-08 · Chat 10ampro (cerebro) — 2024-02-08 · `chat/chat-cerebro-2024-02-08.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR
+- 2024-02-07 · Chat 10ampro (cerebro) — 2024-02-07 · `chat/chat-cerebro-2024-02-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, geopolitica
+- 2024-02-06 · Chat 10ampro (cerebro) — 2024-02-06 · `chat/chat-cerebro-2024-02-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR
+- 2024-02-05 · Chat 10ampro (cerebro) — 2024-02-05 · `chat/chat-cerebro-2024-02-05.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-04 · Chat 10ampro (cerebro) — 2024-02-04 · `chat/chat-cerebro-2024-02-04.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, BTC, SOL
+- 2024-02-03 · Chat 10ampro (cerebro) — 2024-02-03 · `chat/chat-cerebro-2024-02-03.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-02-02 · Chat 10ampro (cerebro) — 2024-02-02 · `chat/chat-cerebro-2024-02-02.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, BTC, PLTR, NOS, DLMM
+- 2024-02-01 · Chat 10ampro (cerebro) — 2024-02-01 · `chat/chat-cerebro-2024-02-01.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, JUP
+- 2024-01-31 · Chat 10ampro (cerebro) — 2024-01-31 · `chat/chat-cerebro-2024-01-31.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JUP, colombia
+- 2024-01-30 · Chat 10ampro (cerebro) — 2024-01-30 · `chat/chat-cerebro-2024-01-30.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-01-29 · Chat 10ampro (cerebro) — 2024-01-29 · `chat/chat-cerebro-2024-01-29.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JUP, SOL
+- 2024-01-28 · Chat 10ampro (cerebro) — 2024-01-28 · `chat/chat-cerebro-2024-01-28.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA
+- 2024-01-27 · Chat 10ampro (cerebro) — 2024-01-27 · `chat/chat-cerebro-2024-01-27.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-01-26 · Chat 10ampro (cerebro) — 2024-01-26 · `chat/chat-cerebro-2024-01-26.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JUP, tokenizacion
+- 2024-01-25 · Chat 10ampro (cerebro) — 2024-01-25 · `chat/chat-cerebro-2024-01-25.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-01-24 · Chat 10ampro (cerebro) — 2024-01-24 · `chat/chat-cerebro-2024-01-24.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-23 · Chat 10ampro (cerebro) — 2024-01-23 · `chat/chat-cerebro-2024-01-23.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-22 · Chat 10ampro (cerebro) — 2024-01-22 · `chat/chat-cerebro-2024-01-22.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, IA
+- 2024-01-21 · Chat 10ampro (cerebro) — 2024-01-21 · `chat/chat-cerebro-2024-01-21.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-20 · Chat 10ampro (cerebro) — 2024-01-20 · `chat/chat-cerebro-2024-01-20.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-19 · Chat 10ampro (cerebro) — 2024-01-19 · `chat/chat-cerebro-2024-01-19.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-01-18 · Chat 10ampro (cerebro) — 2024-01-18 · `chat/chat-cerebro-2024-01-18.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-01-17 · Chat 10ampro (cerebro) — 2024-01-17 · `chat/chat-cerebro-2024-01-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, macro
+- 2024-01-16 · Chat 10ampro (cerebro) — 2024-01-16 · `chat/chat-cerebro-2024-01-16.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, HOOD, PLTR, JTO
+- 2024-01-15 · Chat 10ampro (cerebro) — 2024-01-15 · `chat/chat-cerebro-2024-01-15.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, TSLA, JTO, IA
+- 2024-01-14 · Chat 10ampro (cerebro) — 2024-01-14 · `chat/chat-cerebro-2024-01-14.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, NOS
+- 2024-01-13 · Chat 10ampro (cerebro) — 2024-01-13 · `chat/chat-cerebro-2024-01-13.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, JTO
+- 2024-01-12 · Chat 10ampro (cerebro) — 2024-01-12 · `chat/chat-cerebro-2024-01-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, SOL, NOS, ETH, tokenizacion
+- 2024-01-11 · Chat 10ampro (cerebro) — 2024-01-11 · `chat/chat-cerebro-2024-01-11.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JTO, BTC, ETH, NOS, JUP
+- 2024-01-10 · Chat 10ampro (cerebro) — 2024-01-10 · `chat/chat-cerebro-2024-01-10.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, ETH
+- 2024-01-09 · Chat 10ampro (cerebro) — 2024-01-09 · `chat/chat-cerebro-2024-01-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2024-01-08 · Chat 10ampro (cerebro) — 2024-01-08 · `chat/chat-cerebro-2024-01-08.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NOS, SOL, BTC, JTO
+- 2024-01-07 · Chat 10ampro (cerebro) — 2024-01-07 · `chat/chat-cerebro-2024-01-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC
+- 2024-01-06 · Chat 10ampro (cerebro) — 2024-01-06 · `chat/chat-cerebro-2024-01-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, NOS, IA
+- 2024-01-05 · Chat 10ampro (cerebro) — 2024-01-05 · `chat/chat-cerebro-2024-01-05.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2024-01-04 · Chat 10ampro (cerebro) — 2024-01-04 · `chat/chat-cerebro-2024-01-04.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, NOS, SOL
+- 2024-01-03 · Chat 10ampro (cerebro) — 2024-01-03 · `chat/chat-cerebro-2024-01-03.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JTO, JUP, stablecoins, portafolio
+- 2024-01-02 · Chat 10ampro (cerebro) — 2024-01-02 · `chat/chat-cerebro-2024-01-02.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, TSLA, BTC, ETH, stablecoins
+- 2024-01-01 · Chat 10ampro (cerebro) — 2024-01-01 · `chat/chat-cerebro-2024-01-01.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JTO, SOL
+- 2023-12-31 · Chat 10ampro (cerebro) — 2023-12-31 · `chat/chat-cerebro-2023-12-31.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NOS, JTO, SOL
+- 2023-12-30 · Chat 10ampro (cerebro) — 2023-12-30 · `chat/chat-cerebro-2023-12-30.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JTO, JUP, stablecoins
+- 2023-12-29 · Chat 10ampro (cerebro) — 2023-12-29 · `chat/chat-cerebro-2023-12-29.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NOS, SOL
+- 2023-12-28 · Chat 10ampro (cerebro) — 2023-12-28 · `chat/chat-cerebro-2023-12-28.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-27 · Chat 10ampro (cerebro) — 2023-12-27 · `chat/chat-cerebro-2023-12-27.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-26 · Chat 10ampro (cerebro) — 2023-12-26 · `chat/chat-cerebro-2023-12-26.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-25 · Chat 10ampro (cerebro) — 2023-12-25 · `chat/chat-cerebro-2023-12-25.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, NOS
+- 2023-12-24 · Chat 10ampro (cerebro) — 2023-12-24 · `chat/chat-cerebro-2023-12-24.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JTO
+- 2023-12-23 · Chat 10ampro (cerebro) — 2023-12-23 · `chat/chat-cerebro-2023-12-23.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2023-12-22 · Chat 10ampro (cerebro) — 2023-12-22 · `chat/chat-cerebro-2023-12-22.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-21 · Chat 10ampro (cerebro) — 2023-12-21 · `chat/chat-cerebro-2023-12-21.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JTO
+- 2023-12-20 · Chat 10ampro (cerebro) — 2023-12-20 · `chat/chat-cerebro-2023-12-20.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JTO
+- 2023-12-19 · Chat 10ampro (cerebro) — 2023-12-19 · `chat/chat-cerebro-2023-12-19.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, stablecoins, colombia, NOS
+- 2023-12-18 · Chat 10ampro (cerebro) — 2023-12-18 · `chat/chat-cerebro-2023-12-18.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-17 · Chat 10ampro (cerebro) — 2023-12-17 · `chat/chat-cerebro-2023-12-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2023-12-16 · Chat 10ampro (cerebro) — 2023-12-16 · `chat/chat-cerebro-2023-12-16.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-15 · Chat 10ampro (cerebro) — 2023-12-15 · `chat/chat-cerebro-2023-12-15.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-14 · Chat 10ampro (cerebro) — 2023-12-14 · `chat/chat-cerebro-2023-12-14.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2023-12-13 · Chat 10ampro (cerebro) — 2023-12-13 · `chat/chat-cerebro-2023-12-13.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: TSLA, SOL
+- 2023-12-12 · Chat 10ampro (cerebro) — 2023-12-12 · `chat/chat-cerebro-2023-12-12.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: PLTR, NOS
+- 2023-12-11 · Chat 10ampro (cerebro) — 2023-12-11 · `chat/chat-cerebro-2023-12-11.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JTO, BTC, SOL
+- 2023-12-10 · Chat 10ampro (cerebro) — 2023-12-10 · `chat/chat-cerebro-2023-12-10.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-09 · Chat 10ampro (cerebro) — 2023-12-09 · `chat/chat-cerebro-2023-12-09.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2023-12-08 · Chat 10ampro (cerebro) — 2023-12-08 · `chat/chat-cerebro-2023-12-08.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2023-12-07 · Chat 10ampro (cerebro) — 2023-12-07 · `chat/chat-cerebro-2023-12-07.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JTO, SOL
+- 2023-12-06 · Chat 10ampro (cerebro) — 2023-12-06 · `chat/chat-cerebro-2023-12-06.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, JTO
+- 2023-12-05 · Chat 10ampro (cerebro) — 2023-12-05 · `chat/chat-cerebro-2023-12-05.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL
+- 2023-12-04 · Chat 10ampro (cerebro) — 2023-12-04 · `chat/chat-cerebro-2023-12-04.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: BTC, JTO, SOL, ETH, JUP
+- 2023-12-03 · Chat 10ampro (cerebro) — 2023-12-03 · `chat/chat-cerebro-2023-12-03.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: JUP
+- 2023-11-15 · Chat 10ampro (cerebro) — 2023-11-15 · `chat/chat-cerebro-2023-11-15.md` · (chat privado, sin URL: cita Substack/YouTube)

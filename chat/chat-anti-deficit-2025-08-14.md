@@ -60,7 +60,7 @@ No tiene chance ni ungido por la familia de Miguel y AUV?
 
 **Hernán:** $PLTR I am a long term Palantir retail investor. Here are my thoughts about the Q2 earnings call. CEO Karp has always looked out for retail. I see him as very trustworthy indeed. He said he will continue to deliver. He seemed mega confident. I believe he knows the outline of Q3 and Q4 already and that his mega confidence is fact-based. I believe beat of Q3 and Q4 estimates could be based on some huge NATO contracts about to be signed. I also believe increase of NDR for existing customers is underway. In addition, increased commercial adoption rate is highly likely. Therefore, my own personal decision is to stay with Palantir, not selling a single share despite intense chatter of high valuation. I believe an Ontology is mandatory for any org serious about improving themselves. CAUTION: I don’t KNOW any of this. I am just a guy sharing my current thought process. My intention is not to pump. Absolutely not financial advice. What are your thoughts? I would love to hear from you.
 
-**Hernán:** Q Linares vuelve en sept, por ahora esta disfrutando del mediterraneo
+**Hernán:** Q [persona] vuelve en sept, por ahora esta disfrutando del mediterraneo
 
 **Hernán:** @[miembro] hagamos un ep de tools de chatgpt
 
