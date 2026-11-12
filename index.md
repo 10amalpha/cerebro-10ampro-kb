@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 172 posts de Substack (54 exclusivos para suscriptores), 281 episodios de YouTube, 1919 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 172 posts de Substack (54 exclusivos para suscriptores), 282 episodios de YouTube, 1919 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -64,7 +64,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
 - 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
 
-### TSLA (201)
+### TSLA (202)
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 - 2025-07-06 · Tesla Será la Compañía mas Valiosa del Mundo · `substack/2025-07-06-tesla-sera-la-compania-mas-valiosa.md` · https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa
 - 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
@@ -504,7 +504,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-07-04 · E101: ¿Qué es Wenia?. La apuesta de Bancolombia en el mundo Crypto. Pablo Arboleda · `youtube/2024-07-04-5n6aNZKkbuU.md` · https://www.youtube.com/watch?v=5n6aNZKkbuU
 - 2025-01-02 · E130: Global66 logró lo que gobiernos y bancos no pudieron; unificar financieramente a Latam. · `youtube/2025-01-02-Dx8EICNFqy4.md` · https://www.youtube.com/watch?v=Dx8EICNFqy4
 
-### IA (227)
+### IA (228)
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
 - 2026-07-29 · La élite de la inteligencia artificial: cinco trayectorias que están reescribiendo el siglo XXI 🔒 · `substack/2026-07-29-la-elite-de-la-inteligencia-artificial.md` · https://www.10am.pro/p/la-elite-de-la-inteligencia-artificial
 - 2024-05-03 · E92: ¿La IA será un nuevo Dios?. Gerardo Delgado. Nvidia · `youtube/2024-05-03-62xBbvvxMf4.md` · https://www.youtube.com/watch?v=62xBbvvxMf4
@@ -558,7 +558,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. 📱 · `youtube/2026-10-09-oZEJJOvUKBs.md` · https://www.youtube.com/watch?v=oZEJJOvUKBs
 - 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
 
-### colombia (301)
+### colombia (302)
 - 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
 - 2025-08-28 · E168: La urgencia de la Colombia ganadora. Sebastián Salazar. Estrategia Emergente · `youtube/2025-08-28-FykuBZB69KU.md` · https://www.youtube.com/watch?v=FykuBZB69KU
@@ -575,6 +575,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-06-25 · E214: EPM. Empresas Políticas de Medellín. · `youtube/2026-06-25-6a19WXpUedM.md` · https://www.youtube.com/watch?v=6a19WXpUedM
 - 2023-12-08 · E71: ¿Jaque al metro de Medellín?. Ramiro Valencia · `youtube/2023-12-08-MbxpIEolyvo.md` · https://www.youtube.com/watch?v=MbxpIEolyvo
 - 2024-01-19 · E77: "A Medellín se la robaron, pero la vamos a recuperar". Sebastian López. Concejal de Medellín. · `youtube/2024-01-19-f2llI_SjCHE.md` · https://www.youtube.com/watch?v=f2llI_SjCHE
+- 2026-11-12 · La urgencia de pensar en macroproyectos para Antioquia. Alejandro Arbeláez. E231 · `youtube/2026-11-12-8YIJmA3Ksl4.md` · https://www.youtube.com/watch?v=8YIJmA3Ksl4
 - 2023-11-10 · E67: Medellín, epicentro mundial de AirBnB · `youtube/2023-11-10-qcarRIrQd70.md` · https://www.youtube.com/watch?v=qcarRIrQd70
 - 2023-07-28 · E51: La Medellín que nos soñamos. Lucas Gómez Cuartas · `youtube/2023-07-28-ZndwNhc68gY.md` · https://www.youtube.com/watch?v=ZndwNhc68gY
 - 2025-09-18 · E171: 216 entidades que sobran en Colombia: la propuesta de Daniel Raisbeck contra la corrupción. · `youtube/2025-09-18-J7dS5RTHCy4.md` · https://www.youtube.com/watch?v=J7dS5RTHCy4
@@ -583,7 +584,6 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-12-05 · E126: Santiago Botero se lanza a la presidencia de 🇨🇴 con ideas  de Milei, Bukele y Trump · `youtube/2024-12-05-RjozFTf6Sqk.md` · https://www.youtube.com/watch?v=RjozFTf6Sqk
 - 2023-04-07 · E34: Preocupados por Medellín en 10ampro · `youtube/2023-04-07-0X7H6fX4bWc.md` · https://www.youtube.com/watch?v=0X7H6fX4bWc
 - 2025-08-07 · E165: Medellín, capital crypto de Latinoamérica. Cripto Latin Fest · `youtube/2025-08-07-cgdihfnJVbY.md` · https://www.youtube.com/watch?v=cgdihfnJVbY
-- 2023-09-15 · E58: Cara a cara con Pablo Escobar y el enredo de HidroItuango. Ramiro Valencia · `youtube/2023-09-15-dNuTQDTk5kI.md` · https://www.youtube.com/watch?v=dNuTQDTk5kI
 
 ### hurdle_rate (5)
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
@@ -663,7 +663,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-04-09 · Chat 10ampro (cerebro) — 2024-04-09 · `chat/chat-cerebro-2024-04-09.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra
 
-### energia (204)
+### energia (205)
 - 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
 - 2026-11-05 · La era de los ⚡️ Gigavatios: Por qué los megas ya no alcanzan. E230 · `youtube/2026-11-05-SyDYxjhPH2M.md` · https://www.youtube.com/watch?v=SyDYxjhPH2M
 - 2025-06-19 · E158: Los países ricos ya eligieron: ⚛️ Energía Nuclear . Lisandro Pérez 🇦🇷 · `youtube/2025-06-19-wXSM3Qb3eC4.md` · https://www.youtube.com/watch?v=wXSM3Qb3eC4
@@ -687,10 +687,10 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-02-28 · E197: El voto más caro: Un Estado grande que no entiende el impacto de IA y energía · `youtube/2026-02-28-YAzGwBJ9nns.md` · https://www.youtube.com/watch?v=YAzGwBJ9nns
 - 2024-04-12 · E89: Blockchain crece el doble de rápido que Internet y Bitcoin es la clave. Camilo Botero · `youtube/2024-04-12-fqkU9B5Ie6s.md` · https://www.youtube.com/watch?v=fqkU9B5Ie6s
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
+- 2026-11-12 · La urgencia de pensar en macroproyectos para Antioquia. Alejandro Arbeláez. E231 · `youtube/2026-11-12-8YIJmA3Ksl4.md` · https://www.youtube.com/watch?v=8YIJmA3Ksl4
 - 2026-08-15 · Inteligencia colectiva con Colombia · `youtube/2026-08-15-k7hgZ_hY4IY.md` · https://www.youtube.com/watch?v=k7hgZ_hY4IY
-- 2026-09-17 · Crisis energética en Colombia. El gas que necesitamos. Alberto Consuegra. E225 · `youtube/2026-09-17-SfYAGq1QPrA.md` · https://www.youtube.com/watch?v=SfYAGq1QPrA
 
-### emprendimiento (140)
+### emprendimiento (141)
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
 - 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
 - 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
@@ -894,6 +894,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## YouTube (todos)
 
+- 2026-11-12 · La urgencia de pensar en macroproyectos para Antioquia. Alejandro Arbeláez. E231 · `youtube/2026-11-12-8YIJmA3Ksl4.md` · https://www.youtube.com/watch?v=8YIJmA3Ksl4 · temas: colombia, energia, IA, emprendimiento, TSLA
 - 2026-11-06 · ⚡️ El Día D. Todos los invitados: ¿En qué estamos invirtiendo? · `youtube/2026-11-06-Djh6lnAU9hg.md` · https://www.youtube.com/watch?v=Djh6lnAU9hg · temas: BTC, SOL, PLTR, IA, energia, TSLA
 - 2026-11-05 · La era de los ⚡️ Gigavatios: Por qué los megas ya no alcanzan. E230 · `youtube/2026-11-05-SyDYxjhPH2M.md` · https://www.youtube.com/watch?v=SyDYxjhPH2M · temas: energia, colombia, SOL, geopolitica, IA
 - 2026-11-04 · ⚡️ El Día D. Andrés Felipe Arias: ¿Qué es la Ontología? · `youtube/2026-11-04-Ybja3TsU8MM.md` · https://www.youtube.com/watch?v=Ybja3TsU8MM · temas: PLTR, IA
