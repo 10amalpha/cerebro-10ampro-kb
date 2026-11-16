@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 173 posts de Substack (54 exclusivos para suscriptores), 283 episodios de YouTube, 1937 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 173 posts de Substack (54 exclusivos para suscriptores), 283 episodios de YouTube, 1949 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -172,7 +172,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-05-22 · E154: ¿Va ganando o perdiendo el portafolio de 10AMPRO en 2025? Descúbrelo en este análisis. · `youtube/2025-05-22-RG83P3KXJ5A.md` · https://www.youtube.com/watch?v=RG83P3KXJ5A
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
 
-### ETH (46)
+### ETH (47)
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
 - 2024-11-14 · E123: I never look at price. Kyle Samani - Multicoin Capital · `youtube/2024-11-14-CQB6erpyd6Y.md` · https://www.youtube.com/watch?v=CQB6erpyd6Y
 - 2023-07-21 · E50: El padrino del conocimiento ALPHA, Joe McCann, fundador de Node.JS y Asymmetric Capital. · `youtube/2023-07-21-SHEyv89MvM4.md` · https://www.youtube.com/watch?v=SHEyv89MvM4
@@ -1181,7 +1181,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## X (archivos mensuales)
 
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: PLTR, IA, colombia, geopolitica, HIMS, energia
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: PLTR, IA, colombia, geopolitica, energia, HIMS
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, IA, PLTR
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
