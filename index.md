@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 173 posts de Substack (54 exclusivos para suscriptores), 283 episodios de YouTube, 1949 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 173 posts de Substack (54 exclusivos para suscriptores), 283 episodios de YouTube, 1960 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -477,7 +477,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
 
-### tokenizacion (31)
+### tokenizacion (32)
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
 - 2025-09-04 · E169: Quien sepa gobernar tokens y electrones, gobernará el futuro. Gabriel Merlo 🇪🇸 · `youtube/2025-09-04-JdZCcg7QtLA.md` · https://www.youtube.com/watch?v=JdZCcg7QtLA
 - 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
@@ -521,9 +521,9 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-02-06 · E193:  Mercados en Ebullición + IA Autónoma: OpenClaw🦞  toma el control (vs Claude y Gemini) · `youtube/2026-02-06-pNrD2sFMYXU.md` · https://www.youtube.com/watch?v=pNrD2sFMYXU
 - 2026-02-12 · E194: Un meteorito  ☄️ llamado Inteligencia Artificial 🤖. · `youtube/2026-02-12-ticA_GG3M4w.md` · https://www.youtube.com/watch?v=ticA_GG3M4w
 - 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
 - 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
 - 2025-11-06 · E178: La era de la abundancia. Gerardo Delgado / Nvidia · `youtube/2025-11-06-QgWVt-cLwHs.md` · https://www.youtube.com/watch?v=QgWVt-cLwHs
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
 - 2026-09-23 · Elon Musk vs Tony Stark: Cuando la Realidad Supera la Ciencia Ficción  🔒 · `substack/2026-09-23-elon-musk-vs-tony-stark-cuando-la.md` · https://www.10am.pro/p/elon-musk-vs-tony-stark-cuando-la
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 - 2022-12-16 · E18: Novedades AI. ¿Cuál es el verdadero Morgan Freeman? OTTER, mi propia asistente AI. ¿Qué es MEV? · `youtube/2022-12-16-fAXriA9gQHo.md` · https://www.youtube.com/watch?v=fAXriA9gQHo
