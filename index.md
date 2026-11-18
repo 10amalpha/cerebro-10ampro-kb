@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 173 posts de Substack (54 exclusivos para suscriptores), 283 episodios de YouTube, 1960 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 173 posts de Substack (54 exclusivos para suscriptores), 283 episodios de YouTube, 1973 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -308,11 +308,11 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-11-23 · Por Qué la Revolución de AI No Es la Burbuja de las "Punto Com"  · `substack/2025-11-23-por-que-la-revolucion-de-ai-no-es.md` · https://www.10am.pro/p/por-que-la-revolucion-de-ai-no-es
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
 - 2026-11-14 · ⚡ Episodio Especial: El cisne negro de Jensen Huang. Nvidia · `youtube/2026-11-14-kP67mA_pwjU.md` · https://www.youtube.com/watch?v=kP67mA_pwjU
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
 - 2025-06-01 · 1 TERAWATT: LA CARRERA ENERGÉTICA DE EE.UU. · `substack/2025-06-01-1-terawatt-la-carrera-energetica.md` · https://www.10am.pro/p/1-terawatt-la-carrera-energetica
 - 2024-11-28 · E125: La nueva guerra fría. Guillermo Valencia. Macrowise & Scale · `youtube/2024-11-28-EW6XALnksjI.md` · https://www.youtube.com/watch?v=EW6XALnksjI
 - 2026-02-05 · E192: Duolingo no es una app: es la IA que está redefiniendo cómo aprendemos. Antonio Linares · `youtube/2026-02-05-7dMgmo76Dqw.md` · https://www.youtube.com/watch?v=7dMgmo76Dqw
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
 - 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
 - 2025-08-31 · Colossus: la guerra de la IA se gana con logística · `substack/2025-08-31-colossus-la-guerra-de-la-ia-se-gana.md` · https://www.10am.pro/p/colossus-la-guerra-de-la-ia-se-gana
@@ -514,6 +514,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-11-21 · E124: Aplicando Inteligencia Artificial en 10AMPRO. Con Felipe Aguirre. · `youtube/2024-11-21-DwwDKZPPt9I.md` · https://www.youtube.com/watch?v=DwwDKZPPt9I
 - 2026-06-09 · El Primer Cliente Que No Respira (2nda parte) 🔒 · `substack/2026-06-09-el-primer-cliente-que-no-respira.md` · https://www.10am.pro/p/el-primer-cliente-que-no-respira
 - 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
 - 2024-07-11 · E102: Entre Matrix y Nostradamus. Camilo Botero · `youtube/2024-07-11-quDaRVKfNSo.md` · https://www.youtube.com/watch?v=quDaRVKfNSo
 - 2026-03-05 · E198: 2028 🤯  el año que todos quedaremos sin trabajo · `youtube/2026-03-05-5QWEatCbScI.md` · https://www.youtube.com/watch?v=5QWEatCbScI
 - 2026-02-24 · Estamos Usando Solo el 5% de Claude Code 🔒 · `substack/2026-02-24-estamos-usando-solo-el-5-de-claude.md` · https://www.10am.pro/p/estamos-usando-solo-el-5-de-claude
@@ -521,7 +522,6 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-02-06 · E193:  Mercados en Ebullición + IA Autónoma: OpenClaw🦞  toma el control (vs Claude y Gemini) · `youtube/2026-02-06-pNrD2sFMYXU.md` · https://www.youtube.com/watch?v=pNrD2sFMYXU
 - 2026-02-12 · E194: Un meteorito  ☄️ llamado Inteligencia Artificial 🤖. · `youtube/2026-02-12-ticA_GG3M4w.md` · https://www.youtube.com/watch?v=ticA_GG3M4w
 - 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
 - 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
 - 2025-11-06 · E178: La era de la abundancia. Gerardo Delgado / Nvidia · `youtube/2025-11-06-QgWVt-cLwHs.md` · https://www.youtube.com/watch?v=QgWVt-cLwHs
 - 2026-09-23 · Elon Musk vs Tony Stark: Cuando la Realidad Supera la Ciencia Ficción  🔒 · `substack/2026-09-23-elon-musk-vs-tony-stark-cuando-la.md` · https://www.10am.pro/p/elon-musk-vs-tony-stark-cuando-la
@@ -1181,7 +1181,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## X (archivos mensuales)
 
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: PLTR, IA, colombia, geopolitica, energia, HIMS
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: IA, PLTR, colombia, SOL, geopolitica, energia
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, IA, PLTR
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
