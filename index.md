@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 173 posts de Substack (54 exclusivos para suscriptores), 283 episodios de YouTube, 1973 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 173 posts de Substack (54 exclusivos para suscriptores), 284 episodios de YouTube, 1977 posts de X en 12 archivos mensuales, 382 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -504,7 +504,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-07-04 · E101: ¿Qué es Wenia?. La apuesta de Bancolombia en el mundo Crypto. Pablo Arboleda · `youtube/2024-07-04-5n6aNZKkbuU.md` · https://www.youtube.com/watch?v=5n6aNZKkbuU
 - 2025-01-02 · E130: Global66 logró lo que gobiernos y bancos no pudieron; unificar financieramente a Latam. · `youtube/2025-01-02-Dx8EICNFqy4.md` · https://www.youtube.com/watch?v=Dx8EICNFqy4
 
-### IA (229)
+### IA (230)
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
 - 2026-07-29 · La élite de la inteligencia artificial: cinco trayectorias que están reescribiendo el siglo XXI 🔒 · `substack/2026-07-29-la-elite-de-la-inteligencia-artificial.md` · https://www.10am.pro/p/la-elite-de-la-inteligencia-artificial
 - 2024-05-03 · E92: ¿La IA será un nuevo Dios?. Gerardo Delgado. Nvidia · `youtube/2024-05-03-62xBbvvxMf4.md` · https://www.youtube.com/watch?v=62xBbvvxMf4
@@ -512,6 +512,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-10-14 · El Dia D en Vivo. 14 de octubre de 2026 · `youtube/2026-10-14-KF3J__PZSxk.md` · https://www.youtube.com/watch?v=KF3J__PZSxk
 - 2025-01-23 · E134: La era del Solopreneur. ¿Cómo cambiar una nómina de 5 personas en agentes de AI? Dario Palacio · `youtube/2025-01-23-3rzUODpb6Oo.md` · https://www.youtube.com/watch?v=3rzUODpb6Oo
 - 2024-11-21 · E124: Aplicando Inteligencia Artificial en 10AMPRO. Con Felipe Aguirre. · `youtube/2024-11-21-DwwDKZPPt9I.md` · https://www.youtube.com/watch?v=DwwDKZPPt9I
+- 2026-11-19 · El problema de las empresas no es tecnológico, es cultural. Adrian Mastronardi. E232 · `youtube/2026-11-19-BHSfw6dmCCw.md` · https://www.youtube.com/watch?v=BHSfw6dmCCw
 - 2026-06-09 · El Primer Cliente Que No Respira (2nda parte) 🔒 · `substack/2026-06-09-el-primer-cliente-que-no-respira.md` · https://www.10am.pro/p/el-primer-cliente-que-no-respira
 - 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
 - 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
@@ -529,7 +530,6 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2022-12-16 · E18: Novedades AI. ¿Cuál es el verdadero Morgan Freeman? OTTER, mi propia asistente AI. ¿Qué es MEV? · `youtube/2022-12-16-fAXriA9gQHo.md` · https://www.youtube.com/watch?v=fAXriA9gQHo
 - 2025-12-04 · E183: Michael Saylor, BTC y la Burbuja de la Inteligencia Artificial. Análisis Real. Sebastián Toro · `youtube/2025-12-04-BmpA_Tel6-0.md` · https://www.youtube.com/watch?v=BmpA_Tel6-0
 - 2026-10-26 · Chat 10ampro (cerebro) — 2026-10-26 · `chat/chat-cerebro-2026-10-26.md` · (chat privado, sin URL: cita Substack/YouTube)
-- 2023-04-14 · E36: Aumenta tu productividad con ChatGPT 🤖 : Ejemplos prácticos de uso en la vida real 💪 · `youtube/2023-04-14-THrWSI4Lq2U.md` · https://www.youtube.com/watch?v=THrWSI4Lq2U
 
 ### longevidad (61)
 - 2026-10-14 · El Dia D en Vivo. 14 de octubre de 2026 · `youtube/2026-10-14-KF3J__PZSxk.md` · https://www.youtube.com/watch?v=KF3J__PZSxk
@@ -558,7 +558,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-10-09 · La cuenta regresiva. Última previa al Día D: geopolítica, energía y elecciones en Estados Unidos. 📱 · `youtube/2026-10-09-oZEJJOvUKBs.md` · https://www.youtube.com/watch?v=oZEJJOvUKBs
 - 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
 
-### colombia (303)
+### colombia (304)
 - 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
 - 2025-08-28 · E168: La urgencia de la Colombia ganadora. Sebastián Salazar. Estrategia Emergente · `youtube/2025-08-28-FykuBZB69KU.md` · https://www.youtube.com/watch?v=FykuBZB69KU
@@ -690,7 +690,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-11-12 · La urgencia de pensar en macroproyectos para Antioquia. Alejandro Arbeláez. E231 · `youtube/2026-11-12-8YIJmA3Ksl4.md` · https://www.youtube.com/watch?v=8YIJmA3Ksl4
 - 2026-08-15 · Inteligencia colectiva con Colombia · `youtube/2026-08-15-k7hgZ_hY4IY.md` · https://www.youtube.com/watch?v=k7hgZ_hY4IY
 
-### emprendimiento (141)
+### emprendimiento (142)
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
 - 2026-08-19 · Dia 2 - 10AMPRO en Conexión Summit Medellín 2026 · `youtube/2026-08-19-AMjfjxB4Hc0.md` · https://www.youtube.com/watch?v=AMjfjxB4Hc0
 - 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
@@ -702,6 +702,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-03-22 · E86: Motobombas igual Silicon Valley · `youtube/2024-03-22-8N_hbD83GM8.md` · https://www.youtube.com/watch?v=8N_hbD83GM8
 - 2023-05-12 · E40: Banco líder de Colombia invierte en HomeCapital. Los nuevos emprendedores, con Alejandro Franco · `youtube/2023-05-12-vWspqxoVOFs.md` · https://www.youtube.com/watch?v=vWspqxoVOFs
 - 2024-03-15 · E85: Creando un fondo de inversión en Estados Unidos. Zenda Capital. Esteban Reyes · `youtube/2024-03-15-CtVGDRnPzU0.md` · https://www.youtube.com/watch?v=CtVGDRnPzU0
+- 2026-11-19 · El problema de las empresas no es tecnológico, es cultural. Adrian Mastronardi. E232 · `youtube/2026-11-19-BHSfw6dmCCw.md` · https://www.youtube.com/watch?v=BHSfw6dmCCw
 - 2023-07-14 · E49: Hernán Kazah. De fundador de Mercado Libre a crear el fondo de inversión mas grande de Latam. · `youtube/2023-07-14-1xKVc5ZSncQ.md` · https://www.youtube.com/watch?v=1xKVc5ZSncQ
 - 2024-08-01 · E105: ¿Cómo pensar en 1000x? Javier Villamizar, Softbank. · `youtube/2024-08-01-VN1OIzdttrM.md` · https://www.youtube.com/watch?v=VN1OIzdttrM
 - 2025-05-29 · E155: De mecánico de aviones a vender su empresa a MasterCard 🛫💰 | La historia de Edrizo de la Cruz · `youtube/2025-05-29-3qhuAm8ITNc.md` · https://www.youtube.com/watch?v=3qhuAm8ITNc
@@ -715,7 +716,6 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-02-13 · E138: ¿Cómo activar D.O.G.E en Colombia?. Mauricio Cardenas · `youtube/2025-02-13-A0mh0i4RauM.md` · https://www.youtube.com/watch?v=A0mh0i4RauM
 - 2025-11-16 · E180: Solana, Palantir y Tesla. Equipo 10AMPRO · `youtube/2025-11-16-FpcWtNhmDWY.md` · https://www.youtube.com/watch?v=FpcWtNhmDWY
 - 2026-04-15 · No Es Lloradera. Es Física · `substack/2026-04-15-no-es-lloradera-es-opcionalidad.md` · https://www.10am.pro/p/no-es-lloradera-es-opcionalidad
-- 2024-10-10 · E116: Del colegio hacia Tesla. Martín Peláez. CTO Plenti · `youtube/2024-10-10-oYRaIsFZTMg.md` · https://www.youtube.com/watch?v=oYRaIsFZTMg
 
 ## Substack (todos)
 
@@ -895,6 +895,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## YouTube (todos)
 
+- 2026-11-19 · El problema de las empresas no es tecnológico, es cultural. Adrian Mastronardi. E232 · `youtube/2026-11-19-BHSfw6dmCCw.md` · https://www.youtube.com/watch?v=BHSfw6dmCCw · temas: IA, emprendimiento, colombia
 - 2026-11-14 · ⚡ Episodio Especial: El cisne negro de Jensen Huang. Nvidia · `youtube/2026-11-14-kP67mA_pwjU.md` · https://www.youtube.com/watch?v=kP67mA_pwjU · temas: colombia, IA, geopolitica, macro, energia, TSLA
 - 2026-11-12 · La urgencia de pensar en macroproyectos para Antioquia. Alejandro Arbeláez. E231 · `youtube/2026-11-12-8YIJmA3Ksl4.md` · https://www.youtube.com/watch?v=8YIJmA3Ksl4 · temas: colombia, energia, IA, emprendimiento, TSLA
 - 2026-11-06 · ⚡️ El Día D. Todos los invitados: ¿En qué estamos invirtiendo? · `youtube/2026-11-06-Djh6lnAU9hg.md` · https://www.youtube.com/watch?v=Djh6lnAU9hg · temas: BTC, SOL, PLTR, IA, energia, TSLA
