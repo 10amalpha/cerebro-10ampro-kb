@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 173 posts de Substack (54 exclusivos para suscriptores), 284 episodios de YouTube, 1977 posts de X en 12 archivos mensuales, 391 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 173 posts de Substack (54 exclusivos para suscriptores), 284 episodios de YouTube, 1982 posts de X en 12 archivos mensuales, 391 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 

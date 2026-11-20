@@ -12,7 +12,7 @@ Se actualiza solo todos los días.
 |---|---|
 | `substack/` | 173 posts de [10am.pro](https://www.10am.pro), texto completo (54 son exclusivos para suscriptores y llevan `paywalled: true`) |
 | `youtube/` | 284 episodios y lives del canal [@10ampro](https://www.youtube.com/@10ampro) con transcripción |
-| `x/` | 1977 posts de [@holdmybirra](https://x.com/holdmybirra), un archivo por mes (desde dic. 2025) |
+| `x/` | 1982 posts de [@holdmybirra](https://x.com/holdmybirra), un archivo por mes (desde dic. 2025) |
 | `chat/` | 391 notas diarias del chat de WhatsApp de 10ampro, anonimizadas: solo mensajes de Hernán y miembros autorizados, sin nombres ni teléfonos de otros miembros |
 | `index.md` | Índice por tema y ticker (BTC, SOL, TSLA, HOOD, PLTR, HIMS, DLMM, macro…) con rutas y URLs |
 | `topics.json` | Mapa compacto tema/ticker → archivos, para búsqueda rápida |
