@@ -75,6 +75,23 @@ The caos
 
 **Andrés Felipe Arias:** Sell puts
 
+**Nathanel Serebrenik:** https://x.com/autismcapital/status/2118075285921034505
+
+**Nathanel Serebrenik:** https://x.com/tonyvenet274186/status/2118174587762401291
+
+**Nathanel Serebrenik:** Para los amigos anti-cash fisico, anti gold-fisico.......siempre hay que cuidarse de los eventos de cola larga
+
+**Nathanel Serebrenik:** Un rolex ayuda a cruzar una frontera y a salvar la vida, no se olviden de eso
+
+**Nathanel Serebrenik:** Anecdota dia D.
+En el frisby de Eafit solo aceptaban cash y un amigo termino invitado por mi que no pudo pagar.
+
+A otro conocido me lo encotre afuera embalado con el celular descargado pa pedir Uber y sin efectivo para pagar Taxi.
+
+No perdamos el common sense, el mundo sigue siendo analogico
+
+**Nathanel Serebrenik:** https://x.com/avifelman/status/2118063529333084544
+
 **Nico Fernandez:** Me llamó un amigo daltónico todo contento🤣🤣
 
 **Gordo Barato:** Jajaja

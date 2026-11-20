@@ -10,6 +10,8 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 
 **Camilo Ospina:** https://camiloospina.substack.com/p/la-trampa-de-la-ferritina
 
+**Nathanel Serebrenik:** https://pietromiotti.com/latest/maya-site/
+
 **Hernán:** 2027 va estar muuuy loco
 
 **Hernán:** https://x.com/kbeguir/status/2119510769259720963
@@ -139,6 +141,8 @@ Insiders como nosotros tenemos extender lock-up (12 meses).
 **Hernán:** Es
 
 **Hernán:** Well
+
+**Nathanel Serebrenik:** https://x.com/autismcapital/status/2120580829252641071
 
 **Hernán:** *Invora: tu analista de Wall Street, 24/7* 📊
 

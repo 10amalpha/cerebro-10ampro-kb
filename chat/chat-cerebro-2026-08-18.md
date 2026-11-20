@@ -22,4 +22,6 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 
 **Hernán:** Bessent…
 
+**Paul Gomez:** https://www.youtube.com/live/dktdgiSND8s
+
 **Gordo Barato:** https://x.com/cb_doge/status/2089698881655427383

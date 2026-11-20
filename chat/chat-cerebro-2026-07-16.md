@@ -71,6 +71,8 @@ El principio KISS para Bitcoin.
 **Gordo Barato:** https://x.com/marionawfal/status/2077742983378878727
 El conflicto del conflicto
 
+**Nathanel Serebrenik:** Creo que reeditaran algunas del pasado, una Iran-Iraq no me sorprende que la reinicien
+
 **Nico Fernandez:** A los que le interese... Milton Javier tuvo una super actualización.... Ya tenemos 3 módulos:
    1.El chat bot normal, para preguntar. El inicial.
 2. Módulo Debate: el usuario escoge que posicion toma (socialista vs libertad) y Milton Javier toma posicion contraria. Arrancas el debate y Milton te responde... Al final de las rondas que quieras, lo das por terminado y te saca quien ganó el debate.
@@ -80,6 +82,9 @@ nopidopermiso.com
 **Hernán:** Pq crees?
 
 **Hernán:** Como podran ver el chat esta mas dinamico… y los vinos son componente del alpha… guardenlos pq esta gente toma buen vino
+
+**Nathanel Serebrenik:** USA viene retomando espacios en Iraq espacios que habia copado Iran, sacando a los chiitas de posiciones de poder.
+En algun momento reedita ese frente de Iraq para causarle molestias a Iran y vengar las cagadas que les hizo Iran en las ultimas guerras de Iraq sin poner ningun muerto americano
 
 **Andrés Felipe Arias:** No sienten q BTC está como q arranca y acumula energía y acumula y lo halan, como un resorte a punto de brincar?
 

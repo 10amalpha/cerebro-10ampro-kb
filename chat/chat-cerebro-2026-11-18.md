@@ -9,6 +9,8 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 **gordo Barato:** https://x.com/marionawfal/status/2122819803085754411
 No entrar en pánico… no ser chihuahua epiléptico
 
+**Nathanel Serebrenik:** https://x.com/unusual_whales/status/2122813368415531173
+
 **gordo Barato:** https://x.com/brivael/status/2122816925981901239
 
 **gordo Barato:** https://x.com/marionawfal/status/2122861093907202442
@@ -44,6 +46,10 @@ No entrar en pánico… no ser chihuahua epiléptico
 **Hernán:** Q descachada se metieron subiendo tasas https://x.com/andreassteno/status/2122784837039968288
 
 **Hernán:** https://x.com/robin_j_brooks/status/2122675283161477400
+
+**Nathanel Serebrenik:** https://x.com/balajis/status/2123002639168491711
+
+**Nathanel Serebrenik:** Que buena discusion pone Balaji
 
 **Hernán:** Se le invito tambien al dia d
 
@@ -99,6 +105,8 @@ Los aretes que le faltan a la luna
 
 **Lucas Jaramillo:** compre antes de tiempo.
 
+**Nathanel Serebrenik:** https://x.com/richard_casey/status/2123044162542940530
+
 **gordo Barato:** https://x.com/marionawfal/status/2123108977349210221
 
 **Hernán:** La economía de 168 horas no cabe en 22 gigavatios https://www.elcolombiano.com/opinion/columnistas/la-economia-de-168-horas-no-cabe-en-22-gigavatios-BC43727336
@@ -114,6 +122,8 @@ Los aretes que le faltan a la luna
 **gordo Barato:** https://x.com/iponewsroom_/status/2123161624609439819
 
 **gordo Barato:** https://x.com/brivael/status/2123134607956848854
+
+**Nathanel Serebrenik:** Buena respuesta de grok
 
 **Fede Suarez:** en mi epoca le decian Flight to Safety
 los treasuries deben estar en un rally brutal al igual que el DXY debe estar fortaleciendose

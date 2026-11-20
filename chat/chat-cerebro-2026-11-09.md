@@ -110,10 +110,20 @@ Nvidia may be hit temporarily, and pull all its AI customers and tech peers down
 
 **Gordo Barato:** https://x.com/asmlcompany/status/2119776127115751612
 
+**Paul Gomez:** https://x.com/InvestingVisual/status/2119727844695892102/video/1
+
 **Gordo Barato:** Este es el verdadero
 -qué hala más? Cable de buque o pelo de…
 
+**Paul Gomez:** https://youtu.be/bSGI08uxvWY
+
 **Hernán:** https://x.com/liorsela/status/2119582322194522210
+
+**Paul Gomez:** Of the Mag 7 founders, which ones have managed to keep their marriages together?
+
+**Paul Gomez:** Un amigo que acabo de llegar de Vietnam me envía esto 🤣
+
+**Paul Gomez:** Un amigo que acabo de llegar de Vietnam me envía esto 🤣
 
 **Nico Fernandez:** https://nicolasfernandezgiraldo.substack.com/p/el-informal-heroe-de-la-libertad
 

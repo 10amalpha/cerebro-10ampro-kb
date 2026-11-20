@@ -6,6 +6,8 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 ---
 # Chat 10ampro 
 
+**Nathanel Serebrenik:** https://x.com/qcapital2020/status/2117793554164822219
+
 **Lucas Jaramillo:** BRACE
 
 **Hernán:** https://x.com/jackprescottx/status/2117656632737825153

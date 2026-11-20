@@ -109,6 +109,10 @@ I expect the story is closer to this:
 
 **Andrés Felipe Arias:** https://www.cuestor.ai/
 
+**Nathanel Serebrenik:** https://x.com/davidwoounbound/status/2116859400837091632/video/1
+
+**Nathanel Serebrenik:** https://x.com/firesidealpha/status/2116574135526817932
+
 **Lucas Jaramillo:** La tenía clara SANTIAGO SANTOS
 
 **Andrés Felipe Arias:** La cantó de primero

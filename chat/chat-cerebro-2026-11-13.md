@@ -14,6 +14,8 @@ CRWD
 
 Escoger una ? Cuál está mejor ?
 
+**Nathanel Serebrenik:** https://x.com/tobi/status/2121001100166001049
+
 **Lucas Jaramillo:** https://x.com/republikate/status/2120868104813322402
 
 **gordo Barato:** Tremendo

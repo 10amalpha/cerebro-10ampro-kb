@@ -98,6 +98,8 @@ OPTION: Sigo en Colpensiones (1 vote)
 
 **Gordo Barato:** https://x.com/stocksavvyshay/status/2118709546638356543
 
+**Nathanel Serebrenik:** https://x.com/elonmusk/status/2118590598324318415
+
 **Gordo Barato:** https://x.com/investingvisual/status/2118709803824586787
 Nice
 
@@ -127,3 +129,5 @@ Lo q se estima
 **Gordo Barato:** https://x.com/globalstats11/status/2118729372576481281/video/1
 
 **Gordo Barato:** Llantitis
+
+**Nathanel Serebrenik:** https://x.com/trungtphan/status/2118473911503589844

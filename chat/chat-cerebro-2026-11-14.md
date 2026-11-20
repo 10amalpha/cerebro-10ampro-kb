@@ -122,11 +122,17 @@ Reagan broke an empire without firing a shot. Trump does not need a deal either.
 
 **Nico Fernandez:** https://nicolasfernandezgiraldo.substack.com/p/somos-constitucionalmente-pendejos
 
+**Paul Gomez:** It's by invite only. Y parece que por ahora está en áreas seleccionadas. Lo que no me mata para mí estilo de vida, es que solo caben 2 personas. Si estuviera soltero y joven, no lo pensaría 2 veces.
+
 **gordo Barato:** https://x.com/stocksavvyshay/status/2121681494183981109
 
 **gordo Barato:** https://x.com/polymarket/status/2121691048112275741
 
 **Ricardo Sierra:** Buen dato. Qué bueno sería eso.
+
+**Paul Gomez:** T - 15 minutes
+
+**Paul Gomez:** Amazing, la cogieron. Perfect landing
 
 **gordo Barato:** https://x.com/polymarket/status/2121715425096667486
 

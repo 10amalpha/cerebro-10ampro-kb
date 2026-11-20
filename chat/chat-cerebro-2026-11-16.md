@@ -84,6 +84,8 @@ Esto con ☕️🍳
 
 **gordo Barato:** https://x.com/randgroup/status/2122379419826405883
 
+**Nathanel Serebrenik:** https://x.com/osint613/status/2122392905629516192
+
 **gordo Barato:** https://x.com/10ampro/status/2122403460285141204
 
 **gordo Barato:** https://x.com/randgroup/status/2122426984953418008

@@ -30,6 +30,10 @@ Acabo de contratar a un consultor para que me organice todos los bots, me recomi
 
 **Lucas Jaramillo:** https://x.ai/bot/6376Dq8pjV-YXpHmBno_n
 
+**Nathanel Serebrenik:** https://x.com/danwwang/status/2113641947785281756
+
+**Nathanel Serebrenik:** Si alguien lo tiene full lo comparte por favor
+
 **Gordo Barato:** https://x.com/10ampro/status/2114028416366444940
 
 **Gordo Barato:** https://x.com/chamath/status/2114093525059174868

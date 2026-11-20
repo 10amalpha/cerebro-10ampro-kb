@@ -54,7 +54,11 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 
 **gordo Barato:** https://x.com/alc2022/status/2120884982688432150
 
+**Nathanel Serebrenik:** Juan no creo que NVIDIA sin Jensen sea el mismo animal
+
 **Hernán:** Ah pero eso sin Jensen viagra…
+
+**Nathanel Serebrenik:** Eso no creo que esta priced in
 
 **Lucas Jaramillo:** Ayer creo que Elon lo dijo … o sería fake ?
 

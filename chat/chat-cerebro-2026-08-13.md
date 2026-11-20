@@ -114,6 +114,10 @@ Estamos planteando: “Reconstrucción por Impuestos”, una forma de Obras por 
 
 Para darles una idea, creemos que cerca de 15.000 a 20.000 viviendas de nuestros clientes han quedado afectadas en forma media o total.
 
+**Nathanel Serebrenik:** Habra momento "bastille" contra esa tecnocracia gran hermano de la UE?
+
+**Nathanel Serebrenik:** O hasta poder dirigirle todo el gasto de parafiscalidad a un empleado para su propio fondo de reconstruccion
+
 **Hernán:** Buena idea
 
 **Hernán:** Eh Veronortes @[miembro] + @[miembro] saben q nos podriamos inventar entre veronorte y 10am? Un tour de robotics
@@ -137,3 +141,5 @@ Para darles una idea, creemos que cerca de 15.000 a 20.000 viviendas de nuestros
 **Andrés Felipe Arias:** fuck yeah
 
 **Lucas Jaramillo:** Vamooo
+
+**Nathanel Serebrenik:** 100% ustedes! Congrats

@@ -46,6 +46,8 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 
 **Dario Palacio:** Jajajaja
 
+**Nathanel Serebrenik:** https://x.com/vladtenev/status/2089813816611922368
+
 **Hernán:** Oi este: https://youtu.be/a_ORzZ9eG40
 
 **Hernán:** Taalas +amd y cerebras muy bueno
@@ -273,6 +275,12 @@ Estamos ante un muerto viviente… las pensiones voluntarias están muertes (ya 
 **Nico Fernandez:** Y los Ardila pa cuando pues con el camión de Colombiana??🤣
 
 **Hernán:** solana waking..
+
+**Nathanel Serebrenik:** https://x.com/mmmtwealth/status/2090058462575161800
+
+**Nathanel Serebrenik:** IPO Unitree
+
+**Nathanel Serebrenik:** Vamos a ver si las peleas coreografiadas de robots si generan caja
 
 **Hernán:** Cuando compren Bots miren q van a dejar vender en usa y q no
 

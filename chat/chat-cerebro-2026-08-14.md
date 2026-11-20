@@ -147,6 +147,8 @@ https://metatrends.substack.com/p/your-child-is-not-ready
 
 **Alejandro Perez:** https://x.com/raoulgmi/status/2088324736388657526
 
+**Paul Gomez:** No me antojes! 🤤
+
 **Dario Palacio:** Jajajajajaja
 
 **Hernán:** Ojo pues acabo de hablar con la gente de SpaceX

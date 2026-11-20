@@ -62,4 +62,6 @@ https://app.instinct.com/invite
 
 **Gordo Barato:** https://x.com/randgroup/status/2119156935727661388
 
+**Nathanel Serebrenik:** https://x.com/hamptonism/status/2118951157473198351
+
 **Gordo Barato:** https://x.com/charliebilello/status/2119085968313717013

@@ -12,6 +12,8 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 
 **Ricardo Sierra:** Creativos si son.
 
+**Paul Gomez:** Yo por mis hábitos de uso me quedé con la gold porque el 3% across everything me da más plata al año que  la platinum. Me pierdo algunos beneficios, pero lo que no me gustó es que no le dejan a uno tener las 2.
+
 **Hernán:** Yo creo q se puede comprar SPCX ya
 
 **Hernán:** https://x.com/shaunmmaguire/status/2116260821080973679
@@ -90,6 +92,8 @@ Somebody definitely got carried out, I point to Binance.
 **Lucas Jaramillo:** https://youtube.com/shorts/jCpS7eiQuOg
 
 **Gordo Barato:** https://x.com/10ampro/status/2116544129324978302
+
+**Nathanel Serebrenik:** https://x.com/stealthqe4/status/2116519542541218002
 
 **Hernán:** Realmente no se cual es la lloradera
 

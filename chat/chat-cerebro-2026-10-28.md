@@ -33,11 +33,25 @@ Jajaja
 
 **Hernán:** https://x.com/nodiligence/status/2114892356260626705
 
+**Paul Gomez:** https://youtu.be/C3E2nsZvT3M
+
+Anduril! Made in the USA, obviamente es la unica forma de justificar el premium price del manufacturing in the USA cuando es para productos militares.
+
+**Paul Gomez:** https://www.youtube.com/watch?v=a2wv9giz3vU
+
+And Qualcomm expanding more in personal computing
+
+**Paul Gomez:** https://starlink.com/speeds/
+
+No esta mal por el precio, sobre todo por que incluye StarLink on the Go con el Starlink mini. Esto es un buen combo comparado con el precio de ATT o Comcast 🔥
+
 **Gordo Barato:** https://x.com/stocksavvyshay/status/2115408309469815074
 
 **Gordo Barato:** https://x.com/alc2022/status/2115440372809625703
 
 **Gordo Barato:** https://x.com/rohanpaul_ai/status/2115460073665478726
+
+**Nathanel Serebrenik:** https://x.com/uaustinorg/status/2115171527964438692
 
 **Hernán:** Los sell puts de HIMS en positivo… q maravilla
 
@@ -45,6 +59,10 @@ Jajaja
 
 **Gordo Barato:** https://x.com/0xphilanthrop/status/2115386268292948384
 Philanthrop genio, playboy y billonario se la jugó
+
+**Paul Gomez:** Parece que tienen roaming 😒 defeats the purpose of "a global network" 🤣
+
+https://starlink.com/legal/documents/DOC-1728-44881-79
 
 **Andrés Felipe Arias:** Grx x compartir! Enviado ya a todos los chats! Impresionante!!!! Puro alfa
 

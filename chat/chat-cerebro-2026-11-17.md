@@ -116,6 +116,8 @@ Uatduyuseimijo?
 
 **Hernán:** https://x.com/stocksavvyshay/status/2122721682934935657
 
+**Nathanel Serebrenik:** Lo reciben con cinturon de castidad supervisado
+
 **Nico Fernandez:** Comprada!
 
 **Hernán:** Eh q bien @[miembro]
@@ -125,6 +127,12 @@ Uatduyuseimijo?
 **Fede Suarez:** Against Anthropic view of Handoverism (by bill gurley)
 
 https://x.com/bgurley/status/2122464739477639634
+
+**Nathanel Serebrenik:** https://x.com/kobeissiletter/status/2122715520281743849
+
+**Paul Gomez:** In. Se me atraviesa con IFA Berlín, que estamos planeando ir por qué dejan entrar a niños, pero si cuadro bien ahí estaremos.
+
+**Paul Gomez:** In. Se me atraviesa con IFA Berlín, que estamos planeando ir por qué dejan entrar a niños, pero si cuadro bien ahí estaremos.
 
 **Hernán:** En BP habia niños hoy
 
@@ -139,7 +147,11 @@ Holiiiisss
 
 **gordo Barato:** https://x.com/10ampro/status/2122764440252670088
 
+**Nathanel Serebrenik:** https://x.com/watcherguru/status/2122769775386579250
+
 **Hernán:** FB en este chat no jodas
+
+**Nathanel Serebrenik:** https://x.com/cointelegraph/status/2122769463963443580
 
 **Hernán:** https://x.com/mikezaccardi/status/2122710934950944975
 
@@ -156,6 +168,10 @@ Holiiiisss
 **gordo Barato:** Aunque pueden ser la misma persona
 
 **Lucas Jaramillo:** hay que leer. 🤫
+
+**Nathanel Serebrenik:** https://x.com/mossadil/status/2122794587291050269
+
+**Nathanel Serebrenik:** Buen punto de vista
 
 **gordo Barato:** https://x.com/brivael/status/2122727210385866855
 

@@ -48,6 +48,8 @@ OPTION: Anthropic (64 votes)
 
 **Hernán:** https://x.com/theiaresearch/status/2121661930515435595
 
+**Nathanel Serebrenik:** https://x.com/ronstoeferle/status/2121933095897051303
+
 **gordo Barato:** https://x.com/mathemetica/status/2121903811954647169
 
 **Hernán:** 🎤
@@ -84,6 +86,8 @@ La película 🍿
 El tamaño …¡si importa! (Dice una amiga)
 
 **gordo Barato:** https://x.com/elonmusk/status/2122043427776819503
+
+**Nathanel Serebrenik:** https://x.com/martinvars/status/2122036025488810287
 
 **gordo Barato:** https://x.com/brivael/status/2122029243722858914
 Léelo con un café o un guaro.. al gusto

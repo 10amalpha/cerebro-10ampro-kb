@@ -104,4 +104,6 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 
 **Gordo Barato:** buona sera
 
+**Nathanel Serebrenik:** Maden fotos de la visita al Domus Aurea
+
 **Fede Suarez:** Pasenla buena y ojo con la sobredosis de Limonccello que la agriera es maluca

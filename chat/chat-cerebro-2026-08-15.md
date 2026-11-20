@@ -32,7 +32,11 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 
 **Gordo Barato:** Ahora España 🇪🇸 5,5
 
+**Nathanel Serebrenik:** https://x.com/ustreasury/status/2087269903334265280
+
 **Hernán:** Como es de mamon ese form, pero cual será el end game
+
+**Nathanel Serebrenik:** Que USA siga siendo el paraiso fiscal para extranjeros que ha sido
 
 **Hernán:** Yup
 
@@ -85,6 +89,12 @@ Then come the familiar warnings about second- and third-order effects, wage-pric
 This is not serious analysis. It is CPI roulette, dressed up in models and false precision. They ignore lags, dismiss supply, disregard market prices, and worship flawed data, then call the consequences “unexpected.”
 
 **Hernán:** Pero como dice Peter Lynch 13 mins en macro son 10mins perdidos
+
+**Nathanel Serebrenik:** Dudo que alguna promesa tributaria sobreviva el terremoto
+
+Nico para que refresques tu frances:
+
+"Plus ça change, plus c'est la même chose "
 
 **Nico Fernandez:** Me hacía falta... yo en clase de francés en el colegio solo aprendí a decir "acero laminado"...😂
 

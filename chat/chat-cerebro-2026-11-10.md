@@ -6,9 +6,13 @@ chat: "10ampro WhatsApp (cerebro.10am.pro)"
 ---
 # Chat 10ampro 
 
+**Nathanel Serebrenik:** https://x.com/autismcapital/status/2119933889565413786
+
 **Lucas Jaramillo:** https://x.com/jbm_1992/status/2119912364141126061
 
 **Gordo Barato:** https://x.com/stocksavvyshay/status/2119933430708478220
+
+**Nathanel Serebrenik:** https://x.com/slocan68/status/2119650967368941974
 
 **Lucas Jaramillo:** que cascada la de HIMZ hermano. apretar asterisco. vamos @[miembro] the stock market will test you once a while i guess... to see how mucho of a pussy you are.
 
