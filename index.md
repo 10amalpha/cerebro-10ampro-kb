@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 173 posts de Substack (54 exclusivos para suscriptores), 284 episodios de YouTube, 1988 posts de X en 12 archivos mensuales, 391 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 174 posts de Substack (55 exclusivos para suscriptores), 284 episodios de YouTube, 1988 posts de X en 12 archivos mensuales, 391 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -37,7 +37,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
 - 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
 
-### SOL (331)
+### SOL (332)
 - 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
 - 2024-02-16 · E81: Hackathon Solana Colombia. Episodio Medellín. Alex Ramírez. · `youtube/2024-02-16-5Hbv_Lwn8is.md` · https://www.youtube.com/watch?v=5Hbv_Lwn8is
 - 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
@@ -57,12 +57,12 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
 - 2025-05-25 · El divorcio monetario: por qué la nueva guerra es contra los bonos y el refugio es Bitcoin · `substack/2025-05-25-el-divorcio-monetario-por-que-la.md` · https://www.10am.pro/p/el-divorcio-monetario-por-que-la
 - 2025-12-21 · 🔥💃 Firedancer: La Reingeniería que Lleva a Solana al Límite de la Física · `substack/2025-12-21-firedancer-la-reingenieria-que-lleva.md` · https://www.10am.pro/p/firedancer-la-reingenieria-que-lleva
+- 2026-11-21 · ¿Qué Está Pasando con Solana? 🔒 · `substack/2026-11-21-que-esta-pasando-con-solana.md` · https://www.10am.pro/p/que-esta-pasando-con-solana
 - 2024-11-14 · E123: I never look at price. Kyle Samani - Multicoin Capital · `youtube/2024-11-14-CQB6erpyd6Y.md` · https://www.youtube.com/watch?v=CQB6erpyd6Y
 - 2023-01-06 · E21: El mundo #crypto se enloquece con #bonk. Jugando y ganando #dinero con #blockchain #solana · `youtube/2023-01-06-e6X31OI7Ihs.md` · https://www.youtube.com/watch?v=e6X31OI7Ihs
 - 2024-07-25 · E104: ¿Qué es un validador en crypto y cómo vivir de ello?. Juan Andrés Calderón · `youtube/2024-07-25-lJHhwA7eKkQ.md` · https://www.youtube.com/watch?v=lJHhwA7eKkQ
 - 2024-08-22 · E108: ¡Bitcoin, la vacuna contra el corralito! Equipo 10AMPRO · `youtube/2024-08-22-zCmyQyVPdqk.md` · https://www.youtube.com/watch?v=zCmyQyVPdqk
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
-- 2024-01-05 · E75: Predicciones 2024 del equipo 10AMPRO · `youtube/2024-01-05-35lqHI3c7VM.md` · https://www.youtube.com/watch?v=35lqHI3c7VM
 
 ### TSLA (203)
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
@@ -477,7 +477,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-08-18 · Dia 1: 10AMPRO en Conexión Summit Medellin 2026. · `youtube/2026-08-18-dktdgiSND8s.md` · https://www.youtube.com/watch?v=dktdgiSND8s
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
 
-### tokenizacion (32)
+### tokenizacion (33)
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
 - 2025-09-04 · E169: Quien sepa gobernar tokens y electrones, gobernará el futuro. Gabriel Merlo 🇪🇸 · `youtube/2025-09-04-JdZCcg7QtLA.md` · https://www.youtube.com/watch?v=JdZCcg7QtLA
 - 2026-07-08 · Solana ya tiene el 97% del mercado mundial de acciones tokenizadas.  🔒 · `substack/2026-07-08-solana-ya-tiene-el-97-del-mercado.md` · https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
@@ -487,6 +487,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2023-06-09 · E44: Aplicando un experimento en AMM. El Tamaño del negocio de Messi. Tokenización en Real Estate. · `youtube/2023-06-09-mrl94HYW2ew.md` · https://www.youtube.com/watch?v=mrl94HYW2ew
 - 2025-11-14 · ¿Qué pasaría si Colombia crece al 10% por 10 años? · `substack/2025-11-14-que-pasaria-si-colombia-crece-al.md` · https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
 - 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
+- 2026-11-21 · ¿Qué Está Pasando con Solana? 🔒 · `substack/2026-11-21-que-esta-pasando-con-solana.md` · https://www.10am.pro/p/que-esta-pasando-con-solana
 - 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
 - 2026-10-24 · ⚡️ El Día D. Joe McCann: Solana más IA · `youtube/2026-10-24-cAzFArF_vuY.md` · https://www.youtube.com/watch?v=cAzFArF_vuY
 - 2025-05-25 · El divorcio monetario: por qué la nueva guerra es contra los bonos y el refugio es Bitcoin · `substack/2025-05-25-el-divorcio-monetario-por-que-la.md` · https://www.10am.pro/p/el-divorcio-monetario-por-que-la
@@ -502,7 +503,6 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
 - 2023-02-18 · E27: Real estate. El gigantesco negocio inmobiliario en Estados Unidos · `youtube/2023-02-18-2X1lMXIsa0o.md` · https://www.youtube.com/watch?v=2X1lMXIsa0o
 - 2024-07-04 · E101: ¿Qué es Wenia?. La apuesta de Bancolombia en el mundo Crypto. Pablo Arboleda · `youtube/2024-07-04-5n6aNZKkbuU.md` · https://www.youtube.com/watch?v=5n6aNZKkbuU
-- 2025-01-02 · E130: Global66 logró lo que gobiernos y bancos no pudieron; unificar financieramente a Latam. · `youtube/2025-01-02-Dx8EICNFqy4.md` · https://www.youtube.com/watch?v=Dx8EICNFqy4
 
 ### IA (235)
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
@@ -646,12 +646,13 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-12-13 · Recalibrando el Algoritmo del 10x · `substack/2025-12-13-recalibrando-el-algoritmo-del-10x.md` · https://www.10am.pro/p/recalibrando-el-algoritmo-del-10x
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
 
-### memecoins (15)
+### memecoins (16)
 - 2024-06-27 · E100: Joe McCann Asymmetric. In Colombia a rancher sold cows to buy Solana. · `youtube/2024-06-27-YCDVQ66idbw.md` · https://www.youtube.com/watch?v=YCDVQ66idbw
 - 2025-11-29 · Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando · `substack/2025-11-29-los-memecoins-fueron-el-stress-test.md` · https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
 - 2026-09-02 · SOLANA vs HOOD: La Guerra por los $700 Trillones 🔒 · `substack/2026-09-02-trabajando-al-reves.md` · https://www.10am.pro/p/trabajando-al-reves
+- 2026-11-21 · ¿Qué Está Pasando con Solana? 🔒 · `substack/2026-11-21-que-esta-pasando-con-solana.md` · https://www.10am.pro/p/que-esta-pasando-con-solana
 - 2024-11-14 · E123: I never look at price. Kyle Samani - Multicoin Capital · `youtube/2024-11-14-CQB6erpyd6Y.md` · https://www.youtube.com/watch?v=CQB6erpyd6Y
 - 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://www.10am.pro/p/la-tesis-alquilada
@@ -719,6 +720,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## Substack (todos)
 
+- 2026-11-21 · ¿Qué Está Pasando con Solana? 🔒 · `substack/2026-11-21-que-esta-pasando-con-solana.md` · https://www.10am.pro/p/que-esta-pasando-con-solana · temas: SOL, tokenizacion, memecoins
 - 2026-11-14 · ⚡ Episodio Especial: El cisne negro de Jansen Huang. Nvidia · `substack/2026-11-14-episodio-especial-el-cisne-negro.md` · https://www.10am.pro/p/episodio-especial-el-cisne-negro
 - 2026-11-11 · HIMS Q3 2026: "That's a Trade We Will Make Every Time"  🔒 · `substack/2026-11-11-hims-q3-2026-thats-a-trade-we-will.md` · https://www.10am.pro/p/hims-q3-2026-thats-a-trade-we-will · temas: TSLA, HIMS, PLTR, longevidad
 - 2026-11-10 · El problema de las empresas no es tecnológico, es cultural. Adrian Mastronardi. E232 🔒 · `substack/2026-11-10-el-problema-de-las-empresas-no-es.md` · https://www.10am.pro/p/el-problema-de-las-empresas-no-es
