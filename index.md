@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 174 posts de Substack (55 exclusivos para suscriptores), 284 episodios de YouTube, 1988 posts de X en 12 archivos mensuales, 391 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 174 posts de Substack (55 exclusivos para suscriptores), 284 episodios de YouTube, 1993 posts de X en 12 archivos mensuales, 391 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -514,8 +514,8 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-11-21 · E124: Aplicando Inteligencia Artificial en 10AMPRO. Con Felipe Aguirre. · `youtube/2024-11-21-DwwDKZPPt9I.md` · https://www.youtube.com/watch?v=DwwDKZPPt9I
 - 2026-11-19 · El problema de las empresas no es tecnológico, es cultural. Adrian Mastronardi. E232 · `youtube/2026-11-19-BHSfw6dmCCw.md` · https://www.youtube.com/watch?v=BHSfw6dmCCw
 - 2026-06-09 · El Primer Cliente Que No Respira (2nda parte) 🔒 · `substack/2026-06-09-el-primer-cliente-que-no-respira.md` · https://www.10am.pro/p/el-primer-cliente-que-no-respira
-- 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
 - 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
+- 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
 - 2024-07-11 · E102: Entre Matrix y Nostradamus. Camilo Botero · `youtube/2024-07-11-quDaRVKfNSo.md` · https://www.youtube.com/watch?v=quDaRVKfNSo
 - 2026-03-05 · E198: 2028 🤯  el año que todos quedaremos sin trabajo · `youtube/2026-03-05-5QWEatCbScI.md` · https://www.youtube.com/watch?v=5QWEatCbScI
 - 2026-02-24 · Estamos Usando Solo el 5% de Claude Code 🔒 · `substack/2026-02-24-estamos-usando-solo-el-5-de-claude.md` · https://www.10am.pro/p/estamos-usando-solo-el-5-de-claude
