@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 174 posts de Substack (55 exclusivos para suscriptores), 284 episodios de YouTube, 2006 posts de X en 12 archivos mensuales, 391 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 174 posts de Substack (55 exclusivos para suscriptores), 284 episodios de YouTube, 2006 posts de X en 12 archivos mensuales, 394 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -37,7 +37,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
 - 2025-06-08 · El Circo de los Titanes, Trump vs Musk · `substack/2025-06-08-el-circo-de-los-titanes-trump-vs.md` · https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
 
-### SOL (332)
+### SOL (333)
 - 2025-04-10 · E148: Solana Vs Bitcoin. Equipo 10AMPRO · `youtube/2025-04-10-HwRhmWnO7ss.md` · https://www.youtube.com/watch?v=HwRhmWnO7ss
 - 2024-02-16 · E81: Hackathon Solana Colombia. Episodio Medellín. Alex Ramírez. · `youtube/2024-02-16-5Hbv_Lwn8is.md` · https://www.youtube.com/watch?v=5Hbv_Lwn8is
 - 2026-01-10 · Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad · `substack/2026-01-10-sol-strategies-como-microstrategy.md` · https://www.10am.pro/p/sol-strategies-como-microstrategy
@@ -64,7 +64,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-08-22 · E108: ¡Bitcoin, la vacuna contra el corralito! Equipo 10AMPRO · `youtube/2024-08-22-zCmyQyVPdqk.md` · https://www.youtube.com/watch?v=zCmyQyVPdqk
 - 2026-09-09 ·  La Creación de un Primitive Nuevo. 🔒 · `substack/2026-09-09-la-creacion-de-un-primitive-nuevo.md` · https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
 
-### TSLA (203)
+### TSLA (205)
 - 2024-05-31 · E96: Tesla, pura energía. Antonio Linares · `youtube/2024-05-31-4ueITmEGCto.md` · https://www.youtube.com/watch?v=4ueITmEGCto
 - 2025-07-06 · Tesla Será la Compañía mas Valiosa del Mundo · `substack/2025-07-06-tesla-sera-la-compania-mas-valiosa.md` · https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa
 - 2026-08-04 · Tesla: El Capex que Wall Street No Sabe Leer 🔒 · `substack/2026-08-04-tesla-el-capex-que-wall-street-no.md` · https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
@@ -145,7 +145,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
 - 2026-01-29 · E191: Las 5 señales del cambio de era. Hernán, Darío,  Andrés Felipe, Guillermo,  Nicolás & el gordo · `youtube/2026-01-29-PdTGv5Z71SE.md` · https://www.youtube.com/watch?v=PdTGv5Z71SE
 
-### HIMS (53)
+### HIMS (54)
 - 2026-05-06 · La Cárcel de los Péptidos  🔒 · `substack/2026-05-06-el-negocio-mas-grande-del-que-nadie.md` · https://www.10am.pro/p/el-negocio-mas-grande-del-que-nadie
 - 2026-09-27 · HIMS No Es Telemedicina 🔒 · `substack/2026-09-27-hims-no-es-telemedicina.md` · https://www.10am.pro/p/hims-no-es-telemedicina
 - 2025-04-24 · E150: ¿HIMS el próximo 10X? Antonio Linares · `youtube/2025-04-24-jB-Qew9B9_o.md` · https://www.youtube.com/watch?v=jB-Qew9B9_o
@@ -172,7 +172,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-05-22 · E154: ¿Va ganando o perdiendo el portafolio de 10AMPRO en 2025? Descúbrelo en este análisis. · `youtube/2025-05-22-RG83P3KXJ5A.md` · https://www.youtube.com/watch?v=RG83P3KXJ5A
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
 
-### ETH (47)
+### ETH (48)
 - 2026-09-10 · $SOL gana el corto, $HOOD gana en la distribución - Santiago Santos. Nos vemos en el Día D. #224 · `youtube/2026-09-10--4g59XpuuZY.md` · https://www.youtube.com/watch?v=-4g59XpuuZY
 - 2024-11-14 · E123: I never look at price. Kyle Samani - Multicoin Capital · `youtube/2024-11-14-CQB6erpyd6Y.md` · https://www.youtube.com/watch?v=CQB6erpyd6Y
 - 2023-07-21 · E50: El padrino del conocimiento ALPHA, Joe McCann, fundador de Node.JS y Asymmetric Capital. · `youtube/2023-07-21-SHEyv89MvM4.md` · https://www.youtube.com/watch?v=SHEyv89MvM4
@@ -293,7 +293,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra
 - 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
 
-### NVDA (35)
+### NVDA (38)
 - 2025-11-06 · E178: La era de la abundancia. Gerardo Delgado / Nvidia · `youtube/2025-11-06-QgWVt-cLwHs.md` · https://www.youtube.com/watch?v=QgWVt-cLwHs
 - 2024-11-04 · Chat 10ampro (cerebro) — 2024-11-04 · `chat/chat-cerebro-2024-11-04.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2023-04-21 · E37: Nvidia, la compañía detrás de la inteligencia artificial de ChatGPT y los  efectos de Marvel. · `youtube/2023-04-21-017G3m4LECc.md` · https://www.youtube.com/watch?v=017G3m4LECc
@@ -314,13 +314,13 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-11-28 · E125: La nueva guerra fría. Guillermo Valencia. Macrowise & Scale · `youtube/2024-11-28-EW6XALnksjI.md` · https://www.youtube.com/watch?v=EW6XALnksjI
 - 2026-02-05 · E192: Duolingo no es una app: es la IA que está redefiniendo cómo aprendemos. Antonio Linares · `youtube/2026-02-05-7dMgmo76Dqw.md` · https://www.youtube.com/watch?v=7dMgmo76Dqw
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra
+- 2026-11-20 · Chat 10ampro (cerebro) — 2026-11-20 · `chat/chat-cerebro-2026-11-20.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
 - 2025-06-22 · El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal · `substack/2025-06-22-el-estimulo-infinito-como-eeuu-hackeo.md` · https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
 - 2025-08-31 · Colossus: la guerra de la IA se gana con logística · `substack/2025-08-31-colossus-la-guerra-de-la-ia-se-gana.md` · https://www.10am.pro/p/colossus-la-guerra-de-la-ia-se-gana
 - 2025-09-21 · AI mas Grande que La Revolución Industrial · `substack/2025-09-21-lo-que-se-viene-en-ai-es-mas-grande.md` · https://www.10am.pro/p/lo-que-se-viene-en-ai-es-mas-grande
-- 2026-04-01 · Terafab: El Proyecto Más Ambicioso en la Historia de la Humanidad 🔒 · `substack/2026-04-01-terafab-el-proyecto-mas-ambicioso.md` · https://www.10am.pro/p/terafab-el-proyecto-mas-ambicioso
 
-### SpaceX (75)
+### SpaceX (76)
 - 2025-11-08 · SpaceX: La Compañía más Importante de la Tierra · `substack/2025-11-08-spacex-el-elevador-que-redefine-el.md` · https://www.10am.pro/p/spacex-el-elevador-que-redefine-el
 - 2026-08-11 · SpaceX Encontró un Negocio Más Grande que los Cohetes 🔒 · `substack/2026-08-11-spacex-el-negocio-de-computo-crece.md` · https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
 - 2026-05-14 · El Golfo de Urabá: ¿el próximo puerto espacial de SpaceX? · `substack/2026-05-14-el-golfo-de-uraba-el-proximo-puerto.md` · https://www.10am.pro/p/el-golfo-de-uraba-el-proximo-puerto
@@ -374,7 +374,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-02-22 · Chat 10ampro (cerebro) — 2024-02-22 · `chat/chat-cerebro-2024-02-22.md` · (chat privado, sin URL: cita Substack/YouTube)
 - 2024-02-24 · Chat 10ampro (cerebro) — 2024-02-24 · `chat/chat-cerebro-2024-02-24.md` · (chat privado, sin URL: cita Substack/YouTube)
 
-### macro (224)
+### macro (227)
 - 2025-09-28 · El Arquitecto Silencioso del Dólar · `substack/2025-09-28-el-arquitecto-silencioso-del-dolar.md` · https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar
 - 2025-12-27 · El Hombre que Está Reprogramando la Economía de Estados Unidos · `substack/2025-12-27-el-hombre-que-esta-reprogramando.md` · https://www.10am.pro/p/el-hombre-que-esta-reprogramando
 - 2025-04-06 · La tesis del 10x de 10ampro · `substack/2025-04-06-la-tesis-del-10x-de-10ampro.md` · https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
@@ -423,7 +423,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-08-26 · GDP 04: Bessent activa el Bullrun · `youtube/2026-08-26-yy3eEXTUy50.md` · https://www.youtube.com/watch?v=yy3eEXTUy50
 - 2026-01 · Posts de X @holdmybirra — 2026-01 · `x/2026-01.md` · https://x.com/holdmybirra
 
-### geopolitica (210)
+### geopolitica (212)
 - 2025-04-08 · 10AM Pro Live:  Las tarifas de Estados Unidos y su impacto. Equipo 10AMPRO · `youtube/2025-04-08-I0rx4-NZdnQ.md` · https://www.youtube.com/watch?v=I0rx4-NZdnQ
 - 2026-03-19 · E200: Irán 🇮🇷 , petróleo🛢️, dólar 💵 y drones. Hernán, Darío, Guillermo, Andrés Felipe y El Gordo. · `youtube/2026-03-19-QbS-TGwMuw0.md` · https://www.youtube.com/watch?v=QbS-TGwMuw0
 - 2026-04-16 · E204: 🇮🇷 Irán, Donald Trump y El Estrecho de Ormuz. · `youtube/2026-04-16-HhBfwrQyvwA.md` · https://www.youtube.com/watch?v=HhBfwrQyvwA
@@ -504,7 +504,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2023-02-18 · E27: Real estate. El gigantesco negocio inmobiliario en Estados Unidos · `youtube/2023-02-18-2X1lMXIsa0o.md` · https://www.youtube.com/watch?v=2X1lMXIsa0o
 - 2024-07-04 · E101: ¿Qué es Wenia?. La apuesta de Bancolombia en el mundo Crypto. Pablo Arboleda · `youtube/2024-07-04-5n6aNZKkbuU.md` · https://www.youtube.com/watch?v=5n6aNZKkbuU
 
-### IA (235)
+### IA (237)
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
 - 2026-07-29 · La élite de la inteligencia artificial: cinco trayectorias que están reescribiendo el siglo XXI 🔒 · `substack/2026-07-29-la-elite-de-la-inteligencia-artificial.md` · https://www.10am.pro/p/la-elite-de-la-inteligencia-artificial
 - 2024-05-03 · E92: ¿La IA será un nuevo Dios?. Gerardo Delgado. Nvidia · `youtube/2024-05-03-62xBbvvxMf4.md` · https://www.youtube.com/watch?v=62xBbvvxMf4
@@ -1199,7 +1199,10 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## Chat WhatsApp 10ampro (notas diarias)
 
-- 2026-11-20 · Chat 10ampro (cerebro) — 2026-11-20 · `chat/chat-cerebro-2026-11-20.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-11-23 · Chat 10ampro (cerebro) — 2026-11-23 · `chat/chat-cerebro-2026-11-23.md` · (chat privado, sin URL: cita Substack/YouTube)
+- 2026-11-22 · Chat 10ampro (cerebro) — 2026-11-22 · `chat/chat-cerebro-2026-11-22.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: IA, NVDA, macro, geopolitica, TSLA
+- 2026-11-21 · Chat 10ampro (cerebro) — 2026-11-21 · `chat/chat-cerebro-2026-11-21.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, ETH, macro, IA, TSLA, HIMS
+- 2026-11-20 · Chat 10ampro (cerebro) — 2026-11-20 · `chat/chat-cerebro-2026-11-20.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: NVDA, geopolitica, SpaceX, macro
 - 2026-11-19 · Chat 10ampro (cerebro) — 2026-11-19 · `chat/chat-cerebro-2026-11-19.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: geopolitica, macro, HOOD, NVDA, IA
 - 2026-11-18 · Chat 10ampro (cerebro) — 2026-11-18 · `chat/chat-cerebro-2026-11-18.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: macro, IA
 - 2026-11-17 · Chat 10ampro (cerebro) — 2026-11-17 · `chat/chat-cerebro-2026-11-17.md` · (chat privado, sin URL: cita Substack/YouTube) · temas: SOL, colombia
