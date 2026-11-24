@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 174 posts de Substack (55 exclusivos para suscriptores), 284 episodios de YouTube, 2006 posts de X en 12 archivos mensuales, 394 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 174 posts de Substack (55 exclusivos para suscriptores), 284 episodios de YouTube, 2011 posts de X en 12 archivos mensuales, 394 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -308,8 +308,8 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-08-20 · Palantir: la Compañía mas Importante de Occidente · `substack/2025-08-20-palantir-la-compania-mas-importante.md` · https://www.10am.pro/p/palantir-la-compania-mas-importante
 - 2025-11-23 · Por Qué la Revolución de AI No Es la Burbuja de las "Punto Com"  · `substack/2025-11-23-por-que-la-revolucion-de-ai-no-es.md` · https://www.10am.pro/p/por-que-la-revolucion-de-ai-no-es
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
-- 2026-11-14 · ⚡ Episodio Especial: El cisne negro de Jensen Huang. Nvidia · `youtube/2026-11-14-kP67mA_pwjU.md` · https://www.youtube.com/watch?v=kP67mA_pwjU
 - 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
+- 2026-11-14 · ⚡ Episodio Especial: El cisne negro de Jensen Huang. Nvidia · `youtube/2026-11-14-kP67mA_pwjU.md` · https://www.youtube.com/watch?v=kP67mA_pwjU
 - 2025-06-01 · 1 TERAWATT: LA CARRERA ENERGÉTICA DE EE.UU. · `substack/2025-06-01-1-terawatt-la-carrera-energetica.md` · https://www.10am.pro/p/1-terawatt-la-carrera-energetica
 - 2024-11-28 · E125: La nueva guerra fría. Guillermo Valencia. Macrowise & Scale · `youtube/2024-11-28-EW6XALnksjI.md` · https://www.youtube.com/watch?v=EW6XALnksjI
 - 2026-02-05 · E192: Duolingo no es una app: es la IA que está redefiniendo cómo aprendemos. Antonio Linares · `youtube/2026-02-05-7dMgmo76Dqw.md` · https://www.youtube.com/watch?v=7dMgmo76Dqw
