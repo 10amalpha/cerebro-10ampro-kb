@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 174 posts de Substack (55 exclusivos para suscriptores), 284 episodios de YouTube, 2011 posts de X en 12 archivos mensuales, 394 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 174 posts de Substack (55 exclusivos para suscriptores), 284 episodios de YouTube, 2021 posts de X en 12 archivos mensuales, 394 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -126,8 +126,8 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-08-06 · Palantir Q2 2026: El Día que Wall Street Entendió la Ontología 🔒 · `substack/2026-08-06-palantir-q2-2026-el-dia-que-wall.md` · https://www.10am.pro/p/palantir-q2-2026-el-dia-que-wall
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
 - 2026-08-12 · GDP 02: Palantir, el día que Wall Street entendió la Ontología. · `youtube/2026-08-12-vEf7HshhBb0.md` · https://www.youtube.com/watch?v=vEf7HshhBb0
-- 2026-10-17 · ⚡️ El Día D. Antonio Linares: PLTR, TSLA, HIMS y qué sigue ahora. ¿Cuál es el siguiente 100x? · `youtube/2026-10-17-tgaqTeDfQas.md` · https://www.youtube.com/watch?v=tgaqTeDfQas
 - 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
+- 2026-10-17 · ⚡️ El Día D. Antonio Linares: PLTR, TSLA, HIMS y qué sigue ahora. ¿Cuál es el siguiente 100x? · `youtube/2026-10-17-tgaqTeDfQas.md` · https://www.youtube.com/watch?v=tgaqTeDfQas
 - 2026-06-24 · ¿Cuál de Mis 6 Convicciones Hará 10x Primero? 🔒 · `substack/2026-06-24-cual-de-mis-6-convicciones-hara-10x.md` · https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
 - 2026-06-18 · E213: SpaceX. El mayor IPO de la última década y lo que significa para los portafolios de inversión. · `youtube/2026-06-18-Bclu6jOdid4.md` · https://www.youtube.com/watch?v=Bclu6jOdid4
 - 2026-11-03 · Palantir Q3 2026: “Once You Go Palantir, You Don’t Go Back” 🔒 · `substack/2026-11-03-palantir-q3-2026-once-you-go-palantir.md` · https://www.10am.pro/p/palantir-q3-2026-once-you-go-palantir
@@ -1184,7 +1184,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## X (archivos mensuales)
 
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: IA, PLTR, colombia, SOL, geopolitica, energia
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: IA, PLTR, colombia, SOL, geopolitica, macro
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, IA, PLTR
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
