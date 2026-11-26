@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 174 posts de Substack (55 exclusivos para suscriptores), 284 episodios de YouTube, 2021 posts de X en 12 archivos mensuales, 394 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 174 posts de Substack (55 exclusivos para suscriptores), 284 episodios de YouTube, 2029 posts de X en 12 archivos mensuales, 394 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -611,13 +611,13 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2024-12-12 · E127: ¿Se cumplieron las predicciones financieras en 10AMPRO?. Equipo 10AMPRO · `youtube/2024-12-12--nbXdwXnGnA.md` · https://www.youtube.com/watch?v=-nbXdwXnGnA
 - 2026-03-09 · Live: Elecciones congreso de Colombia 2026. · `youtube/2026-03-09-Gi91aAEauHU.md` · https://www.youtube.com/watch?v=Gi91aAEauHU
 - 2026-08-13 · Live: Menos pitch, más dinero. Ana María Osorio & Ricardo Peláez. Conexión Summit. · `youtube/2026-08-13-H0w-WgHHKjg.md` · https://www.youtube.com/watch?v=H0w-WgHHKjg
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
 - 2025-05-18 · Trump 2.0: la quimioterapia del sistema financiero global · `substack/2025-05-18-trump-20-la-quimioterapia-del-sistema.md` · https://www.10am.pro/p/trump-20-la-quimioterapia-del-sistema
 - 2026-03-24 · La Droga Más Peligrosa Es un Salario Cómodo 🔒 · `substack/2026-03-24-la-droga-mas-peligrosa-es-un-salario.md` · https://www.10am.pro/p/la-droga-mas-peligrosa-es-un-salario
 - 2026-04-27 · De $21M a $3.7B en un Sábado  🔒 · `substack/2026-04-27-cuando-wall-street-duerme.md` · https://www.10am.pro/p/cuando-wall-street-duerme
 - 2023-11-24 · E69: Medellín 10X. Cómo multiplicar por 10 el PIB de la ciudad de Medellín - Colombia 🇨🇴 en 5 años. · `youtube/2023-11-24-53WSW_h3eew.md` · https://www.youtube.com/watch?v=53WSW_h3eew
 - 2026-01-12 · E189: La oportunidad Colombia con Venezuela. Alejandro Salazar, Juan Carlos Pinzón. · `youtube/2026-01-12--DR93nEMG0A.md` · https://www.youtube.com/watch?v=-DR93nEMG0A
 - 2026-07-13 · ⚡ Episodio Especial 04: Evento en vivo - Episodio 200. Ongoing Medellín. · `youtube/2026-07-13-xYI3jNhSPC0.md` · https://www.youtube.com/watch?v=xYI3jNhSPC0
-- 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra
 
 ### portafolio (100)
 - 2024-09-26 · E114:  🧐 La teoría de los portafolios. Equipo 10AMPRO · `youtube/2024-09-26-eBoxj2wixlI.md` · https://www.youtube.com/watch?v=eBoxj2wixlI
@@ -1184,7 +1184,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## X (archivos mensuales)
 
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: IA, PLTR, colombia, SOL, geopolitica, macro
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: IA, PLTR, colombia, SOL, geopolitica, energia
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, IA, PLTR
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
