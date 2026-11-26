@@ -2,7 +2,7 @@
 title: "El Hombre que Está Reprogramando la Economía de Estados Unidos"
 subtitle: "No Entender lo que dice Bessent es Desaprovechar el Cheat Code mas Asimétrico del 2026"
 date: 2025-12-27
-url: https://www.10am.pro/p/el-hombre-que-esta-reprogramando
+url: https://cerebro.10am.pro/go/el-hombre-que-esta-reprogramando
 source: substack
 paywalled: false
 ---

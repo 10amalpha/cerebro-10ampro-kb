@@ -2,7 +2,7 @@
 title: "Los Dashboards de 10am"
 subtitle: "Un Centro de Comando: Liquidity Flow, Earning Reports, Simulador Pensión BTC, Seguimiento Portafolio"
 date: 2026-01-26
-url: https://www.10am.pro/p/los-dashboards-de-10am
+url: https://cerebro.10am.pro/go/los-dashboards-de-10am
 source: substack
 paywalled: false
 ---

@@ -2,7 +2,7 @@
 title: "¿Y si el riesgo real fuera no arriesgar?"
 subtitle: "El retorno vive donde otros no se atreven a mirar"
 date: 2025-04-12
-url: https://www.10am.pro/p/y-si-el-riesgo-real-fuera-no-arriesgar
+url: https://cerebro.10am.pro/go/y-si-el-riesgo-real-fuera-no-arriesgar
 source: substack
 paywalled: false
 ---

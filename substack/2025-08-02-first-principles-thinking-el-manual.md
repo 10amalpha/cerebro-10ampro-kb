@@ -2,7 +2,7 @@
 title: "First Principles Thinking: El Manual de Supervivencia Intelectual del Siglo XXI"
 subtitle: "La Autopista del Conocimiento que Nunca Aparece en el GPS Educativo"
 date: 2025-08-02
-url: https://www.10am.pro/p/first-principles-thinking-el-manual
+url: https://cerebro.10am.pro/go/first-principles-thinking-el-manual
 source: substack
 paywalled: false
 ---

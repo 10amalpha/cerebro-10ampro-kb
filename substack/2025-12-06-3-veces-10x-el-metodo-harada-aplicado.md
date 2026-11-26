@@ -2,7 +2,7 @@
 title: "3 Veces 10x: El Método Harada Aplicado para llegar a $US100 Millones"
 subtitle: "El método asusta porque exige sistema; las probabilidades tranquilizan porque lo hacen viable: de $100K a $100M en tres 10x."
 date: 2025-12-06
-url: https://www.10am.pro/p/3-veces-10x-el-metodo-harada-aplicado
+url: https://cerebro.10am.pro/go/3-veces-10x-el-metodo-harada-aplicado
 source: substack
 paywalled: false
 ---

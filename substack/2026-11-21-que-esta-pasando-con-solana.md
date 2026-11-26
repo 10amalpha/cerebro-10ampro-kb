@@ -2,7 +2,7 @@
 title: "¿Qué Está Pasando con Solana?"
 subtitle: "SOL cayó 75% desde su máximo. Esta semana el IPO más grande de la historia tardó nueve minutos en negociarse en Solana"
 date: 2026-11-21
-url: https://www.10am.pro/p/que-esta-pasando-con-solana
+url: https://cerebro.10am.pro/go/que-esta-pasando-con-solana
 source: substack
 paywalled: true
 ---

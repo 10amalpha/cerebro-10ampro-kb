@@ -1,7 +1,7 @@
 ---
 title: "Biology is Code"
 date: 2026-07-01
-url: https://www.10am.pro/p/biology-is-code
+url: https://cerebro.10am.pro/go/biology-is-code
 source: substack
 paywalled: true
 ---

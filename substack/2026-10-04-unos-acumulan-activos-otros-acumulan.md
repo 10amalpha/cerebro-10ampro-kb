@@ -2,7 +2,7 @@
 title: "El Día con Más Inteligencia que Ha Vivido Medellín"
 subtitle: "Ocho horas, doce cerebros, seis ejes. Joe McCann, Santiago Santos, Antonio Linares y los cohosts de 10am en la misma sala, desarmando la economía en K con su propio dinero sobre la mesa."
 date: 2026-10-04
-url: https://www.10am.pro/p/unos-acumulan-activos-otros-acumulan
+url: https://cerebro.10am.pro/go/unos-acumulan-activos-otros-acumulan
 source: substack
 paywalled: false
 ---

@@ -2,7 +2,7 @@
 title: "AI mas Grande que La Revolución Industrial"
 subtitle: "Porque AI resuelve problemas intratables y, al hacerlo, se convierte en el gigante económico de nuestra era."
 date: 2025-09-21
-url: https://www.10am.pro/p/lo-que-se-viene-en-ai-es-mas-grande
+url: https://cerebro.10am.pro/go/lo-que-se-viene-en-ai-es-mas-grande
 source: substack
 paywalled: false
 ---

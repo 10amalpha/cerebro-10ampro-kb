@@ -2,7 +2,7 @@
 title: "Bitcoin como Motor de Crédito Digital"
 subtitle: "Bitcoin introduce la posibilidad de generar crédito sobre un activo que se aprecia y no se devalúa. Lo que fue colateral inmobiliario o soberano se convierte en energía monetaria líquida y global."
 date: 2025-10-11
-url: https://www.10am.pro/p/bitcoin-como-motor-de-credito-digital
+url: https://cerebro.10am.pro/go/bitcoin-como-motor-de-credito-digital
 source: substack
 paywalled: false
 ---

@@ -2,7 +2,7 @@
 title: "1 TERAWATT: LA CARRERA ENERGÉTICA DE EE.UU."
 subtitle: "Lo mejor del WhatsApp 10ampro del 25 de Mayo al 1 de Junio"
 date: 2025-06-01
-url: https://www.10am.pro/p/1-terawatt-la-carrera-energetica
+url: https://cerebro.10am.pro/go/1-terawatt-la-carrera-energetica
 source: substack
 paywalled: false
 ---

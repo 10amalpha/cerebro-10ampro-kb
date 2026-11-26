@@ -1,7 +1,7 @@
 ---
 title: "Alpha66: El CTO de Plenti — Cómo Funciona por Dentro la App que Usas para Dolarizarte"
 date: 2026-04-28
-url: https://www.10am.pro/p/alpha66-el-cto-de-plenti-como-funciona
+url: https://cerebro.10am.pro/go/alpha66-el-cto-de-plenti-como-funciona
 source: substack
 paywalled: true
 ---

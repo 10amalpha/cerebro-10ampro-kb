@@ -2,7 +2,7 @@
 title: "Sol Strategies: Como Microstrategy pero en Solana y con mas Utilidad"
 subtitle: "Una tesis de inversión sobre la infraestructura financiera del futuro, construida sobre Solana"
 date: 2026-01-10
-url: https://www.10am.pro/p/sol-strategies-como-microstrategy
+url: https://cerebro.10am.pro/go/sol-strategies-como-microstrategy
 source: substack
 paywalled: false
 ---

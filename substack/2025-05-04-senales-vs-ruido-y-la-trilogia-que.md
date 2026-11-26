@@ -2,7 +2,7 @@
 title: "Señales vs Ruido y La Trilogia que me Mantiene Pobre"
 subtitle: "Semana del 28 de abril al 4 de mayo de 2025"
 date: 2025-05-04
-url: https://www.10am.pro/p/senales-vs-ruido-y-la-trilogia-que
+url: https://cerebro.10am.pro/go/senales-vs-ruido-y-la-trilogia-que
 source: substack
 paywalled: false
 ---

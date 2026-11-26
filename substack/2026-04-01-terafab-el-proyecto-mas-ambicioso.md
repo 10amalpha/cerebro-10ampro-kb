@@ -1,7 +1,7 @@
 ---
 title: "Terafab: El Proyecto Más Ambicioso en la Historia de la Humanidad"
 date: 2026-04-01
-url: https://www.10am.pro/p/terafab-el-proyecto-mas-ambicioso
+url: https://cerebro.10am.pro/go/terafab-el-proyecto-mas-ambicioso
 source: substack
 paywalled: true
 ---

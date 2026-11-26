@@ -2,7 +2,7 @@
 title: "El Puente de los $124 Trillones: Cómo Robinhood Se Convierte en Wall Street para Millennials, Gen Z y Gen X "
 subtitle: "La Mayor Transferencia de Riqueza de la Historia no Seran en Casas Seran en Tickers"
 date: 2025-07-13
-url: https://www.10am.pro/p/el-puente-de-los-124-trillones-como
+url: https://cerebro.10am.pro/go/el-puente-de-los-124-trillones-como
 source: substack
 paywalled: false
 ---

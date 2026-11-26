@@ -1,7 +1,7 @@
 ---
 title: "ALPHA64: Google sacó un paper sobre Quantum Computing — qué tengo que hacer con mi BTC"
 date: 2026-04-14
-url: https://www.10am.pro/p/alpha64-google-saco-un-paper-sobre
+url: https://cerebro.10am.pro/go/alpha64-google-saco-un-paper-sobre
 source: substack
 paywalled: true
 ---

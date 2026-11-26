@@ -1,7 +1,7 @@
 ---
 title: "ALPHA63: Cómo Arias Usa AI Sin Saber Programar"
 date: 2026-04-09
-url: https://www.10am.pro/p/alpha63-como-arias-usa-ai-sin-saber
+url: https://cerebro.10am.pro/go/alpha63-como-arias-usa-ai-sin-saber
 source: substack
 paywalled: true
 ---

@@ -2,7 +2,7 @@
 title: "Colossus: la guerra de la IA se gana con logística"
 subtitle: "De una fábrica vacía en Memphis a 230.000 GPUs y rumbo al millón: xAI sorteó la red con 35 generadores y Megapacks, convirtiendo energía, cobre y velocidad en ventaja estratégica."
 date: 2025-08-31
-url: https://www.10am.pro/p/colossus-la-guerra-de-la-ia-se-gana
+url: https://cerebro.10am.pro/go/colossus-la-guerra-de-la-ia-se-gana
 source: substack
 paywalled: false
 ---

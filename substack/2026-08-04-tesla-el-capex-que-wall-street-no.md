@@ -1,7 +1,7 @@
 ---
 title: "Tesla: El Capex que Wall Street No Sabe Leer"
 date: 2026-08-04
-url: https://www.10am.pro/p/tesla-el-capex-que-wall-street-no
+url: https://cerebro.10am.pro/go/tesla-el-capex-que-wall-street-no
 source: substack
 paywalled: true
 ---

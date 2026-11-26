@@ -1,7 +1,7 @@
 ---
 title: "SOLANA vs HOOD: La Guerra por los $700 Trillones"
 date: 2026-09-02
-url: https://www.10am.pro/p/trabajando-al-reves
+url: https://cerebro.10am.pro/go/trabajando-al-reves
 source: substack
 paywalled: true
 ---

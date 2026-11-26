@@ -1,7 +1,7 @@
 ---
 title: "De $21M a $3.7B en un Sábado "
 date: 2026-04-27
-url: https://www.10am.pro/p/cuando-wall-street-duerme
+url: https://cerebro.10am.pro/go/cuando-wall-street-duerme
 source: substack
 paywalled: true
 ---

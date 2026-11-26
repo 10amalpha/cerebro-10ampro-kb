@@ -1,7 +1,7 @@
 ---
 title: "La Inteligencia Artificial Va a Escapar de la Tierra"
 date: 2026-02-10
-url: https://www.10am.pro/p/la-inteligencia-artificial-va-a-escapar
+url: https://cerebro.10am.pro/go/la-inteligencia-artificial-va-a-escapar
 source: substack
 paywalled: true
 ---

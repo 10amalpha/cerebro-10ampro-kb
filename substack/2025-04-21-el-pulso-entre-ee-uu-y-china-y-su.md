@@ -2,7 +2,7 @@
 title: "El Pulso entre EE. UU. y China y su Impacto en los Mercados"
 subtitle: "Semana del 15 al 21 de abril de 2025 — lo que compartimos en el chat de 10ampro"
 date: 2025-04-21
-url: https://www.10am.pro/p/el-pulso-entre-ee-uu-y-china-y-su
+url: https://cerebro.10am.pro/go/el-pulso-entre-ee-uu-y-china-y-su
 source: substack
 paywalled: false
 ---

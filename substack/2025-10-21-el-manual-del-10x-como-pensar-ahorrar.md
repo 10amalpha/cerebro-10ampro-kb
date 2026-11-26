@@ -2,7 +2,7 @@
 title: "El Manual del 10x: cómo Pensar, Ahorrar y Decidir en la Era del Exceso” "
 subtitle: "Una Guía Práctica para los Nuevos miembros de 10AM Alpha — los fundamentos que todo inversionista, creador o estratega necesita dominar antes de buscar alfa."
 date: 2025-10-21
-url: https://www.10am.pro/p/el-manual-del-10x-como-pensar-ahorrar
+url: https://cerebro.10am.pro/go/el-manual-del-10x-como-pensar-ahorrar
 source: substack
 paywalled: false
 ---

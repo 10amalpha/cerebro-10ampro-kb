@@ -2,7 +2,7 @@
 title: "Hardcore Principles"
 subtitle: "Elon Musk no es más inteligente que sus competidores. Corre un algoritmo distinto. Este es el documento que escribí para mi, para releer una vez al mes."
 date: 2026-06-03
-url: https://www.10am.pro/p/hardcore-principles
+url: https://cerebro.10am.pro/go/hardcore-principles
 source: substack
 paywalled: false
 ---

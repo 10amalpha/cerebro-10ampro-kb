@@ -2,7 +2,7 @@
 title: "Los Modelos Mentales de 10am"
 subtitle: "La ventaja real no está en acumular más información, sino en combinar una dieta informativa curada con modelos mentales poderosos que transforman datos en alfa intelectual compuesto."
 date: 2025-10-05
-url: https://www.10am.pro/p/de-datos-a-decisiones-la-arquitectura
+url: https://cerebro.10am.pro/go/de-datos-a-decisiones-la-arquitectura
 source: substack
 paywalled: false
 ---

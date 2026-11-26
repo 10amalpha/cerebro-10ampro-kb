@@ -2,7 +2,7 @@
 title: "Palantir: la Compañía mas Importante de Occidente"
 subtitle: "El sistema nervioso invisible que decide guerras, mercados y la supervivencia de Occidente"
 date: 2025-08-20
-url: https://www.10am.pro/p/palantir-la-compania-mas-importante
+url: https://cerebro.10am.pro/go/palantir-la-compania-mas-importante
 source: substack
 paywalled: false
 ---

@@ -2,7 +2,7 @@
 title: "Tu Relevancia Económica Expira Exponencialmente"
 subtitle: "Estamos Midiendo la Era de la Inteligencia con Herramientas Industriales de 1934 — y Confundiendo el Progreso con el Colapso"
 date: 2025-10-19
-url: https://www.10am.pro/p/el-gdp-esta-muerto-en-la-era-de-artificial
+url: https://cerebro.10am.pro/go/el-gdp-esta-muerto-en-la-era-de-artificial
 source: substack
 paywalled: false
 ---

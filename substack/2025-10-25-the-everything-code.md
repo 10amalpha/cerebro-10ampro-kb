@@ -2,7 +2,7 @@
 title: "The Everything Code "
 subtitle: "Una Teoría Unificada para Entender los Mercados Modernos"
 date: 2025-10-25
-url: https://www.10am.pro/p/the-everything-code
+url: https://cerebro.10am.pro/go/the-everything-code
 source: substack
 paywalled: false
 ---

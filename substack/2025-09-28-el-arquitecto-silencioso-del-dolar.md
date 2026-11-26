@@ -2,7 +2,7 @@
 title: "El Arquitecto Silencioso del Dólar"
 subtitle: "Cómo Scott Bessent mueve la plomería financiera para reescribir el orden económico de EE. UU."
 date: 2025-09-28
-url: https://www.10am.pro/p/el-arquitecto-silencioso-del-dolar
+url: https://cerebro.10am.pro/go/el-arquitecto-silencioso-del-dolar
 source: substack
 paywalled: false
 ---

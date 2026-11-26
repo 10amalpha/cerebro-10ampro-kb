@@ -1,7 +1,7 @@
 ---
 title: "Dale las Claves del Broker a Tu Esposa"
 date: 2026-04-22
-url: https://www.10am.pro/p/dale-las-claves-del-broker-a-tu-esposa
+url: https://cerebro.10am.pro/go/dale-las-claves-del-broker-a-tu-esposa
 source: substack
 paywalled: true
 ---

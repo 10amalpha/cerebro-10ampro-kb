@@ -2,7 +2,7 @@
 title: "El divorcio monetario: por qué la nueva guerra es contra los bonos y el refugio es Bitcoin"
 subtitle: "Lo mejor del WhatsApp 10ampro del 18 al 25 mayo"
 date: 2025-05-25
-url: https://www.10am.pro/p/el-divorcio-monetario-por-que-la
+url: https://cerebro.10am.pro/go/el-divorcio-monetario-por-que-la
 source: substack
 paywalled: false
 ---

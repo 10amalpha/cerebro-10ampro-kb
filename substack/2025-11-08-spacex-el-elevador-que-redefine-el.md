@@ -2,7 +2,7 @@
 title: "SpaceX: La Compañía más Importante de la Tierra"
 subtitle: "Otis nos dio rascacielos. Elon Musk nos da órbitas. Y en ambos casos, quien controla el acceso… controla el futuro."
 date: 2025-11-08
-url: https://www.10am.pro/p/spacex-el-elevador-que-redefine-el
+url: https://cerebro.10am.pro/go/spacex-el-elevador-que-redefine-el
 source: substack
 paywalled: false
 ---

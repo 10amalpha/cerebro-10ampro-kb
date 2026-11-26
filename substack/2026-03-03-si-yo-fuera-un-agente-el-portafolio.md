@@ -1,7 +1,7 @@
 ---
 title: "El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando"
 date: 2026-03-03
-url: https://www.10am.pro/p/si-yo-fuera-un-agente-el-portafolio
+url: https://cerebro.10am.pro/go/si-yo-fuera-un-agente-el-portafolio
 source: substack
 paywalled: true
 ---

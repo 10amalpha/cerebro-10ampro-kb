@@ -1,7 +1,7 @@
 ---
 title: "La élite de la inteligencia artificial: cinco trayectorias que están reescribiendo el siglo XXI"
 date: 2026-07-29
-url: https://www.10am.pro/p/la-elite-de-la-inteligencia-artificial
+url: https://cerebro.10am.pro/go/la-elite-de-la-inteligencia-artificial
 source: substack
 paywalled: true
 ---

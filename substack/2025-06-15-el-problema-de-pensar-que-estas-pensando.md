@@ -2,7 +2,7 @@
 title: "El Problema de Pensar Que Estás Pensando"
 subtitle: "Lo mejor del WhatsApp de 10ampro del 8 de junio al 15 de junio de 2025"
 date: 2025-06-15
-url: https://www.10am.pro/p/el-problema-de-pensar-que-estas-pensando
+url: https://cerebro.10am.pro/go/el-problema-de-pensar-que-estas-pensando
 source: substack
 paywalled: false
 ---

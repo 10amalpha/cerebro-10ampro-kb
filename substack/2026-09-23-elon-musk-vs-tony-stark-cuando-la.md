@@ -1,7 +1,7 @@
 ---
 title: "Elon Musk vs Tony Stark: Cuando la Realidad Supera la Ciencia Ficción "
 date: 2026-09-23
-url: https://www.10am.pro/p/elon-musk-vs-tony-stark-cuando-la
+url: https://cerebro.10am.pro/go/elon-musk-vs-tony-stark-cuando-la
 source: substack
 paywalled: true
 ---

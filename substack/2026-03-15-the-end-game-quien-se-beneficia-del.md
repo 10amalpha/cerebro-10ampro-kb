@@ -1,7 +1,7 @@
 ---
 title: "El Modelo de Negocio del Caos: 500 Años de Historia en Una Milla Cuadrada"
 date: 2026-03-15
-url: https://www.10am.pro/p/the-end-game-quien-se-beneficia-del
+url: https://cerebro.10am.pro/go/the-end-game-quien-se-beneficia-del
 source: substack
 paywalled: true
 ---

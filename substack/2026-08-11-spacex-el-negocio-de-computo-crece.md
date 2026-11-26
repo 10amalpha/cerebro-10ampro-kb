@@ -1,7 +1,7 @@
 ---
 title: "SpaceX Encontró un Negocio Más Grande que los Cohetes"
 date: 2026-08-11
-url: https://www.10am.pro/p/spacex-el-negocio-de-computo-crece
+url: https://cerebro.10am.pro/go/spacex-el-negocio-de-computo-crece
 source: substack
 paywalled: true
 ---

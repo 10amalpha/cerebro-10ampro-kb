@@ -2,7 +2,7 @@
 title: "GDP 04: Bessent activa el Bullrun"
 subtitle: "Cuales son las movidas de Bessent y pq son tan importantes"
 date: 2026-08-25
-url: https://www.10am.pro/p/gdp-04-bessent-activa-el-bullrun
+url: https://cerebro.10am.pro/go/gdp-04-bessent-activa-el-bullrun
 source: substack
 paywalled: false
 ---

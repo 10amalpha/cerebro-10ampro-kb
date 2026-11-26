@@ -2,7 +2,7 @@
 title: "Tesla Será la Compañía mas Valiosa del Mundo"
 subtitle: "Por qué la convergencia de robótica, autonomía e inteligencia artificial posicionará a Tesla como la empresa más valiosa del mundo "
 date: 2025-07-06
-url: https://www.10am.pro/p/tesla-sera-la-compania-mas-valiosa
+url: https://cerebro.10am.pro/go/tesla-sera-la-compania-mas-valiosa
 source: substack
 paywalled: false
 ---

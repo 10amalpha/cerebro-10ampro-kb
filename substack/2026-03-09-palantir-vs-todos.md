@@ -1,7 +1,7 @@
 ---
 title: " Lo Que Emil Michael Reveló Sobre Palantir, Maduro y el Pentágono"
 date: 2026-03-09
-url: https://www.10am.pro/p/palantir-vs-todos
+url: https://cerebro.10am.pro/go/palantir-vs-todos
 source: substack
 paywalled: true
 ---

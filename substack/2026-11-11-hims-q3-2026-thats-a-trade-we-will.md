@@ -2,7 +2,7 @@
 title: "HIMS Q3 2026: \"That's a Trade We Will Make Every Time\" "
 subtitle: "Cien mil suscriptores menos y margen en 57%, a propósito. Es la misma apuesta de Tesla con las cámaras"
 date: 2026-11-11
-url: https://www.10am.pro/p/hims-q3-2026-thats-a-trade-we-will
+url: https://cerebro.10am.pro/go/hims-q3-2026-thats-a-trade-we-will
 source: substack
 paywalled: true
 ---

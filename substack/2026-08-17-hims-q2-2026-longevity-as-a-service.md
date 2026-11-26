@@ -1,7 +1,7 @@
 ---
 title: "HIMS, Q2 2026: Longevity as a Service"
 date: 2026-08-17
-url: https://www.10am.pro/p/hims-q2-2026-longevity-as-a-service
+url: https://cerebro.10am.pro/go/hims-q2-2026-longevity-as-a-service
 source: substack
 paywalled: true
 ---

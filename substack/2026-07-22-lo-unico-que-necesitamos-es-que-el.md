@@ -1,7 +1,7 @@
 ---
 title: "Lo único que necesitamos es que el Estado colombiano quite el pie del freno. El sector privado como motor de abundancia: lo que Colombia puede hacer sin esperar al Estado"
 date: 2026-07-22
-url: https://www.10am.pro/p/lo-unico-que-necesitamos-es-que-el
+url: https://cerebro.10am.pro/go/lo-unico-que-necesitamos-es-que-el
 source: substack
 paywalled: true
 ---

@@ -2,7 +2,7 @@
 title: "High Time Preference: La Matemática de la Paciencia"
 subtitle: "\"El arte de no hacer nada como Druckenmiller y por qué los muertos le ganan a los traders vivos\""
 date: 2025-08-25
-url: https://www.10am.pro/p/high-time-preference-la-matematica
+url: https://cerebro.10am.pro/go/high-time-preference-la-matematica
 source: substack
 paywalled: false
 ---

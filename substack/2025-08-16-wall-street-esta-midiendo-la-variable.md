@@ -2,7 +2,7 @@
 title: "FCF/Share: La Variable Oculta que Anticipa el Despliegue de una S-Curve"
 subtitle: " Por qué el flujo de caja libre por acción supera al EPS, al P/S y a la narrativa, y cómo usarlo para detectar la aceleración real del valor."
 date: 2025-08-16
-url: https://www.10am.pro/p/wall-street-esta-midiendo-la-variable
+url: https://cerebro.10am.pro/go/wall-street-esta-midiendo-la-variable
 source: substack
 paywalled: false
 ---

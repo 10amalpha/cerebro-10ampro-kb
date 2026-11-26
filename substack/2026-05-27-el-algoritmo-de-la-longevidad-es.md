@@ -1,7 +1,7 @@
 ---
 title: "Munger Nunca Pisó un Gimnasio"
 date: 2026-05-27
-url: https://www.10am.pro/p/el-algoritmo-de-la-longevidad-es
+url: https://cerebro.10am.pro/go/el-algoritmo-de-la-longevidad-es
 source: substack
 paywalled: true
 ---

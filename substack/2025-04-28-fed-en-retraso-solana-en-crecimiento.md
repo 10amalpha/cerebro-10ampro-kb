@@ -2,7 +2,7 @@
 title: "Fed en Retraso, Solana en Crecimiento y China no sabe que hacer con Trump"
 subtitle: "Semana del 22 al 28 de abril de 2025 "
 date: 2025-04-28
-url: https://www.10am.pro/p/fed-en-retraso-solana-en-crecimiento
+url: https://cerebro.10am.pro/go/fed-en-retraso-solana-en-crecimiento
 source: substack
 paywalled: false
 ---

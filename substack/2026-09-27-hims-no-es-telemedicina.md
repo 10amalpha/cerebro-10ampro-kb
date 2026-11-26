@@ -1,7 +1,7 @@
 ---
 title: "HIMS No Es Telemedicina"
 date: 2026-09-27
-url: https://www.10am.pro/p/hims-no-es-telemedicina
+url: https://cerebro.10am.pro/go/hims-no-es-telemedicina
 source: substack
 paywalled: true
 ---

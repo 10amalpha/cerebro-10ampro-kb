@@ -1,7 +1,7 @@
 ---
 title: "Diez Mil Agentes Resuelven un Problema de 200 Años"
 date: 2026-09-13
-url: https://www.10am.pro/p/la-humanidad-perdio-el-monopolio
+url: https://cerebro.10am.pro/go/la-humanidad-perdio-el-monopolio
 source: substack
 paywalled: true
 ---

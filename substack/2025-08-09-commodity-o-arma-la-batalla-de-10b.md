@@ -2,7 +2,7 @@
 title: "Commodity o Arma: La Batalla de $10B por los 17 Elementos Sin los Cuales No Existe el Siglo XXI\""
 subtitle: "La guerra invisible por los átomos del siglo XXI: Cómo una mina en el Mojave se convirtió en el campo de batalla entre China y Estados Unidos"
 date: 2025-08-09
-url: https://www.10am.pro/p/commodity-o-arma-la-batalla-de-10b
+url: https://cerebro.10am.pro/go/commodity-o-arma-la-batalla-de-10b
 source: substack
 paywalled: false
 ---

@@ -2,7 +2,7 @@
 title: "Pronóstico 2026: El Año Donde Todo Será Vertical"
 subtitle: "4 Curvas; AGI e Inteligencia, Robótica y Autonomía, Economía (Team Trump), Espacio y Compute Orbital"
 date: 2026-01-15
-url: https://www.10am.pro/p/pronostico-2026-el-ano-donde-todo
+url: https://cerebro.10am.pro/go/pronostico-2026-el-ano-donde-todo
 source: substack
 paywalled: false
 ---

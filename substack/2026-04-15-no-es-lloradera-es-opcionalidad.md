@@ -2,7 +2,7 @@
 title: "No Es Lloradera. Es Física"
 subtitle: "Por qué los emprendedores colombianos más exitosos construyen sus empresas afuera"
 date: 2026-04-15
-url: https://www.10am.pro/p/no-es-lloradera-es-opcionalidad
+url: https://cerebro.10am.pro/go/no-es-lloradera-es-opcionalidad
 source: substack
 paywalled: false
 ---

@@ -2,7 +2,7 @@
 title: "Cómo funciona un Network State (y por qué deberías prestar atención ya)”"
 subtitle: "Una nueva forma de construir comunidades, gobernar sin políticos y diseñar soberanía desde la red"
 date: 2025-07-26
-url: https://www.10am.pro/p/como-funciona-un-network-state-y
+url: https://cerebro.10am.pro/go/como-funciona-un-network-state-y
 source: substack
 paywalled: false
 ---

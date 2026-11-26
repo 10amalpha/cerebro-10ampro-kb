@@ -2,7 +2,7 @@
 title: "Recalibrando la Dieta de Información"
 subtitle: "Por Qué el Activo más Importante de un Inversionista no es su Capital, sino su Atención"
 date: 2026-01-02
-url: https://www.10am.pro/p/recalibrando-la-dieta-de-informacion
+url: https://cerebro.10am.pro/go/recalibrando-la-dieta-de-informacion
 source: substack
 paywalled: false
 ---

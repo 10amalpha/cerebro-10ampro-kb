@@ -1,7 +1,7 @@
 ---
 title: "Palantir Q2 2026: El Día que Wall Street Entendió la Ontología"
 date: 2026-08-06
-url: https://www.10am.pro/p/palantir-q2-2026-el-dia-que-wall
+url: https://cerebro.10am.pro/go/palantir-q2-2026-el-dia-que-wall
 source: substack
 paywalled: true
 ---

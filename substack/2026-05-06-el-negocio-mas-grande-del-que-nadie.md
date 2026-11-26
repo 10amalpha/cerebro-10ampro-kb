@@ -1,7 +1,7 @@
 ---
 title: "La Cárcel de los Péptidos "
 date: 2026-05-06
-url: https://www.10am.pro/p/el-negocio-mas-grande-del-que-nadie
+url: https://cerebro.10am.pro/go/el-negocio-mas-grande-del-que-nadie
 source: substack
 paywalled: true
 ---

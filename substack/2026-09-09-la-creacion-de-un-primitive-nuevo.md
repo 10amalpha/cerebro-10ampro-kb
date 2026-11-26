@@ -1,7 +1,7 @@
 ---
 title: " La Creación de un Primitive Nuevo."
 date: 2026-09-09
-url: https://www.10am.pro/p/la-creacion-de-un-primitive-nuevo
+url: https://cerebro.10am.pro/go/la-creacion-de-un-primitive-nuevo
 source: substack
 paywalled: true
 ---

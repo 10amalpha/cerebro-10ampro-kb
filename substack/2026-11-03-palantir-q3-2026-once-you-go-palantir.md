@@ -2,7 +2,7 @@
 title: "Palantir Q3 2026: “Once You Go Palantir, You Don’t Go Back”"
 subtitle: "De cada $100 que un cliente pagaba hace un año, hoy paga $165. Wall Street vio un backlog plano y vendió."
 date: 2026-11-03
-url: https://www.10am.pro/p/palantir-q3-2026-once-you-go-palantir
+url: https://cerebro.10am.pro/go/palantir-q3-2026-once-you-go-palantir
 source: substack
 paywalled: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Buena Vista Social Club, AI y Mis Amigos de Mas de 50"
 date: 2026-01-31
-url: https://www.10am.pro/p/buena-vista-social-club-ai-y-mis
+url: https://cerebro.10am.pro/go/buena-vista-social-club-ai-y-mis
 source: substack
 paywalled: true
 ---

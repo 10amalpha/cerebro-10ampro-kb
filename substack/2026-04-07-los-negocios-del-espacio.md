@@ -1,7 +1,7 @@
 ---
 title: "Los Negocios del Espacio"
 date: 2026-04-07
-url: https://www.10am.pro/p/los-negocios-del-espacio
+url: https://cerebro.10am.pro/go/los-negocios-del-espacio
 source: substack
 paywalled: true
 ---

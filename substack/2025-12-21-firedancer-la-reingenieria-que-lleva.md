@@ -2,7 +2,7 @@
 title: "🔥💃 Firedancer: La Reingeniería que Lleva a Solana al Límite de la Física"
 subtitle: "Cómo Jump Trading construyó el primer cliente blockchain preparado para Internet Capital Markets"
 date: 2025-12-21
-url: https://www.10am.pro/p/firedancer-la-reingenieria-que-lleva
+url: https://cerebro.10am.pro/go/firedancer-la-reingenieria-que-lleva
 source: substack
 paywalled: false
 ---

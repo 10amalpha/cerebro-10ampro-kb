@@ -2,7 +2,7 @@
 title: "Los Memecoins Fueron el Stress-test; Aquí van los Tokens de Solana donde Sí Estoy Acumulando"
 subtitle: "Mientras todos corrían detrás de $WIF, $BONK y $TRUMP, la infraestructura de Solana marcaba revenue récord a precios de remate. La tesis de los $700T acaba de entrar en Fase 2."
 date: 2025-11-29
-url: https://www.10am.pro/p/los-memecoins-fueron-el-stress-test
+url: https://cerebro.10am.pro/go/los-memecoins-fueron-el-stress-test
 source: substack
 paywalled: false
 ---

@@ -2,7 +2,7 @@
 title: "La Regla del 5%"
 subtitle: "686% en tres años sin rebalancear, sin vender y con margen. Cómo se financia una tesis nueva sin pagar impuesto sobre la vieja. "
 date: 2026-10-12
-url: https://www.10am.pro/p/nunca-vendo-la-mas-grande
+url: https://cerebro.10am.pro/go/nunca-vendo-la-mas-grande
 source: substack
 paywalled: false
 ---

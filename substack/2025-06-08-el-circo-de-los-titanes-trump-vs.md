@@ -2,7 +2,7 @@
 title: "El Circo de los Titanes, Trump vs Musk"
 subtitle: "Lo mejor del WhatsApp 10ampro del 1 de junio al 8 de junio de 2025"
 date: 2025-06-08
-url: https://www.10am.pro/p/el-circo-de-los-titanes-trump-vs
+url: https://cerebro.10am.pro/go/el-circo-de-los-titanes-trump-vs
 source: substack
 paywalled: false
 ---

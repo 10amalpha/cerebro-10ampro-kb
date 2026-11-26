@@ -2,7 +2,7 @@
 title: "El DNA de 10ampro"
 subtitle: "Aprendizajes que se han convertido en el DNA de 10ampro"
 date: 2025-04-04
-url: https://www.10am.pro/p/el-dna-de-10ampro
+url: https://cerebro.10am.pro/go/el-dna-de-10ampro
 source: substack
 paywalled: false
 ---

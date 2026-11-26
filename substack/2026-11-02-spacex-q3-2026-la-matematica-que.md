@@ -2,7 +2,7 @@
 title: "SpaceX Q3 2026: La Matemática que Nadie Está Haciendo"
 subtitle: "Doscientos mil chips al mes, un terawatt de silicio al año y una compañía que ya compite con el Tesoro de Estados Unidos por el dólar marginal del planeta."
 date: 2026-11-02
-url: https://www.10am.pro/p/spacex-q3-2026-la-matematica-que
+url: https://cerebro.10am.pro/go/spacex-q3-2026-la-matematica-que
 source: substack
 paywalled: true
 ---

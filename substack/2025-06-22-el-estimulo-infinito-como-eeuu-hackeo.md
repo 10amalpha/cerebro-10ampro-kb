@@ -2,7 +2,7 @@
 title: "El Estímulo Infinito: Cómo EE.UU. Hackeó el Sistema Fiscal"
 subtitle: "Por qué las fuerzas de segundo orden harán rica a toda una generación mientras los pesimistas esperan un colapso que nunca llega"
 date: 2025-06-22
-url: https://www.10am.pro/p/el-estimulo-infinito-como-eeuu-hackeo
+url: https://cerebro.10am.pro/go/el-estimulo-infinito-como-eeuu-hackeo
 source: substack
 paywalled: false
 ---

@@ -2,7 +2,7 @@
 title: "Recalibrando el Algoritmo del 10x"
 subtitle: "Cada año es necesario actualizar las variables del sistema. No porque la tesis cambie, sino porque el aprendizaje nunca termina."
 date: 2025-12-13
-url: https://www.10am.pro/p/recalibrando-el-algoritmo-del-10x
+url: https://cerebro.10am.pro/go/recalibrando-el-algoritmo-del-10x
 source: substack
 paywalled: false
 ---

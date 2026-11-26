@@ -2,7 +2,7 @@
 title: "La Dimensión Geopolítica de la Política Monetaria: El Juego Silencioso de Powell"
 subtitle: "En el Epicentro del Cambio: Geopolítica, Tecnología y Mercados en Colisión"
 date: 2025-06-29
-url: https://www.10am.pro/p/la-dimension-geopolitica-de-la-politica
+url: https://cerebro.10am.pro/go/la-dimension-geopolitica-de-la-politica
 source: substack
 paywalled: false
 ---

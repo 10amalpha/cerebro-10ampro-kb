@@ -1,7 +1,7 @@
 ---
 title: "Alpha 68: Péptidos: la nueva frontera entre longevidad, humo y medicina personalizada"
 date: 2026-05-18
-url: https://www.10am.pro/p/alpha-68-peptidos-la-nueva-frontera
+url: https://cerebro.10am.pro/go/alpha-68-peptidos-la-nueva-frontera
 source: substack
 paywalled: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "El Hombre que Convirtió Tierra en Acero"
 date: 2026-07-15
-url: https://www.10am.pro/p/el-hombre-que-convirtio-tierra-en
+url: https://cerebro.10am.pro/go/el-hombre-que-convirtio-tierra-en
 source: substack
 paywalled: true
 ---

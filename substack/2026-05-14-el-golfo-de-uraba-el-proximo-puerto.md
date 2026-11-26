@@ -2,7 +2,7 @@
 title: "El Golfo de Urabá: ¿el próximo puerto espacial de SpaceX?"
 subtitle: "El 12 de mayo, SpaceX dijo que buscaba puertos espaciales fuera de EE. UU. Doce horas después, Antioquia levantó la mano. La física, la logística y la geopolítica apuntan a Urabá."
 date: 2026-05-14
-url: https://www.10am.pro/p/el-golfo-de-uraba-el-proximo-puerto
+url: https://cerebro.10am.pro/go/el-golfo-de-uraba-el-proximo-puerto
 source: substack
 paywalled: false
 ---

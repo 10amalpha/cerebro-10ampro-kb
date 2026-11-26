@@ -1,7 +1,7 @@
 ---
 title: "Alpha65: Qué estamos comprando y la estrategia DCA con el Arca de Macrowise"
 date: 2026-04-21
-url: https://www.10am.pro/p/alpha-65-en-vivo-que-estamos-comprando
+url: https://cerebro.10am.pro/go/alpha-65-en-vivo-que-estamos-comprando
 source: substack
 paywalled: true
 ---

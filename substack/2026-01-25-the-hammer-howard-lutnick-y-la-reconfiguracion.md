@@ -2,7 +2,7 @@
 title: "🔨 The Hammer: Howard Lutnick y la Reconfiguración del Comercio Global"
 subtitle: "Por qué el Secretario de Comercio de Trump es una de las pieza más importante del tablero económico estadounidense"
 date: 2026-01-25
-url: https://www.10am.pro/p/the-hammer-howard-lutnick-y-la-reconfiguracion
+url: https://cerebro.10am.pro/go/the-hammer-howard-lutnick-y-la-reconfiguracion
 source: substack
 paywalled: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "La Droga Más Peligrosa Es un Salario Cómodo"
 date: 2026-03-24
-url: https://www.10am.pro/p/la-droga-mas-peligrosa-es-un-salario
+url: https://cerebro.10am.pro/go/la-droga-mas-peligrosa-es-un-salario
 source: substack
 paywalled: true
 ---

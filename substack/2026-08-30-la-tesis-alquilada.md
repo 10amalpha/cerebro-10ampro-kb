@@ -2,7 +2,7 @@
 title: "La Tesis Alquilada"
 subtitle: "Todo el mundo cita a Ray Dalio. Casi nadie escribe la suya. 86 artículos después, este es el mapa de cómo se construye una dieta de información que paga — y por qué el screenshot no es el punto."
 date: 2026-08-30
-url: https://www.10am.pro/p/la-tesis-alquilada
+url: https://cerebro.10am.pro/go/la-tesis-alquilada
 source: substack
 paywalled: false
 ---

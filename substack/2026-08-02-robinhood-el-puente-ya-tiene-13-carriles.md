@@ -1,7 +1,7 @@
 ---
 title: "Robinhood: El Puente Ya Tiene 13 Carriles"
 date: 2026-08-02
-url: https://www.10am.pro/p/robinhood-el-puente-ya-tiene-13-carriles
+url: https://cerebro.10am.pro/go/robinhood-el-puente-ya-tiene-13-carriles
 source: substack
 paywalled: false
 ---

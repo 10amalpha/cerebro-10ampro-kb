@@ -1,7 +1,7 @@
 ---
 title: "Tesla Q3 2026: El 75% que Wall Street No Puso en el Modelo"
 date: 2026-10-24
-url: https://www.10am.pro/p/tesla-q3-2026-el-75-que-wall-street
+url: https://cerebro.10am.pro/go/tesla-q3-2026-el-75-que-wall-street
 source: substack
 paywalled: true
 ---

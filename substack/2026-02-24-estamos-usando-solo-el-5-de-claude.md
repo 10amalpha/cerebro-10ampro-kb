@@ -1,7 +1,7 @@
 ---
 title: "Estamos Usando Solo el 5% de Claude Code"
 date: 2026-02-24
-url: https://www.10am.pro/p/estamos-usando-solo-el-5-de-claude
+url: https://cerebro.10am.pro/go/estamos-usando-solo-el-5-de-claude
 source: substack
 paywalled: true
 ---

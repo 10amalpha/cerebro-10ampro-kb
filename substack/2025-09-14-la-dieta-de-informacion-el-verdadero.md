@@ -2,7 +2,7 @@
 title: "Tu Portafolio Vale lo que Vale tu Dieta de Información"
 subtitle: "Invertir bien no depende de secretos, sino de filtrar el ruido y entrenar la atención para que cada dato que consumes se convierta en ventaja"
 date: 2025-09-14
-url: https://www.10am.pro/p/la-dieta-de-informacion-el-verdadero
+url: https://cerebro.10am.pro/go/la-dieta-de-informacion-el-verdadero
 source: substack
 paywalled: false
 ---

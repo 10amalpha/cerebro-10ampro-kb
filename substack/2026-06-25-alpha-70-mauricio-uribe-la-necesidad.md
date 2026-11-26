@@ -1,7 +1,7 @@
 ---
 title: "Alpha 70: Mauricio Uribe — La necesidad de eliminar fricción. Abrir una empresa en EEUU vs Colombia. "
 date: 2026-06-25
-url: https://www.10am.pro/p/alpha-70-mauricio-uribe-la-necesidad
+url: https://cerebro.10am.pro/go/alpha-70-mauricio-uribe-la-necesidad
 source: substack
 paywalled: true
 ---

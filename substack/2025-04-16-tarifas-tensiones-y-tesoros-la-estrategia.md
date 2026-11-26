@@ -2,7 +2,7 @@
 title: "Tarifas, Tensiones y Tesoros: La Estrategia de EE.UU. y las Oportunidades de Inversión"
 subtitle: "Semana del 9 al 15 de abril de 2025"
 date: 2025-04-16
-url: https://www.10am.pro/p/tarifas-tensiones-y-tesoros-la-estrategia
+url: https://cerebro.10am.pro/go/tarifas-tensiones-y-tesoros-la-estrategia
 source: substack
 paywalled: false
 ---

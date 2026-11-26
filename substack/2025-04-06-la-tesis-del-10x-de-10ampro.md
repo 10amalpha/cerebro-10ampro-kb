@@ -2,7 +2,7 @@
 title: "La tesis del 10x de 10ampro"
 subtitle: "Por que pensamos en inversiones que nos den un retorno de 10x"
 date: 2025-04-06
-url: https://www.10am.pro/p/la-tesis-del-10x-de-10ampro
+url: https://cerebro.10am.pro/go/la-tesis-del-10x-de-10ampro
 source: substack
 paywalled: false
 ---

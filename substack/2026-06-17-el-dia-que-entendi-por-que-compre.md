@@ -1,7 +1,7 @@
 ---
 title: "Velocidad de Ontología"
 date: 2026-06-17
-url: https://www.10am.pro/p/el-dia-que-entendi-por-que-compre
+url: https://cerebro.10am.pro/go/el-dia-que-entendi-por-que-compre
 source: substack
 paywalled: true
 ---

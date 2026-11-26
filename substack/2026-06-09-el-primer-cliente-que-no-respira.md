@@ -1,7 +1,7 @@
 ---
 title: "El Primer Cliente Que No Respira (2nda parte)"
 date: 2026-06-09
-url: https://www.10am.pro/p/el-primer-cliente-que-no-respira
+url: https://cerebro.10am.pro/go/el-primer-cliente-que-no-respira
 source: substack
 paywalled: true
 ---

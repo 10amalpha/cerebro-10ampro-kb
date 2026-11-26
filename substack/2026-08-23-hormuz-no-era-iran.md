@@ -2,7 +2,7 @@
 title: "Cuando el Perro Grande Bosteza"
 subtitle: "Bessent está retirando deuda americana a 52 centavos mientras Londres grita Yellen — la jugada que el ojo común no puede ver"
 date: 2026-08-23
-url: https://www.10am.pro/p/hormuz-no-era-iran
+url: https://cerebro.10am.pro/go/hormuz-no-era-iran
 source: substack
 paywalled: false
 ---

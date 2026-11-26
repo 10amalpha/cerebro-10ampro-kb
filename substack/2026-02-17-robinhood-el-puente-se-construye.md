@@ -1,7 +1,7 @@
 ---
 title: "Robinhood: El Puente Se Construye Más Rápido de lo que Pensé"
 date: 2026-02-17
-url: https://www.10am.pro/p/robinhood-el-puente-se-construye
+url: https://cerebro.10am.pro/go/robinhood-el-puente-se-construye
 source: substack
 paywalled: true
 ---

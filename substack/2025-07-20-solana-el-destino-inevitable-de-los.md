@@ -2,7 +2,7 @@
 title: "Solana: El Destino Inevitable de los $700 Trillones en Mercados de Capital de Internet"
 subtitle: "Cómo un blockchain está devorando el sistema financiero global"
 date: 2025-07-20
-url: https://www.10am.pro/p/solana-el-destino-inevitable-de-los
+url: https://cerebro.10am.pro/go/solana-el-destino-inevitable-de-los
 source: substack
 paywalled: false
 ---

@@ -2,7 +2,7 @@
 title: "¿Somos Anti-Buffett en 10ampro? y un montón de ER"
 subtitle: "Semana del 4 al 11 de mayo de 2025"
 date: 2025-05-11
-url: https://www.10am.pro/p/somos-anti-buffet-en-10ampro-y-un
+url: https://cerebro.10am.pro/go/somos-anti-buffet-en-10ampro-y-un
 source: substack
 paywalled: false
 ---

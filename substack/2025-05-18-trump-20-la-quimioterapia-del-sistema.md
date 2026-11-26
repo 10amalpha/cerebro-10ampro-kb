@@ -2,7 +2,7 @@
 title: "Trump 2.0: la quimioterapia del sistema financiero global"
 subtitle: "Lo mejor del WhatsApp 10ampro del 11 al 18 mayo"
 date: 2025-05-18
-url: https://www.10am.pro/p/trump-20-la-quimioterapia-del-sistema
+url: https://cerebro.10am.pro/go/trump-20-la-quimioterapia-del-sistema
 source: substack
 paywalled: false
 ---

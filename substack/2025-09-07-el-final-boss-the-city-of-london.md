@@ -2,7 +2,7 @@
 title: "El Final Boss: The City of London y la Batalla por la Soberanía Económica"
 subtitle: "La transición de un orden financiero basado en derivados opacos hacia sistemas anclados en transacciones reales"
 date: 2025-09-07
-url: https://www.10am.pro/p/el-final-boss-the-city-of-london
+url: https://cerebro.10am.pro/go/el-final-boss-the-city-of-london
 source: substack
 paywalled: false
 ---

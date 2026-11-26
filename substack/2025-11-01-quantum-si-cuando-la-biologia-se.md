@@ -2,7 +2,7 @@
 title: "AI + Biología = Quantum-Si"
 subtitle: "Quantum-Si está construyendo el puente entre AI y biología molecular: de 20,000 genes a 220 millones de proteínas, una molécula a la vez."
 date: 2025-11-01
-url: https://www.10am.pro/p/quantum-si-cuando-la-biologia-se
+url: https://cerebro.10am.pro/go/quantum-si-cuando-la-biologia-se
 source: substack
 paywalled: false
 ---

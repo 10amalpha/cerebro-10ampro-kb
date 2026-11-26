@@ -2,7 +2,7 @@
 title: "Por Qué la Revolución de AI No Es la Burbuja de las \"Punto Com\" "
 subtitle: "Estamos en pleno proceso de crear inteligencia. Y no, no es 1999: esta vez las máquinas están siendo financiadas por gigantes con cash flow, no por Venture Capital."
 date: 2025-11-23
-url: https://www.10am.pro/p/por-que-la-revolucion-de-ai-no-es
+url: https://cerebro.10am.pro/go/por-que-la-revolucion-de-ai-no-es
 source: substack
 paywalled: false
 ---

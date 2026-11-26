@@ -1,7 +1,7 @@
 ---
 title: "Solana ya tiene el 97% del mercado mundial de acciones tokenizadas. "
 date: 2026-07-08
-url: https://www.10am.pro/p/solana-ya-tiene-el-97-del-mercado
+url: https://cerebro.10am.pro/go/solana-ya-tiene-el-97-del-mercado
 source: substack
 paywalled: true
 ---

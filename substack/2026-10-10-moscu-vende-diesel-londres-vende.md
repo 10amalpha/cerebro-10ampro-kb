@@ -1,7 +1,7 @@
 ---
 title: "Moscú Vende Diésel, Londres Vende Caos"
 date: 2026-10-10
-url: https://www.10am.pro/p/moscu-vende-diesel-londres-vende
+url: https://cerebro.10am.pro/go/moscu-vende-diesel-londres-vende
 source: substack
 paywalled: true
 ---

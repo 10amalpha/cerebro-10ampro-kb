@@ -2,7 +2,7 @@
 title: "Los Midterms Pura Geopolitica "
 subtitle: "Un dron en Novorossiysk, un arancel en Ottawa y una Fed que sube tasas a 48 días de la urna. Los midterms solo pasan en Estados Unidos. El juego es de todos los demás."
 date: 2026-09-18
-url: https://www.10am.pro/p/los-midterms-pura-geopolitica
+url: https://cerebro.10am.pro/go/los-midterms-pura-geopolitica
 source: substack
 paywalled: false
 ---

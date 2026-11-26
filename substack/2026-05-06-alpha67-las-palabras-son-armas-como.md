@@ -2,7 +2,7 @@
 title: "Alpha67: Las palabras son armas — cómo se gana (y se pierde) la batalla cultural en este caso las elecciones en Colombia"
 subtitle: "Cada vez que abrís X, escuchás un debate político o leés un titular — alguien está ganando una batalla cultural. Y probablemente no sos vos. Escuchá a Nicolás antes de votar en estas elecciones"
 date: 2026-05-06
-url: https://www.10am.pro/p/alpha67-las-palabras-son-armas-como
+url: https://cerebro.10am.pro/go/alpha67-las-palabras-son-armas-como
 source: substack
 paywalled: false
 ---

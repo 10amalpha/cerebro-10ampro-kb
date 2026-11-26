@@ -1,7 +1,7 @@
 ---
 title: "¿Cuál de Mis 6 Convicciones Hará 10x Primero?"
 date: 2026-06-24
-url: https://www.10am.pro/p/cual-de-mis-6-convicciones-hara-10x
+url: https://cerebro.10am.pro/go/cual-de-mis-6-convicciones-hara-10x
 source: substack
 paywalled: true
 ---

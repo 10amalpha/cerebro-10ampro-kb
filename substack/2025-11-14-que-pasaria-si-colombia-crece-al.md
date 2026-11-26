@@ -2,7 +2,7 @@
 title: "¿Qué pasaría si Colombia crece al 10% por 10 años?"
 subtitle: "El Plan Colombia no es militar ni diplomático — es económico, tecnológico y cultural. Una ruta para dejar de sobrevivir y empezar a construir en la era de la abundancia."
 date: 2025-11-14
-url: https://www.10am.pro/p/que-pasaria-si-colombia-crece-al
+url: https://cerebro.10am.pro/go/que-pasaria-si-colombia-crece-al
 source: substack
 paywalled: false
 ---
