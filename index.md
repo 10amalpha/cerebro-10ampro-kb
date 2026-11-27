@@ -4,7 +4,7 @@ Cómo usarlo: busca el tema o ticker abajo; cada línea es `fecha · título · 
 Los temas están ordenados por relevancia (más menciones primero; máx. 25 por tema — la lista completa está en `topics.json`).
 Al responder, cita siempre la URL original (Substack o YouTube) para llevar al lector al contenido.
 
-Totales: 174 posts de Substack (55 exclusivos para suscriptores), 284 episodios de YouTube, 2029 posts de X en 12 archivos mensuales, 394 notas diarias del chat de WhatsApp de 10ampro.
+Totales: 175 posts de Substack (56 exclusivos para suscriptores), 284 episodios de YouTube, 2042 posts de X en 12 archivos mensuales, 394 notas diarias del chat de WhatsApp de 10ampro.
 
 Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizados): úsalas para el criterio y las opiniones de Hernán, pero no tienen URL pública; enlaza siempre un post o episodio relacionado.
 
@@ -498,11 +498,11 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2026-02-17 · Robinhood: El Puente Se Construye Más Rápido de lo que Pensé 🔒 · `substack/2026-02-17-robinhood-el-puente-se-construye.md` · https://cerebro.10am.pro/go/robinhood-el-puente-se-construye
 - 2024-11-21 · E124: Aplicando Inteligencia Artificial en 10AMPRO. Con Felipe Aguirre. · `youtube/2024-11-21-DwwDKZPPt9I.md` · https://www.youtube.com/watch?v=DwwDKZPPt9I
 - 2026-02-19 · E195: $STKE CTO: Why Validators Are the Real Power Plants of Crypto (4M SOL, Speed & Space?). · `youtube/2026-02-19-SbTDhH90CXA.md` · https://www.youtube.com/watch?v=SbTDhH90CXA
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
 - 2025-07-20 · Solana: El Destino Inevitable de los $700 Trillones en Mercados de Capital de Internet · `substack/2025-07-20-solana-el-destino-inevitable-de-los.md` · https://cerebro.10am.pro/go/solana-el-destino-inevitable-de-los
 - 2025-12-06 · 3 Veces 10x: El Método Harada Aplicado para llegar a $US100 Millones · `substack/2025-12-06-3-veces-10x-el-metodo-harada-aplicado.md` · https://cerebro.10am.pro/go/3-veces-10x-el-metodo-harada-aplicado
 - 2026-08-30 · La Tesis Alquilada · `substack/2026-08-30-la-tesis-alquilada.md` · https://cerebro.10am.pro/go/la-tesis-alquilada
 - 2023-02-18 · E27: Real estate. El gigantesco negocio inmobiliario en Estados Unidos · `youtube/2023-02-18-2X1lMXIsa0o.md` · https://www.youtube.com/watch?v=2X1lMXIsa0o
-- 2024-07-04 · E101: ¿Qué es Wenia?. La apuesta de Bancolombia en el mundo Crypto. Pablo Arboleda · `youtube/2024-07-04-5n6aNZKkbuU.md` · https://www.youtube.com/watch?v=5n6aNZKkbuU
 
 ### IA (237)
 - 2026-03-03 · El Sistema Operativo de los Agentes de IA Vale $225B — Y Casi Nadie Lo Está Mirando 🔒 · `substack/2026-03-03-si-yo-fuera-un-agente-el-portafolio.md` · https://cerebro.10am.pro/go/si-yo-fuera-un-agente-el-portafolio
@@ -513,8 +513,8 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 - 2025-01-23 · E134: La era del Solopreneur. ¿Cómo cambiar una nómina de 5 personas en agentes de AI? Dario Palacio · `youtube/2025-01-23-3rzUODpb6Oo.md` · https://www.youtube.com/watch?v=3rzUODpb6Oo
 - 2024-11-21 · E124: Aplicando Inteligencia Artificial en 10AMPRO. Con Felipe Aguirre. · `youtube/2024-11-21-DwwDKZPPt9I.md` · https://www.youtube.com/watch?v=DwwDKZPPt9I
 - 2026-11-19 · El problema de las empresas no es tecnológico, es cultural. Adrian Mastronardi. E232 · `youtube/2026-11-19-BHSfw6dmCCw.md` · https://www.youtube.com/watch?v=BHSfw6dmCCw
-- 2026-06-09 · El Primer Cliente Que No Respira (2nda parte) 🔒 · `substack/2026-06-09-el-primer-cliente-que-no-respira.md` · https://cerebro.10am.pro/go/el-primer-cliente-que-no-respira
 - 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra
+- 2026-06-09 · El Primer Cliente Que No Respira (2nda parte) 🔒 · `substack/2026-06-09-el-primer-cliente-que-no-respira.md` · https://cerebro.10am.pro/go/el-primer-cliente-que-no-respira
 - 2025-07-17 · E162: Sin energía ⚡️ no hay presente… ¡y tampoco futuro!  🪫 · `youtube/2025-07-17-3XVtns7hu-8.md` · https://www.youtube.com/watch?v=3XVtns7hu-8
 - 2024-07-11 · E102: Entre Matrix y Nostradamus. Camilo Botero · `youtube/2024-07-11-quDaRVKfNSo.md` · https://www.youtube.com/watch?v=quDaRVKfNSo
 - 2026-03-05 · E198: 2028 🤯  el año que todos quedaremos sin trabajo · `youtube/2026-03-05-5QWEatCbScI.md` · https://www.youtube.com/watch?v=5QWEatCbScI
@@ -720,6 +720,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## Substack (todos)
 
+- 2026-11-27 · ¿Vendiste IA en pánico? La IA se cayó en bolsa. Yo sigo pagando cada mes. ¿Dónde está la burbuja? 🔒 · `substack/2026-11-27-vendiste-ia-en-panico-la-ia-se-cayo.md` · https://cerebro.10am.pro/go/vendiste-ia-en-panico-la-ia-se-cayo
 - 2026-11-21 · ¿Qué Está Pasando con Solana? 🔒 · `substack/2026-11-21-que-esta-pasando-con-solana.md` · https://cerebro.10am.pro/go/que-esta-pasando-con-solana · temas: SOL, tokenizacion, memecoins
 - 2026-11-14 · ⚡ Episodio Especial: El cisne negro de Jansen Huang. Nvidia · `substack/2026-11-14-episodio-especial-el-cisne-negro.md` · https://cerebro.10am.pro/go/episodio-especial-el-cisne-negro
 - 2026-11-11 · HIMS Q3 2026: "That's a Trade We Will Make Every Time"  🔒 · `substack/2026-11-11-hims-q3-2026-thats-a-trade-we-will.md` · https://cerebro.10am.pro/go/hims-q3-2026-thats-a-trade-we-will · temas: TSLA, HIMS, PLTR, longevidad
@@ -1184,7 +1185,7 @@ Las notas de `chat/` son conversaciones informales (Hernán y miembros autorizad
 
 ## X (archivos mensuales)
 
-- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: IA, PLTR, colombia, SOL, geopolitica, energia
+- 2026-11 · Posts de X @holdmybirra — 2026-11 · `x/2026-11.md` · https://x.com/holdmybirra · temas: IA, PLTR, colombia, macro, SOL, geopolitica
 - 2026-10 · Posts de X @holdmybirra — 2026-10 · `x/2026-10.md` · https://x.com/holdmybirra · temas: colombia, energia, geopolitica, macro, IA, PLTR
 - 2026-09 · Posts de X @holdmybirra — 2026-09 · `x/2026-09.md` · https://x.com/holdmybirra · temas: colombia, macro, IA, energia, HOOD, PLTR
 - 2026-08 · Posts de X @holdmybirra — 2026-08 · `x/2026-08.md` · https://x.com/holdmybirra · temas: PLTR, colombia, TSLA, macro, HOOD, geopolitica
